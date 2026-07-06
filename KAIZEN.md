@@ -53,6 +53,16 @@ Mục đích: mọi bug phát hiện được (do user, gate, hay QC) PHẢI ghi
 - **Gốc rễ:** character description trong `config.json` chỉ ghi loại trang phục ("sharp tailored blazer") mà không ghi MÀU cụ thể — anchor không khóa đủ nên mỗi lần generate model tự chọn màu ngẫu nhiên khác nhau. 7/8 nhân vật của project này mắc lỗi (chỉ Owen bản lao công có màu sẵn).
 - **Phòng ngừa:** Rule 1.1 bổ sung — mọi trang phục trong character description PHẢI kèm màu cụ thể, không chỉ tên loại trang phục; đã vá lại config.json + character-refs.md + prompts.md + video-prompts.md của project hiện tại. Gate tự động cho việc này: CHƯA CÓ — cần bổ sung (khó quét máy vì "màu thiếu" đòi hỏi hiểu ngữ nghĩa danh từ trang phục, không đơn thuần word-match).
 
+## [2026-07-06] Uni-X export không gắn được asset bối cảnh vì prompt dùng cụm rút gọn khác keywords config
+- **Hiện tượng:** `--unix-export` cảnh báo 130/178 scene "không xác định được setting" — Assets chỉ có nhân vật, thiếu tag bối cảnh (FARM_KITCHEN...).
+- **Gốc rễ:** `find_setting_id` khớp bằng cụm ĐẦU TIÊN (trước dấu phẩy) của `settings[].keywords`; ở Bước 3 các batch dùng cụm bối cảnh chuẩn hóa RÚT GỌN (cho vừa ngân sách 75 từ) khác với cụm đầu trong config → không khớp chuỗi.
+- **Phòng ngừa:** quy ước mới — cụm đầu tiên của `settings[].keywords` CHÍNH LÀ cụm bối cảnh dùng nguyên văn trong prompt (một nguồn duy nhất, Bước 3 copy từ đó); đã căn lại 11 setting trong config project này cho khớp 178 prompt đã sinh. Gate: `--unix-export` sẵn có cảnh báo liệt kê scene không khớp — sau khi căn, 30 scene còn lại là cận cảnh chi tiết/không gian phụ không có setting entry (chấp nhận, không cần asset bối cảnh cho close-up).
+
+## [2026-07-06] QC3 coi mọi character ID có "_" là variant quá khứ → đòi flashback_style sai
+- **Hiện tượng:** project Harlan Boone có các variant tiến triển theo timeline chính (`eli_9`, `eli_12`, `kessler_1978`, `kessler_sunday`, `eli_pajamas`) — QC3 sẽ cảnh báo "thiếu flashback_style" cho ~25 scene dù các scene này KHÔNG phải hồi tưởng; trong khi nhân vật flashback thật (`annie`, không có "_") lại không được QC3 kiểm.
+- **Gốc rễ:** gate QC3 dùng heuristic `"_" in id` để đoán "variant quá khứ" — đúng cái bẫy đã ghi ở CLAUDE.md (không suy đoán variant qua quy ước đặt tên ID). Naming format Rule 1.2 (`[id]_[context]`) dùng "_" cho MỌI loại variant, không riêng flashback.
+- **Phòng ngừa:** config thêm field tường minh `flashback_variants` (danh sách character ID mà mọi scene chứa nó phải kèm flashback_style); `export.py --qc` ưu tiên field này, chỉ fallback heuristic "_" khi config không khai báo. Project hiện tại: `"flashback_variants": ["annie"]`.
+
 ## [2026-07-05] Dùng "Name's" (sở hữu cách dính liền tên) làm hỏng tham chiếu ảnh nhân vật
 - **Hiện tượng:** prompt viết dạng "Dalton's blank puzzled expression..." — gắn 's ngay sau nano_name. User báo đây là lỗi nghiêm trọng: Flow tham chiếu ảnh ingredient bằng cách khớp đúng chuỗi nano_name, ký tự dính liền ngay sau tên (như 's) phá vỡ khớp lệnh tham chiếu.
 - **Gốc rễ:** Rule 1.1 (Character Lock) trước đây chỉ yêu cầu nano_name "xuất hiện" trong prompt mà không quy định RÕ nano_name phải xuất hiện ở dạng nguyên vẹn (không gắn liền ký tự khác ngay sau). Hệ quả phụ: gate QC1 hiện tại kiểm bằng substring (`nn.lower() in body`) nên "dalton's" vẫn được tính là "có nano_name" — không bắt được lỗi này, gây lọt lưới.

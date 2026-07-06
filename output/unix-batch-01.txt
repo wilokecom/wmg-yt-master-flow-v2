@@ -1,399 +1,399 @@
 (Image Prompt 1/100)
-Assets: OWEN, CONFERENCE_ROOM_7F
-Prompt: [OWEN] entering a busy conference room holding a marker, twelve engineers gathered around a table with open laptops and a whiteboard covered in tangled black blue and red diagrams, [CONFERENCE_ROOM_7F] corporate conference room, large table for twelve, floor-to-ceiling windows, wide shot, 24mm wide-angle lens, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, IRRIGATION_DITCH
+Prompt: [HARLAN] in a faded blue chambray shirt kneeling alone at the edge of a misty ditch, a galvanized steel bucket beside him, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, extreme wide shot, 24mm wide-angle lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 2/100)
-Assets: OWEN, CONFERENCE_ROOM_7F
-Prompt: [OWEN]'s hand writing seven lines on a whiteboard with a marker, steady and precise, [CONFERENCE_ROOM_7F] corporate conference room, whiteboard covered in black blue and red marker diagrams, over-the-shoulder shot, 50mm lens, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, IRRIGATION_DITCH
+Prompt: [HARLAN] in a faded blue chambray shirt tipping a galvanized bucket of silver fish into the brown ditch water, an empty feed sack folded at his feet, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 3/100)
-Assets: OWEN, CONFERENCE_ROOM_7F
-Prompt: [OWEN] capping a marker after signing two small letters in the corner of a whiteboard, calm unshakeable eyes, gray custodial uniform, [CONFERENCE_ROOM_7F] corporate conference room, whiteboard covered in black blue and red marker diagrams, medium shot, 85mm portrait lens, full head within frame, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: ELI
+Prompt: [ELI] in a red plaid flannel shirt and denim overalls standing alone with his head bowed in a quiet dirt schoolyard, a low wooden fence at the edge of the yard, medium shot, 50mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 4/100)
-Assets: OWEN, OFFICE_HALLWAY
-Prompt: [OWEN] pushing a cleaning cart alone through an empty corridor, calm unshakeable eyes, gray custodial uniform, [OFFICE_HALLWAY] long office hallway corridor, fluorescent ceiling lighting, polished linoleum flooring, closed doors along the walls, medium shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GRAIN_ELEVATOR
+Prompt: A cluster of farmers standing frozen, weathered faces caught in stunned stillness beside faint smudged chalk marks on a board, dusty scale house at the [GRAIN_ELEVATOR] county grain elevator, close-up, 85mm portrait lens, full head within frame, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 5/100)
-Assets: UNIVERSITY_CLASSROOM
-Prompt: An empty [UNIVERSITY_CLASSROOM] university lecture hall bathed in quiet afternoon light, rows of vacant wooden seats facing a large chalkboard, university lecture hall, advanced calculus classroom, wide shot, 35mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: FARM_KITCHEN
+Prompt: A thirty-gallon aquarium with a chipped front corner glowing pale green-gold in the darkness, rippling water lit softly against the shadows, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, close-up, 85mm portrait lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 6/100)
-Assets: OWEN, OFFICE_HALLWAY
-Prompt: [OWEN] mopping a hallway floor alone, head slightly bowed, calm unshakeable eyes, gray custodial uniform, [OFFICE_HALLWAY] long office hallway corridor, polished linoleum flooring, closed doors along the walls, medium shot, 50mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, FARM_FIELDS
+Prompt: [HARLAN] in a faded blue chambray shirt standing amid dry cornfield stubble, shoulders heavy beneath the fading light, [FARM_FIELDS] flat south Georgia corn farm with red dirt fields and distant pine tree line, wide shot, 35mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 7/100)
-Assets: OWEN, OFFICE_HALLWAY
-Prompt: [OWEN] pausing mid-motion in a quiet hallway, calm unshakeable eyes fixed forward, still composed posture, [OFFICE_HALLWAY] long office hallway corridor, fluorescent ceiling lighting, close-up, 85mm portrait lens, full head within frame, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: FARM_FIELDS
+Prompt: Deep cracks splitting the sun-baked red dirt, dry corn stubble jutting from the parched ground, [FARM_FIELDS] flat south Georgia corn farm with red dirt fields and distant pine tree line, extreme close-up, 100mm macro lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 8/100)
-Assets: CLARE, CLARE_OFFICE
-Prompt: [CLARE], in her sharp navy blue tailored blazer, seated at her desk reading intently through a tall stack of job applications, eyes fixed downward on the page, composed unreadable authority, [CLARE_OFFICE] modern executive office on the 31st floor, minimalist desk with laptop and phone, framed patent certificate, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: FEED_STORE
+Prompt: Stacked fertilizer sacks piled high beside a parked tanker truck outside dusty windows, [FEED_STORE] 1970s rural feed store with stacked seed corn sacks, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 9/100)
-Assets: CLARE, CLARE_OFFICE
-Prompt: [CLARE], in her sharp navy blue tailored blazer, rising abruptly from her desk chair, eyes fixed on a single sheet of paper in her hand, still watchful eyes that miss nothing, [CLARE_OFFICE] modern executive office on the 31st floor, glass walls on three sides, close-up, 85mm portrait lens, full head within frame, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: FEED_STORE
+Prompt: Over the shoulder of an elderly farmer, a huddled group of gray-haired farmers standing dejected at the counter, [FEED_STORE] 1970s rural feed store with stacked seed corn sacks, over-shoulder shot, 50mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 10/100)
-Assets: CLARE, BENNETT_LOBBY
-Prompt: [CLARE], in her sharp navy blue tailored blazer, walking through a bright corporate lobby toward the reception area, composed deliberate posture, [BENNETT_LOBBY] modern corporate lobby, floor-to-ceiling glass windows, polished concrete floor, curved reception desk, rows of plastic waiting chairs, extreme wide shot, 24mm wide-angle lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, FARM_FIELDS
+Prompt: [HARLAN] in a faded blue chambray shirt standing as a lone silhouette in the middle of open cornfield rows, [FARM_FIELDS] flat south Georgia corn farm with red dirt fields and distant pine tree line, wide shot, 35mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 11/100)
-Assets: OWEN, BENNETT_LOBBY
-Prompt: [OWEN] sitting still in a plastic waiting chair, hands resting calmly in his lap, calm unshakeable eyes, dark jacket with a small silver safety pin on the collar, [BENNETT_LOBBY] modern corporate lobby, rows of plastic waiting chairs, polished concrete floor, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: FARM_KITCHEN
+Prompt: A creased folded letter resting on a worn wooden kitchen table, its edges softened from being folded and unfolded many times, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, close-up, 85mm portrait lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 12/100)
-Assets: OWEN, BENNETT_LOBBY
-Prompt: Extreme close-up of a small silver safety pin holding together the worn collar of [OWEN]'s dark jacket, soft elbow fabric visible at the frame edge, [BENNETT_LOBBY] modern corporate lobby, polished concrete floor, extreme close-up, 100mm macro lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: FARM_KITCHEN
+Prompt: The soft folded crease of a paper letter lit by warm lamp light, faint smudged handwriting blurred beyond recognition along the fold, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, extreme close-up, 100mm macro lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 13/100)
-Assets: OWEN, BENNETT_LOBBY
-Prompt: [OWEN]'s calm face in quiet stillness, dark jacket worn soft at the elbows, small silver safety pin visible at the collar, [BENNETT_LOBBY] modern corporate lobby, floor-to-ceiling glass windows, close-up, 85mm portrait lens, full head within frame, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: FARM_KITCHEN
+Prompt: A dark kitchen lit only by a thirty-gallon aquarium glowing blue-gold on the counter, its chipped front corner catching the light, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 14/100)
-Assets: CLARE, BENNETT_LOBBY
-Prompt: [CLARE], in her sharp navy blue tailored blazer, stepping out of an elevator into a busy lobby, still watchful eyes locked on a distant figure across the room, [BENNETT_LOBBY] modern corporate lobby, curved reception desk, floor-to-ceiling glass windows, wide shot, 35mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: PAJAMA_ELI, FARM_KITCHEN
+Prompt: [PAJAMA_ELI] in blue striped cotton pajamas climbing onto a wooden kitchen chair, bare feet dangling as he faces the glowing aquarium, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 15/100)
-Assets: OWEN, CLARE, BENNETT_LOBBY
-Prompt: [OWEN] and [CLARE], in her sharp navy blue tailored blazer, facing each other across the lobby, both perfectly still, his calm unshakeable eyes meeting her watchful gaze, [BENNETT_LOBBY] modern corporate lobby, polished concrete floor, rows of plastic waiting chairs, medium shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: PAJAMA_ELI, HARLAN, FARM_KITCHEN
+Prompt: Over the shoulder of [HARLAN] in a faded blue chambray shirt, [PAJAMA_ELI] in blue striped cotton pajamas sprinkling fish food onto the water with careful precision, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, over-shoulder shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 16/100)
-Assets: OWEN, CLARE, BENNETT_LOBBY
-Prompt: [CLARE]'s face, in her sharp navy blue tailored blazer, softening in quiet recognition as she looks at [OWEN], still watchful eyes, composed unreadable authority, [BENNETT_LOBBY] modern corporate lobby, floor-to-ceiling glass windows, close-up, 85mm portrait lens, full head within frame, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, PAJAMA_ELI, FARM_KITCHEN
+Prompt: [HARLAN] in a faded blue chambray shirt standing with a coffee mug in hand, watching [PAJAMA_ELI] in blue striped cotton pajamas lean toward the glowing tank, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, medium shot, 50mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 17/100)
-Assets: OWEN, CLARE, BENNETT_LOBBY
-Prompt: [OWEN] rising slowly to his feet in front of [CLARE], in her sharp navy blue tailored blazer, calm unshakeable eyes, still composed posture, dark jacket with a silver safety pin on the collar, [BENNETT_LOBBY] modern corporate lobby, polished concrete floor, over-the-shoulder shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, FARM_KITCHEN
+Prompt: The glowing aquarium sharp in the foreground with the folded letter blurred behind it, [HARLAN] in a faded blue chambray shirt visible only as a soft blur near the counter, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, close-up, 85mm portrait lens, full head within frame, morning light, open composition, warm highlights, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 18/100)
-Assets: OWEN, CLARE, BENNETT_LOBBY
-Prompt: Extreme close-up of a small silver safety pin catching the light on [OWEN]'s collar as he straightens to full height, [CLARE], in her sharp navy blue tailored blazer, standing just beyond him softly out of sharp focus, [BENNETT_LOBBY] modern corporate lobby, extreme close-up, 100mm macro lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, ELI, BACK_PORCH
+Prompt: [HARLAN] in a faded blue chambray shirt and [ELI] in a red plaid flannel shirt and denim overalls sitting together on wooden porch steps, [BACK_PORCH] wooden back porch of a weathered farmhouse with tomato patch beside the steps, wide shot, 35mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 19/100)
-Assets: OWEN, CLARE, BENNETT_LOBBY
-Prompt: [CLARE], in her sharp navy blue tailored blazer, gesturing toward the elevator bank while looking steadily at [OWEN], composed deliberate posture, [BENNETT_LOBBY] modern corporate lobby, curved reception desk, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, FARM_KITCHEN
+Prompt: [HARLAN] in a faded blue chambray shirt standing quietly in a dark kitchen at night, barefoot in tube socks, illuminated only by the blue glow of the aquarium, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 20/100)
-Assets: OWEN, CLARE, BENNETT_LOBBY
-Prompt: [CLARE], in her sharp navy blue tailored blazer, and [OWEN] walking side by side away from the reception area toward the elevator bank, [BENNETT_LOBBY] modern corporate lobby, floor-to-ceiling glass windows, polished concrete floor, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, FARM_KITCHEN
+Prompt: [HARLAN] in a faded blue chambray shirt holding a siphon hose over a galvanized steel bucket, water draining steadily from the tank into it, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, close-up, 85mm portrait lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 21/100)
-Assets: OWEN, BENNETT_LOBBY
-Prompt: [OWEN] holding a manila envelope under one arm as he follows Clare through the lobby, calm unshakeable eyes, dark jacket with a silver safety pin, [BENNETT_LOBBY] modern corporate lobby, rows of plastic waiting chairs, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: ANNIE, FARM_KITCHEN
+Prompt: [ANNIE] in a powder blue cotton dress with chalk dust on the sleeve carrying a galvanized bucket beside the glowing aquarium, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, wide shot, 35mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
 
 (Image Prompt 22/100)
-Assets: OWEN, CLARE, CLARE_OFFICE
-Prompt: [CLARE], in her sharp navy blue tailored blazer, leading [OWEN] through the open door of her private office instead of a standard interview room, [CLARE_OFFICE] modern executive office on the 31st floor, glass walls on three sides, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, BACK_PORCH
+Prompt: [HARLAN] in a faded blue chambray shirt tilting a bucket beside the tomato patch at night, the dark silhouette of the farmhouse behind him, [BACK_PORCH] wooden back porch of a weathered farmhouse with tomato patch beside the steps, wide shot, 35mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 23/100)
-Assets: YOUNG_OWEN, YOUNG_CLARE, UNIVERSITY_CLASSROOM
-Prompt: [YOUNG_OWEN], in his navy blue college-era sweater, and [YOUNG_CLARE], in her maroon casual sweater, seated in a [UNIVERSITY_CLASSROOM] university lecture hall during an advanced calculus class, notebooks open on their desks, university lecture hall, advanced calculus classroom, wide shot, 35mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
+Assets: HARLAN, BACK_PORCH
+Prompt: [HARLAN] in a faded blue chambray shirt standing motionless before thick green tomato vines, jaw slack with disbelief, [BACK_PORCH] wooden back porch of a weathered farmhouse with tomato patch beside the steps, close-up, 85mm portrait lens, full head within frame, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 24/100)
-Assets: YOUNG_CLARE, UNIVERSITY_CLASSROOM
-Prompt: [YOUNG_CLARE], in her maroon casual sweater, staring quietly at a notebook full of handwritten equations she cannot solve, tired but determined eyes, casual college maroon sweater, [UNIVERSITY_CLASSROOM] university lecture hall, advanced calculus classroom, close-up, 85mm portrait lens, full head within frame, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
+Assets: BACK_PORCH
+Prompt: Dew-covered tomato leaves glistening above dark damp soil, thick green vines climbing a wooden stake, [BACK_PORCH] wooden back porch of a weathered farmhouse with tomato patch beside the steps, close-up, 85mm portrait lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 25/100)
-Assets: YOUNG_OWEN, YOUNG_CLARE, UNIVERSITY_CLASSROOM
-Prompt: [YOUNG_OWEN], in his navy blue college-era sweater, sitting two rows ahead of [YOUNG_CLARE], in her maroon casual sweater, in a lecture hall, quiet watchful eyes, reserved economical posture, simple canvas backpack beside him, [UNIVERSITY_CLASSROOM] university lecture hall, advanced calculus classroom, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
+Assets: ANNIE, FARM_KITCHEN
+Prompt: [ANNIE] standing beside the glowing aquarium, explaining patiently while wearing a powder blue cotton dress with chalk dust on the sleeve, gesturing toward the water, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, medium shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
 
 (Image Prompt 26/100)
-Assets: YOUNG_OWEN, UNIVERSITY_CLASSROOM
-Prompt: [YOUNG_OWEN], in his navy blue college-era sweater, answering a question with a brief precise expression and calm focused eyes, [UNIVERSITY_CLASSROOM] university lecture hall, advanced calculus classroom, wooden bench outside a mathematics building, autumn leaves on the walkway, close-up, 85mm portrait lens, full head within frame, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
+Assets: ANNIE, FARM_KITCHEN
+Prompt: [ANNIE] in a powder blue cotton dress sprinkling fish food onto the water with delicate fingers, the aquarium glowing before her, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, medium close-up, 85mm lens, full head within frame, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
 
 (Image Prompt 27/100)
-Assets: YOUNG_OWEN, UNIVERSITY_CLASSROOM
-Prompt: [YOUNG_OWEN], in his navy blue college-era sweater, sitting attentively as a professor gives him a respectful nod instead of calling on him to speak, [UNIVERSITY_CLASSROOM] university lecture hall, advanced calculus classroom, wooden bench outside a mathematics building, autumn leaves on the walkway, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
+Assets: ANNIE, HARLAN, BACK_PORCH
+Prompt: Over the shoulder of [ANNIE], [HARLAN] standing beside her in the back doorway, both gazing at the dark open field, [BACK_PORCH] wooden back porch of a weathered farmhouse with tomato patch beside the steps, over-shoulder shot, 50mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
 
 (Image Prompt 28/100)
-Assets: YOUNG_OWEN, YOUNG_CLARE, UNIVERSITY_CLASSROOM
-Prompt: [YOUNG_OWEN], in his navy blue college-era sweater, and [YOUNG_CLARE], in her maroon casual sweater, standing together after class as she holds a notebook full of handwritten equations with a puzzled expression, [UNIVERSITY_CLASSROOM] university lecture hall, advanced calculus classroom, wooden bench outside a mathematics building, autumn leaves on the walkway, medium shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
+Assets: PAJAMA_ELI, FARM_KITCHEN
+Prompt: [PAJAMA_ELI] in blue striped cotton pajamas standing on a wooden chair, forehead nearly touching the aquarium glass, wide curious eyes reflecting the glow, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, medium close-up, 85mm lens, full head within frame, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 29/100)
-Assets: YOUNG_OWEN, YOUNG_CLARE, UNIVERSITY_CLASSROOM
-Prompt: [YOUNG_OWEN], in his navy blue college-era sweater, leaning toward [YOUNG_CLARE], in her maroon casual sweater, and pointing at her notebook while explaining the correct order of steps, [UNIVERSITY_CLASSROOM] university lecture hall, advanced calculus classroom, wooden bench outside a mathematics building, autumn leaves on the walkway, over-shoulder shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
+Assets: HARLAN, PAJAMA_ELI, FARM_KITCHEN
+Prompt: [HARLAN] in a faded blue chambray shirt frozen mid-step with a coffee pot in hand, [PAJAMA_ELI] in blue striped cotton pajamas turning his head to look up at him, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, close-up, 85mm portrait lens, full head within frame, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 30/100)
-Assets: YOUNG_OWEN, YOUNG_CLARE, UNIVERSITY_CLASSROOM
-Prompt: [YOUNG_OWEN], in his navy blue college-era sweater, and [YOUNG_CLARE], in her maroon casual sweater, sitting together on a wooden bench working through the notebook as autumn leaves drift onto the walkway, [UNIVERSITY_CLASSROOM] university lecture hall, advanced calculus classroom, wooden bench outside a mathematics building, autumn leaves on the walkway, wide shot, 35mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
+Assets: HARLAN, FARM_KITCHEN
+Prompt: [HARLAN] in a faded blue chambray shirt, eyes fixed on a distant point, gaze steady and unblinking, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, medium close-up, 85mm lens, full head within frame, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 31/100)
-Assets: YOUNG_OWEN, YOUNG_CLARE, UNIVERSITY_CLASSROOM
-Prompt: [YOUNG_OWEN], in his navy blue college-era sweater, rearranging handwritten equations on the notebook page while [YOUNG_CLARE], in her maroon casual sweater, watches the tangled problem become clear, [UNIVERSITY_CLASSROOM] university lecture hall, advanced calculus classroom, wooden bench outside a mathematics building, autumn leaves on the walkway, medium shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
+Assets: HARLAN, FARM_KITCHEN
+Prompt: [HARLAN], hand steady and sure, setting a battered tin coffee pot down onto the worn wooden kitchen table, faded blue chambray sleeve visible at the wrist, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, close-up, 85mm portrait lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 32/100)
-Assets: YOUNG_OWEN, UNIVERSITY_CLASSROOM
-Prompt: [YOUNG_OWEN], in his navy blue college-era sweater, sitting with a quietly confident expression and a notebook of equations open before him, [UNIVERSITY_CLASSROOM] university lecture hall, advanced calculus classroom, wooden bench outside a mathematics building, autumn leaves on the walkway, close-up, 85mm portrait lens, full head within frame, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
+Assets: HARLAN, DELTA_HATCHERY
+Prompt: [HARLAN] standing at the muddy bank of a grow-out pond, sleeves rolled, studying the water's surface, [DELTA_HATCHERY] Mississippi Delta catfish hatchery with flat grow-out ponds, wide shot, 35mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
 
 (Image Prompt 33/100)
-Assets: UNIVERSITY_CLASSROOM
-Prompt: A stack of published research papers topped with a framed doctoral diploma and academic honors displayed neatly on a desk, [UNIVERSITY_CLASSROOM] university lecture hall, advanced calculus classroom, wooden bench outside a mathematics building, autumn leaves on the walkway, extreme close-up, 100mm macro lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, DELTA_HATCHERY
+Prompt: [HARLAN] crouched at the pond's edge before dawn, handheld flashlight aimed low across the still water studying its color, [DELTA_HATCHERY] Mississippi Delta catfish hatchery with flat grow-out ponds, wide shot, 35mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
 
 (Image Prompt 34/100)
-Assets: UNIVERSITY_CLASSROOM
-Prompt: An empty academic office with a bare cleared desk, chair pushed in, and a faded rectangular mark on the wall, [UNIVERSITY_CLASSROOM] university lecture hall, advanced calculus classroom, wooden bench outside a mathematics building, autumn leaves on the walkway, extreme wide shot, 24mm wide-angle lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN
+Prompt: [HARLAN], hands folding a canvas work jacket and rubber waders into a weathered wooden steamer trunk, modest 1970s farmhouse bedroom with the trunk open on a bare pine floor, over-shoulder shot from behind Harlan, 50mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
 
 (Image Prompt 35/100)
-Assets: YOUNG_OWEN, YOUNG_CLARE, UNIVERSITY_CLASSROOM
-Prompt: [YOUNG_OWEN], in his navy blue college-era sweater, sitting beside [YOUNG_CLARE], in her maroon casual sweater, on the bench speaking calmly while she listens with focused attention, [UNIVERSITY_CLASSROOM] university lecture hall, advanced calculus classroom, wooden bench outside a mathematics building, autumn leaves on the walkway, medium shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
+Assets: HARLAN, FARM_KITCHEN
+Prompt: [HARLAN] leaning against the wall beside the ice box, corded rotary telephone receiver held to his ear, the cord stretched taut across the dim kitchen, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 36/100)
-Assets: YOUNG_OWEN, YOUNG_CLARE, UNIVERSITY_CLASSROOM
-Prompt: [YOUNG_OWEN], in his navy blue college-era sweater, smiling warmly and rarely at [YOUNG_CLARE], in her maroon casual sweater, a brief genuine smile crossing his usually composed face, [UNIVERSITY_CLASSROOM] university lecture hall, advanced calculus classroom, wooden bench outside a mathematics building, autumn leaves on the walkway, over-the-shoulder shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
+Assets: RAY, DELTA_HATCHERY
+Prompt: [RAY], olive green work shirt with sleeves rolled, receiver pressed to his ear, head thrown back in a wide open-mouthed laugh, [DELTA_HATCHERY] Mississippi Delta catfish hatchery with flat grow-out ponds, medium close-up, 85mm lens, full head within frame, morning light, open composition, warm highlights, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 37/100)
-Assets: CLARE, CLARE_OFFICE
-Prompt: [CLARE], in her sharp navy blue tailored blazer, standing by her office window holding a job application, her expression distant and contemplative, [CLARE_OFFICE] modern executive office on the 31st floor, glass walls on three sides, minimalist desk with laptop and phone, framed patent certificate, city skyline view, medium shot, 50mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: RAY, DELTA_HATCHERY
+Prompt: [RAY], close on his ruddy weathered face, receiver at his ear and a confident half-smile, grow-out ponds visible in the haze behind him, [DELTA_HATCHERY] Mississippi Delta catfish hatchery with flat grow-out ponds, close-up, 85mm portrait lens, full head within frame, morning light, open composition, warm highlights, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 38/100)
-Assets: CLARE, CLARE_OFFICE
-Prompt: [CLARE], in her sharp navy blue tailored blazer, standing near the glass walls of her executive office beside a framed patent certificate from her late father, [CLARE_OFFICE] modern executive office on the 31st floor, glass walls on three sides, minimalist desk with laptop and phone, framed patent certificate, city skyline view, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, FARM_KITCHEN
+Prompt: [HARLAN], receiver pressed to his ear, eyes narrowed in quiet calculation as he counts on his fingers, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, medium close-up, 85mm lens, full head within frame, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 39/100)
-Assets: CLARE, CLARE_OFFICE
-Prompt: [CLARE]'s hand, in her sharp navy blue tailored blazer, holding open a job application file with a small flagged sticky note attached to the top page, [CLARE_OFFICE] modern executive office on the 31st floor, glass walls on three sides, minimalist desk with laptop and phone, framed patent certificate, city skyline view, close-up, 100mm macro lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, FARM_KITCHEN
+Prompt: [HARLAN], hand lifting a battered coffee can down from the top shelf, tightly folded dollar bills packed inside to the brim, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 40/100)
-Assets: CLARE, CLARE_OFFICE
-Prompt: [CLARE], in her sharp navy blue tailored blazer, studying a printed resume page in her hands with a calm focused expression, [CLARE_OFFICE] modern executive office on the 31st floor, glass walls on three sides, minimalist desk with laptop and phone, framed patent certificate, city skyline view, close-up, 85mm portrait lens, full head within frame, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, FARM_YARD
+Prompt: [HARLAN], hand resting on an old rust-spotted electric water pump loaded into the bed of his pickup truck, [FARM_YARD] red dirt farmyard before a weathered clapboard farmhouse, close-up, 85mm portrait lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 41/100)
-Assets: CLARE, CLARE_OFFICE
-Prompt: [CLARE]'s face, in her sharp navy blue tailored blazer, freezing in sudden realization, eyes widening as she stares at the resume page, [CLARE_OFFICE] modern executive office on the 31st floor, glass walls on three sides, minimalist desk with laptop and phone, framed patent certificate, city skyline view, close-up, 85mm portrait lens, full head within frame, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, ELI, IRRIGATION_DITCH
+Prompt: Kneeling together at the wooden headgate, [HARLAN] in a faded blue chambray shirt and [ELI] in a red plaid flannel shirt, a long row of galvanized steel buckets lined up beside them, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, wide shot, 35mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 42/100)
-Assets: CLARE, OWEN, CLARE_OFFICE
-Prompt: [CLARE], in her sharp navy blue tailored blazer, sitting across from [OWEN] at her desk asking a question with a carefully neutral expression, [CLARE_OFFICE] modern executive office on the 31st floor, glass walls on three sides, minimalist desk with laptop and phone, framed patent certificate, city skyline view, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: ELI, IRRIGATION_DITCH
+Prompt: [ELI] kneeling at the water's edge, sleeve soaked to the elbow, a silver fish body flashing brightly against the cloudy brown water, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, extreme close-up, 100mm macro lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 43/100)
-Assets: OWEN, CLARE_OFFICE
-Prompt: [OWEN] sitting upright in a plush guest chair with a calm neutral posture, evenly settled and composed, [CLARE_OFFICE] modern executive office on the 31st floor, glass walls on three sides, minimalist desk with laptop and phone, framed patent certificate, city skyline view, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: ELI, HARLAN, IRRIGATION_DITCH
+Prompt: Framed from behind [ELI], his shoulder in the near foreground, toward a hand-length fish with a torn fin holding steady against the current, [HARLAN] crouched just beyond pointing at the water, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, over-shoulder shot, 50mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 44/100)
-Assets: OWEN, CLARE, CLARE_OFFICE
-Prompt: [OWEN] speaking with quiet determination, jaw set and eyes steady, [CLARE], in her sharp navy blue tailored blazer, listening closely beside him, [CLARE_OFFICE] modern executive office on the 31st floor, glass walls on three sides, minimalist desk with laptop and phone, framed patent certificate, city skyline view, over-the-shoulder shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: EARL, FARM_FIELDS
+Prompt: [EARL] in a beige feed cap, sitting high on his tractor seat at the fence line, gaze fixed across the cornfield toward the ditch, [FARM_FIELDS] flat south Georgia corn farm with red dirt fields and distant pine tree line, wide shot, 35mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 45/100)
-Assets: CLARE, OWEN, CLARE_OFFICE
-Prompt: [CLARE], in her sharp navy blue tailored blazer, leaning forward slightly across her desk toward [OWEN], offering him a proposal with an earnest expression, [CLARE_OFFICE] modern executive office on the 31st floor, glass walls on three sides, minimalist desk with laptop and phone, framed patent certificate, city skyline view, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: EARL, FARM_FIELDS
+Prompt: [EARL] wiping his brow before resettling his beige feed cap and driving on, a trail of red dust rising behind his tractor, [FARM_FIELDS] flat south Georgia corn farm with red dirt fields and distant pine tree line, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 46/100)
-Assets: OWEN, CLARE_OFFICE
-Prompt: [OWEN] slowly shaking his head once, the single deliberate motion carrying calm unshakable certainty, [CLARE_OFFICE] modern executive office on the 31st floor, glass walls on three sides, minimalist desk with laptop and phone, framed patent certificate, city skyline view, close-up, 85mm portrait lens, full head within frame, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: FARM_FIELDS
+Prompt: A weathered corrugated tin barn roof against a heavy gray storm sky rolling over the distant cornfields, the first raindrops striking the metal, [FARM_FIELDS] flat south Georgia corn farm with red dirt fields and distant pine tree line, wide shot from low angle, 35mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 47/100)
-Assets: OWEN, CLARE_OFFICE
-Prompt: [OWEN]'s calm gaze holding steady, a quiet unwavering conviction settling across his composed face, [CLARE_OFFICE] modern executive office on the 31st floor, glass walls on three sides, minimalist desk with laptop and phone, framed patent certificate, city skyline view, close-up, 85mm portrait lens, full head within frame, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: FEED_STORE
+Prompt: A cluster of farmers leaning against stacked seed corn sacks, gathered close in quiet conversation, [FEED_STORE] 1970s rural feed store with stacked seed corn sacks, wide shot, 35mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 48/100)
-Assets: CLARE, CLARE_OFFICE
-Prompt: [CLARE], in her sharp navy blue tailored blazer, standing with sharp discerning eyes and a calm appraising posture, her attention fixed intently forward, [CLARE_OFFICE] modern executive office on the 31st floor, glass walls on three sides, minimalist desk with laptop and phone, framed patent certificate, city skyline view, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: FEED_STORE
+Prompt: A group of farmers grinning and chuckling together beside the feed store counter, dusty sunbeams cutting through the window behind them, [FEED_STORE] 1970s rural feed store with stacked seed corn sacks, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 49/100)
-Assets: CLARE, CLARE_OFFICE
-Prompt: [CLARE]'s expression, in her sharp navy blue tailored blazer, calm and thoughtful, a faint attentive stillness in her steady gaze, [CLARE_OFFICE] modern executive office on the 31st floor, glass walls on three sides, minimalist desk with laptop and phone, framed patent certificate, city skyline view, close-up, 85mm portrait lens, full head within frame, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: DINER
+Prompt: A group of men seated in a diner booth, thick white coffee cups cooling on the formica table, a haze of cigarette smoke drifting above them, [DINER] small-town 1970s diner with vinyl booths and formica tables, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 50/100)
-Assets: CLARE, OWEN, CLARE_OFFICE
-Prompt: [CLARE], in her sharp navy blue tailored blazer, asking a quiet question while [OWEN] pauses thoughtfully, considering his answer with a calm still expression, [CLARE_OFFICE] modern executive office on the 31st floor, glass walls on three sides, minimalist desk with laptop and phone, framed patent certificate, city skyline view, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: DINER
+Prompt: Close on the diner booth, several weathered faces caught mid-laugh with heads tipped back, a thin haze of cigarette smoke curling above the table, [DINER] small-town 1970s diner with vinyl booths and formica tables, close-up, 85mm portrait lens, full head within frame, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 51/100)
-Assets: OWEN, CLARE, CLARE_OFFICE
-Prompt: [OWEN] speaking with quiet resolve and steady direct eye contact across the desk, [CLARE], in her sharp navy blue tailored blazer, listening with composed unreadable attention, [CLARE_OFFICE] modern executive office on the 31st floor, glass walls on three sides, minimalist desk with laptop and phone, framed patent certificate, city skyline view, close-up, 85mm portrait lens, full head within frame, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: ELI, CLASSROOM
+Prompt: [ELI] in his red plaid flannel shirt, sitting small and still among rows of classroom desks, pencil shavings scattered across his desktop, [CLASSROOM] 1970s classroom with small wooden desks and green chalkboard, medium shot, 50mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 52/100)
-Assets: CLARE, CLARE_OFFICE
-Prompt: [CLARE], in her sharp navy blue tailored blazer, sitting in thoughtful stillness with a steady unhurried gaze, taking a long quiet pause, [CLARE_OFFICE] modern executive office on the 31st floor, glass walls on three sides, minimalist desk with laptop and phone, framed patent certificate, city skyline view, close-up, 85mm portrait lens, full head within frame, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: ELI, CLASSROOM
+Prompt: Close on [ELI], face still and eyes red-rimmed and downcast, a classroom full of children turned toward him mid-laugh, [CLASSROOM] 1970s classroom with small wooden desks and green chalkboard, close-up, 85mm portrait lens, full head within frame, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 53/100)
-Assets: CLARE, OWEN, CLARE_OFFICE
-Prompt: [CLARE], in her sharp navy blue tailored blazer, sliding a signed employment form across the desk toward [OWEN], Owen standing attentively as he accepts the custodial position, [CLARE_OFFICE] modern executive office on the 31st floor, glass walls on three sides, minimalist desk with laptop and phone, framed patent certificate, city skyline view, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: ELI, BACK_PORCH
+Prompt: [ELI] sitting alone on the back porch steps at dusk, knees drawn up and shoulders slack, the tomato patch fading into shadow beside him, [BACK_PORCH] wooden back porch of a weathered farmhouse with tomato patch beside the steps, medium shot, 50mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 54/100)
-Assets: OWEN, CLARE, CLARE_OFFICE
-Prompt: [OWEN] signing paperwork and shaking [CLARE]'s hand once, a firm brief grip before turning toward the door, Clare, in her sharp navy blue tailored blazer, standing composed beside the desk, [CLARE_OFFICE] modern executive office on the 31st floor, glass walls on three sides, minimalist desk with laptop and phone, framed patent certificate, city skyline view, over-the-shoulder shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, FARM_KITCHEN
+Prompt: Close on [HARLAN] standing motionless in the kitchen doorway, jaw set and eyes lowered, one hand resting against the worn door frame, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, close-up, 85mm portrait lens, full head within frame, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 55/100)
-Assets: CLARE, CLARE_OFFICE
-Prompt: [CLARE], in her sharp navy blue tailored blazer, sitting alone at her desk reviewing an open personnel file with a flagged HR note and a printed work history sheet, [CLARE_OFFICE] modern executive office on the 31st floor, glass walls on three sides, minimalist desk with laptop and phone, framed patent certificate, city skyline view, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, ELI, BACK_PORCH
+Prompt: [HARLAN] and [ELI] sitting side by side on the wooden porch steps in the fading dusk light, a line of pine trees dark against the sky beyond the yard, [BACK_PORCH] wooden back porch of a weathered farmhouse with tomato patch beside the steps, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 56/100)
-Assets: CLARE, CLARE_OFFICE
-Prompt: [CLARE]'s expression, in her sharp navy blue tailored blazer, shifting into deep contemplation, a slight furrow forming on her brow as she processes a complex realization, [CLARE_OFFICE] modern executive office on the 31st floor, glass walls on three sides, minimalist desk with laptop and phone, framed patent certificate, city skyline view, close-up, 85mm portrait lens, full head within frame, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, ELI, BACK_PORCH
+Prompt: Framed from behind [ELI], his shoulder in the near foreground, toward [HARLAN] on the porch step, gaze steady and direct as he speaks, hands loosely clasped between his knees, [BACK_PORCH] wooden back porch of a weathered farmhouse with tomato patch beside the steps, over-shoulder shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 57/100)
-Assets: OWEN, BENNETT_LOBBY
-Prompt: [OWEN] entering through a side service door in pale early morning light while the lobby stands empty and still, [BENNETT_LOBBY] modern corporate lobby, floor-to-ceiling glass windows, polished concrete floor, curved reception desk, rows of plastic waiting chairs, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, ELI, BACK_PORCH
+Prompt: [HARLAN] and [ELI] in silhouette on the porch steps, Eli leaning into his side, the last light draining slowly from the distant fields, [BACK_PORCH] wooden back porch of a weathered farmhouse with tomato patch beside the steps, wide shot, 35mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 58/100)
-Assets: OWEN, SUPPLY_CLOSET
-Prompt: [OWEN] filling a cleaning cart with supplies and checking a laminated schedule sheet on the door before beginning his rounds, [SUPPLY_CLOSET] narrow supply closet, shelves with cleaning supplies, labeled bins, laminated schedule sheet on the door, fluorescent lighting, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: FARM_YARD
+Prompt: Headlights sweeping low across rising road dust where the farm lane meets the highway, a white county pickup truck turning onto the gravel, [FARM_YARD] red dirt farmyard before a weathered clapboard farmhouse, extreme wide shot, 24mm wide-angle lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 59/100)
-Assets: OWEN, SUPPLY_CLOSET
-Prompt: [OWEN] reorganizing the shelves on his own initiative, neatly arranging labeled bins into an entirely new order, [SUPPLY_CLOSET] narrow supply closet, shelves with cleaning supplies, labeled bins, laminated schedule sheet on the door, fluorescent lighting, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: PRUITT, FARM_YARD
+Prompt: [PRUITT] in a crisp white short-sleeve shirt and thin brown tie, stepping down from the county pickup truck with a wooden clipboard already in hand, [FARM_YARD] red dirt farmyard before a weathered clapboard farmhouse, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 60/100)
-Assets: OWEN, SUPPLY_CLOSET
-Prompt: [OWEN]'s focused face as his hands move frequently used supplies onto the shelf nearest the door and slide seasonal boxes further inside, [SUPPLY_CLOSET] narrow supply closet, shelves with cleaning supplies, labeled bins, laminated schedule sheet on the door, fluorescent lighting, close-up, 85mm portrait lens, full head within frame, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: PRUITT, HARLAN, FARM_YARD
+Prompt: [PRUITT] and [HARLAN] standing face to face in the farmyard, Pruitt gesturing toward the fields with his clipboard while Harlan listens with arms crossed, [FARM_YARD] red dirt farmyard before a weathered clapboard farmhouse, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 61/100)
-Assets: OWEN, SUPPLY_CLOSET
-Prompt: [OWEN]'s focused face beside his hand placing a light bulb into a labeled box now holding every bulb gathered together, [SUPPLY_CLOSET] narrow supply closet, shelves with cleaning supplies, labeled bins, laminated schedule sheet on the door, fluorescent lighting, close-up, 100mm macro lens, full head within frame, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: PRUITT, HARLAN, IRRIGATION_DITCH
+Prompt: [HARLAN] in a faded blue chambray shirt walking with [PRUITT] in a brown tie holding a wooden clipboard, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, wide shot, 35mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 62/100)
-Assets: OWEN, SUPPLY_CLOSET
-Prompt: [OWEN] restocking supplies with brisk efficient economy of motion, moving through the shelves at a noticeably quicker steady pace, [SUPPLY_CLOSET] narrow supply closet, shelves with cleaning supplies, labeled bins, laminated schedule sheet on the door, fluorescent lighting, medium shot, 50mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: PRUITT, IRRIGATION_DITCH
+Prompt: [PRUITT] in a white short-sleeve shirt and brown tie gesturing toward the open cornfield while explaining fertilizer rates, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 63/100)
-Assets: OWEN, SUPPLY_CLOSET
-Prompt: [OWEN] standing back with relaxed shoulders and a satisfied expression while surveying the fully organized shelves, [SUPPLY_CLOSET] narrow supply closet, shelves with cleaning supplies, labeled bins, laminated schedule sheet on the door, fluorescent lighting, medium shot, 50mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: PRUITT, IRRIGATION_DITCH
+Prompt: [PRUITT] holding a wooden clipboard with faint blurred handwriting near chest height, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, close-up, 85mm portrait lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 64/100)
-Assets: SANDRA, OWEN, BENNETT_LOBBY
-Prompt: [SANDRA], in her dusty rose cardigan, placing a cup of coffee onto [OWEN]'s cleaning cart at the same familiar spot while Owen stands nearby with his cart, [BENNETT_LOBBY] modern corporate lobby, floor-to-ceiling glass windows, polished concrete floor, curved reception desk, rows of plastic waiting chairs, medium shot, 50mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: PRUITT
+Prompt: [PRUITT] tapping a pen twice against a wooden clipboard with faint blurred handwriting, stern jawline at the frame edge, wooden headgate with galvanized screen beside a Georgia cornfield, extreme close-up, 100mm macro lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 65/100)
-Assets: SANDRA, OWEN, BENNETT_LOBBY
-Prompt: [OWEN] giving a small nod of acknowledgment while [SANDRA], in her dusty rose cardigan, offers a brief knowing smile, both faces close together sharing a warm familiar glance, [BENNETT_LOBBY] modern corporate lobby, floor-to-ceiling glass windows, polished concrete floor, curved reception desk, rows of plastic waiting chairs, over-the-shoulder shot, 50mm lensit lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: PRUITT
+Prompt: [PRUITT] speaking sternly with a firm stare beside the headgate, wooden headgate with galvanized screen beside a Georgia cornfield, medium close-up, 85mm lens, full head within frame, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 66/100)
-Assets: OWEN, BENNETT_LOBBY
-Prompt: [OWEN]'s calm face beside his hand holding a ceramic cup of black coffee with a faded university crest on its side, [BENNETT_LOBBY] modern corporate lobby, floor-to-ceiling glass windows, polished concrete floor, curved reception desk, rows of plastic waiting chairs, close-up, 100mm macro lens, full head within frame, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN
+Prompt: [HARLAN] in a faded blue chambray shirt pressing an open palm flat against a wet galvanized screen mesh, wooden headgate with galvanized screen beside a Georgia cornfield, close-up, 85mm portrait lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 67/100)
-Assets: OWEN, OFFICE_HALLWAY
-Prompt: [OWEN] walking slowly down the corridor while drinking the last of his coffee at an unhurried pace, [OFFICE_HALLWAY] long office hallway corridor, fluorescent ceiling lighting, polished linoleum flooring, closed doors along the walls, floor-to-ceiling windows at the end, medium shot, 50mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN
+Prompt: [HARLAN] in a faded blue chambray shirt kneeling beside the headgate looking upward while speaking, wooden headgate with galvanized screen beside a Georgia cornfield, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 68/100)
-Assets: OWEN, OFFICE_HALLWAY
-Prompt: [OWEN] walking down the corridor as background office employees nod their heads in warm brief greeting while he passes, [OFFICE_HALLWAY] long office hallway corridor, fluorescent ceiling lighting, polished linoleum flooring, closed doors along the walls, floor-to-ceiling windows at the end, wide shot, 35mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, PRUITT
+Prompt: [PRUITT] smiling with a tight scornful smirk framed over the shoulder of [HARLAN] in a faded blue chambray shirt, wooden headgate with galvanized screen beside a Georgia cornfield, over-shoulder shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 69/100)
-Assets: OWEN, OFFICE_HALLWAY
-Prompt: [OWEN] approaching an elevator held open by a background office employee while another coworker greets him warmly in the corridor, [OFFICE_HALLWAY] long office hallway corridor, fluorescent ceiling lighting, polished linoleum flooring, closed doors along the walls, floor-to-ceiling windows at the end, medium shot, 50mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: PRUITT
+Prompt: [PRUITT] writing three neat lines on a wooden clipboard with faint blurred handwriting before turning away, wooden headgate with galvanized screen beside a Georgia cornfield, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 70/100)
-Assets: CLARE, CLARE_OFFICE
-Prompt: [CLARE], in her sharp navy blue tailored blazer, standing at the window in calm stillness, her phone and laptop resting closed on the desk behind her, [CLARE_OFFICE] modern executive office on the 31st floor, glass walls on three sides, minimalist desk with laptop and phone, framed patent certificate, city skyline view, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: PRUITT, COUNTY_HALL
+Prompt: [PRUITT] standing at a podium reading from a wooden clipboard while rows of seated figures grin and lean forward, [COUNTY_HALL] county meeting hall with rows of metal folding chairs, wide shot, 35mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 71/100)
-Assets: CLARE, CLARE_OFFICE
-Prompt: [CLARE]'s calm, in her sharp navy blue tailored blazer, attentive gaze fixed steadily beyond the window, her hands resting still on the desk, [CLARE_OFFICE] modern executive office on the 31st floor, glass walls on three sides, minimalist desk with laptop and phone, framed patent certificate, city skyline view, close-up, 85mm portrait lens, full head within frame, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, IRRIGATION_DITCH
+Prompt: [HARLAN] in a faded blue chambray shirt chipping ice from a pump intake at night under a glowing lantern, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 72/100)
-Assets: OWEN, OFFICE_HALLWAY
-Prompt: [OWEN] moving through the corridor with efficient deliberate strides, every motion purposeful and economical, [OFFICE_HALLWAY] long office hallway corridor, fluorescent ceiling lighting, polished linoleum flooring, closed doors along the walls, floor-to-ceiling windows at the end, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: PRUITT
+Prompt: [PRUITT] in a white shirt and brown tie pausing a pen above a page with faint blurred handwriting, dim car cabin interior with a worn bench seat, close-up, 85mm portrait lens, full head within frame, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 73/100)
-Assets: OWEN, OFFICE_HALLWAY
-Prompt: [OWEN]'s calm unshakeable expression genuine and deeply settled, his steady eyes reflecting a long-held composure, [OFFICE_HALLWAY] long office hallway corridor, fluorescent ceiling lighting, polished linoleum flooring, closed doors along the walls, floor-to-ceiling windows at the end, close-up, 85mm portrait lens, full head within frame, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: KESSLER, FARM_YARD
+Prompt: [KESSLER] in a light gray 1970s suit stepping cautiously out of a polished company car, [FARM_YARD] red dirt farmyard before a weathered clapboard farmhouse, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 74/100)
-Assets: OWEN, OFFICE_HALLWAY
-Prompt: [OWEN]'s jaw set with quiet resolve, his steady eyes reflecting an unwavering decision about who he chooses to be, [OFFICE_HALLWAY] long office hallway corridor, fluorescent ceiling lighting, polished linoleum flooring, closed doors along the walls, floor-to-ceiling windows at the end, close-up, 85mm portrait lens, full head within frame, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: KESSLER, FARM_YARD
+Prompt: [KESSLER] stepping through red dirt in polished black leather shoes as a thin film of dust settles on the shine, [FARM_YARD] red dirt farmyard before a weathered clapboard farmhouse, extreme close-up, 100mm macro lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 75/100)
-Assets: OWEN, OFFICE_HALLWAY
-Prompt: [OWEN] walking at an easy unhurried pace alone down the long corridor, his composed posture and calm resolve settled fully into place, [OFFICE_HALLWAY] long office hallway corridor, fluorescent ceiling lighting, polished linoleum flooring, closed doors along the walls, floor-to-ceiling windows at the end, wide shot, 35mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: KESSLER, HARLAN, FARM_YARD
+Prompt: [KESSLER] in a light gray 1970s suit shaking hands with [HARLAN] in a faded blue chambray shirt framed over the shoulder beside a polished car hood, [FARM_YARD] red dirt farmyard before a weathered clapboard farmhouse, over-shoulder shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 76/100)
-Assets: DALTON, OFFICE_HALLWAY
-Prompt: [DALTON], in his ill-fitting olive green dress shirt, standing arms crossed in the long office hallway surveying the corridor with proprietary confidence, [OFFICE_HALLWAY] long office hallway corridor with fluorescent ceiling lighting, polished linoleum flooring, closed doors along the walls, and floor-to-ceiling windows at the end, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, FARM_YARD
+Prompt: [HARLAN] in a faded blue chambray shirt with a jaw briefly tightening and eyes lowered, [FARM_YARD] red dirt farmyard before a weathered clapboard farmhouse, close-up, 85mm portrait lens, full head within frame, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 77/100)
-Assets: DALTON, OFFICE_HALLWAY
-Prompt: [DALTON], in his ill-fitting olive green dress shirt, walking slowly down the office hallway with one hand trailing along the wall scanning every door with a guarded possessive expression, [OFFICE_HALLWAY] long office hallway corridor with fluorescent ceiling lighting, polished linoleum flooring, closed doors along the walls, and floor-to-ceiling windows at the end, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: KESSLER, FARM_YARD
+Prompt: [KESSLER] in a light gray 1970s suit smoothing sheets of paperwork with faint blurred print across a warm car hood, [FARM_YARD] red dirt farmyard before a weathered clapboard farmhouse, medium shot, 50mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 78/100)
-Assets: DALTON, OFFICE_HALLWAY
-Prompt: [DALTON], in his ill-fitting olive green dress shirt, in close-up with a vigilant territorial gaze and a hostile scowl watching the hallway, full head within frame, [OFFICE_HALLWAY] long office hallway corridor with fluorescent ceiling lighting, polished linoleum flooring, closed doors along the walls, and floor-to-ceiling windows at the end, close-up, 85mm portrait lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: KESSLER, FARM_YARD
+Prompt: [KESSLER] in a light gray 1970s suit with a warm confident salesman smile, [FARM_YARD] red dirt farmyard before a weathered clapboard farmhouse, close-up, 85mm portrait lens, full head within frame, morning light, open composition, warm highlights, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 79/100)
-Assets: DALTON, OFFICE_HALLWAY
-Prompt: [DALTON], in his ill-fitting olive green dress shirt, in close-up with a contemptuous smirk and mouth curled mid-word gesturing dismissively down the hallway, full head within frame, [OFFICE_HALLWAY] long office hallway corridor with fluorescent ceiling lighting, polished linoleum flooring, closed doors along the walls, and floor-to-ceiling windows at the end, close-up, 85mm portrait lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: KESSLER, FARM_YARD
+Prompt: [KESSLER] in a light gray 1970s suit standing in the foreground while a child bicycle lies tipped over near a pedal propped upward in the distant yard, [FARM_YARD] red dirt farmyard before a weathered clapboard farmhouse, wide shot, 35mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 80/100)
-Assets: DALTON, OWEN, OFFICE_HALLWAY
-Prompt: Over [DALTON]'s shoulder, in his ill-fitting olive green dress shirt, toward [OWEN] calmly mopping the hallway floor, leaving it perfectly streak-free and spotless after meticulous work, [OFFICE_HALLWAY] long office hallway corridor with fluorescent ceiling lighting, polished linoleum flooring, closed doors along the walls, and floor-to-ceiling windows at the end, over-shoulder shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: KESSLER, HARLAN, FARM_YARD
+Prompt: [KESSLER] in a light gray 1970s suit and [HARLAN] in a faded blue chambray shirt standing together beside the car in bright spring sunlight, [FARM_YARD] red dirt farmyard before a weathered clapboard farmhouse, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 81/100)
-Assets: DALTON, OWEN, OFFICE_HALLWAY
-Prompt: [DALTON], in his ill-fitting olive green dress shirt, in close-up pointing sharply at a spot near the baseboard as [OWEN] watches from the frame's edge, full head within frame, [OFFICE_HALLWAY] long office hallway corridor with fluorescent ceiling lighting, polished linoleum flooring, closed doors along the walls, and floor-to-ceiling windows at the end, close-up, 85mm portrait lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, FARM_YARD
+Prompt: [HARLAN] in a faded blue chambray shirt looking downward with a heavy brooding expression, [FARM_YARD] red dirt farmyard before a weathered clapboard farmhouse, close-up, 85mm portrait lens, full head within frame, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 82/100)
-Assets: DALTON, OWEN, OFFICE_HALLWAY
-Prompt: [DALTON], in his ill-fitting olive green dress shirt, gesturing toward the floor with his mouth mid-word while [OWEN] calmly nods and fills a bucket with water preparing to mop again, [OFFICE_HALLWAY] long office hallway corridor with fluorescent ceiling lighting, polished linoleum flooring, closed doors along the walls, and floor-to-ceiling windows at the end, over-the-shoulder shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, FARM_FIELDS
+Prompt: [HARLAN] in a faded blue chambray shirt turning to face his open fields with a long steady gaze, [FARM_FIELDS] flat south Georgia corn farm with red dirt fields and distant pine tree line, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 83/100)
-Assets: DALTON, OWEN, OFFICE_HALLWAY
-Prompt: [DALTON], in his ill-fitting olive green dress shirt, pointing at a faint scuff mark near the corner wall close to his own shoe while [OWEN] kneels to wipe it clean, [OFFICE_HALLWAY] long office hallway corridor with fluorescent ceiling lighting, polished linoleum flooring, closed doors along the walls, and floor-to-ceiling windows at the end, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, FARM_FIELDS
+Prompt: [HARLAN] in a faded blue chambray shirt speaking with a level steady gaze, [FARM_FIELDS] flat south Georgia corn farm with red dirt fields and distant pine tree line, medium close-up, 85mm lens, full head within frame, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 84/100)
-Assets: DALTON, OFFICE_HALLWAY
-Prompt: [DALTON], in his ill-fitting olive green dress shirt, glancing down at the floor with a satisfied smirk before walking on down the hallway, [OFFICE_HALLWAY] long office hallway corridor with fluorescent ceiling lighting, polished linoleum flooring, closed doors along the walls, and floor-to-ceiling windows at the end, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: KESSLER, FARM_YARD
+Prompt: [KESSLER] in a light gray 1970s suit with a stiffening smile standing behind an open car door speaking over the roof, [FARM_YARD] red dirt farmyard before a weathered clapboard farmhouse, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 85/100)
-Assets: DALTON, OWEN, OFFICE_HALLWAY
-Prompt: [DALTON], in his ill-fitting olive green dress shirt, standing with arms crossed while [OWEN] calmly empties the bucket and mops the floor a third time with steady composed resolve, [OFFICE_HALLWAY] long office hallway corridor with fluorescent ceiling lighting, polished linoleum flooring, closed doors along the walls, and floor-to-ceiling windows at the end, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: KESSLER, FARM_YARD
+Prompt: [KESSLER] seated inside a polished car pulling away down the gravel drive with red dust curling behind the tires, [FARM_YARD] red dirt farmyard before a weathered clapboard farmhouse, wide shot, 35mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 86/100)
-Assets: OWEN, OFFICE_HALLWAY
-Prompt: [OWEN]'s calm face in close-up while wringing a mop over a bucket as water swirls around his hands, full head within frame, [OFFICE_HALLWAY] long office hallway corridor with fluorescent ceiling lighting, polished linoleum flooring, closed doors along the walls, and floor-to-ceiling windows at the end, close-up, 85mm portrait lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: FARM_YARD
+Prompt: Two sharp city-style shoe prints holding crisp edges in the red dirt under slanting late afternoon light, [FARM_YARD] red dirt farmyard before a weathered clapboard farmhouse, extreme close-up, 100mm macro lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 87/100)
-Assets: DALTON, OWEN, BREAK_ROOM
-Prompt: [DALTON], in his ill-fitting olive green dress shirt, talking animatedly with a colleague at a round table while [OWEN] wipes the counter behind them with composed focus, [BREAK_ROOM] small office break room with round tables, a coffee machine, and linoleum floor, wide shot, 35mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, ELI, IRRIGATION_DITCH
+Prompt: Walking the ditch bank at dusk carrying a dented coffee can, [HARLAN] in a faded blue chambray shirt and [ELI] in a red plaid flannel shirt and denim overalls, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, wide shot, 35mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 88/100)
-Assets: DALTON, BREAK_ROOM
-Prompt: [DALTON], in his ill-fitting olive green dress shirt, in close-up with a mocking sarcastic smile, raised eyebrows, and mouth open mid-sentence gesturing toward someone across the room, full head within frame, [BREAK_ROOM] small office break room with round tables, a coffee machine, and linoleum floor, close-up, 85mm portrait lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: IRRIGATION_DITCH
+Prompt: Rippling water catching golden light with dark fish backs gleaming like wet coins near the surface, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, close-up, 85mm portrait lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 89/100)
-Assets: OWEN, BREAK_ROOM
-Prompt: [OWEN] calmly rinsing his cleaning cloth after wiping down the table, hanging it on the cart handle before turning to walk away, [BREAK_ROOM] small office break room with round tables, a coffee machine, and linoleum floor, medium shot, 50mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: ELI, HARLAN, IRRIGATION_DITCH
+Prompt: [ELI] in a red plaid flannel shirt and denim overalls grinning widely while crouched beside [HARLAN] in a faded blue chambray shirt framed over the shoulder, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, over-shoulder shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 90/100)
-Assets: OWEN, BREAK_ROOM
-Prompt: [OWEN] sitting alone at a round table quietly eating lunch while a new employee glances over from across the room, [BREAK_ROOM] small office break room with round tables, a coffee machine, and linoleum floor, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, IRRIGATION_DITCH
+Prompt: [HARLAN] in a faded blue chambray shirt explaining calmly while pointing toward the flowing water, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, medium close-up, 85mm lens, full head within frame, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 91/100)
-Assets: OWEN, BREAK_ROOM
-Prompt: [OWEN] in close-up quietly looking down at his simple lunch of a sandwich, an apple, and a water bottle filled from the tap, full head within frame, [BREAK_ROOM] small office break room with round tables, a coffee machine, and linoleum floor, close-up, 85mm portrait lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: ELI, HARLAN, IRRIGATION_DITCH
+Prompt: [HARLAN] cupping ditch water in his weathered hands and letting it trickle between his fingers, [ELI] watching quietly beside him, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, close-up shot, 85mm portrait lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 92/100)
-Assets: OWEN, BREAK_ROOM
-Prompt: [OWEN] looking at a container of pasta and a small folded paper placed on his table by a passing colleague's hand, [BREAK_ROOM] small office break room with round tables, a coffee machine, and linoleum floor, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, IRRIGATION_DITCH
+Prompt: [HARLAN] holding up one fingertip with a single water droplet glistening in the light, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield blurred softly behind, extreme close-up, 100mm macro lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 93/100)
-Assets: OWEN, BREAK_ROOM
-Prompt: [OWEN] in close-up reading a small folded paper with an unchanged calm expression while reaching into his bag for his own sandwich, full head within frame, [BREAK_ROOM] small office break room with round tables, a coffee machine, and linoleum floor, close-up, 85mm portrait lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: ANNIE, CLASSROOM
+Prompt: [ANNIE] standing at a chalkboard with chalk arrows curving from a fish toward a plant, chalk dust on her powder blue sleeve, [CLASSROOM] 1970s classroom with small wooden desks and green chalkboard, medium shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
 
 (Image Prompt 94/100)
-Assets: OWEN, BREAK_ROOM
-Prompt: [OWEN] finishing his sandwich at the table while the untouched pasta container remains exactly where it was left beside him, [BREAK_ROOM] small office break room with round tables, a coffee machine, and linoleum floor, medium shot, 50mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, ELI, IRRIGATION_DITCH
+Prompt: Looking past the shoulder of [ELI] toward [HARLAN] gesturing at the still ditch water in the dusk light, both standing at the edge of the water, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, over-shoulder shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 95/100)
-Assets: BREAK_ROOM
-Prompt: An untouched takeout pasta container sitting alone on an empty table beside a vacant chair, [BREAK_ROOM] small office break room with round tables, a coffee machine, and linoleum floor, close-up, 85mm portrait lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, IRRIGATION_DITCH
+Prompt: At the ditch edge in the fading dusk light, [HARLAN] gestures toward a small irrigation pump positioned in the water nearby, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 96/100)
-Assets: BREAK_ROOM
-Prompt: A shadow falling softly across the small folded paper propped beside the sealed takeout pasta container on the tabletop, [BREAK_ROOM] small office break room with round tables, a coffee machine, and linoleum floor, close-up, 85mm portrait lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: IRRIGATION_DITCH
+Prompt: Wide view of an algae-covered ditch surface with a school of tilapia grazing calmly beneath the water, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 97/100)
-Assets: CLARE, DALTON, BREAK_ROOM
-Prompt: [CLARE], in her sharp navy blue tailored blazer, standing at the break room doorway with a sharp observant gaze while [DALTON], in his ill-fitting olive green dress shirt, gestures dismissively across the room unaware of her presence, [BREAK_ROOM] small office break room with round tables, a coffee machine, and linoleum floor, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: ELI, IRRIGATION_DITCH
+Prompt: [ELI] in his red plaid flannel shirt and denim overalls tipping the last of a feed can into the ditch water in warm evening light, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, medium shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 98/100)
-Assets: DALTON, CLARE, BREAK_ROOM
-Prompt: Over [CLARE]'s shoulder, in her sharp navy blue tailored blazer, toward [DALTON], in his ill-fitting olive green dress shirt, as he turns and his posture instantly stiffens straightening upon seeing her standing there, [BREAK_ROOM] small office break room with round tables, a coffee machine, and linoleum floor, over-shoulder shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, IRRIGATION_DITCH
+Prompt: [HARLAN] standing beside the ditch at dusk with a second small silhouette further along the silvery edge of the water, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 99/100)
-Assets: CLARE, BREAK_ROOM
-Prompt: [CLARE], in her sharp navy blue tailored blazer, in close-up with a composed unreadable expression and thoughtful stillness in her eyes as she quietly turns to leave, full head within frame, [BREAK_ROOM] small office break room with round tables, a coffee machine, and linoleum floor, close-up, 85mm portrait lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: 
+Prompt: A mercury thermometer mounted on a frost-covered wooden shed wall with its markings softly blurred by frost, weathered wooden boards glazed with morning frost, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
 
 (Image Prompt 100/100)
-Assets: DALTON, OFFICE_HALLWAY
-Prompt: [DALTON], in his ill-fitting olive green dress shirt, in close-up with an uneasy anxious expression glancing warily down the long hallway, full head within frame, [OFFICE_HALLWAY] long office hallway corridor with fluorescent ceiling lighting, polished linoleum flooring, closed doors along the walls, and floor-to-ceiling windows at the end, close-up, 85mm portrait lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: HARLAN, IRRIGATION_DITCH
+Prompt: [HARLAN] standing motionless beside the frozen irrigation ditch as pale tilapia float belly-up along the ice-glazed water for a long stretch, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield under a frozen winter sky, wide shot, 35mm lens, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field

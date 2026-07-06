@@ -1,127 +1,190 @@
 {
   "project": {
-    "title": "Single Dad Applied as a Janitor — Then the Billionaire CEO Recognized His Name",
-    "description": "Owen Carter — cựu nhà toán học góa vợ, xin làm lao công tại Bennett Dynamics để có giờ giấc ổn định nuôi con — được CEO Clare Bennett, bạn học đại học 20 năm trước, nhận ra và trọng dụng sau khi anh âm thầm giải cứu khủng hoảng kỹ thuật của công ty.",
-    "total_duration": 2881,
+    "title": "They Laughed When a Single Dad Poured Tilapia Into His Irrigation Ditches — Until the Dead Soil Came Back to Life",
+    "description": "A widowed single father, Harlan Boone, pours two thousand live tilapia into the irrigation ditches of his dying south Georgia corn farm in 1974. Mocked by the whole county for three years, he quietly rebuilds his dead soil with fish waste — until a drought-year harvest number chalked at the county grain elevator silences every man who laughed.",
+    "total_duration": 2210,
     "target_audience": "65+",
     "language": "en"
   },
-
-  "style": "photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field",
-
+  "style": "photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field",
   "flashback_style": "soft warm vignette, slightly faded colors, dreamy atmosphere",
-
+  "flashback_variants": [
+    "annie"
+  ],
   "video_hook": {
     "enabled": true,
     "duration_s": 120,
     "max_clip_s": 8,
-    "video_style": "photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera"
+    "video_style": "photorealistic cinematic footage, 1970s rural Americana aesthetic, 35mm film look, natural motion, smooth stabilized camera"
   },
-
+  "era": {
+    "name": "1970s rural south Georgia",
+    "keywords": "1970s rural American South, weathered clapboard farmhouse, red Georgia dirt, old pickup trucks, corded rotary telephone, kerosene lantern, galvanized steel buckets, handwritten ledgers",
+    "wardrobe": "1970s American farm workwear, chambray and flannel work shirts, denim overalls, feed caps, worn leather work boots",
+    "forbidden": [
+      "smartphone",
+      "laptop",
+      "flat-screen",
+      "tablet",
+      "earbuds",
+      "LED",
+      "USB",
+      "wifi",
+      "electric car",
+      "modern SUV",
+      "computer monitor",
+      "drone",
+      "solar panel",
+      "digital display",
+      "plastic water bottle"
+    ]
+  },
   "characters": [
     {
-      "id": "owen",
-      "name": "Owen Carter (42 tuổi)",
-      "nano_name": "Owen",
-      "description": "42-year-old lean tall man, calm unshakeable eyes, still composed posture that never fidgets, short dark brown hair lightly graying at the temples, gray custodial uniform, dark jacket worn soft at the elbows with a small silver safety pin holding the left collar together, always carries a small blue spiral-bound notebook tucked in his back pocket"
+      "id": "harlan",
+      "name": "Harlan Boone",
+      "nano_name": "Harlan",
+      "description": "33-year-old lean weathered corn farmer, short dark brown hair, sun-lined face, faded blue chambray work shirt, worn indigo denim jeans, scuffed brown leather work boots"
     },
     {
-      "id": "owen_consultant",
-      "name": "Owen Carter (42 tuổi, sau khi lên chức Consultant)",
-      "nano_name": "Owen Consultant",
-      "description": "42-year-old lean tall man, calm unshakeable eyes, still composed posture that never fidgets, short dark brown hair lightly graying at the temples, light blue collared shirt and gray slacks instead of a custodial uniform, the same dark jacket with the silver safety pin kept nearby, small blue spiral-bound notebook on his desk"
+      "id": "eli",
+      "name": "Eli Boone (5-7 tuổi, 1974-1976)",
+      "nano_name": "Eli",
+      "description": "six-year-old boy, tousled sandy brown hair, wide serious eyes, faded red plaid flannel shirt, blue denim overalls, small scuffed brown boots"
     },
     {
-      "id": "owen_young",
-      "name": "Owen Carter (22 tuổi, thời đại học)",
-      "nano_name": "Young Owen",
-      "description": "22-year-old man, short dark brown hair, quiet watchful eyes that give little away, reserved economical posture, plain navy blue college-era sweater and jacket, simple canvas backpack, notebook of equations"
+      "id": "eli_pajamas",
+      "name": "Eli Boone (pajama — cảnh bếp sáng sớm)",
+      "nano_name": "Pajama Eli",
+      "description": "five-year-old boy, tousled sandy brown hair, wide serious eyes, faded blue striped cotton pajamas, bare feet"
     },
     {
-      "id": "clare",
-      "name": "Clare Bennett (42 tuổi, CEO)",
-      "nano_name": "Clare",
-      "description": "42-year-old woman, shoulder-length dark hair, sharp navy blue tailored blazer, still watchful eyes that miss nothing, composed unreadable authority, calm deliberate posture"
+      "id": "eli_9",
+      "name": "Eli Boone (9 tuổi, 1978)",
+      "nano_name": "Older Eli",
+      "description": "nine-year-old boy, neat sandy brown hair, thoughtful steady expression, light blue chambray shirt, blue jeans, brown leather boots"
     },
     {
-      "id": "clare_young",
-      "name": "Clare Bennett (22 tuổi, thời đại học)",
-      "nano_name": "Young Clare",
-      "description": "22-year-old woman, dark hair in a loose ponytail, casual maroon college sweater, tired but determined eyes, notebook full of handwritten equations"
+      "id": "eli_12",
+      "name": "Eli Boone (12 tuổi, thập niên 1980)",
+      "nano_name": "Teen Eli",
+      "description": "twelve-year-old boy, tall and lanky, short sandy brown hair, calm steady expression, gray-green cotton work shirt, blue jeans, black rubber boots"
     },
     {
-      "id": "dalton",
-      "name": "Greg Dalton",
-      "nano_name": "Dalton",
-      "description": "50-year-old heavyset man, thinning gray hair, ill-fitting olive green dress shirt straining at the shoulders, arms often crossed in a defensive territorial stance, hard contemptuous eyes, perpetual scowl"
+      "id": "annie",
+      "name": "Annie Boone (vợ đã mất — chỉ xuất hiện trong flashback)",
+      "nano_name": "Annie",
+      "description": "woman in her early thirties, soft chestnut brown hair pinned loosely back, warm patient face, powder blue 1970s cotton dress with chalk dust on the sleeve"
     },
     {
-      "id": "sandra",
-      "name": "Sandra",
-      "nano_name": "Sandra",
-      "description": "50-year-old woman, warm round face with quietly observant eyes, dusty rose cardigan over a cream blouse, reading glasses on a chain, gentle unhurried demeanor"
+      "id": "ray",
+      "name": "Ray (bạn hatchery ở Mississippi)",
+      "nano_name": "Ray",
+      "description": "burly hatchery man in his forties, ruddy weathered face, short salt-and-pepper hair, olive green work shirt with rolled sleeves, khaki canvas trousers, black rubber boots"
     },
     {
-      "id": "webb",
-      "name": "Marcus Webb",
-      "nano_name": "Webb",
-      "description": "man in his forties, short neat hair, sharp alert eyes, composed but visibly weary bearing, steel blue dress shirt with sleeves rolled up"
+      "id": "earl",
+      "name": "Earl Dobbins (nông dân hàng xóm)",
+      "nano_name": "Earl",
+      "description": "heavyset farmer in his fifties, gray stubble, deeply tanned face, beige feed cap, sweat-stained tan work shirt, blue denim overalls, worn brown boots"
+    },
+    {
+      "id": "pruitt",
+      "name": "Mr. Pruitt (cán bộ khuyến nông của hạt)",
+      "nano_name": "Pruitt",
+      "description": "county extension agent in his late forties, neatly combed graying brown hair, clean-shaven angular face, crisp white short-sleeve dress shirt, thin dark brown tie, gray slacks, wooden clipboard in hand"
+    },
+    {
+      "id": "kessler",
+      "name": "Dale Kessler (nhân viên bán phân bón, 1974)",
+      "nano_name": "Kessler",
+      "description": "fertilizer salesman in his early forties, slicked-back dark brown hair, confident easy smile, pressed light gray 1970s business suit, white dress shirt, polished black leather city shoes"
+    },
+    {
+      "id": "kessler_1978",
+      "name": "Dale Kessler (1978 — sa sút)",
+      "nano_name": "Older Kessler",
+      "description": "fertilizer salesman in his mid-forties, slicked-back dark brown hair graying at the temples, tired lined face, rumpled light gray 1970s business suit, scuffed unpolished black leather shoes"
+    },
+    {
+      "id": "kessler_sunday",
+      "name": "Dale Kessler (thăm farm Chủ nhật — áo plaid)",
+      "nano_name": "Sunday Kessler",
+      "description": "fertilizer salesman in his mid-forties, dark brown hair graying at the temples, relaxed weathered face, red and gray plaid flannel shirt, dusty khaki trousers, plain brown leather shoes"
     }
   ],
-
   "settings": [
     {
-      "id": "bennett_lobby",
-      "name": "Sảnh chính Bennett Dynamics",
-      "keywords": "modern corporate lobby, floor-to-ceiling glass windows, polished concrete floor, curved reception desk, rows of plastic waiting chairs"
+      "id": "farm_kitchen",
+      "name": "Bếp nhà Boone (có bể cá của Annie)",
+      "keywords": "1970s farmhouse kitchen, worn linoleum floor, wooden kitchen table, thirty-gallon aquarium with a chipped front corner glowing pale green-gold on the counter by the window"
     },
     {
-      "id": "clare_office",
-      "name": "Văn phòng CEO (tầng 31)",
-      "keywords": "modern executive office on the 31st floor, glass walls on three sides, minimalist desk with laptop and phone, framed patent certificate, city skyline view"
+      "id": "irrigation_ditch",
+      "name": "Mương tưới ngoài ruộng ngô",
+      "keywords": "irrigation ditch with red-dirt banks beside a Georgia cornfield, wooden headgate with galvanized screen, slow-moving water, corn rows beyond"
     },
     {
-      "id": "university_classroom",
-      "name": "Giảng đường đại học (20 năm trước)",
-      "keywords": "university lecture hall, advanced calculus classroom, wooden bench outside a mathematics building, autumn leaves on the walkway"
+      "id": "farm_fields",
+      "name": "Cánh đồng ngô 180 mẫu",
+      "keywords": "flat south Georgia corn farm with red dirt fields and distant pine tree line, 180 acres, weathered gray barn, 1970s clapboard farmhouse"
     },
     {
-      "id": "office_hallway",
-      "name": "Hành lang văn phòng chung",
-      "keywords": "long office hallway corridor, fluorescent ceiling lighting, polished linoleum flooring, closed doors along the walls, floor-to-ceiling windows at the end"
+      "id": "back_porch",
+      "name": "Hiên sau + luống cà chua",
+      "keywords": "wooden back porch of a weathered farmhouse with tomato patch beside the steps, worn plank steps, lush volunteer tomato plants"
     },
     {
-      "id": "supply_closet",
-      "name": "Kho vật tư tầng 4",
-      "keywords": "narrow supply closet, shelves with cleaning supplies, labeled bins, laminated schedule sheet on the door, fluorescent lighting"
+      "id": "farm_yard",
+      "name": "Sân trước + đường đất vào farm",
+      "keywords": "red dirt farmyard before a weathered clapboard farmhouse, gravel farm road, dusty air, 1970s vehicles"
     },
     {
-      "id": "break_room",
-      "name": "Phòng nghỉ tầng 2",
-      "keywords": "small office break room, round tables, coffee machine, linoleum floor"
+      "id": "feed_store",
+      "name": "Cửa hàng thức ăn gia súc",
+      "keywords": "1970s rural feed store with stacked seed corn sacks, wooden counter, dusty sunlit windows"
     },
     {
-      "id": "conference_room_7f",
-      "name": "Phòng họp khủng hoảng tầng 7",
-      "keywords": "corporate conference room, large table for twelve, laptops open, whiteboard covered in black blue and red marker diagrams, floor-to-ceiling windows"
+      "id": "diner",
+      "name": "Quán ăn thị trấn",
+      "keywords": "small-town 1970s diner with vinyl booths and formica tables, thick white coffee cups, hazy cigarette smoke"
     },
     {
-      "id": "owen_apartment",
-      "name": "Căn hộ của Owen",
-      "keywords": "small one-room apartment, books stacked on every surface, legal pad on a table, child's crayon drawing held by a magnet on the refrigerator"
+      "id": "classroom",
+      "name": "Lớp học tiểu học",
+      "keywords": "1970s classroom with small wooden desks and green chalkboard, paper cutouts on the walls"
     },
     {
-      "id": "atrium",
-      "name": "Sảnh atrium công ty",
-      "keywords": "large corporate atrium, open multi-story space, employees gathered, podium area"
+      "id": "county_hall",
+      "name": "Hội trường họp hạt",
+      "keywords": "county meeting hall with rows of metal folding chairs, wooden podium, fluorescent lighting, 1970s rural crowd"
     },
     {
-      "id": "owen_new_office",
-      "name": "Văn phòng mới của Owen (tầng 3, sau khi lên chức)",
-      "keywords": "modern office with a whiteboard, desk by the window, mop standing in the corner beside neatly arranged markers"
+      "id": "sump_pond",
+      "name": "Ao trữ sau chuồng trại",
+      "keywords": "dark sump pond behind a weathered gray barn with cattails, dark still water, muddy banks"
+    },
+    {
+      "id": "pecan_tree",
+      "name": "Gốc hồ đào (chôn General)",
+      "keywords": "lone bare pecan tree at the edge of a frozen winter field, bare branches, frozen red dirt ground"
+    },
+    {
+      "id": "grain_elevator",
+      "name": "Kho thóc + trạm cân của hạt",
+      "keywords": "county grain elevator, tall corrugated metal silos, scale house with chalkboard, grain trucks, dusty light"
+    },
+    {
+      "id": "county_market",
+      "name": "Chợ nông sản cuối tuần",
+      "keywords": "open-air 1970s county farmers market, wooden folding tables, ice coolers, pickup trucks parked behind the stalls"
+    },
+    {
+      "id": "delta_hatchery",
+      "name": "Trại cá Mississippi Delta (hồi ức)",
+      "keywords": "Mississippi Delta catfish hatchery with flat grow-out ponds, grassy levees, aerator spray over the water, humid haze"
     }
   ],
-
   "mood_map": {
     "nostalgic": "soft golden light, warm palette, slight gaussian blur",
     "tense": "cool blue-gray tones, hard shadows, tight framing",

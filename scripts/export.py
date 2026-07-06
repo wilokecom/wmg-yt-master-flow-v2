@@ -456,14 +456,19 @@ def shot_cat(body):
 
 
 def gate_qc():
-    """BƯỚC 5 QC — tầng máy: mọi thứ đo đếm được. Ghi report ra output/qc-report.md."""
+    """BƯỚC 6 QC — tầng máy: mọi thứ đo đếm được. Ghi report ra output/qc-report.md."""
     errs, warns = [], []
     config = json.loads((INPUT / "config.json").read_text(encoding="utf-8"))
     style = config.get("style", "").strip()
     mood_map = config.get("mood_map", {})
     fb = config.get("flashback_style", "").strip()
     nano = {c["id"]: c.get("nano_name", "") for c in config.get("characters", [])}
-    variants = {cid for cid in nano if "_" in cid}
+    # QC3: config khai báo flashback_variants tường minh thì dùng nó; chỉ khi thiếu
+    # mới fallback heuristic "_" (heuristic sai với variant tiến triển timeline, vd eli_9)
+    if "flashback_variants" in config:
+        variants = set(config.get("flashback_variants") or [])
+    else:
+        variants = {cid for cid in nano if "_" in cid}
     _, scenes = load_scenes()
     prompts = load_prompts()
 

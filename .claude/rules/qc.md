@@ -1,6 +1,6 @@
-# Rule: QC (Bước 5 — kiểm định chất lượng)
+# Rule: QC (Bước 6 — kiểm định chất lượng)
 
-Bước QC chạy SAU khi bước 4 PASS, TRƯỚC khi giao prompt sang Flow. Gồm 2 tầng bắt buộc theo thứ tự.
+Bước QC chạy SAU khi bước 4 PASS (bước 5 xuất Uni-X có thể chạy trước hoặc sau), TRƯỚC khi giao prompt sang Flow/Uni-X để vẽ hàng loạt. Gồm 2 tầng bắt buộc theo thứ tự.
 
 ## 7.1 — Tầng máy (bắt buộc PASS trước)
 
