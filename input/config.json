@@ -1,0 +1,136 @@
+{
+  "project": {
+    "title": "Single Dad Applied as a Janitor — Then the Billionaire CEO Recognized His Name",
+    "description": "Owen Carter — cựu nhà toán học góa vợ, xin làm lao công tại Bennett Dynamics để có giờ giấc ổn định nuôi con — được CEO Clare Bennett, bạn học đại học 20 năm trước, nhận ra và trọng dụng sau khi anh âm thầm giải cứu khủng hoảng kỹ thuật của công ty.",
+    "total_duration": 2881,
+    "target_audience": "65+",
+    "language": "en"
+  },
+
+  "style": "photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field",
+
+  "flashback_style": "soft warm vignette, slightly faded colors, dreamy atmosphere",
+
+  "video_hook": {
+    "enabled": true,
+    "duration_s": 120,
+    "max_clip_s": 8,
+    "video_style": "photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera"
+  },
+
+  "characters": [
+    {
+      "id": "owen",
+      "name": "Owen Carter (42 tuổi)",
+      "nano_name": "Owen",
+      "description": "42-year-old lean tall man, calm unshakeable eyes, still composed posture that never fidgets, short dark brown hair lightly graying at the temples, gray custodial uniform, dark jacket worn soft at the elbows with a small silver safety pin holding the left collar together, always carries a small blue spiral-bound notebook tucked in his back pocket"
+    },
+    {
+      "id": "owen_consultant",
+      "name": "Owen Carter (42 tuổi, sau khi lên chức Consultant)",
+      "nano_name": "Owen Consultant",
+      "description": "42-year-old lean tall man, calm unshakeable eyes, still composed posture that never fidgets, short dark brown hair lightly graying at the temples, light blue collared shirt and gray slacks instead of a custodial uniform, the same dark jacket with the silver safety pin kept nearby, small blue spiral-bound notebook on his desk"
+    },
+    {
+      "id": "owen_young",
+      "name": "Owen Carter (22 tuổi, thời đại học)",
+      "nano_name": "Young Owen",
+      "description": "22-year-old man, short dark brown hair, quiet watchful eyes that give little away, reserved economical posture, plain navy blue college-era sweater and jacket, simple canvas backpack, notebook of equations"
+    },
+    {
+      "id": "clare",
+      "name": "Clare Bennett (42 tuổi, CEO)",
+      "nano_name": "Clare",
+      "description": "42-year-old woman, shoulder-length dark hair, sharp navy blue tailored blazer, still watchful eyes that miss nothing, composed unreadable authority, calm deliberate posture"
+    },
+    {
+      "id": "clare_young",
+      "name": "Clare Bennett (22 tuổi, thời đại học)",
+      "nano_name": "Young Clare",
+      "description": "22-year-old woman, dark hair in a loose ponytail, casual maroon college sweater, tired but determined eyes, notebook full of handwritten equations"
+    },
+    {
+      "id": "dalton",
+      "name": "Greg Dalton",
+      "nano_name": "Dalton",
+      "description": "50-year-old heavyset man, thinning gray hair, ill-fitting olive green dress shirt straining at the shoulders, arms often crossed in a defensive territorial stance, hard contemptuous eyes, perpetual scowl"
+    },
+    {
+      "id": "sandra",
+      "name": "Sandra",
+      "nano_name": "Sandra",
+      "description": "50-year-old woman, warm round face with quietly observant eyes, dusty rose cardigan over a cream blouse, reading glasses on a chain, gentle unhurried demeanor"
+    },
+    {
+      "id": "webb",
+      "name": "Marcus Webb",
+      "nano_name": "Webb",
+      "description": "man in his forties, short neat hair, sharp alert eyes, composed but visibly weary bearing, steel blue dress shirt with sleeves rolled up"
+    }
+  ],
+
+  "settings": [
+    {
+      "id": "bennett_lobby",
+      "name": "Sảnh chính Bennett Dynamics",
+      "keywords": "modern corporate lobby, floor-to-ceiling glass windows, polished concrete floor, curved reception desk, rows of plastic waiting chairs"
+    },
+    {
+      "id": "clare_office",
+      "name": "Văn phòng CEO (tầng 31)",
+      "keywords": "modern executive office on the 31st floor, glass walls on three sides, minimalist desk with laptop and phone, framed patent certificate, city skyline view"
+    },
+    {
+      "id": "university_classroom",
+      "name": "Giảng đường đại học (20 năm trước)",
+      "keywords": "university lecture hall, advanced calculus classroom, wooden bench outside a mathematics building, autumn leaves on the walkway"
+    },
+    {
+      "id": "office_hallway",
+      "name": "Hành lang văn phòng chung",
+      "keywords": "long office hallway corridor, fluorescent ceiling lighting, polished linoleum flooring, closed doors along the walls, floor-to-ceiling windows at the end"
+    },
+    {
+      "id": "supply_closet",
+      "name": "Kho vật tư tầng 4",
+      "keywords": "narrow supply closet, shelves with cleaning supplies, labeled bins, laminated schedule sheet on the door, fluorescent lighting"
+    },
+    {
+      "id": "break_room",
+      "name": "Phòng nghỉ tầng 2",
+      "keywords": "small office break room, round tables, coffee machine, linoleum floor"
+    },
+    {
+      "id": "conference_room_7f",
+      "name": "Phòng họp khủng hoảng tầng 7",
+      "keywords": "corporate conference room, large table for twelve, laptops open, whiteboard covered in black blue and red marker diagrams, floor-to-ceiling windows"
+    },
+    {
+      "id": "owen_apartment",
+      "name": "Căn hộ của Owen",
+      "keywords": "small one-room apartment, books stacked on every surface, legal pad on a table, child's crayon drawing held by a magnet on the refrigerator"
+    },
+    {
+      "id": "atrium",
+      "name": "Sảnh atrium công ty",
+      "keywords": "large corporate atrium, open multi-story space, employees gathered, podium area"
+    },
+    {
+      "id": "owen_new_office",
+      "name": "Văn phòng mới của Owen (tầng 3, sau khi lên chức)",
+      "keywords": "modern office with a whiteboard, desk by the window, mop standing in the corner beside neatly arranged markers"
+    }
+  ],
+
+  "mood_map": {
+    "nostalgic": "soft golden light, warm palette, slight gaussian blur",
+    "tense": "cool blue-gray tones, hard shadows, tight framing",
+    "hopeful": "morning light, open composition, warm highlights",
+    "shock": "dramatic side lighting, shallow DOF, extreme close-up",
+    "calm": "even soft lighting, neutral tones, balanced composition",
+    "sad": "muted desaturated palette, overcast lighting, empty space",
+    "determined": "strong directional light, firm posture, clear focus",
+    "dismissive": "cold office light, distant framing, clinical atmosphere",
+    "triumphant": "golden late-afternoon light, wide open framing, warm contrast"
+  }
+}

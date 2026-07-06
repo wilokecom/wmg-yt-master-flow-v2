@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Claude Code local settings (không chia sẻ qua git)
+.claude/settings.local.json

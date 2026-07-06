@@ -1,0 +1,30 @@
+{
+  "project": {
+    "title": "The Farmers Laughed When The Single Dad Bought the Swamp",
+    "description": "",
+    "total_duration": "~40 minutes",
+    "target_audience": "65+",
+    "language": "en"
+  },
+
+  "style": "cinematic, realistic, high detail, 4k resolution, professional lighting, naturalistic color grading",
+
+  "flashback_style": "",
+
+  "characters": [
+  ],
+
+  "settings": [
+  ],
+
+  "mood_map": {
+    "nostalgic": "soft golden light, warm palette, slight gaussian blur",
+    "tense": "cool blue-gray tones, hard shadows, tight framing",
+    "hopeful": "morning light, open composition, warm highlights",
+    "shock": "dramatic side lighting, shallow DOF, extreme close-up",
+    "calm": "even soft lighting, neutral tones, balanced composition",
+    "sad": "muted desaturated palette, overcast lighting, empty space",
+    "determined": "strong directional light, firm posture, clear focus",
+    "dismissive": "cold office light, distant framing, clinical atmosphere"
+  }
+}
