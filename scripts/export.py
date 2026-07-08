@@ -178,6 +178,68 @@ def srt_total_seconds():
     return int(h) * 3600 + int(m) * 60 + int(s) + (1 if int(ms) >= 500 else 0)
 
 
+# ---------------------------------------------------------------- typewriter cues
+# input/typewriter.json (TÙY CHỌN) — nguồn duy nhất cho hiệu ứng đánh máy (editor overlay).
+# 1 nguồn → 2 output: field `typewriter` trong metadata.json + output/typewriter-cues.md.
+# Không có file nguồn → pipeline chạy y như cũ.
+
+def load_typewriter():
+    f = INPUT / "typewriter.json"
+    if not f.exists():
+        return None
+    return json.loads(f.read_text(encoding="utf-8"))
+
+
+def merge_typewriter(tw, meta_scenes):
+    """Gắn cue vào scene khớp stt trong meta_scenes. Trả (errors, warnings, n_merged)."""
+    errs, warns = [], []
+    by_stt = {sc["stt"]: sc for sc in meta_scenes}
+    n = 0
+    for cue in tw.get("cues", []):
+        cid = f"Typewriter cue {cue.get('id', '?')}"
+        stt = cue.get("stt")
+        if stt not in by_stt:
+            errs.append(f"{cid}: stt {stt} không tồn tại trong scenes")
+            continue
+        if not str(cue.get("text", "")).strip():
+            errs.append(f"{cid}: text rỗng")
+            continue
+        sc = by_stt[stt]
+        at = cue.get("at", "")
+        if TS_RE.match(str(at)):
+            if not (ts_to_sec(sc["start"]) <= ts_to_sec(at) < ts_to_sec(sc["end"])):
+                warns.append(f"{cid}: at={at} ngoài khoảng scene {stt} [{sc['start']}–{sc['end']})")
+        else:
+            warns.append(f"{cid}: at `{at}` sai format HH:MM:SS")
+        sc["typewriter"] = {k: v for k, v in cue.items() if k != "stt"}
+        n += 1
+    return errs, warns, n
+
+
+def write_typewriter_cues(tw, meta_scenes):
+    """Sinh output/typewriter-cues.md cho editor từ cùng nguồn đã merge vào metadata."""
+    by_stt = {sc["stt"]: sc for sc in meta_scenes}
+    lines = ["# Typewriter Cues — hiệu ứng đánh máy (overlay lúc dựng — SINH BỞI export.py, sửa nguồn input/typewriter.json)", ""]
+    for k, v in tw.get("style", {}).items():
+        lines.append(f"- **{k}**: {v}")
+    lines += ["", "| # | Time | Scene | Ảnh nền | Loại | Text gõ | Sync |", "|---|---|---|---|---|---|---|"]
+    for cue in tw.get("cues", []):
+        sc = by_stt.get(cue.get("stt"))
+        if not sc:
+            continue
+        text = str(cue.get("text", "")).replace("|", "/").replace("\n", " ↵ ")
+        sync = str(cue.get("sync", "")).replace("|", "/")
+        lines.append(f"| {cue.get('id', '')} | {cue.get('at', '')} | {cue['stt']} ({sc['start']}–{sc['end']}) | {sc['image_file']} | {cue.get('type', '')} | `{text}` | {sync} |")
+    notes = tw.get("notes", [])
+    if notes:
+        lines.append("")
+        for nt in notes:
+            lines.append(f"> {nt}")
+    out = OUTPUT / "typewriter-cues.md"
+    out.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    return out
+
+
 # ---------------------------------------------------------------- gates
 
 BEAT_BOUNDS = {  # rule 3.1: min, max (giây)
@@ -731,6 +793,12 @@ def main():
                         if k.strip() and k.strip() not in ("-", "—")],
             })
 
+        # Typewriter cues (tùy chọn) — merge từ input/typewriter.json vào scene khớp
+        tw = load_typewriter()
+        tw_errs, tw_warns, tw_n = ([], [], 0)
+        if tw:
+            tw_errs, tw_warns, tw_n = merge_typewriter(tw, meta_scenes)
+
         meta = {
             "project": {
                 "title": title or config.get("project", {}).get("title", ""),
@@ -743,9 +811,15 @@ def main():
         }
 
     errs, warns = validate(meta, srt_total_seconds())
+    if not validate_only and tw:
+        errs += tw_errs
+        warns += tw_warns
 
     if not validate_only:
         out_file.write_text(json.dumps(meta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        if tw and not tw_errs:
+            cues_file = write_typewriter_cues(tw, meta_scenes)
+            print(f"✓ Typewriter: merge {tw_n} cue vào metadata + đã ghi {cues_file.name}")
 
     # ----- báo cáo
     beats = {}

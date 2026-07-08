@@ -115,7 +115,14 @@
       "image_file": "2.jpg",
       "sfx": [
         "paper rustle"
-      ]
+      ],
+      "typewriter": {
+        "id": 1,
+        "at": "00:00:11",
+        "type": "hook",
+        "text": "Page 47.\nClause 9.\nA footnote in 8-point font.",
+        "sync": "gõ từng cụm theo đúng nhịp narration nhắc tới (page forty-seven / clause nine / footnote)"
+      }
     },
     {
       "stt": 3,
@@ -212,7 +219,14 @@
       "sfx": [
         "paper turning",
         "clock ticking"
-      ]
+      ],
+      "typewriter": {
+        "id": 2,
+        "at": "00:01:18",
+        "type": "number",
+        "text": "$1,245,600",
+        "sync": "gõ chậm từng ký tự khi narration đọc số tiền, giữ đến hết scene"
+      }
     },
     {
       "stt": 9,
@@ -262,7 +276,14 @@
       "sfx": [
         "dry corn rattling",
         "hot wind"
-      ]
+      ],
+      "typewriter": {
+        "id": 3,
+        "at": "00:01:58",
+        "type": "timecard",
+        "text": "BLACKWOOD COUNTY, IOWA — SUMMER 2014\n73 days without rain.",
+        "sync": "dòng 1 ngay đầu scene; dòng 2 khi narration nhắc seventy-three days (~00:02:04)"
+      }
     },
     {
       "stt": 12,
@@ -1049,7 +1070,14 @@
       "image_file": "57.jpg",
       "sfx": [
         "clock ticking"
-      ]
+      ],
+      "typewriter": {
+        "id": 4,
+        "at": "00:10:34",
+        "type": "timecard",
+        "text": "3:14 AM.\nPage 312.",
+        "sync": "khớp narration 'three fourteen in the morning' rồi 'page three hundred and twelve'"
+      }
     },
     {
       "stt": 58,
@@ -1217,7 +1245,14 @@
       "image_file": "67.jpg",
       "sfx": [
         "quiet room tone"
-      ]
+      ],
+      "typewriter": {
+        "id": 5,
+        "at": "00:12:40",
+        "type": "number",
+        "text": "600 acres × 2012 harvest × $8.49/bushel\n= $1,245,600",
+        "sync": "dòng 1 gõ trước; dòng 2 (kết quả) gõ đúng lúc narration đọc số tiền (~00:12:51), giữ lâu"
+      }
     },
     {
       "stt": 68,
@@ -1657,7 +1692,14 @@
       "sfx": [
         "paper rustling",
         "clock ticking"
-      ]
+      ],
+      "typewriter": {
+        "id": 6,
+        "at": "00:17:03",
+        "type": "number",
+        "text": "$4,200/month  →  $12,800/month",
+        "sync": "gõ vế trái trước, mũi tên + vế phải xuất hiện sau để nhấn cú nhảy lãi suất"
+      }
     },
     {
       "stt": 93,
@@ -1740,7 +1782,14 @@
       "sfx": [
         "hot dry wind",
         "cicadas"
-      ]
+      ],
+      "typewriter": {
+        "id": 7,
+        "at": "00:18:02",
+        "type": "timecard",
+        "text": "JULY 2018 — DISASTER ZONE",
+        "sync": "dòng đơn, gõ ngay đầu scene"
+      }
     },
     {
       "stt": 98,
@@ -1775,7 +1824,14 @@
       "sfx": [
         "pen scratching",
         "clock ticking"
-      ]
+      ],
+      "typewriter": {
+        "id": 8,
+        "at": "00:18:26",
+        "type": "number",
+        "text": "PAY TO THE ORDER OF: IRON RIDGE FIDELITY — $0.00",
+        "sync": "gõ phần chữ trước; '$0.00' gõ cuối cùng, chậm nhất, khớp narration 'a check for zero dollars'"
+      }
     },
     {
       "stt": 100,
@@ -1793,7 +1849,14 @@
       "sfx": [
         "thumbtack pressing",
         "paper rustle"
-      ]
+      ],
+      "typewriter": {
+        "id": 9,
+        "at": "00:18:35",
+        "type": "timecard",
+        "text": "90 DAYS DELINQUENT.",
+        "sync": "ngắn, dằn từng ký tự"
+      }
     },
     {
       "stt": 101,
@@ -1824,7 +1887,14 @@
       "image_file": "102.jpg",
       "sfx": [
         "soft wind"
-      ]
+      ],
+      "typewriter": {
+        "id": 10,
+        "at": "00:19:09",
+        "type": "moral",
+        "text": "Patience is not the absence of action.\nIt is the refusal to act before the ground is ready.",
+        "sync": "gõ theo narration đọc câu aphorism; scene 102 là cảnh quiet fields dựng riêng cho câu này"
+      }
     },
     {
       "stt": 103,
@@ -2755,7 +2825,14 @@
       ],
       "prompt": "Judge Whitman lowering a pair of reading glasses while delivering the ruling from the raised bench, federal district courtroom, limestone and dark oak paneling, close-up, 85mm portrait lens, full head within frame, golden late-afternoon light, wide open framing, warm contrast, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field",
       "image_file": "156.jpg",
-      "sfx": []
+      "sfx": [],
+      "typewriter": {
+        "id": 11,
+        "at": "00:29:19",
+        "type": "number",
+        "text": "$1,245,600 — PAYABLE IN FULL.",
+        "sync": "khớp phán quyết của thẩm phán, hoàn thành dòng TRƯỚC tiếng búa (~00:29:29)"
+      }
     },
     {
       "stt": 157,
@@ -3220,7 +3297,14 @@
       "sfx": [
         "portfolio unzipping",
         "paper on wood"
-      ]
+      ],
+      "typewriter": {
+        "id": 12,
+        "at": "00:34:22",
+        "type": "number",
+        "text": "$1,245,600",
+        "sync": "bookend với cue 2 — cùng kiểu trình bày, gõ khi tấm séc đặt xuống bàn"
+      }
     },
     {
       "stt": 185,
@@ -3299,7 +3383,14 @@
       ],
       "prompt": "Over the shoulder of Higgins toward Caldwell whose face stiffens with alarm, folders fanned open on the large oak dining table, old farmhouse dining room, warm timber walls, over-shoulder shot, 50mm lens, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field",
       "image_file": "189.jpg",
-      "sfx": []
+      "sfx": [],
+      "typewriter": {
+        "id": 13,
+        "at": "00:35:05",
+        "type": "number",
+        "text": "22 × Addendum 7-C = $22,000,000",
+        "sync": "gõ vế trái trước; kết quả $22,000,000 gõ đúng lúc narration đọc twenty-two million"
+      }
     },
     {
       "stt": 190,
@@ -3504,7 +3595,14 @@
       "sfx": [
         "rain over fields",
         "gentle thunder"
-      ]
+      ],
+      "typewriter": {
+        "id": 14,
+        "at": "00:37:46",
+        "type": "moral",
+        "text": "Read the fine print —\nwhen everyone else is rushing to sign.",
+        "sync": "gõ theo narration câu moral kết, giữ đến gần hết scene"
+      }
     },
     {
       "stt": 202,

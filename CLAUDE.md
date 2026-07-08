@@ -80,13 +80,16 @@ wmg-storyboard-prompt/
 ├── input/
 │   ├── config.json          ← AI auto-fill từ SRT, user review + bổ sung
 │   ├── script.txt           ← (Optional) Script gốc
-│   └── subtitle.srt         ← File SRT có timestamp — INPUT CHÍNH
+│   ├── subtitle.srt         ← File SRT có timestamp — INPUT CHÍNH
+│   └── typewriter.json      ← (Optional) Cue hiệu ứng đánh máy — NGUỒN duy nhất, Bước 4 merge vào metadata + sinh typewriter-cues.md
 └── output/
     ├── character-refs.md    ← Prompt ảnh tham chiếu ASSET: nhân vật (Rule 1.4) + bối cảnh (Rule 2.3a) — Bước 1
     ├── scene-breakdown.md   ← Kết quả Bước 2 (bản đọc cho người)
     ├── prompts.md           ← Bộ prompt ảnh Bước 3 (TOÀN BỘ scene, kể cả hook)
     ├── video-prompts.md     ← Video prompt hook + copy image prompt (Bước 3, Rule 6.x)
     ├── metadata.json        ← File metadata cho ghép video (Bước 4 — do script sinh ra)
+    ├── typewriter-cues.md   ← (nếu có input/typewriter.json) bảng cue đánh máy cho editor — Bước 4 sinh, KHÔNG sửa tay
+    ├── qc-report.md         ← Bước 6: report tầng máy + verdict định tính
     ├── prompts-list.txt     ← (tùy chọn, Bước 5) prompt đánh số phẳng để copy chạy hàng loạt — `export.py --prompts-list`
     └── unix-batch-NN.txt    ← Bước 5: cú pháp Uni-X Studio, nhóm 100 ảnh/file — `export.py --unix-export`
 ```

@@ -1,0 +1,127 @@
+{
+  "style": {
+    "font": "monospace typewriter (Courier-style), large size, high contrast, subtle dark backing bar behind text",
+    "speed": "slow typing, hold completed line 1-2s before cut",
+    "audio": "typewriter clacking, soft — mix under narration",
+    "consistency": "cue 2, 12 (và số tiền trong cue 5, 11) dùng CÙNG một kiểu trình bày $1,245,600 — bookend có chủ đích"
+  },
+  "cues": [
+    {
+      "id": 1,
+      "stt": 2,
+      "at": "00:00:11",
+      "type": "hook",
+      "text": "Page 47.\nClause 9.\nA footnote in 8-point font.",
+      "sync": "gõ từng cụm theo đúng nhịp narration nhắc tới (page forty-seven / clause nine / footnote)"
+    },
+    {
+      "id": 2,
+      "stt": 8,
+      "at": "00:01:18",
+      "type": "number",
+      "text": "$1,245,600",
+      "sync": "gõ chậm từng ký tự khi narration đọc số tiền, giữ đến hết scene"
+    },
+    {
+      "id": 3,
+      "stt": 11,
+      "at": "00:01:58",
+      "type": "timecard",
+      "text": "BLACKWOOD COUNTY, IOWA — SUMMER 2014\n73 days without rain.",
+      "sync": "dòng 1 ngay đầu scene; dòng 2 khi narration nhắc seventy-three days (~00:02:04)"
+    },
+    {
+      "id": 4,
+      "stt": 57,
+      "at": "00:10:34",
+      "type": "timecard",
+      "text": "3:14 AM.\nPage 312.",
+      "sync": "khớp narration 'three fourteen in the morning' rồi 'page three hundred and twelve'"
+    },
+    {
+      "id": 5,
+      "stt": 67,
+      "at": "00:12:40",
+      "type": "number",
+      "text": "600 acres × 2012 harvest × $8.49/bushel\n= $1,245,600",
+      "sync": "dòng 1 gõ trước; dòng 2 (kết quả) gõ đúng lúc narration đọc số tiền (~00:12:51), giữ lâu"
+    },
+    {
+      "id": 6,
+      "stt": 92,
+      "at": "00:17:03",
+      "type": "number",
+      "text": "$4,200/month  →  $12,800/month",
+      "sync": "gõ vế trái trước, mũi tên + vế phải xuất hiện sau để nhấn cú nhảy lãi suất"
+    },
+    {
+      "id": 7,
+      "stt": 97,
+      "at": "00:18:02",
+      "type": "timecard",
+      "text": "JULY 2018 — DISASTER ZONE",
+      "sync": "dòng đơn, gõ ngay đầu scene"
+    },
+    {
+      "id": 8,
+      "stt": 99,
+      "at": "00:18:26",
+      "type": "number",
+      "text": "PAY TO THE ORDER OF: IRON RIDGE FIDELITY — $0.00",
+      "sync": "gõ phần chữ trước; '$0.00' gõ cuối cùng, chậm nhất, khớp narration 'a check for zero dollars'"
+    },
+    {
+      "id": 9,
+      "stt": 100,
+      "at": "00:18:35",
+      "type": "timecard",
+      "text": "90 DAYS DELINQUENT.",
+      "sync": "ngắn, dằn từng ký tự"
+    },
+    {
+      "id": 10,
+      "stt": 102,
+      "at": "00:19:09",
+      "type": "moral",
+      "text": "Patience is not the absence of action.\nIt is the refusal to act before the ground is ready.",
+      "sync": "gõ theo narration đọc câu aphorism; scene 102 là cảnh quiet fields dựng riêng cho câu này"
+    },
+    {
+      "id": 11,
+      "stt": 156,
+      "at": "00:29:19",
+      "type": "number",
+      "text": "$1,245,600 — PAYABLE IN FULL.",
+      "sync": "khớp phán quyết của thẩm phán, hoàn thành dòng TRƯỚC tiếng búa (~00:29:29)"
+    },
+    {
+      "id": 12,
+      "stt": 184,
+      "at": "00:34:22",
+      "type": "number",
+      "text": "$1,245,600",
+      "sync": "bookend với cue 2 — cùng kiểu trình bày, gõ khi tấm séc đặt xuống bàn"
+    },
+    {
+      "id": 13,
+      "stt": 189,
+      "at": "00:35:05",
+      "type": "number",
+      "text": "22 × Addendum 7-C = $22,000,000",
+      "sync": "gõ vế trái trước; kết quả $22,000,000 gõ đúng lúc narration đọc twenty-two million"
+    },
+    {
+      "id": 14,
+      "stt": 201,
+      "at": "00:37:46",
+      "type": "moral",
+      "text": "Read the fine print —\nwhen everyone else is rushing to sign.",
+      "sync": "gõ theo narration câu moral kết, giữ đến gần hết scene"
+    }
+  ],
+  "notes": [
+    "Cụm 00:18:02–00:19:16 có 4 cue liền (7/8/9/10) — montage 'bẫy sập', nhịp gõ dồn là chủ đích; editor có thể lược cue 7 hoặc 9 nếu thấy dày.",
+    "Text overlay do editor thêm lúc dựng — KHÔNG đưa chữ vào ảnh AI (Rule 4.5). Ảnh nền các cue phần lớn là macro giấy tờ/cảnh tĩnh, đặt text vùng ít chi tiết.",
+    "Khán giả 65+: cỡ chữ lớn, tốc độ gõ chậm hơn chuẩn, giữ dòng hoàn chỉnh tối thiểu 1-2s trước khi cắt."
+  ]
+}
