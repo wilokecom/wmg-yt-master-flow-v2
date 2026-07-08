@@ -74,6 +74,7 @@ Field tùy chọn (có thể là mảng rỗng, không bắt buộc):
 | Field | Type | Mô tả |
 |---|---|---|
 | `sfx` | array | Keyword hiệu ứng âm thanh (tiếng Anh) cho editor tìm sfx theo phân cảnh — sinh từ cột SFX của scene-breakdown.md, chỉ gồm âm thanh có thật trong narration/bối cảnh |
+| `typewriter` | object | Cue hiệu ứng đánh máy (editor overlay lúc dựng): `{id, at, type, text, sync}` — merge từ `input/typewriter.json` khi chạy Bước 4; chỉ scene có cue mới mang field này. KHÔNG sửa tay trong metadata — sửa file nguồn rồi chạy lại export. Script validate: `stt` tồn tại (lỗi), `text` không rỗng (lỗi), `at` nằm trong khoảng scene (cảnh báo) |
 
 ## 5.8 — JSON Validity
 

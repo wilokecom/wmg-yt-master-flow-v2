@@ -271,8 +271,8 @@ Marin sitting behind a large mahogany desk, Lydia standing opposite...
 
 **Trigger:** "chạy bước 4", "export", "xuất metadata"
 
-**Input:** `input/config.json`, `output/scene-breakdown.md`, `output/prompts.md`
-**Output:** `output/metadata.json`
+**Input:** `input/config.json`, `output/scene-breakdown.md`, `output/prompts.md`, `input/typewriter.json` (optional)
+**Output:** `output/metadata.json` (+ `output/typewriter-cues.md` nếu có typewriter.json)
 
 Quy trình:
 1. Chạy lệnh duy nhất:
@@ -283,7 +283,9 @@ python3 scripts/export.py
 
 Script tự động: parse scene-breakdown + prompts + config → sinh `output/metadata.json` → validate toàn bộ Rules 5.1→5.8 (stt liên tục, no gap/overlap, duration_s tính từ timestamp, timestamp HH:MM:SS, character IDs tồn tại trong config, image_file khớp stt, đủ required fields, valid JSON) → in báo cáo beat distribution + PASS/FAIL. Mỗi scene trong metadata kèm field `sfx` (mảng keyword, đọc từ cột SFX của scene-breakdown) để editor tìm hiệu ứng âm thanh cho phân cảnh.
 
-2. Script báo LỖI → AI đọc danh sách lỗi, sửa file nguồn tương ứng (`scene-breakdown.md` hoặc `prompts.md`), chạy lại script. LẶP đến khi PASS. TUYỆT ĐỐI KHÔNG sửa trực tiếp `metadata.json` — nó là file sinh ra, sửa nguồn.
+**Typewriter cues (tùy chọn):** nếu tồn tại `input/typewriter.json` (danh sách cue hiệu ứng đánh máy — text overlay do EDITOR thêm lúc dựng, không phải chữ trong ảnh AI nên không đụng Rule 4.5), script merge từng cue vào scene khớp `stt` thành field `typewriter` trong metadata VÀ sinh `output/typewriter-cues.md` (bảng cue kèm ảnh nền cho editor). Nguyên tắc 1 nguồn → 2 output: muốn thêm/sửa cue chỉ sửa `input/typewriter.json` rồi chạy lại export — KHÔNG sửa tay 2 file sinh ra. Script validate: `stt` phải tồn tại (lỗi), `text` không rỗng (lỗi), `at` phải nằm trong khoảng thời gian của scene (cảnh báo). Khi chọn đoạn đặt cue: ưu tiên con số kịch tính, time card, câu thesis/moral — dùng THƯA (~6-14 cue/video dài) mới giữ được sức nặng; khán giả 65+ cần chữ lớn, gõ chậm, giữ dòng 1-2s.
+
+2. Script báo LỖI → AI đọc danh sách lỗi, sửa file nguồn tương ứng (`scene-breakdown.md`, `prompts.md` hoặc `typewriter.json`), chạy lại script. LẶP đến khi PASS. TUYỆT ĐỐI KHÔNG sửa trực tiếp `metadata.json` — nó là file sinh ra, sửa nguồn.
 3. Script PASS → AI chỉ review checklist định tính: character consistency, visual consistency, rhythm quality, prompt quality.
 4. Chế độ kiểm tra nhanh không ghi file: `python3 scripts/export.py --validate`
 
