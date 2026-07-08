@@ -76,6 +76,8 @@ def load_scenes():
             "mood": cells[5],
             "characters": norm_chars(cells[6]),
             "description": cells[7],
+            # cột 10 (SFX) tùy chọn — keyword hiệu ứng âm thanh cho editor
+            "sfx": cells[9].strip() if len(cells) > 9 else "",
         })
     return title, scenes
 
@@ -182,6 +184,11 @@ BEAT_BOUNDS = {  # rule 3.1: min, max (giây)
     "establishing": (10, 18), "dialogue": (6, 12), "emotional_peak": (10, 18),
     "tension": (5, 10), "reflection": (10, 18), "resolution": (12, 25),
 }
+# rule 3.3 — chuyển beat cấm trực tiếp (phải có beat đệm ở giữa)
+FORBIDDEN_TRANS = {
+    ("tension", "resolution"), ("establishing", "emotional_peak"), ("resolution", "tension"),
+}
+REST_BEATS = {"establishing", "reflection"}  # rule 3.6 — beat "nghỉ mắt"
 
 
 def gate_step2():
@@ -192,6 +199,11 @@ def gate_step2():
     moods = set(config.get("mood_map", {}).keys())
     _, scenes = load_scenes()
     srt_end = srt_total_seconds()
+
+    # Rule 1.1c — description PHẢI có danh từ giới tính (chống ảnh ingredient sai giới tính)
+    for c in config.get("characters", []):
+        if not re.search(r"\b(man|woman|boy|girl|male|female)\b", c.get("description", ""), re.I):
+            warns.append(f"Character `{c.get('id')}`: description thiếu danh từ giới tính (man/woman/boy/girl) — ảnh ingredient dễ bị vẽ sai giới tính (Rule 1.1c)")
 
     if not scenes:
         return ["scene-breakdown.md không có dòng scene nào"], []
@@ -210,6 +222,7 @@ def gate_step2():
 
     prev = None
     streak, streak_beat = 0, None
+    rest_run = 0  # rule 3.6 — số scene liên tiếp không có establishing/reflection
     for s in scenes:
         p = f"Scene {s['stt']}"
         dur = ts_to_sec(s["end"]) - ts_to_sec(s["start"])
@@ -235,6 +248,16 @@ def gate_step2():
                 warns.append(f"{p}: 4+ scene liên tiếp cùng beat `{streak_beat}` (rule 3.2)")
         else:
             streak, streak_beat = 1, s["beat_type"]
+        # rule 3.3 — chuyển beat cấm trực tiếp
+        if prev and (prev["beat_type"], s["beat_type"]) in FORBIDDEN_TRANS:
+            warns.append(f"{p}: chuyển beat cấm `{prev['beat_type']}`→`{s['beat_type']}` — cần beat đệm ở giữa (rule 3.3)")
+        # rule 3.6 — nghỉ mắt: mỗi 5-7 scene nên có 1 establishing/reflection
+        if s["beat_type"] in REST_BEATS:
+            rest_run = 0
+        else:
+            rest_run += 1
+            if rest_run == 8:
+                warns.append(f"{p}: 8+ scene liên tiếp không có establishing/reflection để nghỉ mắt cho khán giả 65+ (rule 3.6)")
         prev = s
     return errs, warns
 
@@ -382,12 +405,14 @@ def check_video_hook(vh, scenes, prompts, config=None):
         hits = sorted(set(re.findall(DISCONTINUITY_WORDS, text, re.I)))
         if hits:
             errs.append(f"{cid}: từ gây đứt gãy/subject vanishing: {', '.join(hits)} (Rule 6.6)")
-        stt_n = int(m.group(1))
+        stt_n, clip_k = int(m.group(1)), m.group(2)
         for cid2 in scene_chars.get(stt_n, []):
             nn = nano.get(cid2, "")
-            if nn and nn.lower() not in text.lower():
-                errs.append(f"{cid}: thiếu subject anchor `{nn}` — nguy cơ nhân vật biến mất (Rule 6.6)")
-            # Rule 1.1a — nano_name dính liền sở hữu cách 's trong video prompt
+            # Rule 6.2/6.6 — chỉ ép subject anchor ở clip .1 (dùng ảnh chính scene);
+            # clip .k hard-cut được phép cắt sang insert vật thể/bối cảnh, không có nhân vật
+            if nn and clip_k == "1" and nn.lower() not in text.lower():
+                errs.append(f"{cid}: clip .1 thiếu subject anchor `{nn}` — phải neo nhân vật của scene (Rule 6.6)")
+            # Rule 1.1a — nano_name dính liền sở hữu cách 's (áp mọi clip)
             if nn and re.search(r"\b" + re.escape(nn) + r"'s\b", text):
                 errs.append(f"{cid}: `{nn}'s` — nano_name dính liền sở hữu cách, phá vỡ tham chiếu ảnh ingredient (Rule 1.1a)")
         if len(re.findall(r"\bthen\b", text, re.I)) >= 2:
@@ -445,11 +470,22 @@ SHOT_CATS = [  # (regex, nhóm)
 
 
 def shot_cat(body):
-    order = [(r"extreme close-up", "closeup"), (r"medium close-up", "medium"),
-             (r"extreme wide shot", "wide"), (r"over[- ](?:the[- ])?shoulder", "angle"),
-             (r"wide shot", "wide"), (r"medium shot", "medium"),
-             (r"close-up", "closeup"), (r"two shot", "medium")]
-    for pat, cat in order:
+    # Rule 4.8 — phân loại theo LENS (deterministic) + từ khóa góc máy.
+    # KHÔNG dựa vào cụm scale (vd "extreme close-up") vì cụm đó cũng nằm trong
+    # mood_map (shock) → mọi scene shock bị đếm nhầm là closeup; và "extreme wide
+    # ESTABLISHING shot" không khớp "extreme wide shot" → trả None (KAIZEN 2026-07-08).
+    if re.search(r"over[- ](?:the[- ])?shoulder|low angle|high angle", body):
+        return "angle"
+    if "24mm" in body or "35mm lens" in body:
+        return "wide"
+    if "100mm macro" in body or "85mm portrait" in body:
+        return "closeup"
+    if "85mm lens" in body or "50mm lens" in body:
+        return "medium"
+    # fallback khi prompt thiếu lens — dựa cụm scale
+    for pat, cat in [(r"extreme close-up", "closeup"), (r"medium close-up", "medium"),
+                     (r"extreme wide|wide shot|establishing shot", "wide"),
+                     (r"medium shot", "medium"), (r"close-up", "closeup")]:
         if re.search(pat, body):
             return cat
     return None
@@ -595,9 +631,12 @@ def export_unix():
     setting_tag = {s["id"]: _tagify(s["id"]) for s in settings}
 
     def find_setting_id(prompt_text):
+        # khớp không phân biệt hoa-thường: prompt hay mở đầu Part 2 bằng cụm định danh
+        # viết hoa (vd "Long wall...") → case-sensitive sẽ trượt tag (KAIZEN 2026-07-07)
+        low = prompt_text.lower()
         for s in settings:
             probe = s["keywords"].split(", ")[0]
-            if probe and probe in prompt_text:
+            if probe and probe.lower() in low:
                 return s["id"]
         return None
 
@@ -620,9 +659,9 @@ def export_unix():
             tag = setting_tag[sid]
             tags.append(tag)
             probe = next(s["keywords"] for s in settings if s["id"] == sid).split(", ")[0]
-            idx = text.find(probe)
-            if idx != -1:
-                text = text[:idx] + f"[{tag}] " + text[idx:]
+            m = re.search(re.escape(probe), text, re.IGNORECASE)
+            if m:
+                text = text[:m.start()] + f"[{tag}] " + text[m.start():]
         else:
             unmatched.append(sc["stt"])
         rows.append((sc["stt"], list(dict.fromkeys(tags)), text))
@@ -688,6 +727,8 @@ def main():
                 "characters": s["characters"],
                 "prompt": prompts[s["stt"]],
                 "image_file": f"{s['stt']}.jpg",
+                "sfx": [k.strip() for k in s.get("sfx", "").split(",")
+                        if k.strip() and k.strip() not in ("-", "—")],
             })
 
         meta = {

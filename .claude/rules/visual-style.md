@@ -60,6 +60,21 @@ Ví dụ:
 
 Khi scene 1 và scene 25 đều ở văn phòng CEO → cả 2 prompt đều chứa cùng keywords trên.
 
+### 2.3a — Setting Reference Prompt (ảnh ingredient bối cảnh)
+
+Bước 5 (`--unix-export`) gắn asset tag cho CẢ nhân vật LẪN bối cảnh (vd `[COURTROOM]`, `[EAST_FENCE_WALL]`). Nghĩa là mỗi setting cũng là một **asset/ingredient** mà user phải vẽ TRƯỚC rồi mới reference vào scene — y như ảnh nhân vật. Nếu chỉ sinh ảnh ref cho nhân vật, user sẽ thấy tag `[COURTROOM]` trong prompt Uni-X mà không có ảnh bối cảnh nào để upload.
+
+Quy tắc:
+- Bước 1 PHẢI sinh **prompt ảnh tham chiếu cho từng setting** trong `config.json > settings[]`, lưu chung `output/character-refs.md` (mục "Bối cảnh / Setting Assets") — cùng file với ảnh ref nhân vật để user vẽ trọn bộ asset trước.
+- Template ref bối cảnh (ảnh nền trống, không người, để reference vào nhiều scene):
+```
+Wide establishing shot of an empty [keywords của setting — nguyên văn cụm định danh + chi tiết], no people present rephrased as unoccupied, natural even lighting, [MEDIUM của style anchor]
+```
+  Diễn đạt "trống/không người" bằng cụm tích cực: `an empty courtroom`, `an unoccupied workshop` — KHÔNG dùng `no people` (positive framing, Rule 4.6).
+- **[MEDIUM của style anchor]**: chỉ lấy phần tuyên bố medium (giống ảnh ref nhân vật, Rule 1.4) — KHÔNG kèm lighting/mood của scene; ảnh nền cần trung tính để hòa vào lighting từng scene.
+- Asset tag của setting = `id` viết hoa (Bước 5). Đặt tên ảnh ingredient bối cảnh đúng tag đó khi upload lên Uni-X.
+- Cùng medium với style anchor project (Rule 2.1a). Đổi style → vẽ lại toàn bộ ảnh ref (cả nhân vật lẫn bối cảnh).
+
 ## 2.4 — Flashback Visual Differentiation
 
 - Scene có beat_type `reflection` hoặc diễn ra ở thời điểm quá khứ PHẢI có sự khác biệt visual rõ ràng so với hiện tại.

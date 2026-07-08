@@ -82,7 +82,7 @@ wmg-storyboard-prompt/
 │   ├── script.txt           ← (Optional) Script gốc
 │   └── subtitle.srt         ← File SRT có timestamp — INPUT CHÍNH
 └── output/
-    ├── character-refs.md    ← Prompt ảnh tham chiếu nhân vật (Bước 1, Rule 1.4)
+    ├── character-refs.md    ← Prompt ảnh tham chiếu ASSET: nhân vật (Rule 1.4) + bối cảnh (Rule 2.3a) — Bước 1
     ├── scene-breakdown.md   ← Kết quả Bước 2 (bản đọc cho người)
     ├── prompts.md           ← Bộ prompt ảnh Bước 3 (TOÀN BỘ scene, kể cả hook)
     ├── video-prompts.md     ← Video prompt hook + copy image prompt (Bước 3, Rule 6.x)
@@ -124,7 +124,7 @@ Quy trình:
   "flashback_style": "soft warm vignette, slightly faded colors, dreamy atmosphere",
   "video_hook": {
     "enabled": false,
-    "duration_s": 120,
+    "duration_s": 60,
     "max_clip_s": 8,
     "video_style": "photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera"
   },
@@ -152,11 +152,15 @@ Quy trình:
 
 4. Hỏi user review: xác nhận nhân vật, chọn `style` string, xác nhận locations, thêm/sửa mood nếu cần.
    - **`nano_name` tự đặt = chính tên nhân vật** (tên gọi ngắn trong truyện, vd "Jonah", "Clare"; variant quá khứ = "Young Jonah"). Đây là tên dùng trong mọi prompt ảnh/video khi nhân vật hoặc nhóm nhân vật đó xuất hiện — không cần user bổ sung tay.
+   - **`description` mỗi nhân vật PHẢI mở đầu bằng danh từ giới tính + tuổi** (`[tuổi]-year-old man/woman/boy/girl`) trước nghề nghiệp/đặc điểm (Rule 1.1c) — thiếu danh từ giới tính thì ảnh ingredient dễ bị vẽ sai giới (vd nghề "mechanic" bị vẽ thành nữ). Gate `--step2` cảnh báo nếu thiếu.
    - **Chọn style BẮT BUỘC dứt khoát 1 medium** (Rule 2.1a): đưa user chọn giữa 2 preset — ảnh thật (`photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field` — KHÔNG chứa lighting, lighting do mood_map quyết) hoặc tranh vẽ (`painterly digital illustration, cinematic composition, ...`). CẤM style trộn 2 medium kiểu `realistic illustration` — gây lỗi ảnh lúc thật lúc hư cấu.
    - Nhắc user: ảnh tham chiếu nhân vật (ingredients trong Flow) phải cùng medium với style đã chọn.
    - Nếu bối cảnh có thời kỳ cụ thể → điền khối `era` (Rule 2.5): style anchor kèm era aesthetic, character descriptions mặc đồ đúng thời kỳ, settings có marker niên đại, danh sách `forbidden` chống đồ vật hiện đại lọt vào prompt.
 5. Lưu `input/config.json`.
-6. Sau khi user chốt config: sinh **prompt ảnh tham chiếu** cho từng nhân vật (kể cả variant) theo template Rule 1.4 → lưu `output/character-refs.md`. User dùng các prompt này tạo ảnh ingredient trong Flow TRƯỚC khi generate scene.
+6. Sau khi user chốt config: sinh **prompt ảnh tham chiếu (ingredient)** cho MỌI asset — lưu `output/character-refs.md`:
+   - từng **nhân vật** (kể cả variant) theo template Rule 1.4;
+   - từng **bối cảnh** trong `settings[]` theo template Rule 2.3a (ảnh nền trống, không người) — vì Bước 5 gắn asset tag cho cả setting (`[COURTROOM]`...), user cần ảnh bối cảnh để upload lên Uni-X.
+   User dùng các prompt này tạo ảnh ingredient trong Flow/Uni-X TRƯỚC khi generate scene. Đặt tên ảnh đúng asset tag (nhân vật = nano_name, bối cảnh = `id` viết hoa).
 
 **Validation:** config là valid JSON, có ≥1 character đủ 4 field, `style` không rỗng, có ≥1 setting đủ 3 field, `mood_map` có đủ mood cơ bản, `total_duration` khớp SRT.
 
@@ -176,6 +180,7 @@ Quy trình:
 4. Gán beat_type cho mỗi scene (Rule 3.1): establishing / dialogue / emotional_peak / tension / reflection / resolution.
 5. Gán mood từ `config.json > mood_map`.
 6. Trích xuất visual elements: characters (ID từ config), setting (ID từ config), key visual, gợi ý shot type.
+6b. Điền cột `SFX`: 1-3 cụm keyword hiệu ứng âm thanh tiếng Anh cho editor tìm sfx (vd `rotary phone dialing, phone cord stretch`) — chỉ bám âm thanh CÓ THẬT trong narration/bối cảnh (nước chảy, ve sầu, máy kéo, phấn viết bảng...), không bịa; scene không có âm thanh đặc trưng → `-`. Cột này đi vào field `sfx` của metadata.json ở Bước 4.
 7. Validate: duration trong min-max, không 4+ cùng beat type liên tiếp, không transition bị cấm, cắt tại ranh giới câu, không gap/overlap, mỗi 5-7 scene có ≥1 establishing/reflection.
 
 **Quy tắc chống tràn context (BẮT BUỘC với video >20 phút):**
@@ -197,9 +202,9 @@ Gate kiểm: coverage đủ đến hết SRT, không Dur=0, không gap/overlap, 
 # Scene Breakdown: [Title]
 Total scenes: [N] | Total duration: [HH:MM:SS]
 
-| STT | Start | End | Dur(s) | Beat Type | Mood | Characters | Description | Visual Notes |
-|---|---|---|---|---|---|---|---|---|
-| 1 | 00:00:00 | 00:00:18 | 18 | dialogue | dismissive | marin, lydia | Lydia đưa hồ sơ cho Marin | Medium shot, bàn CEO |
+| STT | Start | End | Dur(s) | Beat Type | Mood | Characters | Description | Visual Notes | SFX |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | 00:00:00 | 00:00:18 | 18 | dialogue | dismissive | marin, lydia | Lydia đưa hồ sơ cho Marin | Medium shot, bàn CEO | papers on desk, office room tone |
 
 ## Beat Distribution
 - establishing: X (Y%)
@@ -230,7 +235,7 @@ Quy trình:
 3. Validate từng prompt: đúng 5 phần, 20-75 từ, không text/chữ, không mâu thuẫn narration, đúng nano_name, ≤3 nhân vật, đúng setting keywords, đúng mood keywords, style nguyên vẹn.
 4. Kiểm tra shot type distribution trong mỗi cụm 10 scene (Rule 4.2).
 
-**Video Hook (khi `video_hook.enabled = true`):** sau khi xong prompts.md, sinh thêm `output/video-prompts.md` theo Rule 6.1→6.4 (file `.claude/rules/video-prompt.md`): các scene trong cửa sổ `duration_s` đầu được chia clip ≤ `max_clip_s`, mỗi clip .1 kèm bản copy nguyên văn image prompt của scene (ảnh 1 = frame đầu trong Flow), clip sau dùng Extend. Video prompt mô tả camera motion + hành động tiến triển, KHÔNG dialogue.
+**Video Hook (khi `video_hook.enabled = true`):** sau khi xong prompts.md, sinh thêm `output/video-prompts.md` theo Rule 6.1→6.7 (file `.claude/rules/video-prompt.md`). Mục tiêu: hook ~1 phút (`duration_s` mặc định 60) cảm xúc CỰC MẠNH, **mỗi clip là 1 CÚ CẮT sang cảnh khác (hard cut, ảnh riêng)** — clip .1 dùng ảnh scene (copy nguyên văn image prompt), mỗi clip .k là 1 ảnh phụ `[stt]-[k].jpg` cắt sang shot/chủ thể/scale mới; CẤM Extend tua chậm cùng khung. Chuỗi clip leo thang như trailer. Video prompt mô tả camera motion + 1 chuyển động, KHÔNG dialogue.
 
 **Quy tắc chống tràn context (BẮT BUỘC với >40 scenes):**
 - Tạo prompt theo **batch 25-30 scenes**: đọc đúng đoạn tương ứng trong `scene-breakdown.md` → viết prompts → **append ngay vào `prompts.md`** → mới sang batch tiếp.
@@ -273,7 +278,7 @@ Quy trình:
 python3 scripts/export.py
 ```
 
-Script tự động: parse scene-breakdown + prompts + config → sinh `output/metadata.json` → validate toàn bộ Rules 5.1→5.8 (stt liên tục, no gap/overlap, duration_s tính từ timestamp, timestamp HH:MM:SS, character IDs tồn tại trong config, image_file khớp stt, đủ required fields, valid JSON) → in báo cáo beat distribution + PASS/FAIL.
+Script tự động: parse scene-breakdown + prompts + config → sinh `output/metadata.json` → validate toàn bộ Rules 5.1→5.8 (stt liên tục, no gap/overlap, duration_s tính từ timestamp, timestamp HH:MM:SS, character IDs tồn tại trong config, image_file khớp stt, đủ required fields, valid JSON) → in báo cáo beat distribution + PASS/FAIL. Mỗi scene trong metadata kèm field `sfx` (mảng keyword, đọc từ cột SFX của scene-breakdown) để editor tìm hiệu ứng âm thanh cho phân cảnh.
 
 2. Script báo LỖI → AI đọc danh sách lỗi, sửa file nguồn tương ứng (`scene-breakdown.md` hoặc `prompts.md`), chạy lại script. LẶP đến khi PASS. TUYỆT ĐỐI KHÔNG sửa trực tiếp `metadata.json` — nó là file sinh ra, sửa nguồn.
 3. Script PASS → AI chỉ review checklist định tính: character consistency, visual consistency, rhythm quality, prompt quality.

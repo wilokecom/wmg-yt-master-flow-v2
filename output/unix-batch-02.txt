@@ -1,311 +1,399 @@
-(Image Prompt 1/78)
-Assets: IRRIGATION_DITCH
-Prompt: Pale dead tilapia resting beneath a thin layer of ice in the ditch water, close view of frost crystals along the ice surface, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, extreme close-up, 100mm macro lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 2/78)
-Assets: ELI, IRRIGATION_DITCH
-Prompt: [ELI] standing frost-covered near the ditch in his red plaid flannel shirt, looking down at a large stiff gray fish, breath forming pale clouds in the cold air, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, medium shot, 50mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 3/78)
-Assets: HARLAN, ELI, PECAN_TREE
-Prompt: [HARLAN] and [ELI] digging a small grave together beneath a bare tree, a child-sized shovel resting in the frost-hardened earth beside an empty cigar box, [PECAN_TREE] lone bare pecan tree at the edge of a frozen winter field, wide shot, 35mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 4/78)
-Assets: ELI, HARLAN, PECAN_TREE
-Prompt: Looking past the shoulder of [HARLAN], [ELI] in small gloves patting flat a mound of dirt, a warm light glowing from the distant kitchen window beyond, [PECAN_TREE] lone bare pecan tree at the edge of a frozen winter field, over-shoulder shot, 50mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 5/78)
-Assets: HARLAN, IRRIGATION_DITCH
-Prompt: [HARLAN] sitting alone on the hard frozen ground along the ditch bank in the winter light, knees drawn up, motionless for a long while, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield under a pale winter sky, wide shot, 35mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 6/78)
-Assets: HARLAN, IRRIGATION_DITCH
-Prompt: [HARLAN] standing tall and resolute against the pale winter sky, shoulders squared, jaw set with quiet resolve, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield under a pale winter sky, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 7/78)
-Assets: HARLAN, IRRIGATION_DITCH
-Prompt: [HARLAN] gripping a fistful of dark soil tightly in his hand beside a pale dead fish resting on the frozen ground, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, close-up, 85mm portrait lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 8/78)
-Assets: ANNIE, FARM_KITCHEN
-Prompt: [ANNIE] sitting at the kitchen table under warm lamplight, chalk dust on the sleeve of her dress, telling a story with warmth, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, medium shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
-
-(Image Prompt 9/78)
-Assets: HARLAN, FARM_FIELDS
-Prompt: [HARLAN] in a faded blue chambray shirt driving a tractor pulling a middle-buster plow, turning row after row of pale dead fish into the dark winter soil, [FARM_FIELDS] flat south Georgia corn farm with red dirt fields and distant pine tree line, wide shot, 35mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 10/78)
-Assets: SUMP_POND
-Prompt: Breeding fish sheltering quietly in the still dark water near the cattails, calm winter light on the pond surface, [SUMP_POND] dark sump pond behind a weathered gray barn with cattails, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 11/78)
-Assets: FARM_FIELDS
-Prompt: Close view of dark soil with young pale roots and earthworms moving through it, a thin layer of frost visible just above the ground, [FARM_FIELDS] flat south Georgia corn farm with red dirt fields and distant pine tree line, extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 12/78)
-Assets: HARLAN, ELI, SUMP_POND
-Prompt: Looking past the shoulder of [HARLAN], [ELI] wading through the shallow spring water holding a net and a five-gallon bucket full of surviving fish, [SUMP_POND] dark sump pond behind a weathered gray barn with cattails, over-shoulder shot, 50mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 13/78)
-Assets: ELI, IRRIGATION_DITCH
-Prompt: [ELI] carrying a bucket of water with his mouth open mid-count and a focused expression, wearing his red plaid flannel shirt, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield in spring light, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 14/78)
-Assets: HARLAN, RAY, FARM_FIELDS
-Prompt: [HARLAN] and [RAY] in his olive green work shirt standing beside a truck bed loaded with aerated water tanks full of fish stock, [FARM_FIELDS] flat south Georgia corn farm with red dirt fields and distant pine tree line, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 15/78)
-Assets: HARLAN, FARM_KITCHEN
-Prompt: [HARLAN] tucking a small stack of folded bills into a battered coffee can on the kitchen counter, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, close-up, 85mm portrait lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 16/78)
-Assets: IRRIGATION_DITCH
-Prompt: Clear blue-tinted ditch water reflecting the figure of someone standing quietly on the bank in early summer light, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, wide shot, 35mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 17/78)
-Assets: HARLAN, IRRIGATION_DITCH
-Prompt: Beside the ditch, [HARLAN] closes his eyes and tilts his head slightly upward as if breathing in the summer air, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield in summer light, medium shot, 50mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 18/78)
-Assets: ELI, IRRIGATION_DITCH
-Prompt: [ELI] cupping a single earthworm carefully in his two small hands close to his chest with quiet wonder, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield in autumn light, close-up, 85mm portrait lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 19/78)
-Assets: IRRIGATION_DITCH
-Prompt: A gray heron standing perfectly still at the edge of the ditch in early morning light, poised and patient above the calm water, [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, wide shot, 35mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 20/78)
-Assets: HARLAN, FARM_KITCHEN
-Prompt: [HARLAN] sitting alone at the kitchen table with a creased letter showing faint blurred print and a pen beside it, the aquarium glowing softly in the dark room, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, thirty-gallon aquarium with chipped front corner, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 21/78)
-Assets: HARLAN, FARM_KITCHEN
-Prompt: [HARLAN] gazing intently, pale green-gold light reflected in his eyes, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, thirty-gallon aquarium with chipped front corner, close-up, 85mm portrait lens, full head within frame, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 22/78)
-Assets: HARLAN
-Prompt: [HARLAN] tying twine around a cardboard soil-sample box on a wooden table, farmhouse kitchen with worn linoleum floor and a mailing label blurred out of focus, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 23/78)
-Assets: HARLAN
-Prompt: [HARLAN] standing beside a battered tin mailbox on a gravel farm road, unsteady hands holding an open envelope between a seed catalog and a utility bill, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 24/78)
-Assets: HARLAN
-Prompt: [HARLAN], hand trembling, holding a creased typed page with blurred rows of tiny printed numbers, farmhouse kitchen with worn linoleum floor, extreme close-up, 100mm macro lens, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 25/78)
-Assets: HARLAN
-Prompt: [HARLAN], finger tracing a handwritten note in blue ink along a page margin, blurred out of focus, farmhouse kitchen with worn linoleum floor, close-up, 85mm portrait lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 26/78)
-Assets: HARLAN, IRRIGATION_DITCH
-Prompt: [HARLAN] standing at a field's edge gazing toward a shimmering [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 27/78)
-Assets: FARM_FIELDS
-Prompt: Sunlit rows of healthy corn stalks standing thick and green across a [FARM_FIELDS] flat south Georgia corn farm with red dirt fields and distant pine tree line, wide shot, 35mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 28/78)
+(Image Prompt 1/100)
 Assets: 
-Prompt: A leather ledger book open on a wooden table, thin dark ink entries blurred out of focus across its pages, farmhouse kitchen with worn linoleum floor, extreme close-up, 100mm macro lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+Prompt: Open rolling Iowa farmland stretching to the horizon at dawn, empty fields under a soft pale morning sky, a lone dirt road winding through, extreme wide shot, 24mm wide-angle lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 29/78)
-Assets: HARLAN, ELI, COUNTY_MARKET
-Prompt: [HARLAN] and [ELI] in a faded red plaid flannel shirt, arranging cleaned white tilapia fillets in an ice cooler, [COUNTY_MARKET] open-air 1970s county farmers market with wooden tables, over-shoulder shot, 50mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 2/100)
+Assets: SOUTH_FIELD
+Prompt: Quiet open fields under a still overcast sky, [SOUTH_FIELD] drought-stricken cornfield with pale corn stalks, cracked dry earth, wire fence line, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 30/78)
-Assets: ELI, COUNTY_MARKET
-Prompt: [ELI] in a faded red plaid flannel shirt, counting coins from a cigar box, [COUNTY_MARKET] open-air 1970s county farmers market with wooden tables, medium close-up, 85mm lens, full head within frame, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 3/100)
+Assets: ASHER, FARMHOUSE_PORCH
+Prompt: [ASHER] sitting calmly in a chair on the porch holding a metal thermos as a black Lincoln Navigator rolls up the gravel driveway, [FARMHOUSE_PORCH] farmhouse front porch with weathered wooden railing, open fields beyond, wide shot, 35mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 31/78)
-Assets: ELI
-Prompt: [ELI] in a faded red plaid flannel shirt, pressing a folded page against a low wall, farmhouse kitchen with worn linoleum floor, thirty-gallon aquarium with chipped front corner, over-shoulder shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 4/100)
+Assets: GRANGER, JUNIOR_ATTORNEY, FARMHOUSE_PORCH
+Prompt: [GRANGER] in a charcoal wool overcoat stepping onto the gravel beside [JUNIOR_ATTORNEY] in a crisp new suit, a broad security guard as a background figure, [FARMHOUSE_PORCH] farmhouse front porch with weathered wooden railing, gravel driveway, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 32/78)
-Assets: GRAIN_ELEVATOR
-Prompt: An empty green chalkboard waiting inside a dusty scale house at the [GRAIN_ELEVATOR] county grain elevator, a single stick of chalk resting on its wooden ledge, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 5/100)
+Assets: GRANGER, ASHER, FARMHOUSE_PORCH
+Prompt: [GRANGER] standing and gesturing down toward [ASHER] who sits in a porch chair, viewed over the shoulder of Granger, [FARMHOUSE_PORCH] farmhouse front porch with weathered wooden railing, gravel driveway, close-up, 85mm portrait lens, full head within frame, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 33/78)
-Assets: FARM_FIELDS
-Prompt: A pale silver-white sky stretching over dry cracked cornfields, [FARM_FIELDS] flat south Georgia corn farm with red dirt fields and distant pine tree line, extreme wide shot, 24mm wide-angle lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 6/100)
+Assets: ASHER, FARMHOUSE_PORCH
+Prompt: [ASHER] raising a thermos cup to sip with a relaxed unhurried expression on his weathered face, [FARMHOUSE_PORCH] farmhouse front porch with weathered wooden railing behind, close-up, 85mm portrait lens, full head within frame, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 34/78)
-Assets: FARM_FIELDS
-Prompt: A cracked dirt road past a leaning wooden fence under a pale washed-out sky, [FARM_FIELDS] flat south Georgia corn farm with red dirt fields and distant pine tree line, wide shot, 35mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 7/100)
+Assets: GRANGER, ASHER, FARMHOUSE_PORCH
+Prompt: [GRANGER] holding up a formal default notice document toward the seated [ASHER], [FARMHOUSE_PORCH] farmhouse front porch with weathered wooden railing, gravel driveway, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 35/78)
-Assets: IRRIGATION_DITCH
-Prompt: Water beading into scattered droplets that slide across a hard crusted pale-white salt-caked soil surface, dry [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, close-up, 85mm portrait lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 8/100)
+Assets: JUNIOR_ATTORNEY, ASHER, FARMHOUSE_PORCH
+Prompt: [JUNIOR_ATTORNEY] extending a manila envelope forward while the hands of [ASHER] rest still on his knee, [FARMHOUSE_PORCH] farmhouse front porch with weathered wooden railing, close-up, 85mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 36/78)
-Assets: FARM_FIELDS
-Prompt: Rows of curled dry corn leaves twisted tightly inward under harsh midday sun, [FARM_FIELDS] flat south Georgia corn farm with red dirt fields and distant pine tree line, close-up, 85mm portrait lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 9/100)
+Assets: ASHER, GRANGER, FARMHOUSE_PORCH
+Prompt: [ASHER] seated looking up steadily at [GRANGER] who stands over him, viewed over the shoulder of Asher, [FARMHOUSE_PORCH] farmhouse front porch with weathered wooden railing, gravel driveway, over-shoulder shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 37/78)
-Assets: HARLAN, FARM_FIELDS
-Prompt: [HARLAN] holding a handful of dark crumbly loose soil, upright green cornstalks behind him, [FARM_FIELDS] flat south Georgia corn farm with red dirt fields and distant pine tree line, medium shot, 50mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 10/100)
+Assets: ASHER, FARMHOUSE_PORCH
+Prompt: [ASHER] rising slowly to his feet on the porch after setting a metal thermos on the railing, looking down toward the gravel yard, [FARMHOUSE_PORCH] farmhouse front porch with weathered wooden railing, open fields beyond, close-up, 85mm portrait lens, full head within frame, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 38/78)
-Assets: GRAIN_ELEVATOR
-Prompt: Dust hanging thick in the lamplight inside a dusty scale house at the [GRAIN_ELEVATOR] county grain elevator, a distant chalkboard marked with faint smudged chalk figures, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 11/100)
+Assets: ASHER, FARMHOUSE_PORCH
+Prompt: [ASHER] standing with a calm resolute expression on his weathered face, hands loosely at his sides, [FARMHOUSE_PORCH] farmhouse front porch with weathered wooden railing behind, medium close-up, 85mm lens, full head within frame, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 39/78)
-Assets: GRAIN_ELEVATOR
-Prompt: A hand holding a chalk stick paused before a chalkboard marked with faint smudged figures, dusty scale house at the [GRAIN_ELEVATOR] county grain elevator, close-up, 85mm portrait lens, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 12/100)
+Assets: GRANGER, FARMHOUSE_PORCH
+Prompt: [GRANGER] standing with a sharp scornful smirk and a slight tilt of his head, wool overcoat buttoned, [FARMHOUSE_PORCH] farmhouse front porch with weathered wooden railing, gravel driveway, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 40/78)
-Assets: GRAIN_ELEVATOR
-Prompt: Rows of farmers standing motionless in dusty golden light near the grain elevator scale house, [GRAIN_ELEVATOR] county grain elevator with tall corrugated metal silos, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 13/100)
+Assets: ASHER
+Prompt: The weathered hand of [ASHER] unfolding a creased photocopied contract page, bold blue ink initials marked in the margin, dense fine print across the sheet, extreme close-up, 100mm macro lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 41/78)
-Assets: EARL, GRAIN_ELEVATOR
-Prompt: [EARL] in a beige feed cap and denim overalls, hat held in hand, reading a distant chalkboard, dusty scale house at the [GRAIN_ELEVATOR] county grain elevator, over-shoulder shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 14/100)
+Assets: ASHER, JUNIOR_ATTORNEY, FARMHOUSE_PORCH
+Prompt: [ASHER] holding out the folded photocopy page to [JUNIOR_ATTORNEY] who reaches to take it, viewed over the shoulder of Asher, [FARMHOUSE_PORCH] farmhouse front porch with weathered wooden railing, gravel driveway, over-shoulder shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 42/78)
-Assets: OLDER_ELI, CLASSROOM
-Prompt: [OLDER_ELI] in a light blue chambray shirt, standing before classmates holding a mason jar of ditch water with a circling fish, [CLASSROOM] 1970s classroom with small wooden desks and green chalkboard, medium shot, 50mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 15/100)
+Assets: JUNIOR_ATTORNEY, FARMHOUSE_PORCH
+Prompt: [JUNIOR_ATTORNEY] holding the photocopied page up close and reading it with a tense focused expression, [FARMHOUSE_PORCH] farmhouse front porch with weathered wooden railing behind, medium close-up, 85mm lens, full head within frame, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 43/78)
-Assets: OLDER_ELI, CLASSROOM
-Prompt: [OLDER_ELI] in a light blue chambray shirt, speaking quietly with a classmate at the classroom doorway, [CLASSROOM] 1970s classroom with small wooden desks and green chalkboard, over-shoulder shot, 50mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 16/100)
+Assets: ASHER, JUNIOR_ATTORNEY, FARMHOUSE_PORCH
+Prompt: [JUNIOR_ATTORNEY] standing pale and unsettled holding the trembling page, viewed over the shoulder of [ASHER] who stands firm in the foreground, [FARMHOUSE_PORCH] farmhouse front porch with weathered wooden railing, gravel driveway, over-shoulder shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 44/78)
-Assets: OLDER_KESSLER
-Prompt: [OLDER_KESSLER] driving a weathered sedan slowly over ruts along a gravel farm road leading toward a weathered clapboard farmhouse, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 17/100)
+Assets: JUNIOR_ATTORNEY, FARMHOUSE_PORCH
+Prompt: [JUNIOR_ATTORNEY] holding a folded photocopy page up and reading aloud, brow tight and lips parted mid-word, [FARMHOUSE_PORCH] farmhouse front porch, weathered wooden railing, gravel driveway, medium close-up, 85mm lens, full head within frame, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 45/78)
-Assets: OLDER_KESSLER, FARM_YARD
-Prompt: [OLDER_KESSLER] in a rumpled light gray suit, new lines etched around his tired eyes, a dulled chrome bumper blurred behind him, [FARM_YARD] red dirt farmyard before a weathered clapboard farmhouse, close-up, 85mm portrait lens, full head within frame, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 18/100)
+Assets: JUNIOR_ATTORNEY, GRANGER, FARMHOUSE_PORCH
+Prompt: The trembling hands of [JUNIOR_ATTORNEY] gripping a folded photocopy page with blue ink initials in the margin, [GRANGER] standing close in a dark wool overcoat, [FARMHOUSE_PORCH] farmhouse front porch, weathered wooden railing, extreme close-up, 100mm macro lens, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 46/78)
-Assets: OLDER_KESSLER, FARM_YARD
-Prompt: [OLDER_KESSLER] looking down at the red dust settled beneath his scuffed black shoes, [FARM_YARD] red dirt farmyard before a weathered clapboard farmhouse, close-up, 85mm portrait lens, full head within frame, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 19/100)
+Assets: GRANGER, FARMHOUSE_PORCH
+Prompt: [GRANGER] clutching a folded photocopy page in one fist, face drained pale and jaw clenched tight with wide startled eyes, [FARMHOUSE_PORCH] farmhouse front porch, weathered wooden railing, close-up, 85mm portrait lens, full head within frame, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 47/78)
-Assets: PRUITT, FARM_YARD
-Prompt: [PRUITT] in a crisp white short-sleeve dress shirt, holding a wooden clipboard pressed against his chest with both hands, [FARM_YARD] red dirt farmyard before a weathered clapboard farmhouse, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 20/100)
+Assets: ASHER, GRANGER, FARMHOUSE_PORCH
+Prompt: [ASHER] leaning forward with both hands gripping the porch railing, cold hard stare aimed down at [GRANGER] who stands below in a dark wool overcoat, [FARMHOUSE_PORCH] farmhouse front porch, weathered wooden railing, gravel driveway, wide shot, 35mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 48/78)
-Assets: PRUITT, HARLAN, FARM_YARD
-Prompt: [PRUITT] facing [HARLAN] with head bowed slightly, holding a creased notebook page blurred out of focus, [FARM_YARD] red dirt farmyard before a weathered clapboard farmhouse, medium close-up, 85mm lens, full head within frame, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 21/100)
+Assets: ASHER, FARMHOUSE_PORCH
+Prompt: [ASHER] standing firm with a steady unflinching gaze and set jaw, weathered face lined by sun, [FARMHOUSE_PORCH] farmhouse front porch, weathered wooden railing, open fields beyond, close-up, 85mm portrait lens, full head within frame, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 49/78)
-Assets: PRUITT, HARLAN, OLDER_KESSLER, FARM_YARD
-Prompt: [PRUITT], [HARLAN], and [OLDER_KESSLER] standing together in quiet conversation, [FARM_YARD] red dirt farmyard before a weathered clapboard farmhouse, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 22/100)
+Assets: GRANGER, ASHER, FARMHOUSE_PORCH
+Prompt: [GRANGER] with mouth open mid-protest and one hand raised, [ASHER] standing calm and unmoved facing him, viewed over the shoulder of Asher, [FARMHOUSE_PORCH] farmhouse front porch, weathered wooden railing, gravel driveway, over-shoulder shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 50/78)
-Assets: HARLAN, PRUITT, OLDER_KESSLER, IRRIGATION_DITCH
-Prompt: [HARLAN] leading [PRUITT] and [OLDER_KESSLER] along a flowing [IRRIGATION_DITCH] irrigation ditch with red-dirt banks beside a Georgia cornfield, olive-backed fish gliding near a moss-covered screen gate, wide shot, 35mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 23/100)
+Assets: ASHER, FARMHOUSE_PORCH
+Prompt: [ASHER] holding a metal thermos stepping back through a heavy oak front door as it swings nearly shut, calm resolute expression, [FARMHOUSE_PORCH] farmhouse front porch, weathered wooden railing, gravel driveway, medium shot, 50mm lens, golden late-afternoon light, wide open framing, warm contrast, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 51/78)
-Assets: HARLAN, PRUITT, OLDER_KESSLER, FARM_KITCHEN
-Prompt: [HARLAN], [PRUITT], and [OLDER_KESSLER] leaning over a worn leather-bound ledger lying open on a wooden kitchen table, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, medium shot, 50mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 24/100)
+Assets: GRANGER
+Prompt: [GRANGER] as a small hurried figure crossing toward the glass entrance of a towering corporate skyscraper in downtown Des Moines, mirrored blue facade rising against an overcast sky, extreme wide establishing shot, 24mm wide-angle lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 52/78)
-Assets: PRUITT, FARM_KITCHEN
-Prompt: [PRUITT] tracing a finger down a worn leather-bound ledger page, faint ink entries blurred out of focus, wooden kitchen table in a [FARM_KITCHEN] 1970s farmhouse kitchen, extreme close-up, 100mm macro lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 25/100)
+Assets: CALDWELL, VOSS, GRANGER, BANK_BOARDROOM
+Prompt: [CALDWELL] seated at the head of the table, [VOSS] seated beside him, [GRANGER] slamming a folded photocopy page down onto the wood, [BANK_BOARDROOM] corporate top-floor boardroom, long polished mahogany conference table, city skyline windows, extreme wide establishing shot, 24mm wide-angle lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 53/78)
-Assets: RAY, PRUITT
-Prompt: [RAY] in an olive green work shirt backing a truck bed with a sloshing fish tank toward the ditch, [PRUITT] in a crisp white shirt watching with a slow head-to-toe glance, irrigation ditch beside a cornfield, wide shot, 35mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 26/100)
+Assets: CALDWELL, VOSS, BANK_BOARDROOM
+Prompt: [CALDWELL] frowning across the table while [VOSS] holds the folded photocopy page up reading it aloud, [BANK_BOARDROOM] corporate top-floor boardroom, long polished mahogany conference table, city skyline windows, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 54/78)
-Assets: RAY
-Prompt: [RAY] in an olive green work shirt speaking directly with one hand resting on the truck bed rail, irrigation ditch beside a south Georgia cornfield, medium close-up, 85mm lens, full head within frame, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 27/100)
+Assets: VOSS, GRANGER
+Prompt: Extreme close-up of a folded photocopy page lying on a polished mahogany table, bold blue ink initials pressed into the margin beside dense rows of tiny faint print, the pointing finger of [VOSS] at the edge of frame, [GRANGER] leaning in above, extreme close-up, 100mm macro lens, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 55/78)
-Assets: OLDER_KESSLER, HARLAN, FARM_KITCHEN
-Prompt: [OLDER_KESSLER] smoothing a manila folder flat with one hand on the wooden kitchen table squarely in front of [HARLAN], [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, close-up, 85mm portrait lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 28/100)
+Assets: VOSS, GRANGER, BANK_BOARDROOM
+Prompt: [VOSS] turning with a hard grim expression toward [GRANGER] who sits stiff and shrinking beside, [BANK_BOARDROOM] corporate top-floor boardroom, long polished mahogany conference table, close-up, 85mm portrait lens, full head within frame, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 56/78)
-Assets: OLDER_KESSLER, FARM_KITCHEN
-Prompt: [OLDER_KESSLER] in a rumpled light gray suit reading aloud from an open manila folder under the kitchen light, wooden kitchen table in a [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 29/100)
+Assets: CALDWELL, VOSS, BANK_BOARDROOM
+Prompt: [CALDWELL] speaking with a grave set jaw viewed over the shoulder of [VOSS] across the table, [BANK_BOARDROOM] corporate top-floor boardroom, long polished mahogany conference table, city skyline windows, over-shoulder shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 57/78)
-Assets: OLDER_KESSLER, HARLAN, FARM_KITCHEN
-Prompt: [HARLAN] viewed from behind the shoulder looking at [OLDER_KESSLER] holding open folder pages with printed text blurred out of focus, wooden kitchen table in a [FARM_KITCHEN] 1970s farmhouse kitchen, over-shoulder shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 30/100)
+Assets: VOSS, BANK_BOARDROOM
+Prompt: [VOSS] fastening a suit jacket button with a cold flat expression, standing at the boardroom table, [BANK_BOARDROOM] corporate top-floor boardroom, long polished mahogany conference table, city skyline windows, medium close-up, 85mm lens, full head within frame, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 58/78)
-Assets: OLDER_KESSLER, FARM_KITCHEN
-Prompt: [OLDER_KESSLER] speaking slowly under the warm kitchen light, full head within frame, wooden kitchen table in a [FARM_KITCHEN] 1970s farmhouse kitchen, close-up, 85mm portrait lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 59/78)
-Assets: FARM_KITCHEN
-Prompt: A trembling square of blue-gold light cast by the thirty-gallon aquarium glowing on the kitchen counter, resting on the wall beside a yellowed soil-test sheet pasted there, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, extreme close-up, 100mm macro lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 60/78)
-Assets: HARLAN, FARM_KITCHEN
-Prompt: [HARLAN] standing at the wooden kitchen table gazing down at a closed manila folder for a long moment, thirty-gallon aquarium with a chipped front corner glowing on the counter behind him, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 61/78)
-Assets: OLDER_ELI
-Prompt: [OLDER_ELI] in a light blue chambray shirt standing at the kitchen doorway in his socks, listening with his whole body, kitchen light spilling out into the doorway of a 1970s farmhouse, medium shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 62/78)
-Assets: HARLAN, FARM_KITCHEN
-Prompt: [HARLAN] in a faded blue chambray work shirt folding a manila folder closed, calm steady gaze, wooden kitchen table in a [FARM_KITCHEN] 1970s farmhouse kitchen, medium close-up, 85mm lens, full head within frame, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 63/78)
-Assets: HARLAN, OLDER_KESSLER, FARM_KITCHEN
-Prompt: [HARLAN] placing one open hand gently on a folded manila folder resting on the wooden kitchen table, [OLDER_KESSLER] seated across from him, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, close-up, 85mm portrait lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 64/78)
-Assets: HARLAN, OLDER_KESSLER, FARM_KITCHEN
-Prompt: Two fingers lift just off the tabletop, stopping [OLDER_KESSLER] mid-reply, [HARLAN] viewed from behind the shoulder facing him across the kitchen table, wooden kitchen table in a [FARM_KITCHEN] 1970s farmhouse kitchen, over-shoulder shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 65/78)
-Assets: HARLAN, FARM_KITCHEN
-Prompt: [HARLAN] in a faded blue chambray work shirt dialing a wall-mounted rotary telephone in the evening kitchen, wooden kitchen table nearby in a [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, medium shot, 50mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 66/78)
-Assets: SUNDAY_KESSLER
-Prompt: [SUNDAY_KESSLER] in a red and gray plaid flannel shirt with trousers dusty to the knees standing near the back of a small crowd, irrigation ditch beside a south Georgia cornfield with red-dirt banks, wide shot, 35mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-
-(Image Prompt 67/78)
+(Image Prompt 31/100)
 Assets: 
-Prompt: A small group of farmers walking along the ditch bank in the afternoon, hands clasped behind their backs, pausing to look down at the water, irrigation ditch beside a south Georgia cornfield with red-dirt banks, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+Prompt: A stack of official bank documents on a desk marked with a bold red ink stamp mark, a hand pressing the wooden stamp handle down onto the top page, close-up, 85mm portrait lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 68/78)
+(Image Prompt 32/100)
+Assets: ASHER, OAK_TABLE_ROOM
+Prompt: [ASHER] sitting calm at the oak table beside a glowing wood stove, shelves of stocked jars behind him, [OAK_TABLE_ROOM] old farmhouse dining room, large oak dining table, warm timber walls, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 33/100)
+Assets: ASHER
+Prompt: [ASHER] walking toward the glass door of a small storefront law office in a worn strip mall, flanked by a laundromat and a liquor store, cracked parking lot in front, extreme wide establishing shot, 24mm wide-angle lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 34/100)
+Assets: HIGGINS, LAW_OFFICE
+Prompt: [HIGGINS], a silver-haired man in suspenders, sitting behind a [LAW_OFFICE] cluttered small-town law office desk piled with files, worn law books on shelves, dim interior, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 35/100)
+Assets: ASHER, HIGGINS, LAW_OFFICE
+Prompt: [ASHER] setting a thick contract stack down on the desk viewed over the shoulder of [HIGGINS] who leans back frowning, [LAW_OFFICE] cluttered small-town law office, cramped wooden desk piled with files, dim interior, over-shoulder shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 36/100)
+Assets: ASHER, HIGGINS, LAW_OFFICE
+Prompt: [HIGGINS] turning to a marked page in the contract with a slow spreading smile, [ASHER] watching hopeful beside him, [LAW_OFFICE] cluttered small-town law office, cramped wooden desk piled with files, close-up, 85mm portrait lens, full head within frame, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 37/100)
+Assets: HIGGINS, LAW_OFFICE
+Prompt: [HIGGINS] pacing across the law office floor with a hand on his chin in deep concentration, [LAW_OFFICE] cluttered small-town law office, cramped wooden desk piled with files, worn law books, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 38/100)
 Assets: 
-Prompt: Clear water swirling and catching sunlight as it moves through a wooden headgate with a galvanized screen, irrigation ditch with red-dirt banks beside a cornfield, extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+Prompt: A lobbyist in a dark tailored suit striding through a grand marble state capitol corridor, polished stone columns and brass railings, background figures in suits, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 69/78)
+(Image Prompt 39/100)
+Assets: STATE_INSPECTOR, FENCE_LINE
+Prompt: [STATE_INSPECTOR] arriving at the fence carrying a soil probe, a long line of farmers standing quietly along the [FENCE_LINE] southern wire fence line, cracked drought earth, flat open field, hazy sky, background figures, extreme wide shot, 24mm wide-angle lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 40/100)
+Assets: FENCE_LINE
+Prompt: A crowd of weathered farmers standing shoulder to shoulder along the [FENCE_LINE] southern wire fence line, cracked drought earth, flat open field, hazy sky, background figures, wide shot, 35mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 41/100)
+Assets: NOLAN, KIRKLAND, FENCE_LINE
+Prompt: [NOLAN] standing on the bed of a borrowed pickup truck, frail old [KIRKLAND] beside him with other farmers shoulder to shoulder, [FENCE_LINE] southern wire fence line, cracked drought earth, flat open field, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 42/100)
+Assets: STATE_INSPECTOR, FENCE_LINE
+Prompt: The gloved hands of [STATE_INSPECTOR] pushing a metal soil moisture probe into cracked drought earth, farmers watching in the blurred background, [FENCE_LINE] southern wire fence line, flat open field, close-up, 85mm portrait lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 43/100)
+Assets: COURTHOUSE
+Prompt: The imposing interior of a [COURTHOUSE] federal district courtroom, limestone and dark oak paneling, a raised judge's bench, tall arched windows casting long shadows over empty rows of benches, extreme wide shot, 24mm wide-angle lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 44/100)
+Assets: VOSS, COURTHOUSE
+Prompt: [VOSS] standing confident at the plaintiff table with three young associates seated behind and a projector screen set up beside them, [COURTHOUSE] federal district courtroom, limestone and dark oak paneling, tall arched windows, wide shot, 35mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 45/100)
+Assets: ASHER, HIGGINS, COURTHOUSE
+Prompt: [ASHER] in a faded gray suit seated at the defense table beside [HIGGINS] who holds a battered leather briefcase, [COURTHOUSE] federal district courtroom, limestone and dark oak paneling, raised judge's bench, medium shot, 50mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 46/100)
+Assets: VOSS, COURTHOUSE
+Prompt: [VOSS] standing at the plaintiff table addressing the court with one hand raised in argument, [COURTHOUSE] federal district courtroom, limestone and dark oak paneling, raised judge's bench, low angle shot, 35mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 47/100)
+Assets: VOSS, COURTHOUSE
+Prompt: [VOSS] leaning forward gesturing dismissively toward the bench, [COURTHOUSE] federal district courtroom, limestone and dark oak paneling, tall arched windows, medium close-up, 85mm lens, full head within frame, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 48/100)
+Assets: HIGGINS, JUDGE_WHITMAN, COURTHOUSE
+Prompt: [HIGGINS] rising slowly from the defense table while [JUDGE_WHITMAN] watches from the raised bench, [COURTHOUSE] federal district courtroom, limestone and dark oak paneling, tall arched windows, wide shot, 35mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 49/100)
+Assets: HIGGINS, COURTHOUSE
+Prompt: [HIGGINS] standing calmly before the bench with a wry expression, one hand resting on the defense table, [COURTHOUSE] federal district courtroom, limestone and dark oak paneling, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 50/100)
+Assets: HIGGINS, VOSS
+Prompt: A single white sheet of paper landing flat on a polished dark oak courtroom table in front of [VOSS], released from the hand of [HIGGINS], extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 51/100)
+Assets: HIGGINS, VOSS, COURTHOUSE
+Prompt: [HIGGINS] holding up a document toward the bench while [VOSS] frowns in the foreground, [COURTHOUSE] federal district courtroom, limestone and dark oak paneling, over-shoulder shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 52/100)
+Assets: HIGGINS, COURTHOUSE
+Prompt: [HIGGINS] addressing the courtroom with a steady raised hand as he recounts the case, [COURTHOUSE] federal district courtroom, limestone and dark oak paneling, tall arched windows, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 53/100)
+Assets: HIGGINS, VOSS, COURTHOUSE
+Prompt: [VOSS] going pale and rigid at the plaintiff table as [HIGGINS] levels an accusing hand from behind, [COURTHOUSE] federal district courtroom, limestone and dark oak paneling, close-up, 85mm portrait lens, full head within frame, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 54/100)
+Assets: HIGGINS, COURTHOUSE
+Prompt: [HIGGINS] standing resolute before the bench with one hand raised making his final point, [COURTHOUSE] federal district courtroom, limestone and dark oak paneling, medium close-up, 85mm lens, full head within frame, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 55/100)
+Assets: JUDGE_WHITMAN, VOSS, COURTHOUSE
+Prompt: [JUDGE_WHITMAN] raising a hand to overrule from the raised bench while [VOSS] stands objecting in the foreground, [COURTHOUSE] federal district courtroom, limestone and dark oak paneling, over-shoulder shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 56/100)
+Assets: JUDGE_WHITMAN, COURTHOUSE
+Prompt: [JUDGE_WHITMAN] lowering a pair of reading glasses while delivering the ruling from the raised bench, [COURTHOUSE] federal district courtroom, limestone and dark oak paneling, close-up, 85mm portrait lens, full head within frame, golden late-afternoon light, wide open framing, warm contrast, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 57/100)
+Assets: VOSS
+Prompt: A polished wooden gavel raised high above its round wooden striking block on the judge's bench, [VOSS] frozen and out of focus behind, extreme close-up, 100mm macro lens, golden late-afternoon light, wide open framing, warm contrast, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 58/100)
 Assets: 
-Prompt: A long row of pickup trucks parked nose to tail along a gravel road beside the irrigation ditch in the golden late-afternoon light, distant men walking the red-dirt banks with hands clasped behind their backs, extreme wide shot, 24mm wide-angle lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+Prompt: Wide open Iowa farmland stretching to the horizon at dusk, rows of low crops and a distant farmhouse silhouette, extreme wide shot, 24mm wide-angle lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 70/78)
-Assets: 
-Prompt: A row of battered tin mailboxes standing unmarked along a gravel road beside the irrigation ditch, red-dirt banks and cornfields beyond, medium shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 59/100)
+Assets: ASHER, VOSS, COURTHOUSE
+Prompt: [ASHER] pausing beside the plaintiff table looking directly at [VOSS] with a calm level gaze, [COURTHOUSE] federal district courtroom, limestone and dark oak paneling, wide shot, 35mm lens, golden late-afternoon light, wide open framing, warm contrast, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 71/78)
-Assets: EARL, HARLAN
-Prompt: [EARL] in a beige feed cap and denim overalls, viewed from behind the shoulder, looking across a newly dug ditch at [HARLAN] pointing toward a wooden headgate with a galvanized screen, red-dirt banks beside a cornfield, over-shoulder shot, 50mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 60/100)
+Assets: CALDWELL, CALDWELL_OFFICE
+Prompt: [CALDWELL] standing at a large window with hands clasped behind his back gazing over the city, [CALDWELL_OFFICE] high-rise Chicago executive office, minimalist desk, grey tones, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 72/78)
-Assets: EARL
-Prompt: [EARL] in a beige feed cap and denim overalls smiling broadly beside his own ditch running with clear water, red-dirt banks beside a cornfield, medium shot, 50mm lens, golden late-afternoon light, wide open framing, warm contrast, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 61/100)
+Assets: COLLINS, TOWN_HALL_BASEMENT
+Prompt: [COLLINS] striding in wearing a crisp dark suit and carrying a leather briefcase, [TOWN_HALL_BASEMENT] town hall basement records room, metal lockboxes on a folding table, fluorescent lighting, concrete walls, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 73/78)
-Assets: TEEN_ELI
-Prompt: [TEEN_ELI] in a gray-green cotton work shirt and black rubber boots wading at a wooden headgate, releasing young fish into the water with slow solemn care, irrigation ditch with red-dirt banks beside a cornfield, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 62/100)
+Assets: ASHER, TOWN_HALL_BASEMENT
+Prompt: [ASHER] carrying a stack of three metal lockboxes down into the room and setting them on the folding table, [TOWN_HALL_BASEMENT] town hall basement records room, fluorescent lighting, concrete walls, wide shot, 35mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 74/78)
-Assets: FARM_KITCHEN
-Prompt: A thirty-gallon aquarium with a chipped front corner glowing on the kitchen counter, new fish gliding past the chipped glass, a yellowed soil-test sheet pasted on the wall beside it, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, close-up, 85mm portrait lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 63/100)
+Assets: COLLINS, TOWN_HALL_BASEMENT
+Prompt: [COLLINS] leaning over a laptop showing dense financial charts and colored graphs, one hand frozen still above the keyboard, [TOWN_HALL_BASEMENT] town hall basement records room, fluorescent lighting, concrete walls, close-up, 85mm portrait lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 75/78)
-Assets: FARM_KITCHEN
-Prompt: A plump shameless tilapia bumping its snout against the aquarium glass, warm kitchen glowing softly behind it, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, close-up, 85mm portrait lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 64/100)
+Assets: COLLINS, ASHER, TOWN_HALL_BASEMENT
+Prompt: [COLLINS] swiveling a laptop toward [ASHER] and pointing at the screen while Asher watches over his shoulder, [TOWN_HALL_BASEMENT] town hall basement records room, metal lockboxes on a folding table, fluorescent lighting, over-shoulder shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 76/78)
-Assets: HARLAN, TEEN_ELI, FARM_KITCHEN
-Prompt: [HARLAN] standing at the kitchen window holding a coffee cup in the first gray morning light, [TEEN_ELI] a distant figure moving along the main ditch scattering feed across the water, [FARM_KITCHEN] 1970s farmhouse kitchen with worn linoleum floor, medium shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 65/100)
+Assets: COLLINS, TOWN_HALL_BASEMENT
+Prompt: The finger of [COLLINS] tapping a laptop screen filled with colored bar charts and data columns, [TOWN_HALL_BASEMENT] town hall basement records room, fluorescent lighting, concrete walls, extreme close-up, 100mm macro lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 77/78)
-Assets: 
-Prompt: Water surface breaking into a hundred small silver rings in the early morning light, irrigation ditch with red-dirt banks beside a cornfield, close-up, 85mm portrait lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 66/100)
+Assets: COLLINS, TOWN_HALL_BASEMENT
+Prompt: [COLLINS] snapping a laptop shut with a hard accusatory stare, [TOWN_HALL_BASEMENT] town hall basement records room, metal lockboxes on a folding table, fluorescent lighting, close-up, 85mm portrait lens, full head within frame, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
-(Image Prompt 78/78)
-Assets: 
-Prompt: A sweeping view of a sunlit corn farm with rows of golden corn and a network of irrigation ditches glinting toward the horizon, flat south Georgia farmland with red dirt fields and a distant pine tree line, extreme wide shot, 24mm wide-angle lens, golden late-afternoon light, wide open framing, warm contrast, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+(Image Prompt 67/100)
+Assets: ASHER, HIGGINS, TOWN_HALL_BASEMENT
+Prompt: [ASHER] leaning back calmly in a folding chair speaking to [HIGGINS] seated beside him, [TOWN_HALL_BASEMENT] town hall basement records room, metal lockboxes on a folding table, fluorescent lighting, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 68/100)
+Assets: WALTER, TOWN_HALL_BASEMENT
+Prompt: [WALTER] stepping through a heavy basement door in a faded plaid flannel shirt and a worn seed cap with a sharp cold gaze, [TOWN_HALL_BASEMENT] town hall basement records room, metal lockboxes on a folding table, fluorescent lighting, concrete walls, wide shot, 35mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 69/100)
+Assets: HIGGINS, WALTER, TOWN_HALL_BASEMENT
+Prompt: [HIGGINS] turning to speak to [WALTER] who stands with arms crossed, [TOWN_HALL_BASEMENT] town hall basement records room, metal lockboxes on a folding table, fluorescent lighting, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 70/100)
+Assets: WALTER, COLLINS, TOWN_HALL_BASEMENT
+Prompt: [WALTER] facing [COLLINS] across the folding table while Collins gestures toward his laptop in the foreground, [TOWN_HALL_BASEMENT] town hall basement records room, metal lockboxes, fluorescent lighting, concrete walls, over-shoulder shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 71/100)
+Assets: WALTER, TOWN_HALL_BASEMENT
+Prompt: The weathered hands of [WALTER] opening a worn leather notebook to pages covered in faint tight ink marks, [TOWN_HALL_BASEMENT] town hall basement records room, fluorescent lighting, concrete walls, extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 72/100)
+Assets: WALTER, TOWN_HALL_BASEMENT
+Prompt: The thick finger of [WALTER] pressing firmly onto a single line in an open worn leather ledger, [TOWN_HALL_BASEMENT] town hall basement records room, fluorescent lighting, concrete walls, extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 73/100)
+Assets: WALTER, TOWN_HALL_BASEMENT
+Prompt: [WALTER] holding up a handheld grain moisture meter and gesturing firmly as he explains, [TOWN_HALL_BASEMENT] town hall basement records room, metal lockboxes on a folding table, fluorescent lighting, medium close-up, 85mm lens, full head within frame, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 74/100)
+Assets: COLLINS, TOWN_HALL_BASEMENT
+Prompt: [COLLINS] spreading his hands in protest across the folding table, [TOWN_HALL_BASEMENT] town hall basement records room, metal lockboxes, fluorescent lighting, concrete walls, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 75/100)
+Assets: WALTER, TOWN_HALL_BASEMENT
+Prompt: [WALTER], jaw set hard with one weathered hand raised in emphasis, faded flannel shirt and seed cap, [TOWN_HALL_BASEMENT] town hall basement records room, metal lockboxes on a folding table, concrete walls, low angle shot, 35mm lens, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 76/100)
+Assets: ASHER, TOWN_HALL_BASEMENT
+Prompt: [ASHER] speaking calmly with both hands open in explanation, [TOWN_HALL_BASEMENT] town hall basement records room, metal lockboxes on a folding table, concrete walls, wide shot, 35mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 77/100)
+Assets: ASHER, TOWN_HALL_BASEMENT
+Prompt: [ASHER] with a faint confident look settling across his weathered face, [TOWN_HALL_BASEMENT] town hall basement records room, metal lockboxes on a folding table, concrete walls, close-up, 85mm portrait lens, full head within frame, golden late-afternoon light, wide open framing, warm contrast, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 78/100)
+Assets: WALTER, TOWN_HALL_BASEMENT
+Prompt: A calibration certificate landing flat on a closed laptop lid with the weathered hand of [WALTER] drawing back, [TOWN_HALL_BASEMENT] town hall basement records room, metal lockboxes on a folding table, concrete walls, extreme close-up, 100mm macro lens, golden late-afternoon light, wide open framing, warm contrast, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 79/100)
+Assets: COLLINS, TOWN_HALL_BASEMENT
+Prompt: [COLLINS] closing a laptop into a leather bag and stepping toward a concrete stairwell, [TOWN_HALL_BASEMENT] town hall basement records room, metal lockboxes on a folding table, concrete walls, wide shot, 35mm lens, golden late-afternoon light, wide open framing, warm contrast, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 80/100)
+Assets: ASHER, TOWN_HALL_BASEMENT
+Prompt: [ASHER] standing with a steady resolute expression beside three metal lockboxes on a folding table, [TOWN_HALL_BASEMENT] town hall basement records room, concrete walls, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 81/100)
+Assets: CALDWELL, CALDWELL_OFFICE
+Prompt: [CALDWELL] seated silently in a leather chair turned toward the glass, [CALDWELL_OFFICE] high-rise Chicago executive office, large window overlooking the city, minimalist desk, grey tones, wide shot, 35mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 82/100)
+Assets: OAK_TABLE_ROOM
+Prompt: An empty [OAK_TABLE_ROOM] old farmhouse dining room, two chairs on one side and one chair opposite across a large oak dining table, wood stove and warm timber walls, low bruised-purple sky filling the window, extreme wide shot, 24mm wide-angle lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 83/100)
+Assets: ASHER, HIGGINS, CALDWELL, OAK_TABLE_ROOM
+Prompt: [ASHER] and [HIGGINS] seated together on one side of a large oak dining table with [CALDWELL] alone facing them opposite, [OAK_TABLE_ROOM] old farmhouse dining room, wood stove, warm timber walls, wide shot, 35mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 84/100)
+Assets: CALDWELL
+Prompt: A crisp bank cashier's check with a plain unmarked printed surface laid flat at the center of a large oak dining table, the hand of [CALDWELL] releasing it, warm timber walls beyond, extreme close-up, 100mm macro lens, golden late-afternoon light, wide open framing, warm contrast, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 85/100)
+Assets: CALDWELL, OAK_TABLE_ROOM
+Prompt: [CALDWELL] speaking evenly across the table with one hand resting flat on the wood, [OAK_TABLE_ROOM] old farmhouse dining room, large oak dining table, wood stove, warm timber walls, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 86/100)
+Assets: ASHER, CALDWELL, OAK_TABLE_ROOM
+Prompt: Over the shoulder of [CALDWELL] toward [ASHER] who looks down at the check on the table with both hands still, [OAK_TABLE_ROOM] old farmhouse dining room, large oak dining table, wood stove, warm timber walls, over-shoulder shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 87/100)
+Assets: ASHER, OAK_TABLE_ROOM
+Prompt: [ASHER] leaning slightly forward with a steady level gaze as he speaks, [OAK_TABLE_ROOM] old farmhouse dining room, large oak dining table, warm timber walls, medium close-up, 85mm lens, full head within frame, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 88/100)
+Assets: HIGGINS, OAK_TABLE_ROOM
+Prompt: A thick stack of manila folders landing on the oak table beside the check with the hand of [HIGGINS] pressing them down, [OAK_TABLE_ROOM] old farmhouse dining room, warm timber walls, extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 89/100)
+Assets: HIGGINS, CALDWELL, OAK_TABLE_ROOM
+Prompt: Over the shoulder of [HIGGINS] toward [CALDWELL] whose face stiffens with alarm, folders fanned open on the large oak dining table, [OAK_TABLE_ROOM] old farmhouse dining room, warm timber walls, over-shoulder shot, 50mm lens, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 90/100)
+Assets: CALDWELL, HIGGINS, OAK_TABLE_ROOM
+Prompt: [CALDWELL] staring down at the spread folders while [HIGGINS] gestures toward the stack across the table, [OAK_TABLE_ROOM] old farmhouse dining room, large oak dining table, warm timber walls, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 91/100)
+Assets: HIGGINS, OAK_TABLE_ROOM
+Prompt: [HIGGINS] mid-sentence with one finger raised and an intense expression, [OAK_TABLE_ROOM] old farmhouse dining room, large oak dining table, warm timber walls, medium close-up, 85mm lens, full head within frame, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 92/100)
+Assets: ASHER, OAK_TABLE_ROOM
+Prompt: [ASHER] resting both forearms on the worn oak table with a calm reflective look, [OAK_TABLE_ROOM] old farmhouse dining room, large oak dining table, wood stove, warm timber walls, wide shot, 35mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 93/100)
+Assets: CALDWELL, HIGGINS, OAK_TABLE_ROOM
+Prompt: Over the shoulder of [CALDWELL] as a single document slides across the oak table pushed by the hand of [HIGGINS], Caldwell drawing back sharply, [OAK_TABLE_ROOM] old farmhouse dining room, warm timber walls, over-shoulder shot, 50mm lens, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 94/100)
+Assets: CALDWELL, ASHER, OAK_TABLE_ROOM
+Prompt: Over the shoulder of [CALDWELL] toward [ASHER] who speaks calmly with both hands loosely folded on the table, [OAK_TABLE_ROOM] old farmhouse dining room, large oak dining table, warm timber walls, over-shoulder shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 95/100)
+Assets: CALDWELL, ASHER, HIGGINS, OAK_TABLE_ROOM
+Prompt: The hand of [CALDWELL] signing a stacked page with a fountain pen, its nib pressed to the paper, [ASHER] and [HIGGINS] seated close beyond, [OAK_TABLE_ROOM] old farmhouse dining room, worn oak table, warm timber walls, extreme close-up, 100mm macro lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 96/100)
+Assets: ASHER, OAK_TABLE_ROOM
+Prompt: [ASHER] striding to the front door and pulling it wide open while heavy rain streaks the kitchen window, [OAK_TABLE_ROOM] old farmhouse dining room, large oak dining table, wood stove, warm timber walls, medium shot, 50mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 97/100)
+Assets: ASHER, FARMHOUSE_PORCH
+Prompt: [ASHER] stepping bare-headed onto the porch into heavy falling rain, a hat left behind on a wall hook inside, [FARMHOUSE_PORCH] farmhouse front porch, weathered wooden railing, gravel driveway, open fields beyond, medium shot, 50mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 98/100)
+Assets: ASHER, FARMHOUSE_PORCH
+Prompt: [ASHER] holding a phone loosely to his ear with rain running down his weathered face, a folded paper edge showing at his chest pocket, [FARMHOUSE_PORCH] farmhouse front porch, weathered wooden railing, open fields beyond, close-up, 85mm portrait lens, full head within frame, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 99/100)
+Assets: ASHER, FENCE_LINE
+Prompt: [ASHER] standing and gazing south toward the wire fence across the rain-soaked field, [FENCE_LINE] southern wire fence line, cracked drought earth darkening with rain, flat open field, hazy sky, wide shot, 35mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+
+(Image Prompt 100/100)
+Assets: ASHER, FARMHOUSE_PORCH
+Prompt: [ASHER] with a genuine warm smile spreading across his weathered face, rain glistening on his skin, [FARMHOUSE_PORCH] farmhouse front porch, weathered wooden railing, open fields beyond, close-up, 85mm portrait lens, full head within frame, golden late-afternoon light, wide open framing, warm contrast, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field

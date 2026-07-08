@@ -1,188 +1,157 @@
 {
   "project": {
-    "title": "They Laughed When a Single Dad Poured Tilapia Into His Irrigation Ditches — Until the Dead Soil Came Back to Life",
-    "description": "A widowed single father, Harlan Boone, pours two thousand live tilapia into the irrigation ditches of his dying south Georgia corn farm in 1974. Mocked by the whole county for three years, he quietly rebuilds his dead soil with fish waste — until a drought-year harvest number chalked at the county grain elevator silences every man who laughed.",
-    "total_duration": 2210,
+    "title": "The Only Farmer Who Read the Fine Print — When the Bank Came He Was the One Smiling",
+    "description": "Asher Merrifield, nông dân Iowa 58 tuổi, đọc hết hợp đồng 400 trang của ngân hàng Iron Ridge và tìm ra điều khoản 7-C buộc ngân hàng phải trả anh 1,245,600 đô khi tịch thu nhà trong hạn hán.",
+    "total_duration": 2291,
     "target_audience": "65+",
     "language": "en"
   },
-  "style": "photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field",
+  "style": "photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field",
   "flashback_style": "soft warm vignette, slightly faded colors, dreamy atmosphere",
   "flashback_variants": [
-    "annie"
+    "sarah"
   ],
   "video_hook": {
     "enabled": true,
-    "duration_s": 120,
+    "duration_s": 60,
     "max_clip_s": 8,
-    "video_style": "photorealistic cinematic footage, 1970s rural Americana aesthetic, 35mm film look, natural motion, smooth stabilized camera"
-  },
-  "era": {
-    "name": "1970s rural south Georgia",
-    "keywords": "1970s rural American South, weathered clapboard farmhouse, red Georgia dirt, old pickup trucks, corded rotary telephone, kerosene lantern, galvanized steel buckets, handwritten ledgers",
-    "wardrobe": "1970s American farm workwear, chambray and flannel work shirts, denim overalls, feed caps, worn leather work boots",
-    "forbidden": [
-      "smartphone",
-      "laptop",
-      "flat-screen",
-      "tablet",
-      "earbuds",
-      "LED",
-      "USB",
-      "wifi",
-      "electric car",
-      "modern SUV",
-      "computer monitor",
-      "drone",
-      "solar panel",
-      "digital display",
-      "plastic water bottle"
-    ]
+    "video_style": "photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera"
   },
   "characters": [
     {
-      "id": "harlan",
-      "name": "Harlan Boone",
-      "nano_name": "Harlan",
-      "description": "33-year-old lean weathered corn farmer, short dark brown hair, sun-lined face, faded blue chambray work shirt, worn indigo denim jeans, scuffed brown leather work boots"
+      "id": "asher",
+      "name": "Asher Merrifield",
+      "nano_name": "Asher",
+      "description": "58-year-old man, weathered third-generation Iowa farmer, short gray hair, deep-set tired eyes, gray stubble, tan canvas work jacket over a faded olive green plaid flannel shirt, worn blue denim jeans, calloused hands"
     },
     {
-      "id": "eli",
-      "name": "Eli Boone (5-7 tuổi, 1974-1976)",
-      "nano_name": "Eli",
-      "description": "six-year-old boy, tousled sandy brown hair, wide serious eyes, faded red plaid flannel shirt, blue denim overalls, small scuffed brown boots"
+      "id": "granger",
+      "name": "Philip Granger",
+      "nano_name": "Granger",
+      "description": "late-thirties man, sleek regional bank vice president, slicked-back dark brown hair, clean-shaven, charcoal gray tailored Italian suit, silver silk tie, polished condescending expression"
     },
     {
-      "id": "eli_pajamas",
-      "name": "Eli Boone (pajama — cảnh bếp sáng sớm)",
-      "nano_name": "Pajama Eli",
-      "description": "five-year-old boy, tousled sandy brown hair, wide serious eyes, faded blue striped cotton pajamas, bare feet"
+      "id": "sarah",
+      "name": "Sarah Merrifield",
+      "nano_name": "Sarah",
+      "description": "55-year-old woman, gentle warm face, auburn hair streaked with silver pulled back in a low bun, soft powder blue cardigan over a cream blouse, thin reading glasses, calm patient eyes"
     },
     {
-      "id": "eli_9",
-      "name": "Eli Boone (9 tuổi, 1978)",
-      "nano_name": "Older Eli",
-      "description": "nine-year-old boy, neat sandy brown hair, thoughtful steady expression, light blue chambray shirt, blue jeans, brown leather boots"
+      "id": "higgins",
+      "name": "Samuel Higgins",
+      "nano_name": "Higgins",
+      "description": "65-year-old man, white-haired small-town lawyer, bushy white eyebrows, brown suspenders over a wrinkled white dress shirt, loosened brown tie, weathered kindly face"
     },
     {
-      "id": "eli_12",
-      "name": "Eli Boone (12 tuổi, thập niên 1980)",
-      "nano_name": "Teen Eli",
-      "description": "twelve-year-old boy, tall and lanky, short sandy brown hair, calm steady expression, gray-green cotton work shirt, blue jeans, black rubber boots"
+      "id": "caldwell",
+      "name": "Victor Caldwell",
+      "nano_name": "Caldwell",
+      "description": "early-sixties man, silver-haired bank CEO, clean-shaven, sharp navy blue pinstripe suit, gold cufflinks, cold composed expression"
     },
     {
-      "id": "annie",
-      "name": "Annie Boone (vợ đã mất — chỉ xuất hiện trong flashback)",
-      "nano_name": "Annie",
-      "description": "woman in her early thirties, soft chestnut brown hair pinned loosely back, warm patient face, powder blue 1970s cotton dress with chalk dust on the sleeve"
+      "id": "voss",
+      "name": "Ricky Voss",
+      "nano_name": "Voss",
+      "description": "fifty-year-old man, corporate chief legal counsel, receding gray hair, rimless glasses, dark charcoal three-piece suit, burgundy tie, calculating expression"
     },
     {
-      "id": "ray",
-      "name": "Ray (bạn hatchery ở Mississippi)",
-      "nano_name": "Ray",
-      "description": "burly hatchery man in his forties, ruddy weathered face, short salt-and-pepper hair, olive green work shirt with rolled sleeves, khaki canvas trousers, black rubber boots"
+      "id": "nolan",
+      "name": "Nolan Abernathy",
+      "nano_name": "Nolan",
+      "description": "55-year-old man, broad-shouldered neighbor farmer, thinning brown hair, gray stubble, faded blue denim jacket over a brown work shirt, weary defeated eyes"
     },
     {
-      "id": "earl",
-      "name": "Earl Dobbins (nông dân hàng xóm)",
-      "nano_name": "Earl",
-      "description": "heavyset farmer in his fifties, gray stubble, deeply tanned face, beige feed cap, sweat-stained tan work shirt, blue denim overalls, worn brown boots"
+      "id": "walter",
+      "name": "Walter Brennan",
+      "nano_name": "Walter",
+      "description": "72-year-old man, gruff cooperative weighmaster, deeply lined face, white stubble, faded red plaid flannel shirt, green Pioneer Seed cap, wire-rimmed glasses"
     },
     {
-      "id": "pruitt",
-      "name": "Mr. Pruitt (cán bộ khuyến nông của hạt)",
-      "nano_name": "Pruitt",
-      "description": "county extension agent in his late forties, neatly combed graying brown hair, clean-shaven angular face, crisp white short-sleeve dress shirt, thin dark brown tie, gray slacks, wooden clipboard in hand"
+      "id": "collins",
+      "name": "Darian Collins",
+      "nano_name": "Collins",
+      "description": "late-thirties man, sharp urban forensic accountant, neat short black hair, clean-shaven, slim navy blue business suit, thin silver-framed glasses, tense focused expression"
     },
     {
-      "id": "kessler",
-      "name": "Dale Kessler (nhân viên bán phân bón, 1974)",
-      "nano_name": "Kessler",
-      "description": "fertilizer salesman in his early forties, slicked-back dark brown hair, confident easy smile, pressed light gray 1970s business suit, white dress shirt, polished black leather city shoes"
+      "id": "whitman",
+      "name": "Judge Whitman",
+      "nano_name": "Judge Whitman",
+      "description": "sixties man, dignified federal judge, balding gray hair, wire-rimmed glasses, black judicial robe, stern measured expression"
     },
     {
-      "id": "kessler_1978",
-      "name": "Dale Kessler (1978 — sa sút)",
-      "nano_name": "Older Kessler",
-      "description": "fertilizer salesman in his mid-forties, slicked-back dark brown hair graying at the temples, tired lined face, rumpled light gray 1970s business suit, scuffed unpolished black leather shoes"
+      "id": "kirkland",
+      "name": "Kirkland",
+      "nano_name": "Kirkland",
+      "description": "seventies man, frail elderly farmer, sparse white hair, deeply weathered face, faded brown barn coat over a gray flannel shirt, slow tired posture"
     },
     {
-      "id": "kessler_sunday",
-      "name": "Dale Kessler (thăm farm Chủ nhật — áo plaid)",
-      "nano_name": "Sunday Kessler",
-      "description": "fertilizer salesman in his mid-forties, dark brown hair graying at the temples, relaxed weathered face, red and gray plaid flannel shirt, dusty khaki trousers, plain brown leather shoes"
+      "id": "junior_attorney",
+      "name": "Junior Attorney",
+      "nano_name": "Junior Attorney",
+      "description": "late-twenties man, nervous junior bank attorney, neat brown hair, clean-shaven, stiff black off-the-rack suit, thin blue tie, anxious wide eyes"
+    },
+    {
+      "id": "inspector",
+      "name": "State Inspector",
+      "nano_name": "State Inspector",
+      "description": "forty-year-old woman, state agriculture soil inspector, brown hair in a practical ponytail, khaki field vest over a beige shirt, holding a clipboard, focused neutral expression"
     }
   ],
   "settings": [
     {
-      "id": "farm_kitchen",
-      "name": "Bếp nhà Boone (có bể cá của Annie)",
-      "keywords": "1970s farmhouse kitchen, worn linoleum floor, wooden kitchen table, thirty-gallon aquarium with a chipped front corner glowing pale green-gold on the counter by the window"
+      "id": "south_field",
+      "name": "Cánh đồng nam hạn hán",
+      "keywords": "drought-stricken cornfield, stunted pale corn stalks, cracked dry earth, wire fence line, vast flat Iowa farmland, overcast sky"
     },
     {
-      "id": "irrigation_ditch",
-      "name": "Mương tưới ngoài ruộng ngô",
-      "keywords": "irrigation ditch with red-dirt banks beside a Georgia cornfield, wooden headgate with galvanized screen, slow-moving water, corn rows beyond"
+      "id": "oak_table_room",
+      "name": "Phòng ăn bàn gỗ sồi",
+      "keywords": "old farmhouse dining room, large oak dining table, wood stove, cork board, corded wall phone, warm timber walls, small windows"
     },
     {
-      "id": "farm_fields",
-      "name": "Cánh đồng ngô 180 mẫu",
-      "keywords": "flat south Georgia corn farm with red dirt fields and distant pine tree line, 180 acres, weathered gray barn, 1970s clapboard farmhouse"
+      "id": "farmhouse_porch",
+      "name": "Hiên nhà và lối xe",
+      "keywords": "farmhouse front porch, weathered wooden railing, gravel driveway, thermos on the rail, open fields beyond, low grey sky"
     },
     {
-      "id": "back_porch",
-      "name": "Hiên sau + luống cà chua",
-      "keywords": "wooden back porch of a weathered farmhouse with tomato patch beside the steps, worn plank steps, lush volunteer tomato plants"
+      "id": "bank_branch",
+      "name": "Chi nhánh ngân hàng Iron Ridge",
+      "keywords": "modern Iron Ridge bank branch office, floor-to-ceiling glass windows, mahogany desk, cold minimalist corporate interior"
     },
     {
-      "id": "farm_yard",
-      "name": "Sân trước + đường đất vào farm",
-      "keywords": "red dirt farmyard before a weathered clapboard farmhouse, gravel farm road, dusty air, 1970s vehicles"
+      "id": "bank_boardroom",
+      "name": "Phòng họp HĐQT Iron Ridge",
+      "keywords": "corporate top-floor boardroom, long polished mahogany conference table, city skyline windows, leather executive chairs"
     },
     {
-      "id": "feed_store",
-      "name": "Cửa hàng thức ăn gia súc",
-      "keywords": "1970s rural feed store with stacked seed corn sacks, wooden counter, dusty sunlit windows"
+      "id": "law_office",
+      "name": "Văn phòng luật Higgins",
+      "keywords": "cluttered small-town law office, cramped wooden desk piled with files, worn law books on shelves, dim strip-mall interior"
     },
     {
-      "id": "diner",
-      "name": "Quán ăn thị trấn",
-      "keywords": "small-town 1970s diner with vinyl booths and formica tables, thick white coffee cups, hazy cigarette smoke"
+      "id": "courthouse",
+      "name": "Tòa án liên bang",
+      "keywords": "federal district courtroom, limestone and dark oak paneling, raised judge's bench, wooden plaintiff and defendant tables, tall arched windows"
     },
     {
-      "id": "classroom",
-      "name": "Lớp học tiểu học",
-      "keywords": "1970s classroom with small wooden desks and green chalkboard, paper cutouts on the walls"
+      "id": "fence_line",
+      "name": "Hàng rào ranh giới nam",
+      "keywords": "southern wire fence line, cracked drought earth, rows of farmers standing along the fence, flat open field, hazy sky"
     },
     {
-      "id": "county_hall",
-      "name": "Hội trường họp hạt",
-      "keywords": "county meeting hall with rows of metal folding chairs, wooden podium, fluorescent lighting, 1970s rural crowd"
+      "id": "town_hall_basement",
+      "name": "Tầng hầm town hall",
+      "keywords": "town hall basement records room, metal lockboxes on a folding table, fluorescent tube lighting, bare concrete walls, stacked document boxes"
     },
     {
-      "id": "sump_pond",
-      "name": "Ao trữ sau chuồng trại",
-      "keywords": "dark sump pond behind a weathered gray barn with cattails, dark still water, muddy banks"
+      "id": "auction_yard",
+      "name": "Sân đấu giá tịch thu",
+      "keywords": "farm foreclosure auction yard, auctioneer's block, old weathered barn, borrowed pickup truck, scattered heirloom tools, gathered crowd"
     },
     {
-      "id": "pecan_tree",
-      "name": "Gốc hồ đào (chôn General)",
-      "keywords": "lone bare pecan tree at the edge of a frozen winter field, bare branches, frozen red dirt ground"
-    },
-    {
-      "id": "grain_elevator",
-      "name": "Kho thóc + trạm cân của hạt",
-      "keywords": "county grain elevator, tall corrugated metal silos, scale house with chalkboard, grain trucks, dusty light"
-    },
-    {
-      "id": "county_market",
-      "name": "Chợ nông sản cuối tuần",
-      "keywords": "open-air 1970s county farmers market, wooden folding tables, ice coolers, pickup trucks parked behind the stalls"
-    },
-    {
-      "id": "delta_hatchery",
-      "name": "Trại cá Mississippi Delta (hồi ức)",
-      "keywords": "Mississippi Delta catfish hatchery with flat grow-out ponds, grassy levees, aerator spray over the water, humid haze"
+      "id": "caldwell_office",
+      "name": "Văn phòng CEO Chicago",
+      "keywords": "high-rise Chicago executive office, large window overlooking the city, minimalist desk, grey corporate tones"
     }
   ],
   "mood_map": {

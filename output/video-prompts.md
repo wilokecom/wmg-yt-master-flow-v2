@@ -1,154 +1,99 @@
-# Video Prompts — Hook: They Laughed When a Single Dad Poured Tilapia Into His Irrigation Ditches — Until the Dead Soil Came Back to Life
-Hook window: 0 → 00:02:00 | Clips: 21 | Max clip: 8s
+# Video Prompts — Hook: The Only Farmer Who Read the Fine Print
+Hook window: 0 → 00:01:02 | Clips: 12 | Max clip: 8s
 
 ---
 ## Clip 1.1
-**Scene:** 1 | **Time:** 00:00:00 → 00:00:08 | **Duration:** 8s | **Frame đầu:** ảnh 1.jpg
+**Scene:** 1 | **Time:** 00:00:00 → 00:00:05 | **Duration:** 5s | **Frame đầu:** ảnh 1.jpg
 **Image Prompt (ảnh 1):**
-Harlan in a faded blue chambray shirt kneeling alone at the edge of a misty ditch, a galvanized steel bucket beside him, irrigation ditch with red-dirt banks beside a Georgia cornfield, extreme wide shot, 24mm wide-angle lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+A deserted foreclosed farmhouse at gray dawn, stacked cardboard moving boxes on the sagging porch, a plain paper notice nailed to the weathered front door, empty gravel yard, extreme wide establishing shot, 24mm wide-angle lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 **Video Prompt:**
-Static camera holds on a wide shot of the misty dawn irrigation ditch, Harlan in the faded blue chambray shirt kneeling quietly at the water's edge and resting both hands on the galvanized steel bucket beside him, bare Georgia cornfield stretching behind the ditch, even soft lighting, neutral tones, balanced composition, photorealistic cinematic footage, 1970s rural Americana aesthetic, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient morning stillness with distant birdsong
+Slow push-in on the deserted foreclosed farmhouse, the paper notice on the front door fluttering gently at its loose corner as thin dawn wind drifts across the sagging porch, stacked cardboard boxes sitting motionless, cold mist gradually settling over the empty gravel yard, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient wind and distant crows
 
 ---
 ## Clip 1.2
-**Scene:** 1 | **Time:** 00:00:08 → 00:00:15 | **Duration:** 7s | **Frame đầu:** Extend từ Clip 1.1
+**Scene:** 1 | **Time:** 00:00:05 → 00:00:10 | **Duration:** 5s | **Frame đầu:** ảnh 1-2.jpg
+**Image Prompt (ảnh phụ 1-2):**
+A stark eviction notice nailed to a weathered wooden farmhouse door, bent rusty nail head, curling paper edges, faint official stamp shape, splintered gray timber grain, extreme close-up, 100mm macro lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 **Video Prompt:**
-Slow push-in camera moving closer to Harlan in the faded blue chambray shirt as he tilts the galvanized bucket forward, its rim gradually dipping toward the ditch water below, misty irrigation ditch beside the bare Georgia cornfield, even soft lighting, neutral tones, balanced composition, photorealistic cinematic footage, 1970s rural Americana aesthetic, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient morning stillness with a faint water trickle
+Static camera holding tight on the eviction notice nailed to the farmhouse door, the curling paper corner slowly lifting and settling in a faint draft, a single bead of dawn moisture gradually sliding down the splintered gray timber beside the bent rusty nail, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient wind and creaking wood
 
 ---
 ## Clip 2.1
-**Scene:** 2 | **Time:** 00:00:15 → 00:00:20 | **Duration:** 5s | **Frame đầu:** ảnh 2.jpg
-**Image Prompt (ảnh 1):**
-Harlan in a faded blue chambray shirt tipping a galvanized bucket of silver fish into the brown ditch water, an empty feed sack folded at his feet, irrigation ditch with red-dirt banks beside a Georgia cornfield, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+**Scene:** 2 | **Time:** 00:00:10 → 00:00:16 | **Duration:** 6s | **Frame đầu:** ảnh 2.jpg
+**Image Prompt (ảnh 2):**
+A magnifying glass hovering over a dense contract page filled with tiny blurred fine print, a single line of eight-point text faintly marked, aged white paper, extreme close-up, 100mm macro lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 **Video Prompt:**
-Camera holds close on Harlan in the faded blue chambray shirt as he tips the galvanized bucket further, a stream of silver tilapia spilling and thrashing into the brown ditch water below him, irrigation ditch beside the Georgia cornfield, strong directional light, firm posture, clear focus, photorealistic cinematic footage, 1970s rural Americana aesthetic, 35mm film look, natural motion, smooth stabilized camera, Audio: soft splash of water with faint thrashing fish
+Slow push-in on the magnifying glass hovering over the dense contract page, the circle of magnified fine print gradually sharpening into focus as the lens drifts a fraction lower across the aged white paper, hard shadow of the glass rim creeping slowly over the eight-point line, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient paper rustle
 
 ---
 ## Clip 2.2
-**Scene:** 2 | **Time:** 00:00:20 → 00:00:24 | **Duration:** 4s | **Frame đầu:** ảnh 2-2.jpg (ảnh phụ)
-**Image Prompt (ảnh phụ 2-2.jpg):**
-Harlan in a faded blue chambray shirt gripping the handle of an emptied galvanized bucket as the last drops fall from the rim, irrigation ditch with red-dirt banks beside a Georgia cornfield, extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+**Scene:** 2 | **Time:** 00:00:16 → 00:00:22 | **Duration:** 6s | **Frame đầu:** ảnh 2-2.jpg
+**Image Prompt (ảnh phụ 2-2):**
+A towering four-hundred-page contract stack thudding down onto a bare wooden table, dense stacked paper edges, a small puff of dust rising, heavy shadow beneath, wide shot, 35mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 **Video Prompt:**
-Static camera holds in close-up on the emptied galvanized bucket as Harlan in the faded blue chambray shirt tightens his grip on the handle, the last silver drops falling from the rim into the ditch below, irrigation ditch beside the Georgia cornfield, strong directional light, firm posture, clear focus, photorealistic cinematic footage, 1970s rural Americana aesthetic, 35mm film look, natural motion, smooth stabilized camera, Audio: faint dripping water with receding fish splashes
+Static camera on the bare wooden table as the towering four-hundred-page contract stack settles heavily, a thin puff of dust drifting slowly upward and dispersing over the dense paper edges, the heavy shadow beneath gradually deepening as the pages compress, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient low thud and settling paper
 
 ---
 ## Clip 3.1
-**Scene:** 3 | **Time:** 00:00:24 → 00:00:29 | **Duration:** 5s | **Frame đầu:** ảnh 3.jpg
-**Image Prompt (ảnh 1):**
-Eli in a red plaid flannel shirt and denim overalls standing alone with his head bowed in a quiet dirt schoolyard, a low wooden fence at the edge of the yard, medium shot, 50mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+**Scene:** 3 | **Time:** 00:00:22 → 00:00:27 | **Duration:** 5s | **Frame đầu:** ảnh 3.jpg
+**Image Prompt (ảnh 3):**
+A towering cold glass bank skyscraper reflecting a pale overcast sky, sleek steel and mirrored blue facade rising above an empty plaza, wide shot, 35mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 **Video Prompt:**
-Camera holds in a medium framing on Eli in the red plaid flannel shirt standing alone with his head lowered in the quiet dirt schoolyard, distant children's voices fading behind him as he slowly turns his shoulder away, low wooden fence marking the yard's edge, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic footage, 1970s rural Americana aesthetic, 35mm film look, natural motion, smooth stabilized camera, Audio: faint distant laughter and playground murmur
+Slow pull-back and gentle tilt up the cold glass bank skyscraper, the mirrored blue facade drifting past frame as pale overcast clouds glide slowly across the reflective steel surface, the empty plaza gradually widening into view below, cold office light, distant framing, clinical atmosphere, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient distant city hum
 
 ---
 ## Clip 3.2
-**Scene:** 3 | **Time:** 00:00:29 → 00:00:34 | **Duration:** 5s | **Frame đầu:** Extend từ Clip 3.1
+**Scene:** 3 | **Time:** 00:00:27 → 00:00:32 | **Duration:** 5s | **Frame đầu:** ảnh 3-2.jpg
+**Image Prompt (ảnh phụ 3-2):**
+An industrial printing press spewing an endless cascade of identical dense contract pages into a growing pile, blurred rollers, streaming white paper, cold metal machinery, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 **Video Prompt:**
-Slow push-in camera moving closer to Eli in the red plaid flannel shirt as he keeps his head bowed, eyes fixed on the dirt while his jaw tightens and he stays silent and still, quiet dirt schoolyard beside the low wooden fence, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic footage, 1970s rural Americana aesthetic, 35mm film look, natural motion, smooth stabilized camera, Audio: hushed schoolyard ambience with faint fading laughter
+Static camera on the industrial printing press as a continuous cascade of identical contract pages streams steadily from the blurred rollers, the growing paper pile rising slowly at the base while the cold metal machinery churns in relentless motion, cold office light, distant framing, clinical atmosphere, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient mechanical whir
 
 ---
 ## Clip 4.1
-**Scene:** 4 | **Time:** 00:00:34 → 00:00:41 | **Duration:** 7s | **Frame đầu:** ảnh 4.jpg
-**Image Prompt (ảnh 1):**
-A cluster of farmers standing frozen, weathered faces caught in stunned stillness beside faint smudged chalk marks on a board, dusty scale house at the county grain elevator, close-up, 85mm portrait lens, full head within frame, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+**Scene:** 4 | **Time:** 00:00:32 → 00:00:37 | **Duration:** 5s | **Frame đầu:** ảnh 4.jpg
+**Image Prompt (ảnh 4):**
+A weathered calloused hand pressing a pen to the signature line of a thick contract page, wrinkled knuckles, ink wet on aged paper, close-up, 85mm portrait lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 **Video Prompt:**
-Static camera holding on the cluster of farmers standing frozen shoulder to shoulder, weathered faces caught in stunned stillness as their eyes stay fixed on the faint chalk marks nearby, dusty scale house at the county grain elevator, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic footage, 1970s rural Americana aesthetic, 35mm film look, natural motion, smooth stabilized camera, Audio: heavy silence with distant grain elevator machinery hum
+Slow push-in on the weathered calloused hand as it presses the pen to the signature line, wrinkled knuckles gradually tightening while the pen tip drags slowly across the aged paper leaving a wet ink trail, the hand steady and heavy in frame throughout, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient pen scratch on paper
 
 ---
 ## Clip 4.2
-**Scene:** 4 | **Time:** 00:00:41 → 00:00:48 | **Duration:** 7s | **Frame đầu:** ảnh 4-2.jpg (ảnh phụ)
-**Image Prompt (ảnh phụ 4-2.jpg):**
-The hand of a weathered farmer slowly turning a worn felt hat by its brim, faint smudged chalk marks blurred on a wooden board behind him, dusty scale house at the county grain elevator, extreme close-up, 100mm macro lens, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+**Scene:** 4 | **Time:** 00:00:37 → 00:00:41 | **Duration:** 4s | **Frame đầu:** ảnh 4-2.jpg
+**Image Prompt (ảnh phụ 4-2):**
+A tall growing stack of signed signature pages piling on a wooden desk, dark ink signatures crowding each sheet, curled corners, dim room behind, medium close-up, 85mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 **Video Prompt:**
-Static camera holds in close-up on the hand of a weathered farmer slowly turning a worn felt hat by its brim, faint smudged chalk marks blurred on the wooden board behind him, dusty scale house at the county grain elevator, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic footage, 1970s rural Americana aesthetic, 35mm film look, natural motion, smooth stabilized camera, Audio: heavy silence with distant grain elevator machinery hum
+Static camera on the growing stack of signed signature pages as one more sheet drifts slowly down onto the pile, its curled corner settling gently against the dark ink signatures below, the tall stack gradually leaning under its own weight on the wooden desk, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient paper slide
 
 ---
 ## Clip 5.1
-**Scene:** 5 | **Time:** 00:00:48 → 00:00:53 | **Duration:** 5s | **Frame đầu:** ảnh 5.jpg
-**Image Prompt (ảnh 1):**
-A thirty-gallon aquarium with a chipped front corner glowing pale green-gold in the darkness, rippling water lit softly against the shadows, 1970s farmhouse kitchen with worn linoleum floor, close-up, 85mm portrait lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+**Scene:** 5 | **Time:** 00:00:41 → 00:00:46 | **Duration:** 5s | **Frame đầu:** ảnh 5.jpg
+**Image Prompt (ảnh 5):**
+A family loading worn furniture and battered belongings into a rented moving trailer in a gravel driveway, a man in a sharp tailored suit standing apart with a polished smile, faded farmhouse behind, wide shot, 35mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 **Video Prompt:**
-Static camera holding on the thirty-gallon aquarium glowing pale green-gold in the darkened kitchen, rippling water catching soft light as pale shapes drift slowly behind the glass, worn linoleum floor of the 1970s farmhouse kitchen fading into shadow around it, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic footage, 1970s rural Americana aesthetic, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient hum of an aquarium filter
+Gentle pan left across the gravel driveway as the family carries worn furniture slowly toward the rented moving trailer, the man in the sharp tailored suit standing apart and motionless with his polished smile, faded farmhouse looming behind, dust drifting low over the gravel, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient gravel footsteps
 
 ---
 ## Clip 5.2
-**Scene:** 5 | **Time:** 00:00:53 → 00:00:58 | **Duration:** 5s | **Frame đầu:** Extend từ Clip 5.1
+**Scene:** 5 | **Time:** 00:00:46 → 00:00:51 | **Duration:** 5s | **Frame đầu:** ảnh 5-2.jpg
+**Image Prompt (ảnh phụ 5-2):**
+A man in a sharp tailored dark suit with a cold polished smile, crisp lapel, smug composed expression, blurred gravel driveway behind, close-up, 85mm portrait lens, full head within frame, dismissive cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 **Video Prompt:**
-Slow push-in camera moving toward the chipped front corner of the aquarium, silver fish gently circling and drifting past the glass in unhurried loops, darkened 1970s farmhouse kitchen glowing faintly around the tank, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic footage, 1970s rural Americana aesthetic, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient hum of an aquarium filter with a faint water ripple
+Slow push-in on the man in the sharp tailored suit, his cold polished smile gradually widening a fraction as his composed gaze drifts calmly across the driveway, crisp lapel catching the flat light, the smug face held steady in frame throughout, dismissive cold office light, distant framing, clinical atmosphere, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient distant murmur
 
 ---
 ## Clip 6.1
-**Scene:** 6 | **Time:** 00:00:58 → 00:01:04 | **Duration:** 6s | **Frame đầu:** ảnh 6.jpg
-**Image Prompt (ảnh 1):**
-Harlan in a faded blue chambray shirt standing amid dry cornfield stubble, shoulders heavy beneath the fading light, flat south Georgia corn farm with red dirt fields and distant pine tree line, wide shot, 35mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
+**Scene:** 6 | **Time:** 00:00:51 → 00:00:57 | **Duration:** 6s | **Frame đầu:** ảnh 6.jpg
+**Image Prompt (ảnh 6):**
+Asher standing as a small solitary figure across vast rolling farmland of green corn and soybean rows stretching to the horizon, weathered work clothes, extreme wide shot, 24mm wide-angle lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 **Video Prompt:**
-Static camera holds on a wide shot of Harlan in the faded blue chambray shirt standing amid the dry cornfield stubble, shoulders heavy as he looks slowly across the flat rows toward the distant pine tree line, red dirt fields of the south Georgia corn farm stretching around him, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic footage, 1970s rural Americana aesthetic, 35mm film look, natural motion, smooth stabilized camera, Audio: light wind moving through dry cornstalks
+Slow pull-back from Asher in the weathered work clothes standing small and solitary across the vast farmland, the green corn and soybean rows swaying gently in a low wind as the open horizon widens around the lone figure, Asher holding a firm steady posture in frame, strong directional light, firm posture, clear focus, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient rustling crops and open wind
 
 ---
 ## Clip 6.2
-**Scene:** 6 | **Time:** 00:01:04 → 00:01:10 | **Duration:** 6s | **Frame đầu:** Extend từ Clip 6.1
+**Scene:** 6 | **Time:** 00:00:57 → 00:01:02 | **Duration:** 5s | **Frame đầu:** ảnh 6-2.jpg
+**Image Prompt (ảnh phụ 6-2):**
+The weathered face of Asher set in firm determined resolve, deep-set steady eyes fixed forward, sun-lined skin, jaw set tight, open farmland blurred behind, close-up, 85mm portrait lens, full head within frame, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 **Video Prompt:**
-Tracking camera moving alongside Harlan in the faded blue chambray shirt as he walks slowly between rows of stunted corn, one hand trailing past the withered stalks beside him, dry red-dirt furrows underfoot on the tired farm, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic footage, 1970s rural Americana aesthetic, 35mm film look, natural motion, smooth stabilized camera, Audio: dry rustle of cornstalks in a light breeze
+Slow push-in on the weathered face of Asher, the deep-set steady eyes gradually narrowing with resolve as the jaw tightens, a faint gust drifting through the sun-lined hair while the determined gaze holds fixed forward, the face anchored in frame throughout, strong directional light, firm posture, clear focus, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient open wind
 
----
-## Clip 6.3
-**Scene:** 6 | **Time:** 00:01:10 → 00:01:15 | **Duration:** 5s | **Frame đầu:** Extend từ Clip 6.2
-**Video Prompt:**
-Slow tilt-down camera following Harlan in the faded blue chambray shirt as his worn boots come to a stop on the cracked dry earth, one hand reaching out to brush against a withered cornstalk beside him, flat south Georgia corn farm with red dirt fields around him, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic footage, 1970s rural Americana aesthetic, 35mm film look, natural motion, smooth stabilized camera, Audio: faint crunch of dry earth underfoot
-
----
-## Clip 7.1
-**Scene:** 7 | **Time:** 00:01:15 → 00:01:20 | **Duration:** 5s | **Frame đầu:** ảnh 7.jpg
-**Image Prompt (ảnh 1):**
-Deep cracks splitting the sun-baked red dirt, dry corn stubble jutting from the parched ground, flat south Georgia corn farm with red dirt fields and distant pine tree line, extreme close-up, 100mm macro lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-**Video Prompt:**
-Static camera holds in extreme close-up on the deep cracks splitting the sun-baked red dirt, dry corn stubble jutting motionless from the parched ground as fine dust drifts slowly across the cracks, flat south Georgia corn farm stretching beyond, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic footage, 1970s rural Americana aesthetic, 35mm film look, natural motion, smooth stabilized camera, Audio: faint dry wind over open ground
-
----
-## Clip 7.2
-**Scene:** 7 | **Time:** 00:01:20 → 00:01:24 | **Duration:** 4s | **Frame đầu:** Extend từ Clip 7.1
-**Video Prompt:**
-Gentle pan camera moving slowly across the rows of stunted corn stalks toward a distant weathered farmhouse on the horizon, flat south Georgia corn farm with red dirt fields and the pine tree line beyond, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic footage, 1970s rural Americana aesthetic, 35mm film look, natural motion, smooth stabilized camera, Audio: faint dry wind over open ground
-
----
-## Clip 8.1
-**Scene:** 8 | **Time:** 00:01:24 → 00:01:32 | **Duration:** 8s | **Frame đầu:** ảnh 8.jpg
-**Image Prompt (ảnh 1):**
-Stacked fertilizer sacks piled high beside a parked tanker truck outside dusty windows, 1970s rural feed store with stacked seed corn sacks, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-**Video Prompt:**
-Static camera holds on a medium shot of the stacked fertilizer sacks piled high inside the dusty rural feed store, dust motes drifting through the window light as a parked tanker truck sits visible through the glass outside, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic footage, 1970s rural Americana aesthetic, 35mm film look, natural motion, smooth stabilized camera, Audio: low ambient creak of the feed store with a distant truck idle
-
----
-## Clip 8.2
-**Scene:** 8 | **Time:** 00:01:32 → 00:01:39 | **Duration:** 7s | **Frame đầu:** ảnh 8-2.jpg (ảnh phụ)
-**Image Prompt (ảnh phụ 8-2.jpg):**
-The hand of a weathered farmer slowly counting a thin stack of worn dollar bills, a parked ammonia tanker truck blurred behind him outside the feed store window, 1970s rural feed store with stacked seed corn sacks, close-up, 85mm portrait lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-**Video Prompt:**
-Static camera holds in close-up on the hand of a weathered farmer slowly counting a thin stack of worn dollar bills, the parked ammonia tanker truck blurred through the window behind him, 1970s rural feed store with stacked seed corn sacks, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic footage, 1970s rural Americana aesthetic, 35mm film look, natural motion, smooth stabilized camera, Audio: faint rustle of paper bills with a distant truck engine idle
-
----
-## Clip 9.1
-**Scene:** 9 | **Time:** 00:01:39 → 00:01:45 | **Duration:** 6s | **Frame đầu:** ảnh 9.jpg
-**Image Prompt (ảnh 1):**
-Over the shoulder of an elderly farmer, a huddled group of gray-haired farmers standing dejected at the counter, 1970s rural feed store with stacked seed corn sacks, over-shoulder shot, 50mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-**Video Prompt:**
-Static camera holds in an over-the-shoulder framing behind an elderly farmer as he faces a huddled group of gray-haired farmers standing dejected at the counter, weight settling into their slumped shoulders, 1970s rural feed store with stacked seed corn sacks around them, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic footage, 1970s rural Americana aesthetic, 35mm film look, natural motion, smooth stabilized camera, Audio: low murmuring voices inside the feed store
-
----
-## Clip 9.2
-**Scene:** 9 | **Time:** 00:01:45 → 00:01:50 | **Duration:** 5s | **Frame đầu:** Extend từ Clip 9.1
-**Video Prompt:**
-Slow push-in camera moving closer to the calloused hand of one weathered farmer slowly turning a chipped coffee cup on the counter, his tired face lowered just beyond in soft focus, 1970s rural feed store with stacked seed corn sacks around him, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic footage, 1970s rural Americana aesthetic, 35mm film look, natural motion, smooth stabilized camera, Audio: low murmuring voices fading into quiet
-
----
-## Clip 10.1
-**Scene:** 10 | **Time:** 00:01:50 → 00:01:55 | **Duration:** 5s | **Frame đầu:** ảnh 10.jpg
-**Image Prompt (ảnh 1):**
-Harlan in a faded blue chambray shirt standing as a lone silhouette in the middle of open cornfield rows, flat south Georgia corn farm with red dirt fields and distant pine tree line, wide shot, 35mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 1970s rural Americana aesthetic, shot on grainy 35mm Kodak film stock, natural skin texture, soft depth of field
-**Video Prompt:**
-Static camera holds on a wide shot of Harlan in the faded blue chambray shirt standing as a lone silhouette in the middle of the open cornfield rows, motionless as the flat red dirt fields stretch toward the distant pine tree line, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic footage, 1970s rural Americana aesthetic, 35mm film look, natural motion, smooth stabilized camera, Audio: soft wind moving across the open field
-
----
-## Clip 10.2
-**Scene:** 10 | **Time:** 00:01:55 → 00:02:00 | **Duration:** 5s | **Frame đầu:** Extend từ Clip 10.1
-**Video Prompt:**
-Slow push-in camera moving gradually toward Harlan in the faded blue chambray shirt standing still and silent amid the cornfield rows, the corn leaves around him stirring and swaying in the wind while he remains motionless, flat south Georgia corn farm stretching toward the pine tree line, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic footage, 1970s rural Americana aesthetic, 35mm film look, natural motion, smooth stabilized camera, Audio: soft wind moving through rustling corn leaves

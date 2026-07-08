@@ -37,6 +37,18 @@ Mọi trang phục trong character description PHẢI kèm màu cụ thể, khô
 - Đúng: `"sharp navy blue tailored blazer"`, `"steel blue dress shirt with sleeves rolled up"`, `"dusty rose cardigan over a cream blouse"`
 - Áp dụng ngay từ Bước 1 khi soạn `config.json > characters[].description` — không để việc bổ sung màu trở thành lần vá lỗi sau này.
 
+### 1.1c — Description PHẢI mở đầu bằng DANH TỪ GIỚI TÍNH + tuổi (QUAN TRỌNG)
+
+Ảnh ingredient nhân vật (Rule 1.4) được vẽ từ `characters[].description`. Nếu description KHÔNG nêu rõ giới tính bằng một danh từ tường minh (`man`/`woman`/`boy`/`girl`), model image gen tự đoán giới tính — và đoán sai thường xuyên (vd nghề "diesel mechanic" + "warm smile" bị vẽ thành phụ nữ). Sai ở ảnh ingredient sẽ lan ra MỌI scene tham chiếu nhân vật đó.
+
+- Mỗi `description` PHẢI bắt đầu bằng cụm `[tuổi]-year-old [man/woman/boy/girl]` (hoặc `[man/woman] in his/her [thập niên]`), TRƯỚC nghề nghiệp/đặc điểm.
+  - Sai: `"25-year-old diesel mechanic, short dark brown hair, easy warm smile"` (không có danh từ giới tính → model tự đoán)
+  - Sai: `"61-year-old apple farmer, deep-set patient eyes"` (nghề nghiệp trung tính, "clean-shaven" không đủ khóa)
+  - Đúng: `"25-year-old man, sturdy diesel mechanic build, short dark brown hair, easy warm smile"`
+  - Đúng: `"61-year-old man, weathered apple farmer, deep-set patient eyes"`
+- KHÔNG dựa vào tín hiệu gián tiếp (nghề nghiệp, "stubble", "clean-shaven", đại từ `his/her` ở field `name`) để suy giới tính — phải có DANH TỪ trong chính `description`.
+- Gate `--step2` cảnh báo mọi character mà `description` thiếu token giới tính (`man/woman/boy/girl/male/female`) — xử lý ở Bước 1, không để lọt sang bước sau.
+
 ## 1.2 — Costume Change Protocol
 
 - Nếu nhân vật thay đổi ngoại hình (flashback hồi trẻ, ngày khác, sự kiện khác...), PHẢI tạo một **variant** riêng trong character sheet.

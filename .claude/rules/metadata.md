@@ -69,6 +69,12 @@ Mỗi scene trong `scenes[]` PHẢI có đủ các field sau, KHÔNG được th
 | `prompt` | string | Prompt ảnh hoàn chỉnh (tiếng Anh) |
 | `image_file` | string | Tên file ảnh |
 
+Field tùy chọn (có thể là mảng rỗng, không bắt buộc):
+
+| Field | Type | Mô tả |
+|---|---|---|
+| `sfx` | array | Keyword hiệu ứng âm thanh (tiếng Anh) cho editor tìm sfx theo phân cảnh — sinh từ cột SFX của scene-breakdown.md, chỉ gồm âm thanh có thật trong narration/bối cảnh |
+
 ## 5.8 — JSON Validity
 
 - File metadata.json PHẢI là valid JSON.
