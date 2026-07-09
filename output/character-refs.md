@@ -1,90 +1,97 @@
-# Character & Setting Reference Prompts — The Only Farmer Who Read the Fine Print
+# Asset Reference Prompts — "$3,800 for Dead Ponds"
 
-Ảnh ingredient (reference) để upload lên Flow/Uni-X **TRƯỚC** khi generate scene.
-Medium: `photorealistic cinematic film still` — ảnh ref dùng lighting studio trung tính (Rule 1.4 / 2.3a); lighting cảm xúc do mood_map từng scene lo.
+Prompt tạo **ảnh ingredient** (tham chiếu) để upload lên Flow / Uni-X **TRƯỚC** khi generate scene.
+Medium project: `photorealistic cinematic film still` (ảnh thật điện ảnh). Mọi ảnh ref dưới đây cùng medium này.
 
-**Quy ước đặt tên ảnh khi upload (Uni-X asset tag):**
-- Nhân vật = `nano_name` viết hoa, khoảng trắng → `_` (vd `Judge Whitman` → `JUDGE_WHITMAN`).
-- Bối cảnh = `id` viết hoa (vd `oak_table_room` → `OAK_TABLE_ROOM`).
+**Quy ước đặt tên ảnh khi upload (asset tag):**
+- Nhân vật = `nano_name` viết HOA, khoảng trắng → `_` (vd `Preston Vance` → `PRESTON_VANCE.jpg`).
+- Bối cảnh = `id` viết HOA (vd `garrett_ponds` → `GARRETT_PONDS.jpg`).
 
 ---
 
 ## Nhân vật / Character Assets
 
-### Asher  → tag `ASHER`
-Medium studio shot of a 58-year-old man, weathered third-generation Iowa farmer, short gray hair, deep-set tired eyes, gray stubble, tan canvas work jacket over a faded olive green plaid flannel shirt, worn blue denim jeans, calloused hands, symmetrical forward-facing posture, neutral calm expression, captured with a Hasselblad H6D-100c and a 50mm lens, skin rendered with natural realistic texture, clamshell lighting with a bottom silver reflector creating a soft luminous glow, head and shoulders composition with clear headroom, full head entirely within frame, seamless solid white background, photorealistic cinematic film still, natural skin texture
+### GARRETT — Garrett Ballard (nhân vật chính)
+```
+Medium studio shot of a 44-year-old man, lean weathered build, short dark brown hair flecked with gray, tired deep-set eyes, three-day stubble, faded olive-green canvas work jacket over a gray flannel shirt, worn blue jeans, scuffed brown leather work boots, symmetrical forward-facing posture, neutral calm expression, captured with a Hasselblad H6D-100c and a 50mm lens, skin rendered with natural realistic texture, clamshell lighting with a bottom silver reflector creating a soft luminous glow, head and shoulders composition with clear headroom, full head entirely within frame, seamless solid white background, photorealistic cinematic film still, natural skin texture
+```
 
-### Granger  → tag `GRANGER`
-Medium studio shot of a late-thirties man, sleek regional bank vice president, slicked-back dark brown hair, clean-shaven, charcoal gray tailored Italian suit, silver silk tie, polished condescending expression, symmetrical forward-facing posture, neutral calm expression, captured with a Hasselblad H6D-100c and a 50mm lens, skin rendered with natural realistic texture, clamshell lighting with a bottom silver reflector creating a soft luminous glow, head and shoulders composition with clear headroom, full head entirely within frame, seamless solid white background, photorealistic cinematic film still, natural skin texture
+### WALT — Walt Ballard (cha, hồi tưởng)
+```
+Medium studio shot of a 68-year-old man, weathered lean farmer build, deeply lined sun-creased face, short thinning white hair, calm patient eyes, faded tan canvas work coat over a brown plaid shirt, dark navy denim overalls, cracked brown leather work boots, symmetrical forward-facing posture, neutral calm expression, captured with a Hasselblad H6D-100c and a 50mm lens, skin rendered with natural realistic texture, clamshell lighting with a bottom silver reflector creating a soft luminous glow, head and shoulders composition with clear headroom, full head entirely within frame, seamless solid white background, photorealistic cinematic film still, natural skin texture
+```
 
-### Sarah  → tag `SARAH`  *(flashback — vợ quá cố)*
-Medium studio shot of a 55-year-old woman, gentle warm face, auburn hair streaked with silver pulled back in a low bun, soft powder blue cardigan over a cream blouse, thin reading glasses, calm patient eyes, symmetrical forward-facing posture, neutral calm expression, captured with a Hasselblad H6D-100c and a 50mm lens, skin rendered with natural realistic texture, clamshell lighting with a bottom silver reflector creating a soft luminous glow, head and shoulders composition with clear headroom, full head entirely within frame, seamless solid white background, photorealistic cinematic film still, natural skin texture
+### PRESTON_VANCE — Preston Vance (người mua / phản diện)
+> Khắc hoạ: gã béo, mặt trịnh thượng — mô tả bằng tín hiệu thị giác trung tính, an toàn với policy Google.
+```
+Medium studio shot of a 52-year-old man, heavyset broad-shouldered build, full rounded clean-shaven face, thinning slicked-back gray hair, cool appraising eyes with a faint tight-lipped superior smile and chin lifted slightly, crisp charcoal-gray tailored business suit, pale blue dress shirt, polished black leather shoes, symmetrical forward-facing posture, composed self-assured expression, captured with a Hasselblad H6D-100c and a 50mm lens, skin rendered with natural realistic texture, clamshell lighting with a bottom silver reflector creating a soft luminous glow, head and shoulders composition with clear headroom, full head entirely within frame, seamless solid white background, photorealistic cinematic film still, natural skin texture
+```
 
-### Higgins  → tag `HIGGINS`
-Medium studio shot of a 65-year-old man, white-haired small-town lawyer, bushy white eyebrows, brown suspenders over a wrinkled white dress shirt, loosened brown tie, weathered kindly face, symmetrical forward-facing posture, neutral calm expression, captured with a Hasselblad H6D-100c and a 50mm lens, skin rendered with natural realistic texture, clamshell lighting with a bottom silver reflector creating a soft luminous glow, head and shoulders composition with clear headroom, full head entirely within frame, seamless solid white background, photorealistic cinematic film still, natural skin texture
+### VERNON — Vernon Ordway (cán bộ khuyến nông)
+```
+Medium studio shot of a 60-year-old man, sturdy solid build, broad sun-weathered face, short gray hair under a faded olive-green cap, steady no-nonsense eyes, tan barn coat over a checked brown-and-cream shirt, dark work jeans, mud-caked brown boots, symmetrical forward-facing posture, neutral calm expression, captured with a Hasselblad H6D-100c and a 50mm lens, skin rendered with natural realistic texture, clamshell lighting with a bottom silver reflector creating a soft luminous glow, head and shoulders composition with clear headroom, full head entirely within frame, seamless solid white background, photorealistic cinematic film still, natural skin texture
+```
 
-### Caldwell  → tag `CALDWELL`
-Medium studio shot of an early-sixties man, silver-haired bank CEO, clean-shaven, sharp navy blue pinstripe suit, gold cufflinks, cold composed expression, symmetrical forward-facing posture, neutral calm expression, captured with a Hasselblad H6D-100c and a 50mm lens, skin rendered with natural realistic texture, clamshell lighting with a bottom silver reflector creating a soft luminous glow, head and shoulders composition with clear headroom, full head entirely within frame, seamless solid white background, photorealistic cinematic film still, natural skin texture
+### MARLENE — Marlene Kirby (chủ trại giống)
+```
+Medium studio shot of a 55-year-old woman, practical stocky build, short curly graying auburn hair, alert direct eyes, weather-lined face, dark green rubber chest waders over a faded red flannel shirt, brown rubber boots, symmetrical forward-facing posture, neutral calm expression, captured with a Hasselblad H6D-100c and a 50mm lens, skin rendered with natural realistic texture, clamshell lighting with a bottom silver reflector creating a soft luminous glow, head and shoulders composition with clear headroom, full head entirely within frame, seamless solid white background, photorealistic cinematic film still, natural skin texture
+```
 
-### Voss  → tag `VOSS`
-Medium studio shot of a fifty-year-old man, corporate chief legal counsel, receding gray hair, rimless glasses, dark charcoal three-piece suit, burgundy tie, calculating expression, symmetrical forward-facing posture, neutral calm expression, captured with a Hasselblad H6D-100c and a 50mm lens, skin rendered with natural realistic texture, clamshell lighting with a bottom silver reflector creating a soft luminous glow, head and shoulders composition with clear headroom, full head entirely within frame, seamless solid white background, photorealistic cinematic film still, natural skin texture
+### HOLLIS — Hollis Grant (chủ nhà hàng hải sản)
+```
+Medium studio shot of a 58-year-old man, trim upright build, close-cropped salt-and-pepper hair and short gray beard, sharp discerning eyes, white chef's jacket over a black apron, dark charcoal trousers, clean black shoes, symmetrical forward-facing posture, neutral calm expression, captured with a Hasselblad H6D-100c and a 50mm lens, skin rendered with natural realistic texture, clamshell lighting with a bottom silver reflector creating a soft luminous glow, head and shoulders composition with clear headroom, full head entirely within frame, seamless solid white background, photorealistic cinematic film still, natural skin texture
+```
 
-### Nolan  → tag `NOLAN`
-Medium studio shot of a 55-year-old man, broad-shouldered neighbor farmer, thinning brown hair, gray stubble, faded blue denim jacket over a brown work shirt, weary defeated eyes, symmetrical forward-facing posture, neutral calm expression, captured with a Hasselblad H6D-100c and a 50mm lens, skin rendered with natural realistic texture, clamshell lighting with a bottom silver reflector creating a soft luminous glow, head and shoulders composition with clear headroom, full head entirely within frame, seamless solid white background, photorealistic cinematic film still, natural skin texture
-
-### Walter  → tag `WALTER`
-Medium studio shot of a 72-year-old man, gruff cooperative weighmaster, deeply lined face, white stubble, faded red plaid flannel shirt, green Pioneer Seed cap, wire-rimmed glasses, symmetrical forward-facing posture, neutral calm expression, captured with a Hasselblad H6D-100c and a 50mm lens, skin rendered with natural realistic texture, clamshell lighting with a bottom silver reflector creating a soft luminous glow, head and shoulders composition with clear headroom, full head entirely within frame, seamless solid white background, photorealistic cinematic film still, natural skin texture
-
-### Collins  → tag `COLLINS`
-Medium studio shot of a late-thirties man, sharp urban forensic accountant, neat short black hair, clean-shaven, slim navy blue business suit, thin silver-framed glasses, tense focused expression, symmetrical forward-facing posture, neutral calm expression, captured with a Hasselblad H6D-100c and a 50mm lens, skin rendered with natural realistic texture, clamshell lighting with a bottom silver reflector creating a soft luminous glow, head and shoulders composition with clear headroom, full head entirely within frame, seamless solid white background, photorealistic cinematic film still, natural skin texture
-
-### Judge Whitman  → tag `JUDGE_WHITMAN`
-Medium studio shot of a sixties man, dignified federal judge, balding gray hair, wire-rimmed glasses, black judicial robe, stern measured expression, symmetrical forward-facing posture, neutral calm expression, captured with a Hasselblad H6D-100c and a 50mm lens, skin rendered with natural realistic texture, clamshell lighting with a bottom silver reflector creating a soft luminous glow, head and shoulders composition with clear headroom, full head entirely within frame, seamless solid white background, photorealistic cinematic film still, natural skin texture
-
-### Kirkland  → tag `KIRKLAND`
-Medium studio shot of a seventies man, frail elderly farmer, sparse white hair, deeply weathered face, faded brown barn coat over a gray flannel shirt, slow tired posture, symmetrical forward-facing posture, neutral calm expression, captured with a Hasselblad H6D-100c and a 50mm lens, skin rendered with natural realistic texture, clamshell lighting with a bottom silver reflector creating a soft luminous glow, head and shoulders composition with clear headroom, full head entirely within frame, seamless solid white background, photorealistic cinematic film still, natural skin texture
-
-### Junior Attorney  → tag `JUNIOR_ATTORNEY`
-Medium studio shot of a late-twenties man, nervous junior bank attorney, neat brown hair, clean-shaven, stiff black off-the-rack suit, thin blue tie, anxious wide eyes, symmetrical forward-facing posture, neutral calm expression, captured with a Hasselblad H6D-100c and a 50mm lens, skin rendered with natural realistic texture, clamshell lighting with a bottom silver reflector creating a soft luminous glow, head and shoulders composition with clear headroom, full head entirely within frame, seamless solid white background, photorealistic cinematic film still, natural skin texture
-
-### State Inspector  → tag `STATE_INSPECTOR`
-Medium studio shot of a forty-year-old woman, state agriculture soil inspector, brown hair in a practical ponytail, khaki field vest over a beige shirt, holding a clipboard, focused neutral expression, symmetrical forward-facing posture, neutral calm expression, captured with a Hasselblad H6D-100c and a 50mm lens, skin rendered with natural realistic texture, clamshell lighting with a bottom silver reflector creating a soft luminous glow, head and shoulders composition with clear headroom, full head entirely within frame, seamless solid white background, photorealistic cinematic film still, natural skin texture
+### REGGIE — Reggie Alton (cựu nhân viên phân loại Meridian)
+```
+Medium studio shot of a 45-year-old man, wiry capable build, short black hair under a gray knit beanie, quiet watchful eyes, dark brown work fleece over a navy blue henley shirt, faded blue jeans, rubber-soled brown work boots, symmetrical forward-facing posture, neutral calm expression, captured with a Hasselblad H6D-100c and a 50mm lens, skin rendered with natural realistic texture, clamshell lighting with a bottom silver reflector creating a soft luminous glow, head and shoulders composition with clear headroom, full head entirely within frame, seamless solid white background, photorealistic cinematic film still, natural skin texture
+```
 
 ---
 
-## Bối cảnh / Setting Assets
+## Bối cảnh / Setting Assets (ảnh nền trống, không người)
 
-Ảnh nền trống (không người) để reference vào nhiều scene.
+### GARRETT_PONDS — Bốn hồ cá của Garrett
+```
+Wide establishing shot of an empty rural site with four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, unoccupied and quiet, natural even overcast lighting, photorealistic cinematic film still, 35mm film look
+```
 
-### south_field  → tag `SOUTH_FIELD`
-Wide establishing shot of an empty drought-stricken cornfield, stunted pale corn stalks, cracked dry earth, wire fence line, vast flat Iowa farmland, overcast sky, unoccupied, natural even lighting, photorealistic cinematic film still
+### GRAVEL_ROAD — Con đường sỏi vào trang trại
+```
+Wide establishing shot of an empty gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, unoccupied and still, natural even lighting, photorealistic cinematic film still, 35mm film look
+```
 
-### oak_table_room  → tag `OAK_TABLE_ROOM`
-Wide establishing shot of an empty old farmhouse dining room, large oak dining table, wood stove, cork board, corded wall phone, warm timber walls, small windows, unoccupied, natural even lighting, photorealistic cinematic film still
+### CO_OP — Co-op nông nghiệp
+```
+Wide establishing shot of an empty rural farm supply co-op, stacked feed sacks, metal shelving, concrete floor, fluorescent overhead lighting, wide loading dock doors, unoccupied and quiet, natural even lighting, photorealistic cinematic film still, 35mm film look
+```
 
-### farmhouse_porch  → tag `FARMHOUSE_PORCH`
-Wide establishing shot of an empty farmhouse front porch, weathered wooden railing, gravel driveway, thermos on the rail, open fields beyond, low grey sky, unoccupied, natural even lighting, photorealistic cinematic film still
+### HATCHERY — Trại giống cá của Marlene
+```
+Wide establishing shot of an empty fish hatchery building, long concrete rearing tanks, aeration pipes, wet tiled floor, corrugated metal walls, hanging work lights, unoccupied and quiet, natural even lighting, photorealistic cinematic film still, 35mm film look
+```
 
-### bank_branch  → tag `BANK_BRANCH`
-Wide establishing shot of an empty modern Iron Ridge bank branch office, floor-to-ceiling glass windows, mahogany desk, cold minimalist corporate interior, unoccupied, natural even lighting, photorealistic cinematic film still
+### RESTAURANT_KITCHEN — Bếp nhà hàng của Hollis
+```
+Wide establishing shot of an empty seafood restaurant kitchen, stainless steel prep counters, hanging pans, white tiled walls, industrial range, crates of ice, unoccupied and clean, natural even lighting, photorealistic cinematic film still, 35mm film look
+```
 
-### bank_boardroom  → tag `BANK_BOARDROOM`
-Wide establishing shot of an empty corporate top-floor boardroom, long polished mahogany conference table, city skyline windows, leather executive chairs, unoccupied, natural even lighting, photorealistic cinematic film still
+### FARMERS_MARKET — Chợ nông sản cuối tuần
+```
+Wide establishing shot of an empty outdoor farmers market, folding table with ice trays, canvas canopy, neighboring vendor stalls, small-town street, unoccupied in early morning, natural even lighting, photorealistic cinematic film still, 35mm film look
+```
 
-### law_office  → tag `LAW_OFFICE`
-Wide establishing shot of an empty cluttered small-town law office, cramped wooden desk piled with files, worn law books on shelves, dim strip-mall interior, unoccupied, natural even lighting, photorealistic cinematic film still
+### SHED — Nhà kho đồ nghề của Walt
+```
+Wide establishing shot of an empty weathered wooden tool shed, hand tools hung on nail-studded plank walls, sturdy workbench, single hanging bulb light, dirt-and-concrete floor, unoccupied and quiet, natural even lighting, photorealistic cinematic film still, 35mm film look
+```
 
-### courthouse  → tag `COURTHOUSE`
-Wide establishing shot of an empty federal district courtroom, limestone and dark oak paneling, raised judge's bench, wooden plaintiff and defendant tables, tall arched windows, unoccupied, natural even lighting, photorealistic cinematic film still
+### DINER — Quán ăn thị trấn
+```
+Wide establishing shot of an empty small-town diner interior, long laminate counter with stools, coffee mugs, vinyl booths, window blinds, warm overhead lights, unoccupied before opening, natural even lighting, photorealistic cinematic film still, 35mm film look
+```
 
-### fence_line  → tag `FENCE_LINE`
-Wide establishing shot of an empty southern wire fence line, cracked drought earth, flat open field, hazy sky, unoccupied, natural even lighting, photorealistic cinematic film still
-
-### town_hall_basement  → tag `TOWN_HALL_BASEMENT`
-Wide establishing shot of an empty town hall basement records room, metal lockboxes on a folding table, fluorescent tube lighting, bare concrete walls, stacked document boxes, unoccupied, natural even lighting, photorealistic cinematic film still
-
-### auction_yard  → tag `AUCTION_YARD`
-Wide establishing shot of an empty farm foreclosure auction yard, auctioneer's block, old weathered barn, borrowed pickup truck, scattered heirloom tools, unoccupied, natural even lighting, photorealistic cinematic film still
-
-### caldwell_office  → tag `CALDWELL_OFFICE`
-Wide establishing shot of an empty high-rise Chicago executive office, large window overlooking the city, minimalist desk, grey corporate tones, unoccupied, natural even lighting, photorealistic cinematic film still
+### MERIDIAN_POND — Hồ chứa công nghiệp Meridian
+```
+Wide establishing shot of an empty vast industrial holding pond, wide graded earthen banks, sterile flat water surface, service road along the rim, bare graded earth, gray overcast sky, unoccupied and still, natural even lighting, photorealistic cinematic film still, 35mm film look
+```

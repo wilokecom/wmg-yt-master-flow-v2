@@ -1,127 +1,90 @@
 {
   "style": {
-    "font": "monospace typewriter (Courier-style), large size, high contrast, subtle dark backing bar behind text",
-    "speed": "slow typing, hold completed line 1-2s before cut",
-    "audio": "typewriter clacking, soft — mix under narration",
-    "consistency": "cue 2, 12 (và số tiền trong cue 5, 11) dùng CÙNG một kiểu trình bày $1,245,600 — bookend có chủ đích"
+    "font": "clean bold monospace (typewriter feel)",
+    "size": "large — dễ đọc cho khán giả 65+ (≥ 6-8% chiều cao khung)",
+    "color": "off-white với viền/đổ bóng mềm để nổi trên nền",
+    "position": "lower third hoặc giữa khung, tránh che mặt nhân vật",
+    "typing_speed": "chậm (~8-12 ký tự/giây), có con trỏ nhấp nháy",
+    "hold": "giữ trọn dòng 1.5-2s sau khi gõ xong rồi mờ dần"
   },
   "cues": [
     {
       "id": 1,
-      "stt": 2,
-      "at": "00:00:11",
-      "type": "hook",
-      "text": "Page 47.\nClause 9.\nA footnote in 8-point font.",
-      "sync": "gõ từng cụm theo đúng nhịp narration nhắc tới (page forty-seven / clause nine / footnote)"
+      "stt": 1,
+      "at": "00:00:05",
+      "type": "number",
+      "text": "$3,800",
+      "sync": "Gõ đúng lúc narration đọc con số, nổi trên nền bốn hồ chết — mồi hook."
     },
     {
       "id": 2,
-      "stt": 8,
-      "at": "00:01:18",
-      "type": "number",
-      "text": "$1,245,600",
-      "sync": "gõ chậm từng ký tự khi narration đọc số tiền, giữ đến hết scene"
+      "stt": 12,
+      "at": "00:02:14",
+      "type": "time_card",
+      "text": "TWO YEARS LATER",
+      "sync": "Time card kiểu trailer, xuất hiện khi narration foreshadow 'Two years later'."
     },
     {
       "id": 3,
-      "stt": 11,
-      "at": "00:01:58",
-      "type": "timecard",
-      "text": "BLACKWOOD COUNTY, IOWA — SUMMER 2014\n73 days without rain.",
-      "sync": "dòng 1 ngay đầu scene; dòng 2 khi narration nhắc seventy-three days (~00:02:04)"
+      "stt": 15,
+      "at": "00:02:47",
+      "type": "cta",
+      "text": "Type 1 if you believe",
+      "sync": "CTA bình luận — gõ khi narration mời 'type a one in the comments'."
     },
     {
       "id": 4,
-      "stt": 57,
-      "at": "00:10:34",
-      "type": "timecard",
-      "text": "3:14 AM.\nPage 312.",
-      "sync": "khớp narration 'three fourteen in the morning' rồi 'page three hundred and twelve'"
+      "stt": 29,
+      "at": "00:05:40",
+      "type": "quote",
+      "text": "\"Nothing worth keeping is ever truly finished.\" — Dad",
+      "sync": "Câu thesis của cha, gõ chậm trên cận cảnh dòng bút chì trên deed."
     },
     {
       "id": 5,
-      "stt": 67,
-      "at": "00:12:40",
+      "stt": 49,
+      "at": "00:09:26",
       "type": "number",
-      "text": "600 acres × 2012 harvest × $8.49/bushel\n= $1,245,600",
-      "sync": "dòng 1 gõ trước; dòng 2 (kết quả) gõ đúng lúc narration đọc số tiền (~00:12:51), giữ lâu"
+      "text": "~1,800 fish. Belly-up.",
+      "sync": "Cú sốc die-off — gõ khi narration nói 'nearly eighteen hundred'."
     },
     {
       "id": 6,
-      "stt": 92,
-      "at": "00:17:03",
-      "type": "number",
-      "text": "$4,200/month  →  $12,800/month",
-      "sync": "gõ vế trái trước, mũi tên + vế phải xuất hiện sau để nhấn cú nhảy lãi suất"
+      "stt": 60,
+      "at": "00:11:22",
+      "type": "beat",
+      "text": "Lost a third. Saved the rest.",
+      "sync": "Nhịp lật của cứu-đàn-cá lúc bình minh, sau đêm chạy guồng quạt."
     },
     {
       "id": 7,
-      "stt": 97,
-      "at": "00:18:02",
-      "type": "timecard",
-      "text": "JULY 2018 — DISASTER ZONE",
-      "sync": "dòng đơn, gõ ngay đầu scene"
+      "stt": 121,
+      "at": "00:23:01",
+      "type": "thesis",
+      "text": "It was a bid.",
+      "sync": "Cú nhận ra giữa phim — gõ đúng câu 'It was a bid.', giữ nặng."
     },
     {
       "id": 8,
-      "stt": 99,
-      "at": "00:18:26",
-      "type": "number",
-      "text": "PAY TO THE ORDER OF: IRON RIDGE FIDELITY — $0.00",
-      "sync": "gõ phần chữ trước; '$0.00' gõ cuối cùng, chậm nhất, khớp narration 'a check for zero dollars'"
+      "stt": 161,
+      "at": "00:31:09",
+      "type": "reveal",
+      "text": "SIX FIGURES",
+      "sync": "Payoff — con số sáu chữ số cuối năm hai, không phô trương, gõ chắc."
     },
     {
       "id": 9,
-      "stt": 100,
-      "at": "00:18:35",
-      "type": "timecard",
-      "text": "90 DAYS DELINQUENT.",
-      "sync": "ngắn, dằn từng ký tự"
-    },
-    {
-      "id": 10,
-      "stt": 102,
-      "at": "00:19:09",
+      "stt": 169,
+      "at": "00:33:19",
       "type": "moral",
-      "text": "Patience is not the absence of action.\nIt is the refusal to act before the ground is ready.",
-      "sync": "gõ theo narration đọc câu aphorism; scene 102 là cảnh quiet fields dựng riêng cho câu này"
-    },
-    {
-      "id": 11,
-      "stt": 156,
-      "at": "00:29:19",
-      "type": "number",
-      "text": "$1,245,600 — PAYABLE IN FULL.",
-      "sync": "khớp phán quyết của thẩm phán, hoàn thành dòng TRƯỚC tiếng búa (~00:29:29)"
-    },
-    {
-      "id": 12,
-      "stt": 184,
-      "at": "00:34:22",
-      "type": "number",
-      "text": "$1,245,600",
-      "sync": "bookend với cue 2 — cùng kiểu trình bày, gõ khi tấm séc đặt xuống bàn"
-    },
-    {
-      "id": 13,
-      "stt": 189,
-      "at": "00:35:05",
-      "type": "number",
-      "text": "22 × Addendum 7-C = $22,000,000",
-      "sync": "gõ vế trái trước; kết quả $22,000,000 gõ đúng lúc narration đọc twenty-two million"
-    },
-    {
-      "id": 14,
-      "stt": 201,
-      "at": "00:37:46",
-      "type": "moral",
-      "text": "Read the fine print —\nwhen everyone else is rushing to sign.",
-      "sync": "gõ theo narration câu moral kết, giữ đến gần hết scene"
+      "text": "A pair of hands patient enough to notice.",
+      "sync": "Câu moral kết, gõ chậm trên hồ bình minh trước CTA cuối."
     }
   ],
   "notes": [
-    "Cụm 00:18:02–00:19:16 có 4 cue liền (7/8/9/10) — montage 'bẫy sập', nhịp gõ dồn là chủ đích; editor có thể lược cue 7 hoặc 9 nếu thấy dày.",
-    "Text overlay do editor thêm lúc dựng — KHÔNG đưa chữ vào ảnh AI (Rule 4.5). Ảnh nền các cue phần lớn là macro giấy tờ/cảnh tĩnh, đặt text vùng ít chi tiết.",
-    "Khán giả 65+: cỡ chữ lớn, tốc độ gõ chậm hơn chuẩn, giữ dòng hoàn chỉnh tối thiểu 1-2s trước khi cắt."
+    "Dùng THƯA (9 cue / 33 phút) để mỗi dòng giữ được sức nặng — không rải khắp.",
+    "Text tiếng Anh khớp narration (video language = en).",
+    "Đây là overlay editor thêm lúc dựng, KHÔNG phải chữ trong ảnh AI — không đụng Rule 4.5.",
+    "Muốn thêm/sửa/bớt: chỉ sửa file này rồi chạy lại `python3 scripts/export.py` (1 nguồn → metadata + typewriter-cues.md)."
   ]
 }

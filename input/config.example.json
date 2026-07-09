@@ -6,11 +6,14 @@
     "target_audience": "65+",
     "language": "en"
   },
-
-  "style": "cinematic realistic illustration, warm golden lighting, soft depth of field",
-
+  "style": "photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons",
   "flashback_style": "soft warm vignette, slightly faded colors, dreamy atmosphere",
-
+  "video_hook": {
+    "enabled": true,
+    "duration_s": 60,
+    "max_clip_s": 8,
+    "video_style": "photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean frame free of watermarks, logos, or AI icons"
+  },
   "characters": [
     {
       "id": "marin",
@@ -61,7 +64,6 @@
       "description": "stocky man, hard hat, high-vis vest, weathered face, crew lead"
     }
   ],
-
   "settings": [
     {
       "id": "marin_office",
@@ -89,7 +91,6 @@
       "keywords": "temporary site office, folding tables, blueprints spread out, hard hats on hooks, whiteboard with project timeline"
     }
   ],
-
   "mood_map": {
     "nostalgic": "soft golden light, warm palette, slight gaussian blur",
     "tense": "cool blue-gray tones, hard shadows, tight framing",

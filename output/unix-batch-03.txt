@@ -1,7 +1,0 @@
-(Image Prompt 1/2)
-Assets: SOUTH_FIELD
-Prompt: A wide sweep of [SOUTH_FIELD] drought-stricken cornfield now soaked under steady falling rain, stunted pale corn stalks darkened with water, cracked dry earth glistening wet, wire fence line, extreme wide shot, 24mm wide-angle lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
-(Image Prompt 2/2)
-Assets: SOUTH_FIELD
-Prompt: A serene expanse of [SOUTH_FIELD] drought-stricken cornfield settling calm after the rain, pale corn stalks beaded with water, damp dark earth between the rows, wire fence line under a clearing sky, extreme wide shot, 24mm wide-angle lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field

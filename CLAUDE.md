@@ -129,7 +129,7 @@ Quy trình:
     "enabled": false,
     "duration_s": 60,
     "max_clip_s": 8,
-    "video_style": "photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera"
+    "video_style": "photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean frame free of watermarks, logos, or AI icons"
   },
   "era": {
     "name": "", "keywords": "", "wardrobe": "", "forbidden": []
@@ -156,7 +156,7 @@ Quy trình:
 4. Hỏi user review: xác nhận nhân vật, chọn `style` string, xác nhận locations, thêm/sửa mood nếu cần.
    - **`nano_name` tự đặt = chính tên nhân vật** (tên gọi ngắn trong truyện, vd "Jonah", "Clare"; variant quá khứ = "Young Jonah"). Đây là tên dùng trong mọi prompt ảnh/video khi nhân vật hoặc nhóm nhân vật đó xuất hiện — không cần user bổ sung tay.
    - **`description` mỗi nhân vật PHẢI mở đầu bằng danh từ giới tính + tuổi** (`[tuổi]-year-old man/woman/boy/girl`) trước nghề nghiệp/đặc điểm (Rule 1.1c) — thiếu danh từ giới tính thì ảnh ingredient dễ bị vẽ sai giới (vd nghề "mechanic" bị vẽ thành nữ). Gate `--step2` cảnh báo nếu thiếu.
-   - **Chọn style BẮT BUỘC dứt khoát 1 medium** (Rule 2.1a): đưa user chọn giữa 2 preset — ảnh thật (`photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field` — KHÔNG chứa lighting, lighting do mood_map quyết) hoặc tranh vẽ (`painterly digital illustration, cinematic composition, ...`). CẤM style trộn 2 medium kiểu `realistic illustration` — gây lỗi ảnh lúc thật lúc hư cấu.
+   - **Chọn style BẮT BUỘC dứt khoát 1 medium** (Rule 2.1a): đưa user chọn giữa 2 preset — ảnh thật (`photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons` — KHÔNG chứa lighting, lighting do mood_map quyết) hoặc tranh vẽ (`painterly digital illustration, cinematic composition, rich brushwork texture, soft depth of field, clean frame free of watermarks, logos, or AI icons`). Mọi preset style/video_style KẾT bằng mệnh đề chống icon AI/watermark (Rule 2.1a, KAIZEN 2026-07-09). CẤM style trộn 2 medium kiểu `realistic illustration` — gây lỗi ảnh lúc thật lúc hư cấu.
    - Nhắc user: ảnh tham chiếu nhân vật (ingredients trong Flow) phải cùng medium với style đã chọn.
    - Nếu bối cảnh có thời kỳ cụ thể → điền khối `era` (Rule 2.5): style anchor kèm era aesthetic, character descriptions mặc đồ đúng thời kỳ, settings có marker niên đại, danh sách `forbidden` chống đồ vật hiện đại lọt vào prompt.
 5. Lưu `input/config.json`.
@@ -284,6 +284,8 @@ python3 scripts/export.py
 Script tự động: parse scene-breakdown + prompts + config → sinh `output/metadata.json` → validate toàn bộ Rules 5.1→5.8 (stt liên tục, no gap/overlap, duration_s tính từ timestamp, timestamp HH:MM:SS, character IDs tồn tại trong config, image_file khớp stt, đủ required fields, valid JSON) → in báo cáo beat distribution + PASS/FAIL. Mỗi scene trong metadata kèm field `sfx` (mảng keyword, đọc từ cột SFX của scene-breakdown) để editor tìm hiệu ứng âm thanh cho phân cảnh.
 
 **Typewriter cues (tùy chọn):** nếu tồn tại `input/typewriter.json` (danh sách cue hiệu ứng đánh máy — text overlay do EDITOR thêm lúc dựng, không phải chữ trong ảnh AI nên không đụng Rule 4.5), script merge từng cue vào scene khớp `stt` thành field `typewriter` trong metadata VÀ sinh `output/typewriter-cues.md` (bảng cue kèm ảnh nền cho editor). Nguyên tắc 1 nguồn → 2 output: muốn thêm/sửa cue chỉ sửa `input/typewriter.json` rồi chạy lại export — KHÔNG sửa tay 2 file sinh ra. Script validate: `stt` phải tồn tại (lỗi), `text` không rỗng (lỗi), `at` phải nằm trong khoảng thời gian của scene (cảnh báo). Khi chọn đoạn đặt cue: ưu tiên con số kịch tính, time card, câu thesis/moral — dùng THƯA (~6-14 cue/video dài) mới giữ được sức nặng; khán giả 65+ cần chữ lớn, gõ chậm, giữ dòng 1-2s.
+
+**Nếu `input/typewriter.json` KHÔNG tồn tại** (vd bị xóa khi thay SRT dự án mới): script in dòng **LƯU Ý** (không phải lỗi — typewriter vốn tùy chọn) rồi vẫn sinh metadata không có typewriter. AI KHÔNG được im lặng đi tiếp: sau khi Bước 4 PASS mà thiếu file này, AI phải chủ động **ĐỀ XUẤT một bộ cue** (rút từ SRT: giá tiền/số lượng kịch tính, time card, câu thesis/moral) cho user duyệt, rồi tạo `input/typewriter.json` và chạy lại export — TRỪ KHI user đã nói rõ video này không dùng hiệu ứng đánh máy. (KAIZEN 2026-07-09)
 
 2. Script báo LỖI → AI đọc danh sách lỗi, sửa file nguồn tương ứng (`scene-breakdown.md`, `prompts.md` hoặc `typewriter.json`), chạy lại script. LẶP đến khi PASS. TUYỆT ĐỐI KHÔNG sửa trực tiếp `metadata.json` — nó là file sinh ra, sửa nguồn.
 3. Script PASS → AI chỉ review checklist định tính: character consistency, visual consistency, rhythm quality, prompt quality.

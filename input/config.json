@@ -1,159 +1,116 @@
 {
   "project": {
-    "title": "The Only Farmer Who Read the Fine Print — When the Bank Came He Was the One Smiling",
-    "description": "Asher Merrifield, nông dân Iowa 58 tuổi, đọc hết hợp đồng 400 trang của ngân hàng Iron Ridge và tìm ra điều khoản 7-C buộc ngân hàng phải trả anh 1,245,600 đô khi tịch thu nhà trong hạn hán.",
-    "total_duration": 2291,
+    "title": "They Offered a Single Dad $3,800 for Dead Ponds — 2 Years Later, They Left With Nothing",
+    "description": "Garrett Ballard, gà trống nuôi con 44 tuổi, thừa kế 6 mẫu đất với 4 hồ cá 'chết' từ người cha quá cố. Anh từ chối lời ép mua giá bèo của tập đoàn thủy sản Meridian, thả đàn cá loại thải, và sau 2 năm kiên nhẫn gây dựng đã buộc kẻ định giá mình phải ra về tay trắng.",
+    "total_duration": 2020,
     "target_audience": "65+",
     "language": "en"
   },
+
   "style": "photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field",
+
   "flashback_style": "soft warm vignette, slightly faded colors, dreamy atmosphere",
-  "flashback_variants": [
-    "sarah"
-  ],
+
   "video_hook": {
     "enabled": true,
     "duration_s": 60,
     "max_clip_s": 8,
-    "video_style": "photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera"
+    "video_style": "photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean frame free of watermarks, logos, or AI icons"
   },
+
   "characters": [
     {
-      "id": "asher",
-      "name": "Asher Merrifield",
-      "nano_name": "Asher",
-      "description": "58-year-old man, weathered third-generation Iowa farmer, short gray hair, deep-set tired eyes, gray stubble, tan canvas work jacket over a faded olive green plaid flannel shirt, worn blue denim jeans, calloused hands"
+      "id": "garrett",
+      "name": "Garrett Ballard",
+      "nano_name": "Garrett",
+      "description": "44-year-old man, lean weathered build, short dark brown hair flecked with gray, tired deep-set eyes, three-day stubble, faded olive-green canvas work jacket over a gray flannel shirt, worn blue jeans, scuffed brown leather work boots"
     },
     {
-      "id": "granger",
-      "name": "Philip Granger",
-      "nano_name": "Granger",
-      "description": "late-thirties man, sleek regional bank vice president, slicked-back dark brown hair, clean-shaven, charcoal gray tailored Italian suit, silver silk tie, polished condescending expression"
+      "id": "walt",
+      "name": "Walt Ballard (cha, đã mất — hồi tưởng)",
+      "nano_name": "Walt",
+      "description": "68-year-old man, weathered lean farmer build, deeply lined sun-creased face, short thinning white hair, calm patient eyes, faded tan canvas work coat over a brown plaid shirt, dark navy denim overalls, cracked brown leather work boots"
     },
     {
-      "id": "sarah",
-      "name": "Sarah Merrifield",
-      "nano_name": "Sarah",
-      "description": "55-year-old woman, gentle warm face, auburn hair streaked with silver pulled back in a low bun, soft powder blue cardigan over a cream blouse, thin reading glasses, calm patient eyes"
+      "id": "vance",
+      "name": "Preston Vance (người mua / phản diện Meridian)",
+      "nano_name": "Preston Vance",
+      "description": "52-year-old man, heavyset broad-shouldered build, full rounded clean-shaven face, thinning slicked-back gray hair, cool appraising eyes with a faint tight-lipped superior smile and chin lifted slightly, crisp charcoal-gray tailored business suit, pale blue dress shirt, polished black leather shoes"
     },
     {
-      "id": "higgins",
-      "name": "Samuel Higgins",
-      "nano_name": "Higgins",
-      "description": "65-year-old man, white-haired small-town lawyer, bushy white eyebrows, brown suspenders over a wrinkled white dress shirt, loosened brown tie, weathered kindly face"
+      "id": "vernon",
+      "name": "Vernon Ordway (cán bộ khuyến nông)",
+      "nano_name": "Vernon",
+      "description": "60-year-old man, sturdy solid build, broad sun-weathered face, short gray hair under a faded olive-green cap, steady no-nonsense eyes, tan barn coat over a checked brown-and-cream shirt, dark work jeans, mud-caked brown boots"
     },
     {
-      "id": "caldwell",
-      "name": "Victor Caldwell",
-      "nano_name": "Caldwell",
-      "description": "early-sixties man, silver-haired bank CEO, clean-shaven, sharp navy blue pinstripe suit, gold cufflinks, cold composed expression"
+      "id": "marlene",
+      "name": "Marlene Kirby (chủ trại giống)",
+      "nano_name": "Marlene",
+      "description": "55-year-old woman, practical stocky build, short curly graying auburn hair, alert direct eyes, weather-lined face, dark green rubber chest waders over a faded red flannel shirt, brown rubber boots"
     },
     {
-      "id": "voss",
-      "name": "Ricky Voss",
-      "nano_name": "Voss",
-      "description": "fifty-year-old man, corporate chief legal counsel, receding gray hair, rimless glasses, dark charcoal three-piece suit, burgundy tie, calculating expression"
+      "id": "hollis",
+      "name": "Hollis Grant (chủ nhà hàng hải sản)",
+      "nano_name": "Hollis",
+      "description": "58-year-old man, trim upright build, close-cropped salt-and-pepper hair and short gray beard, sharp discerning eyes, white chef's jacket over a black apron, dark charcoal trousers, clean black shoes"
     },
     {
-      "id": "nolan",
-      "name": "Nolan Abernathy",
-      "nano_name": "Nolan",
-      "description": "55-year-old man, broad-shouldered neighbor farmer, thinning brown hair, gray stubble, faded blue denim jacket over a brown work shirt, weary defeated eyes"
-    },
-    {
-      "id": "walter",
-      "name": "Walter Brennan",
-      "nano_name": "Walter",
-      "description": "72-year-old man, gruff cooperative weighmaster, deeply lined face, white stubble, faded red plaid flannel shirt, green Pioneer Seed cap, wire-rimmed glasses"
-    },
-    {
-      "id": "collins",
-      "name": "Darian Collins",
-      "nano_name": "Collins",
-      "description": "late-thirties man, sharp urban forensic accountant, neat short black hair, clean-shaven, slim navy blue business suit, thin silver-framed glasses, tense focused expression"
-    },
-    {
-      "id": "whitman",
-      "name": "Judge Whitman",
-      "nano_name": "Judge Whitman",
-      "description": "sixties man, dignified federal judge, balding gray hair, wire-rimmed glasses, black judicial robe, stern measured expression"
-    },
-    {
-      "id": "kirkland",
-      "name": "Kirkland",
-      "nano_name": "Kirkland",
-      "description": "seventies man, frail elderly farmer, sparse white hair, deeply weathered face, faded brown barn coat over a gray flannel shirt, slow tired posture"
-    },
-    {
-      "id": "junior_attorney",
-      "name": "Junior Attorney",
-      "nano_name": "Junior Attorney",
-      "description": "late-twenties man, nervous junior bank attorney, neat brown hair, clean-shaven, stiff black off-the-rack suit, thin blue tie, anxious wide eyes"
-    },
-    {
-      "id": "inspector",
-      "name": "State Inspector",
-      "nano_name": "State Inspector",
-      "description": "forty-year-old woman, state agriculture soil inspector, brown hair in a practical ponytail, khaki field vest over a beige shirt, holding a clipboard, focused neutral expression"
+      "id": "reggie",
+      "name": "Reggie Alton (cựu nhân viên phân loại Meridian)",
+      "nano_name": "Reggie",
+      "description": "45-year-old man, wiry capable build, short black hair under a gray knit beanie, quiet watchful eyes, dark brown work fleece over a navy blue henley shirt, faded blue jeans, rubber-soled brown work boots"
     }
   ],
+
   "settings": [
     {
-      "id": "south_field",
-      "name": "Cánh đồng nam hạn hán",
-      "keywords": "drought-stricken cornfield, stunted pale corn stalks, cracked dry earth, wire fence line, vast flat Iowa farmland, overcast sky"
+      "id": "garrett_ponds",
+      "name": "Bốn hồ cá của Garrett (đất thừa kế)",
+      "keywords": "four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon"
     },
     {
-      "id": "oak_table_room",
-      "name": "Phòng ăn bàn gỗ sồi",
-      "keywords": "old farmhouse dining room, large oak dining table, wood stove, cork board, corded wall phone, warm timber walls, small windows"
+      "id": "gravel_road",
+      "name": "Con đường sỏi dẫn vào trang trại",
+      "keywords": "gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline"
     },
     {
-      "id": "farmhouse_porch",
-      "name": "Hiên nhà và lối xe",
-      "keywords": "farmhouse front porch, weathered wooden railing, gravel driveway, thermos on the rail, open fields beyond, low grey sky"
+      "id": "co_op",
+      "name": "Co-op nông nghiệp (nơi Garrett làm bảo trì)",
+      "keywords": "rural farm supply co-op, stacked feed sacks, metal shelving, concrete floor, fluorescent overhead lighting, wide loading dock doors"
     },
     {
-      "id": "bank_branch",
-      "name": "Chi nhánh ngân hàng Iron Ridge",
-      "keywords": "modern Iron Ridge bank branch office, floor-to-ceiling glass windows, mahogany desk, cold minimalist corporate interior"
+      "id": "hatchery",
+      "name": "Trại giống cá của Marlene",
+      "keywords": "fish hatchery building, long concrete rearing tanks, aeration pipes, wet tiled floor, corrugated metal walls, hanging work lights"
     },
     {
-      "id": "bank_boardroom",
-      "name": "Phòng họp HĐQT Iron Ridge",
-      "keywords": "corporate top-floor boardroom, long polished mahogany conference table, city skyline windows, leather executive chairs"
+      "id": "restaurant_kitchen",
+      "name": "Bếp nhà hàng hải sản của Hollis",
+      "keywords": "seafood restaurant kitchen, stainless steel prep counters, hanging pans, white tiled walls, industrial range, crates of ice"
     },
     {
-      "id": "law_office",
-      "name": "Văn phòng luật Higgins",
-      "keywords": "cluttered small-town law office, cramped wooden desk piled with files, worn law books on shelves, dim strip-mall interior"
+      "id": "farmers_market",
+      "name": "Chợ nông sản cuối tuần",
+      "keywords": "outdoor farmers market, folding table with ice trays, canvas canopy, neighboring vendor stalls, small-town street"
     },
     {
-      "id": "courthouse",
-      "name": "Tòa án liên bang",
-      "keywords": "federal district courtroom, limestone and dark oak paneling, raised judge's bench, wooden plaintiff and defendant tables, tall arched windows"
+      "id": "shed",
+      "name": "Nhà kho đồ nghề của Walt (nơi chế biến cá)",
+      "keywords": "weathered wooden tool shed, hand tools hung on nail-studded plank walls, sturdy workbench, single hanging bulb light, dirt-and-concrete floor"
     },
     {
-      "id": "fence_line",
-      "name": "Hàng rào ranh giới nam",
-      "keywords": "southern wire fence line, cracked drought earth, rows of farmers standing along the fence, flat open field, hazy sky"
+      "id": "diner",
+      "name": "Quán ăn thị trấn (nơi tin đồn lan đi)",
+      "keywords": "small-town diner interior, long laminate counter with stools, coffee mugs, vinyl booths, window blinds, warm overhead lights"
     },
     {
-      "id": "town_hall_basement",
-      "name": "Tầng hầm town hall",
-      "keywords": "town hall basement records room, metal lockboxes on a folding table, fluorescent tube lighting, bare concrete walls, stacked document boxes"
-    },
-    {
-      "id": "auction_yard",
-      "name": "Sân đấu giá tịch thu",
-      "keywords": "farm foreclosure auction yard, auctioneer's block, old weathered barn, borrowed pickup truck, scattered heirloom tools, gathered crowd"
-    },
-    {
-      "id": "caldwell_office",
-      "name": "Văn phòng CEO Chicago",
-      "keywords": "high-rise Chicago executive office, large window overlooking the city, minimalist desk, grey corporate tones"
+      "id": "meridian_pond",
+      "name": "Hồ chứa công nghiệp khổng lồ của Meridian",
+      "keywords": "vast industrial holding pond, wide graded earthen banks, sterile flat water surface, service road along the rim, bare graded earth, gray overcast sky"
     }
   ],
+
   "mood_map": {
     "nostalgic": "soft golden light, warm palette, slight gaussian blur",
     "tense": "cool blue-gray tones, hard shadows, tight framing",
@@ -162,7 +119,6 @@
     "calm": "even soft lighting, neutral tones, balanced composition",
     "sad": "muted desaturated palette, overcast lighting, empty space",
     "determined": "strong directional light, firm posture, clear focus",
-    "dismissive": "cold office light, distant framing, clinical atmosphere",
-    "triumphant": "golden late-afternoon light, wide open framing, warm contrast"
+    "dismissive": "cold office light, distant framing, clinical atmosphere"
   }
 }

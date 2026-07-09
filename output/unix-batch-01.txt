@@ -1,399 +1,399 @@
 (Image Prompt 1/100)
-Assets: 
-Prompt: A deserted foreclosed farmhouse at gray dawn, stacked cardboard moving boxes on the sagging porch, a plain paper notice nailed to the weathered front door, empty gravel yard, extreme wide establishing shot, 24mm wide-angle lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT_PONDS
+Prompt: Dead stagnant water beneath morning mist, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, wide shot, 35mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 2/100)
-Assets: 
-Prompt: A magnifying glass hovering over a dense contract page filled with tiny blurred fine print, a single line of eight-point text faintly marked, aged white paper, extreme close-up, 100mm macro lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, PRESTON_VANCE, GRAVEL_ROAD
+Prompt: [PRESTON_VANCE] steps out of a spotless clean pickup handing [GARRETT] a pre-filled contract, [GRAVEL_ROAD] gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 3/100)
-Assets: 
-Prompt: A towering cold glass bank skyscraper reflecting a pale overcast sky, sleek steel and mirrored blue facade rising above an empty plaza, wide shot, 35mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, PRESTON_VANCE, GRAVEL_ROAD
+Prompt: A polite smile on [PRESTON_VANCE] as he slides a printed appraisal figure toward [GARRETT], [GRAVEL_ROAD] gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, medium close-up, 85mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 4/100)
-Assets: 
-Prompt: A weathered calloused hand pressing a pen to the signature line of a thick contract page, wrinkled knuckles, ink wet on aged paper, close-up, 85mm portrait lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, CO_OP
+Prompt: [GARRETT] standing alone and tired among towering supply aisles, [CO_OP] rural farm supply co-op, stacked feed sacks, metal shelving, concrete floor, fluorescent overhead lighting, wide loading dock doors, extreme wide shot, 24mm wide-angle lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 5/100)
-Assets: 
-Prompt: A family loading worn furniture and battered belongings into a rented moving trailer in a gravel driveway, a man in a sharp tailored suit standing apart with a polished smile, faded farmhouse behind, wide shot, 35mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT
+Prompt: [GARRETT] turning the old land deed face down, fingers tracing a faint pencil line, pen resting closed, the back of an old land deed with faint pencil handwriting, close-up, 85mm portrait lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 6/100)
-Assets: ASHER
-Prompt: [ASHER] standing as a small solitary figure across vast rolling farmland of green corn and soybean rows stretching to the horizon, weathered work clothes, extreme wide shot, 24mm wide-angle lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, PRESTON_VANCE, GRAVEL_ROAD
+Prompt: Friendliness draining from [PRESTON_VANCE] as he quietly gathers the papers back near [GARRETT], [GRAVEL_ROAD] gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, over-shoulder shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 7/100)
-Assets: ASHER
-Prompt: [ASHER] with a steady resolute gaze fixed forward, weathered lined face and jaw set firm, low angle shot, 35mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, PRESTON_VANCE, GRAVEL_ROAD
+Prompt: [PRESTON_VANCE] leaning from a spotless car window casting a cold parting look toward [GARRETT], [GRAVEL_ROAD] gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 8/100)
-Assets: ASHER, OAK_TABLE_ROOM
-Prompt: A magnifying glass held by [ASHER] hovering over a single yellow-highlighted line on a dense contract page, weathered fingertips at the edge, [OAK_TABLE_ROOM] old farmhouse dining room, large oak dining table, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: DINER
+Prompt: Local farmers gathered in clusters trading a spreading story over Sunday breakfast, [DINER] small-town diner interior, long laminate counter with stools, coffee mugs, vinyl booths, window blinds, warm overhead lights, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 9/100)
-Assets: ASHER, OAK_TABLE_ROOM
-Prompt: [ASHER] sitting at the large oak dining table with a faint calm smile, a coffee cup beside his hand, [OAK_TABLE_ROOM] old farmhouse dining room, wood stove and warm timber walls, medium shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: DINER
+Prompt: Older men at the counter chuckling into their coffee cups dismissively, [DINER] small-town diner interior, long laminate counter with stools, coffee mugs, vinyl booths, window blinds, warm overhead lights, medium close-up, 85mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 10/100)
-Assets: 
-Prompt: Open rolling Iowa farmland stretching to a distant tree line under a wide morning sky, gentle green fields and a lone gravel lane, extreme wide shot, 24mm wide-angle lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] gazing across the dead water with a quiet, weathered understanding on his face, [GARRETT_PONDS] four earthen farm ponds, murky still green water, extreme close-up, 100mm macro lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 11/100)
-Assets: SOUTH_FIELD
-Prompt: A [SOUTH_FIELD] drought-stricken cornfield of stunted pale parchment-colored corn stalks, cracked dry earth splitting between the rows, a distant wire fence line, extreme wide shot, 24mm wide-angle lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GRAVEL_ROAD
+Prompt: [GARRETT] driving a weathered pickup steadily down the open route, jaw set firmly, [GRAVEL_ROAD] gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, extreme wide shot, 24mm wide-angle lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 12/100)
-Assets: ASHER, SOUTH_FIELD
-Prompt: The calloused hands of [ASHER] crushing a clod of bone-dry soil into drifting powder, cracked drought earth below, [SOUTH_FIELD] drought-stricken cornfield at the field edge, extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GRAVEL_ROAD
+Prompt: An empty dirt lane stretching past a quiet farmstead under a wide grey sky, waiting, [GRAVEL_ROAD] gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 13/100)
-Assets: ASHER, SOUTH_FIELD
-Prompt: [ASHER] standing at the edge of the field gazing off uneasily toward the horizon, weathered work clothes, [SOUTH_FIELD] drought-stricken cornfield of stunted pale corn behind him, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GRAVEL_ROAD
+Prompt: A lone fence post rising against a bright open sky above a quiet track, [GRAVEL_ROAD] gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, low angle shot, 35mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 14/100)
 Assets: 
-Prompt: A large idle modern combine harvester parked motionless in a parched cracked field of withered corn, dust settling around its wheels, wide shot, 35mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Prompt: An old land deed lying face up on worn wood, showing a faint looping pencil line, the back of an old land deed with faint pencil handwriting, wide shot, 35mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 15/100)
-Assets: NOLAN, FENCE_LINE
-Prompt: [NOLAN], a weary middle-aged farmer in faded overalls, standing beside a [FENCE_LINE] southern wire fence line, cracked drought earth and a flat open field under a hazy sky, wide shot, 35mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] facing the pond at first light, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium close-up, 85mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 16/100)
-Assets: 
-Prompt: A dried-out reservoir reduced to cracked mud flats, idle metal irrigation pipes lying useless across the parched basin, low angle shot, 35mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] looking up softly, full head within frame, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, close-up, 85mm portrait lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 17/100)
 Assets: 
-Prompt: Cracked barren soil breaking into jagged plates across an empty lifeless field, a few withered stalk stubs, close-up, 85mm portrait lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Prompt: A quiet farmhouse standing among frost-covered fields under a pale winter dawn, still and lonely, a weathered clapboard farmhouse under bare winter trees, extreme wide shot, 24mm wide-angle lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 18/100)
-Assets: AUCTION_YARD
-Prompt: A [AUCTION_YARD] farm foreclosure auction yard lined with rows of farm equipment, an auctioneer's block beside an old weathered barn, scattered background figures inspecting machinery, wide shot, 35mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT_PONDS
+Prompt: Four dug ponds, one cracked bone-dry, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, wide shot, 35mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 19/100)
-Assets: NOLAN, AUCTION_YARD
-Prompt: [NOLAN] slumped on the tailgate of a borrowed pickup truck, face buried in both hands, shoulders sagging, a [AUCTION_YARD] farm foreclosure auction yard with an old weathered barn behind, medium close-up, 85mm lens, full head within frame, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: SHED
+Prompt: Hand tools resting on a workbench beside a land deed showing a faint pencil line, [SHED] weathered wooden tool shed, hand tools on plank walls, sturdy workbench, extreme close-up, 100mm macro lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 20/100)
-Assets: GRANGER, AUCTION_YARD
-Prompt: [GRANGER] in a sharp charcoal Italian suit standing near the auctioneer's block watching with detached indifference, hands in pockets, a [AUCTION_YARD] farm foreclosure auction yard and weathered barn around him, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: WALT
+Prompt: [WALT] standing calmly in a tired barren field, hands on his hips surveying the ground, a worn-out fallow farm field, medium shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
 
 (Image Prompt 21/100)
-Assets: ASHER, GRANGER, AUCTION_YARD
-Prompt: [ASHER] in the foreground with a look of disgust as [GRANGER], in a sleek Italian suit, flashes a polished practiced smile beside him, [AUCTION_YARD] farm foreclosure auction yard behind, close-up, 85mm portrait lens, full head within frame, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: WALT
+Prompt: [WALT] crouching in the vast empty field, crumbling dry soil between his fingers, a worn-out fallow farm field, extreme wide shot, 24mm wide-angle lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
 
 (Image Prompt 22/100)
-Assets: ASHER, GRANGER, AUCTION_YARD
-Prompt: [GRANGER] leaning in close beside [ASHER] near his elbow, both watching the auction, a [AUCTION_YARD] farm foreclosure auction yard and old weathered barn behind them, over-shoulder shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: WALT
+Prompt: [WALT] with a calm assured expression, eyes steady and patient, full head within frame, a worn-out fallow farm field, close-up, 85mm portrait lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
 
 (Image Prompt 23/100)
-Assets: GRANGER
-Prompt: [GRANGER] with a cold clinical expression, thin lips pressed and chin slightly raised in condescension, wide shot, 35mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: WALT, GARRETT_PONDS
+Prompt: [WALT] lingering at the pond edge at dusk, [GARRETT_PONDS] four earthen farm ponds, murky still green water, weedy grass edges, extreme close-up, 100mm macro lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
 
 (Image Prompt 24/100)
-Assets: ASHER, NOLAN, AUCTION_YARD
-Prompt: [ASHER] in the foreground turned away, his gaze fixed across the yard on [NOLAN] slumped by the borrowed pickup truck, a [AUCTION_YARD] farm foreclosure auction yard between them, over-shoulder shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT_PONDS
+Prompt: Still murky pond water at dusk, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium close-up, 85mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 25/100)
-Assets: ASHER, GRANGER, AUCTION_YARD
-Prompt: [ASHER] speaking quietly with a firm level expression, [GRANGER] standing at his side listening, a [AUCTION_YARD] farm foreclosure auction yard with a weathered barn behind them, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, CO_OP
+Prompt: [GARRETT] in worn work clothes among feed sacks, shoulders heavy, [CO_OP] rural farm supply co-op, stacked feed sacks, metal shelving, concrete floor, fluorescent overhead lighting, wide loading dock doors, wide shot, 35mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 26/100)
-Assets: ASHER, GRANGER
-Prompt: The hand of [GRANGER] pressing a blank embossed business card into the open palm of [ASHER], two weathered and manicured hands meeting, close-up, 85mm portrait lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, PRESTON_VANCE, GRAVEL_ROAD
+Prompt: [PRESTON_VANCE] offering a small cash stack toward [GARRETT] with an easy grin, [GRAVEL_ROAD] gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, over-shoulder shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 27/100)
-Assets: ASHER, GRANGER, AUCTION_YARD
-Prompt: [GRANGER] smiling smoothly as he turns toward a black Mercedes, [ASHER] standing behind watching him go, a [AUCTION_YARD] farm foreclosure auction yard and weathered barn around them, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, PRESTON_VANCE, GRAVEL_ROAD
+Prompt: [GARRETT] beside the truck as [PRESTON_VANCE] holds out a printed contract, friendly and casual, [GRAVEL_ROAD] gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 28/100)
-Assets: ASHER, AUCTION_YARD
-Prompt: [ASHER] standing still watching a suited banker walk toward a black Mercedes in the distance, a [AUCTION_YARD] farm foreclosure auction yard around him, wide shot, 35mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: PRESTON_VANCE
+Prompt: [PRESTON_VANCE] laying a fully completed contract flat, faint printed figures visible, hand pressing the metal tailgate, a completed sale contract and pen on a truck tailgate, medium close-up, 85mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 29/100)
-Assets: 
-Prompt: Several weary farmers bent over signing thick loan papers spread across the hoods of dusty pickup trucks, a suited banker moving among them, gravel lot, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT
+Prompt: [GARRETT] holding the land deed turned over, eyes on a faint pencil line, full head within frame, the back of an old land deed with faint pencil handwriting, close-up, 85mm portrait lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 30/100)
-Assets: KIRKLAND
-Prompt: [KIRKLAND], a frail elderly farmer, bending over the hood of a dusty car to sign a single loan page, weathered fingers pressing a pen to paper, out on a gravel lot beside old storefronts, close-up, 85mm portrait lens, full head within frame, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GRAVEL_ROAD
+Prompt: [GARRETT] setting down a pen, returning a stack of pale documents with faint pencil handwriting, [GRAVEL_ROAD] gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, low angle shot, 35mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 31/100)
-Assets: ASHER, FARMHOUSE_PORCH
-Prompt: [ASHER] standing on the porch holding an unfolded bank letter in one hand, jaw set as he stares down at the printed page, [FARMHOUSE_PORCH] farmhouse front porch, weathered wooden railing, gravel driveway, open fields beyond, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] surveying the sunken banks, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, extreme wide shot, 24mm wide-angle lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 32/100)
-Assets: ASHER
-Prompt: [ASHER], weathered face drawn with worry, standing over rows of stunted failed corn, deep creases and downturned mouth, a barren drought field around him, close-up, 85mm portrait lens, full head within frame, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] gripping a seized rusted aerator cage, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium shot, 50mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 33/100)
-Assets: ASHER, SARAH, OAK_TABLE_ROOM
-Prompt: The weathered hand of [ASHER] resting beside a framed photograph of [SARAH] and a folded paper medical bill on the oak table, [OAK_TABLE_ROOM] old farmhouse dining room, warm timber walls, close-up, 85mm portrait lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] peering at the flat unmoving green water surface, pale yellow sulfur film at the shallow edge, [GARRETT_PONDS] four earthen farm ponds, murky still green water, weedy grass edges, extreme close-up, 100mm macro lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 34/100)
-Assets: ASHER
-Prompt: [ASHER] driving a dusty dark blue old pickup truck slowly down a small-town main street lined with weathered brick storefronts, hands firm on the steering wheel, clear morning light, wide shot, 35mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] staring down with a tired resigned face, flat lifeless green water below, full head within frame, [GARRETT_PONDS] four earthen farm ponds, murky still green water, weedy grass edges, close-up, 85mm portrait lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 35/100)
-Assets: BANK_BRANCH
-Prompt: The gleaming glass exterior of a [BANK_BRANCH] modern Iron Ridge bank branch office, floor-to-ceiling glass windows reflecting the empty street, standing cold and out of place amid weathered old brick storefronts, wide shot, 35mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: VERNON, GARRETT_PONDS
+Prompt: [VERNON] walking steadily toward the pond edge, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 36/100)
-Assets: ASHER, GRANGER, BANK_BRANCH
-Prompt: [GRANGER] in a sharp Italian suit sliding a thick 400-page paper contract across a mahogany desk toward [ASHER], an even polished smile on his face, [BANK_BRANCH] modern Iron Ridge bank branch office, floor-to-ceiling glass windows, cold minimalist interior, over-shoulder shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, VERNON, GARRETT_PONDS
+Prompt: [GARRETT] and [VERNON] standing face to face, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, over-shoulder shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 37/100)
-Assets: 
-Prompt: A thick 400-page paper contract lying closed on a dark wood desk, dense rows of tiny fine print filling the pages, three bright yellow sticky tabs marking the signature lines, extreme close-up, 100mm macro lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, VERNON, GARRETT_PONDS
+Prompt: [VERNON] crouching to crumble dark bottom mud between his fingers as [GARRETT] watches closely, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, weedy grass edges, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 38/100)
-Assets: GRANGER
-Prompt: [GRANGER] extending a fine black lacquered fountain pen across the desk, the cap removed and set beside it, gold nib catching the light, his hand poised over the signature line, close-up, 85mm portrait lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, VERNON, GARRETT_PONDS
+Prompt: [VERNON] speaking plainly while [GARRETT] stands listening, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 39/100)
-Assets: ASHER
-Prompt: The two weathered hands of [ASHER] reaching past the pen to lift the entire thick 400-page contract stack off the desk, the uncapped fountain pen left lying on the mahogany surface, papers gripped firmly, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, VERNON, GARRETT_PONDS
+Prompt: [GARRETT] and [VERNON] gazing outward, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, extreme wide shot, 24mm wide-angle lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 40/100)
-Assets: ASHER, GRANGER, BANK_BRANCH
-Prompt: [ASHER] standing calm and composed holding the thick contract stack under one arm, [GRANGER] across from him wearing a stiff forced smile, [BANK_BRANCH] modern Iron Ridge bank branch office, floor-to-ceiling glass windows, cold minimalist interior, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, VERNON, GARRETT_PONDS
+Prompt: [VERNON] and [GARRETT] studying the dry basin, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 41/100)
-Assets: GRANGER
-Prompt: [GRANGER] leaning back with a dismissive wave of one hand, eyebrows raised in condescension, a faint smug curl to his mouth, a cold glass bank office blurred behind him, low angle shot, 35mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: MARLENE, HATCHERY
+Prompt: [MARLENE] Kirby standing among long concrete rearing tanks, overseeing the floor, [HATCHERY] fish hatchery building, long concrete rearing tanks, aeration pipes, wet tiled floor, corrugated metal walls, hanging work lights, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 42/100)
-Assets: ASHER, GRANGER
-Prompt: [ASHER] holding a steady level gaze, [GRANGER] beside him with his smile tightening into a thin hard line, tension between the two faces, a cold glass bank office behind them, close-up, 85mm portrait lens, full head within frame, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: MARLENE, HATCHERY
+Prompt: [MARLENE] gesturing at a tank of uneven catfish and hybrid bluegill, [HATCHERY] fish hatchery building, long concrete rearing tanks, aeration pipes, wet tiled floor, corrugated metal walls, hanging work lights, low angle shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 43/100)
-Assets: GRANGER, BANK_BRANCH
-Prompt: [GRANGER] leaning forward across the mahogany desk with one finger tapping the wood, pressing his point with a cold insistent expression, [BANK_BRANCH] modern Iron Ridge bank branch office, floor-to-ceiling glass windows, cold minimalist interior, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: MARLENE, HATCHERY
+Prompt: [MARLENE] standing alone among the long tanks of healthy fish, [HATCHERY] fish hatchery building, long concrete rearing tanks, aeration pipes, wet tiled floor, corrugated metal walls, hanging work lights, extreme wide shot, 24mm wide-angle lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 44/100)
-Assets: ASHER, BANK_BRANCH
-Prompt: [ASHER] stepping out through the glass door of a [BANK_BRANCH] modern Iron Ridge bank branch office into bright Iowa afternoon daylight, the thick 400-page contract stack clamped firmly under one arm, resolute stride, wide shot, 35mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, MARLENE, HATCHERY
+Prompt: [GARRETT] facing [MARLENE] with an open earnest gesture beside a full tank, [HATCHERY] fish hatchery building, long concrete rearing tanks, aeration pipes, wet tiled floor, corrugated metal walls, hanging work lights, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 45/100)
-Assets: ASHER
-Prompt: [ASHER] setting the thick 400-page contract stack down onto the worn bench seat of his old pickup truck, one hand resting on top of the papers, a resolute set to his weathered face, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, MARLENE, HATCHERY
+Prompt: [MARLENE] studying [GARRETT] with a long surprised look across the tank, [HATCHERY] fish hatchery building, long concrete rearing tanks, aeration pipes, wet tiled floor, corrugated metal walls, hanging work lights, over-shoulder shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 46/100)
-Assets: SARAH, OAK_TABLE_ROOM
-Prompt: [SARAH], a gentle middle-aged woman, sitting at the large oak dining table carefully writing in a cloth-bound farm ledger, pen in hand, absorbed and calm, [OAK_TABLE_ROOM] old farmhouse dining room, wood stove, warm timber walls, medium shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
+Assets: MARLENE, HATCHERY
+Prompt: [MARLENE] resting a hand on a clipboard covered in faint pencil handwriting, thoughtful stillness, [HATCHERY] fish hatchery building, long concrete rearing tanks, aeration pipes, extreme close-up, 100mm macro lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 47/100)
-Assets: ASHER, OAK_TABLE_ROOM
-Prompt: The weathered fingertip of [ASHER] resting on the last handwritten line of an open cloth-bound farm ledger, an empty wooden chair blurred behind at the table, [OAK_TABLE_ROOM] old farmhouse dining room, warm timber walls, extreme close-up, 100mm macro lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, MARLENE, HATCHERY
+Prompt: [MARLENE] writing with a pencil on the back of a feed receipt as [GARRETT] stands beside her, faint pencil handwriting, [HATCHERY] fish hatchery building, long concrete rearing tanks, aeration pipes, medium close-up, 85mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 48/100)
-Assets: ASHER
-Prompt: The two weathered hands of [ASHER] gripping the thick 400-page contract stack tightly against his chest, knuckles firm, carrying it with deliberate care beside an old dusty pickup truck, extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] watching silver shimmer under the water, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 49/100)
-Assets: ASHER, OAK_TABLE_ROOM
-Prompt: [ASHER] clearing everything off a large old oak dining table, wiping the bare timber surface with one hand, [OAK_TABLE_ROOM] old farmhouse dining room, wood stove, warm timber walls, extreme wide shot, 24mm wide-angle lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] looking at pale fish floating belly-up across the green water, nearly eighteen hundred dead, [GARRETT_PONDS] four earthen farm ponds, murky still green water, weedy grass edges, close-up, 85mm portrait lens, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 50/100)
-Assets: ASHER, OAK_TABLE_ROOM
-Prompt: [ASHER] setting the thick 400-page contract on the oak table beside a mug of black coffee, a magnifying glass, a thick law dictionary and a yellow highlighter laid out in a row, [OAK_TABLE_ROOM] old farmhouse dining room, wood stove, warm timber walls, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] crouching over a pale ring of dead fish along the shallow edge, early sun warming the water, [GARRETT_PONDS] four earthen farm ponds, murky still green water, weedy grass edges, medium close-up, 85mm lens, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 51/100)
-Assets: ASHER, OAK_TABLE_ROOM
-Prompt: The hand of [ASHER] holding a round magnifying glass over a dense contract page, the tiny fine print enlarged sharply through the lens, on the oak table in the [OAK_TABLE_ROOM] old farmhouse dining room, extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] standing at the grey still pond, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, wide shot, 35mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 52/100)
-Assets: ASHER, OAK_TABLE_ROOM
-Prompt: [ASHER] hunched over the oak table under a single warm night lamp, poring over a hundred spread contract pages, brow furrowed in concentration, [OAK_TABLE_ROOM] old farmhouse dining room, wood stove, warm timber walls, dark windows behind, wide shot, 35mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] standing before predawn ponds, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, extreme wide shot, 24mm wide-angle lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 53/100)
-Assets: ASHER, OAK_TABLE_ROOM
-Prompt: The hand of [ASHER] dragging a yellow highlighter across a line of dense contract text, a bright wet band of ink over the fine print, on the oak table in the [OAK_TABLE_ROOM] old farmhouse dining room, extreme close-up, 100mm macro lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] cupping one small pale fish at the water edge, its body limp and dulled, [GARRETT_PONDS] four earthen farm ponds, murky still green water, weedy grass edges, extreme close-up, 100mm macro lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 54/100)
-Assets: ASHER, OAK_TABLE_ROOM
-Prompt: Over the shoulder of [ASHER] looking down at dense contract pages fanned across the oak table, cross-references circled in ink, his glasses reflecting the lamp, [OAK_TABLE_ROOM] old farmhouse dining room, wood stove, warm timber walls, over-shoulder shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, VERNON, GARRETT_PONDS
+Prompt: [VERNON] and [GARRETT] facing the dead fish, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 55/100)
-Assets: ASHER, SARAH, OAK_TABLE_ROOM
-Prompt: [ASHER] sitting at the oak table reading contract pages aloud, [SARAH] seated across from him in a soft warm glow, both leaning into the lamplight, [OAK_TABLE_ROOM] old farmhouse dining room, wood stove, warm timber walls, medium shot, 50mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
+Assets: GARRETT, VERNON, GARRETT_PONDS
+Prompt: [VERNON] showing [GARRETT] a paddle-wheel aerator, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, low angle shot, 35mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 56/100)
-Assets: ASHER, OAK_TABLE_ROOM
-Prompt: An empty worn wooden chair across the oak table, the blurred shoulder of [ASHER] in the near foreground, a stack of turned contract pages between them, [OAK_TABLE_ROOM] old farmhouse dining room, warm timber walls, close-up, 85mm portrait lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, VERNON, GARRETT_PONDS
+Prompt: [VERNON] pointing to a small mechanical timer box wired to the aerator as [GARRETT] leans in close, [GARRETT_PONDS] four earthen farm ponds, rusted paddle-wheel aerator, weedy grass edges, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 57/100)
-Assets: ASHER
-Prompt: An old round wall clock on the timber wall, hands pointing to just past three in the deep of night, the hunched silhouette of [ASHER] blurred at the table below, extreme close-up, 100mm macro lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] bolting the paddle-wheel aerator at the near pond, wiring the timer himself, hands steady and sure, [GARRETT_PONDS] four earthen farm ponds, rusted paddle-wheel aerator, weedy grass edges, close-up, 85mm portrait lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 58/100)
-Assets: ASHER, OAK_TABLE_ROOM
-Prompt: The trembling weathered hand of [ASHER] hovering over a yellow highlighter resting on a contract page, fingers frozen mid-motion above a line of tiny print, on the oak table in the [OAK_TABLE_ROOM] old farmhouse dining room, extreme close-up, 100mm macro lens, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT
+Prompt: [GARRETT] lying awake on a bed in the dark, eyes open, one hand resting on his chest, blanket rumpled, a dark farmhouse bedroom at night, medium shot, 50mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 59/100)
-Assets: ASHER
-Prompt: [ASHER] pointing a weathered finger at a dense paragraph of extremely small eight-point print, far tinier than the surrounding print, a fresh yellow highlighter stroke running beside it on the aged contract page, extreme close-up, 100mm macro lens, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] crouching low before dawn as the spinning paddle wheel flings bright silver water arcs upward, [GARRETT_PONDS] four earthen farm ponds, rusted paddle-wheel aerator, murky green water, extreme close-up, 100mm macro lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 60/100)
-Assets: 
-Prompt: Background figures of junior associates in a sleek Chicago corporate law office feeding stacks of old contract templates through a large copier, glass-walled cubicles and rows of identical desks, extreme wide establishing shot, 24mm wide-angle lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: Thousands of tiny fish backs dimpling the sunrise pond surface as [GARRETT] watches them feed, [GARRETT_PONDS] four earthen farm ponds, murky still green water, weedy grass edges, close-up, 85mm portrait lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 61/100)
-Assets: 
-Prompt: An old 1892 land deed on brittle yellowed paper, an ornate decorative border and a cracked red wax seal at one corner, lying flat on a dark wooden table, extreme close-up, 100mm macro lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] standing calm on the bank lifting a phone, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, over-shoulder shot, 50mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 62/100)
-Assets: ASHER, OAK_TABLE_ROOM
-Prompt: [ASHER] cleaning his reading glasses with a cloth, brow furrowed as he leans over the open contract, [OAK_TABLE_ROOM] old farmhouse dining room, large oak dining table and warm timber walls behind, medium close-up, 85mm lens, full head within frame, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] bracing beneath a black storm sky lashing heavy rain, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, wide shot, 35mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 63/100)
-Assets: ASHER
-Prompt: A round magnifying glass held over a paragraph of dense small print on the aged contract page, the lens enlarging the tight lines of type, the weathered hand of [ASHER] steadying the page on the large oak dining table, extreme close-up, 100mm macro lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] turning sharply toward the south bank splitting open as rainwater tears through, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, murky still green water, medium close-up, 85mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 64/100)
-Assets: ASHER
-Prompt: A yellow highlighter drawing a bright stroke across a line of small print on the contract page, the marked clause standing out pale and clear, the hand of [ASHER] pressing the marker down on the large oak dining table, extreme close-up, 100mm macro lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] kneeling at two in the morning in a soaked shirt, headlamp beam on a soft muddy gap, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, murky still green water, extreme close-up, 100mm macro lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 65/100)
-Assets: ASHER, OAK_TABLE_ROOM
-Prompt: [ASHER], eyes wide and intent, scanning a line on the contract, deep concentration etched across the weathered face, [OAK_TABLE_ROOM] old farmhouse dining room warm and blurred behind, low angle shot, 35mm lens, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] watching brown water rope out through the breach carrying fingerlings, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 66/100)
-Assets: ASHER
-Prompt: The trembling weathered hands of [ASHER] lowering a yellow highlighter onto the open contract, fingers visibly shaking against the pale page, a cup of black coffee steady beside them on the large oak dining table, extreme close-up, 100mm macro lens, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] hauling two heavy sandbags down the rain-soaked bank alone, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 67/100)
-Assets: ASHER, OAK_TABLE_ROOM
-Prompt: [ASHER] looking up from the contract with a slow dawning realization spreading across the weathered face, lips parting, the open pages and magnifying glass before him, [OAK_TABLE_ROOM] old farmhouse dining room with large oak dining table and warm timber walls, medium close-up, 85mm lens, full head within frame, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] pressing wet gray clay into the bank gap with bare numb hands before dawn, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, murky still green water, close-up, 85mm portrait lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 68/100)
-Assets: ASHER, OAK_TABLE_ROOM
-Prompt: [ASHER], stunned expression frozen on the weathered face, eyes fixed forward and mouth slightly open, illuminated by a single warm desk lamp in the dark room, [OAK_TABLE_ROOM] old farmhouse dining room dim around him, close-up, 85mm portrait lens, full head within frame, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, WALT, GARRETT_PONDS
+Prompt: [GARRETT] sitting on the wet bank, a faint translucent [WALT] standing beyond, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, extreme wide shot, 24mm wide-angle lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
 
 (Image Prompt 69/100)
-Assets: ASHER
-Prompt: The open contract page densely filled with fine printed clauses, several lines marked in yellow highlighter, the weathered hand of [ASHER] resting flat beside the marked paragraph on the large oak dining table, extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] watching a tall gray heron wade at the pond edge, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 70/100)
-Assets: ASHER, OAK_TABLE_ROOM
-Prompt: [ASHER] leaning back in his wooden chair with a small quiet smile on the weathered face, the contract and magnifying glass spread on the table before him, [OAK_TABLE_ROOM] old farmhouse dining room, large oak dining table, wood stove and warm timber walls, medium shot, 50mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: A tall gray heron plants one foot in the shallows as [GARRETT] watches it ignore the fence, [GARRETT_PONDS] four earthen farm ponds, murky still green water, weedy grass edges, extreme close-up, 100mm macro lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 71/100)
-Assets: ASHER
-Prompt: The contract pages fanned open beside a round magnifying glass and a legal dictionary, the weathered hand of [ASHER] tracing a single clause circled in blue ink among the dense print, on the large oak dining table, extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] stretching a cheap flat net taut across the water on low stakes as a heron veers away, [GARRETT_PONDS] four earthen farm ponds, murky still green water, weedy grass edges, close-up, 85mm portrait lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 72/100)
-Assets: ASHER, OAK_TABLE_ROOM
-Prompt: [ASHER] holding up a fresh photocopy of a single contract page, one clause boldly marked, calm resolve on the weathered face, [OAK_TABLE_ROOM] old farmhouse dining room warm behind him, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] walking alone down toward the ponds at first light, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, extreme wide shot, 24mm wide-angle lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 73/100)
-Assets: ASHER, GRANGER, BANK_BRANCH
-Prompt: [ASHER] walking into the office carrying a thick 400-page contract bristling with yellow tabs and blue ink in the margins, [GRANGER] seated at the desk looking up, [BANK_BRANCH] modern Iron Ridge bank branch office, floor-to-ceiling glass windows and mahogany desk, wide shot, 35mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] standing alone on the quiet dawn bank facing the water, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, wide shot, 35mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 74/100)
-Assets: ASHER, GRANGER, BANK_BRANCH
-Prompt: [ASHER] setting the heavy 400-page contract down hard on the desk, [GRANGER] leaning back in a black leather chair with an uncapped fountain pen in hand, [BANK_BRANCH] modern Iron Ridge bank branch office, mahogany desk and cold minimalist interior, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, CO_OP
+Prompt: [GARRETT] standing among stacked feed sacks studying a price board marked with rising printed figures, [CO_OP] rural farm supply co-op, stacked feed sacks, metal shelving, concrete floor, fluorescent overhead lighting, wide loading dock doors, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 75/100)
-Assets: GRANGER, ASHER, BANK_BRANCH
-Prompt: [GRANGER] with a slow predatory smile spreading across a smooth face, glancing up from the stack toward [ASHER] seated opposite, [BANK_BRANCH] modern Iron Ridge bank branch office, mahogany desk behind, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, CO_OP
+Prompt: [GARRETT] standing with a heavy feed sack on one shoulder, jaw tight, [CO_OP] rural farm supply co-op, stacked feed sacks, metal shelving, concrete floor, fluorescent overhead lighting, wide loading dock doors, low angle shot, 35mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 76/100)
-Assets: GRANGER, ASHER, BANK_BRANCH
-Prompt: [GRANGER] talking with a smug condescending expression, gesturing toward the contract, seen over the shoulder of [ASHER] in the foreground, [BANK_BRANCH] modern Iron Ridge bank branch office, mahogany desk and glass windows, over-shoulder shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, CO_OP
+Prompt: [GARRETT] with slumped shoulders and downcast eyes lingering beside the stacked feed sacks, [CO_OP] rural farm supply co-op, stacked feed sacks, metal shelving, concrete floor, fluorescent overhead lighting, wide loading dock doors, medium close-up, 85mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 77/100)
-Assets: ASHER, GRANGER, BANK_BRANCH
-Prompt: [ASHER] speaking with a flat impassive expression across the desk while [GRANGER] listens with a faint smile, both men framed in an over-shoulder two-shot, [BANK_BRANCH] modern Iron Ridge bank branch office, mahogany desk and cold minimalist interior, over-shoulder shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, VERNON, DINER
+Prompt: [GARRETT] leaning across the counter as [VERNON] sets a coffee mug down, shaking his head, [DINER] small-town diner interior, long laminate counter with stools, coffee mugs, vinyl booths, window blinds, warm overhead lights, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 78/100)
-Assets: GRANGER, BANK_BRANCH
-Prompt: [GRANGER] pressing a round notary stamp onto the final page of the contract, glancing only at the signature line, the thick stack otherwise closed on the desk, [BANK_BRANCH] modern Iron Ridge bank branch office, mahogany desk, wide shot, 35mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, VERNON, DINER
+Prompt: [VERNON] speaking plainly across the booth while [GARRETT] listens, both leaning over coffee mugs, [DINER] small-town diner interior, long laminate counter with stools, coffee mugs, vinyl booths, window blinds, warm overhead lights, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 79/100)
-Assets: GRANGER, BANK_BRANCH
-Prompt: The thick 400-page contract dropping into a metal outbox tray, the hand of [GRANGER] releasing it and brushing off his fingers, [BANK_BRANCH] modern Iron Ridge bank branch office, mahogany desk surface, close-up, 85mm portrait lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, VERNON, DINER
+Prompt: Framed over the shoulder of [GARRETT], [VERNON] sits back letting a firm point settle, [DINER] small-town diner interior, long laminate counter with stools, coffee mugs, vinyl booths, window blinds, warm overhead lights, over-shoulder shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 80/100)
-Assets: ASHER
-Prompt: A bold blue ink handwritten initial pressed hard into the corner of a contract page beside a paragraph of fine print, the indentation visible on the pale paper, the weathered hand of [ASHER] resting at the page edge, extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT
+Prompt: [GARRETT] clasping a firm handshake to seal a full-year wholesale agreement, standing from a position of quiet strength, a regional feed supply warehouse, extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 81/100)
-Assets: ASHER
-Prompt: A bold blue handwritten initial in the margin directly beside a paragraph of dense small print marked in yellow highlighter, the two sitting side by side on the contract page, the weathered hand of [ASHER] steadying the sheet, extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] bending down at the dawn bank to read the water, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, extreme wide shot, 24mm wide-angle lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 82/100)
-Assets: ASHER
-Prompt: The weathered hand of [ASHER] pressing a bold blue initial onto a contract page, a tall stack of already-initialed pages beside it, each mark uniform and even, on the large oak dining table, extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, WALT
+Prompt: A boyhood [GARRETT] watching [WALT] stand square in the tired field, hands reading the earth, a worn-out fallow farm field, low angle shot, 35mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
 
 (Image Prompt 83/100)
-Assets: GRANGER, BANK_BRANCH
-Prompt: [GRANGER] tossing the closed contract carelessly aside onto a pile of other stacked files, a bored dismissive look on his face, [BANK_BRANCH] modern Iron Ridge bank branch office, mahogany desk and cold minimalist interior, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] reading the water as fish gulp at the gray dawn surface, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 84/100)
-Assets: ASHER, GRANGER, BANK_BRANCH
-Prompt: [ASHER] standing and adjusting the brim of his worn cap, looking down calmly at [GRANGER] who remains seated at the desk, [BANK_BRANCH] modern Iron Ridge bank branch office, mahogany desk and glass windows, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] pressing a thermometer probe down into the pond water, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, wide shot, 35mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 85/100)
-Assets: ASHER, GRANGER, BANK_BRANCH
-Prompt: [ASHER] speaking calmly with a faint knowing look, seen over the shoulder of [GRANGER] seated in the foreground, [BANK_BRANCH] modern Iron Ridge bank branch office, mahogany desk and cold minimalist interior, over-shoulder shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] frowning hard in thought, brow furrowed, jaw tight as doubt crosses his weathered face, [GARRETT_PONDS] four earthen farm ponds, murky still green water, weedy grass edges, close-up, 85mm portrait lens, full head within frame, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 86/100)
-Assets: ASHER
-Prompt: [ASHER] walking out through the glass doors of the modern Iron Ridge bank branch into bright Iowa sunlight, a folded sheet of paper tucked in his shirt pocket, weathered storefronts along the street, wide shot, 35mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: MERIDIAN_POND
+Prompt: A vast engineered aquaculture reservoir stretching flat and empty, [MERIDIAN_POND] vast industrial holding pond, wide graded earthen banks, sterile flat water surface, service road along the rim, bare graded earth, gray overcast sky, extreme wide shot, 24mm wide-angle lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 87/100)
-Assets: ASHER, SOUTH_FIELD
-Prompt: [ASHER] standing patiently as a small figure at the edge of his vast land, hands in pockets, gazing over the fields, [SOUTH_FIELD] drought-stricken cornfield, stunted pale corn stalks, cracked dry earth and wire fence line, extreme wide establishing shot, 24mm wide-angle lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: A tight macro view of [GARRETT], brow creased and eyes narrowed on the murky green water, [GARRETT_PONDS] four earthen farm ponds, murky still green water, weedy grass edges, extreme close-up, 100mm macro lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 88/100)
-Assets: ASHER, SOUTH_FIELD
-Prompt: [ASHER] standing at the edge of his cornfield gazing steadily across the land as a small figure, [SOUTH_FIELD] drought-stricken cornfield with stunted pale corn stalks, cracked dry earth, wire fence line, overcast sky, extreme wide shot, 24mm wide-angle lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] gazing over thousands of large catfish crowding the stocked pond, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium close-up, 85mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 89/100)
-Assets: ASHER, OAK_TABLE_ROOM
-Prompt: [ASHER] sitting at the oak table filling out irrevocable trust documents with a fountain pen, papers spread before him, [OAK_TABLE_ROOM] old farmhouse dining room with large oak dining table, wood stove, warm timber walls, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: MERIDIAN_POND
+Prompt: The Deel property flattened into graded industrial ground, its old farm ponds long erased, [MERIDIAN_POND] vast industrial holding pond, wide graded earthen banks, sterile flat water surface, service road along the rim, bare graded earth, gray overcast sky, wide shot, 35mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 90/100)
-Assets: ASHER, OAK_TABLE_ROOM
-Prompt: [ASHER] crouching to feed a split log into a glowing cast-iron wood stove in the corner, [OAK_TABLE_ROOM] old farmhouse dining room with large oak dining table, warm timber walls, wide shot, 35mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, MERIDIAN_POND
+Prompt: [GARRETT] standing alone on the endless graded bank of the Meridian holding pond, [MERIDIAN_POND] vast industrial holding pond, wide graded earthen banks, sterile flat water surface, service road along the rim, bare graded earth, gray overcast sky, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 91/100)
-Assets: ASHER, OAK_TABLE_ROOM
-Prompt: [ASHER] with a weathered fifty-eight-year-old face and a steady patient gaze turned toward a window, [OAK_TABLE_ROOM] old farmhouse dining room with warm timber walls in the background, low angle shot, 35mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] with a clenched jaw and pained downcast eyes, one weathered hand pressed to his chest, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, murky still green water, close-up, 85mm portrait lens, full head within frame, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 92/100)
-Assets: ASHER, OAK_TABLE_ROOM
-Prompt: [ASHER] leaning over loan documents with dense fine print spread on the table, one hand flat on the page, [OAK_TABLE_ROOM] old farmhouse dining room with warm timber walls, medium close-up, 85mm lens, full head within frame, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] handing a fresh catfish to a neighbor beside the open pickup tailgate, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium close-up, 85mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 93/100)
-Assets: 
-Prompt: An embossed glossy business card lying on a dark polished surface, raised blank crest and smooth foil edge catching the light, extreme close-up, 100mm macro lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] facing a neighbor at the pond edge, the man gesturing toward the catfish, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, over-shoulder shot, 50mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 94/100)
-Assets: ASHER, SOUTH_FIELD
-Prompt: [ASHER] standing in his field with slightly slumped shoulders gazing toward the horizon, [SOUTH_FIELD] drought-stricken cornfield with stunted pale corn stalks, cracked dry earth, wire fence line, medium shot, 50mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] opening the ice cooler while a neighbor counts worn dollar bills slowly, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, low angle shot, 35mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 95/100)
-Assets: ASHER, KIRKLAND, FENCE_LINE
-Prompt: [ASHER] standing at the fence watching [KIRKLAND], a frail white-haired old man, loading cardboard boxes onto a borrowed pickup truck, [FENCE_LINE] southern wire fence line, cracked drought earth, flat open field, hazy sky, wide shot, 35mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, GARRETT_PONDS
+Prompt: [GARRETT] lingering beside the pond, brow furrowed, gazing across the still water, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 96/100)
-Assets: ASHER, FENCE_LINE
-Prompt: The weathered hand of [ASHER] gripping a wooden fence post so hard the knuckles turn white, [FENCE_LINE] southern wire fence line with cracked drought earth, extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, WALT
+Prompt: An older weathered hand of [WALT] guiding the younger hand of [GARRETT] over dry cracked soil, a worn-out fallow farm field, extreme close-up, 100mm macro lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
 
 (Image Prompt 97/100)
-Assets: SOUTH_FIELD
-Prompt: A parched cornfield stretching to the horizon under a pale washed-out sky, [SOUTH_FIELD] drought-stricken cornfield with stunted pale corn stalks, cracked dry earth, wire fence line, extreme wide shot, 24mm wide-angle lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, FARMERS_MARKET
+Prompt: [GARRETT] arranging iced catfish across his folding table at a busy Saturday market, [FARMERS_MARKET] outdoor farmers market, folding table with ice trays, canvas canopy, neighboring vendor stalls, small-town street, extreme wide shot, 24mm wide-angle lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 98/100)
-Assets: ASHER
-Prompt: An official rate adjustment letter lying on the oak table beside the weathered hand of [ASHER], dense fine print filling the page, extreme close-up, 100mm macro lens, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, FARMERS_MARKET
+Prompt: [GARRETT] leaning across his market stall to pass an iced fillet to a waiting customer, [FARMERS_MARKET] outdoor farmers market, folding table with ice trays, canvas canopy, neighboring vendor stalls, small-town street, medium close-up, 85mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 99/100)
-Assets: ASHER, OAK_TABLE_ROOM
-Prompt: The hands of [ASHER] carefully filling in a paper check with a fountain pen at the dining table, [OAK_TABLE_ROOM] old farmhouse dining room with large oak dining table, warm timber walls, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, SHED
+Prompt: [GARRETT] filleting a catfish into clean pale strips, blade steady in one firm hand, [SHED] weathered wooden tool shed, hand tools hung on nail-studded plank walls, sturdy workbench, single hanging bulb light, dirt-and-concrete floor, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 
 (Image Prompt 100/100)
-Assets: ASHER, OAK_TABLE_ROOM
-Prompt: [ASHER] pinning a foreclosure notice to a cork board with a thumbtack, a faint smile on his weathered face, papers already tacked in a row, [OAK_TABLE_ROOM] old farmhouse dining room with warm timber walls, close-up, 85mm portrait lens, full head within frame, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Assets: GARRETT, HOLLIS, GARRETT_PONDS
+Prompt: [HOLLIS] stepping down from a parked sedan as [GARRETT] approaches to greet him, [GARRETT_PONDS] four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field

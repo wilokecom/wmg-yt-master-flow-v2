@@ -1,99 +1,95 @@
-# Video Prompts — Hook: The Only Farmer Who Read the Fine Print
-Hook window: 0 → 00:01:02 | Clips: 12 | Max clip: 8s
+# Video Prompts — Hook: They Offered a Single Dad $3,800 for Dead Ponds — 2 Years Later, They Left With Nothing
+Hook window: 0 → 00:01:08 | Clips: 11 | Max clip: 8s
+Video style: photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera
+
+**Escalation (trailer ladder):** wide đất chết trong sương → insert aerator gãy cánh → two-shot kẻ mua xuất hiện → insert giày bóng lộn cạnh boots mòn (đối lập giai cấp) → nụ cười trịnh thượng đẩy tờ định giá → insert ngón tay dày ghim tờ giấy + cây bút → wide Garrett nhỏ bé giữa co-op → cận gương mặt kiệt sức → insert lật deed, dòng bút chì của cha (bí ẩn treo) → nụ cười tắt trên mặt Vance → bàn tay thu sạch giấy tờ (beat treo: lời đề nghị bỏ đi).
+
+**Kaizen 2026-07-09:** mọi video prompt và image prompt ảnh phụ trong file này kết bằng mệnh đề `clean frame free of watermarks, logos, or AI icons` để chặn model tự vẽ icon AI/watermark vào nội dung. (Watermark Veo/Gemini do Google đóng sau render thì prompt không gỡ được — xử lý bằng tier/crop khi dựng.)
 
 ---
 ## Clip 1.1
-**Scene:** 1 | **Time:** 00:00:00 → 00:00:05 | **Duration:** 5s | **Frame đầu:** ảnh 1.jpg
+**Scene:** 1 | **Time:** 00:00:00 → 00:00:06 | **Duration:** 6s | **Frame đầu:** ảnh 1.jpg
 **Image Prompt (ảnh 1):**
-A deserted foreclosed farmhouse at gray dawn, stacked cardboard moving boxes on the sagging porch, a plain paper notice nailed to the weathered front door, empty gravel yard, extreme wide establishing shot, 24mm wide-angle lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Dead stagnant water beneath morning mist, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, wide shot, 35mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 **Video Prompt:**
-Slow push-in on the deserted foreclosed farmhouse, the paper notice on the front door fluttering gently at its loose corner as thin dawn wind drifts across the sagging porch, stacked cardboard boxes sitting motionless, cold mist gradually settling over the empty gravel yard, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient wind and distant crows
+Slow push-in gliding low across four earthen farm ponds, morning mist drifting over the murky still green water toward the rusted paddle-wheel aerator, thin ripples crossing the surface, low rural horizon under muted overcast light, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean frame free of watermarks, logos, or AI icons, Audio: low wind, a distant crow
 
 ---
 ## Clip 1.2
-**Scene:** 1 | **Time:** 00:00:05 → 00:00:10 | **Duration:** 5s | **Frame đầu:** ảnh 1-2.jpg
-**Image Prompt (ảnh phụ 1-2):**
-A stark eviction notice nailed to a weathered wooden farmhouse door, bent rusty nail head, curling paper edges, faint official stamp shape, splintered gray timber grain, extreme close-up, 100mm macro lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+**Scene:** 1 | **Time:** 00:00:06 → 00:00:12 | **Duration:** 6s | **Frame đầu:** ảnh phụ 1-2.jpg (CÚ CẮT — insert cận vật thể, tạo mới)
+**Image Prompt (ảnh phụ 1-2.jpg):**
+The rusted paddle-wheel aerator seized above murky still green water, one paddle blade snapped and hanging, flaking orange rust and dried algae film on the cage, extreme close-up, 100mm macro lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 **Video Prompt:**
-Static camera holding tight on the eviction notice nailed to the farmhouse door, the curling paper corner slowly lifting and settling in a faint draft, a single bead of dawn moisture gradually sliding down the splintered gray timber beside the bent rusty nail, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient wind and creaking wood
+Static camera holding tight on the rusted paddle-wheel aerator, one snapped paddle blade trembling faintly in the wind, mist drifting slowly past the flaking orange cage, dried algae film shifting on the still water below, muted overcast light, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean frame free of watermarks, logos, or AI icons, Audio: low wind over water
 
 ---
 ## Clip 2.1
-**Scene:** 2 | **Time:** 00:00:10 → 00:00:16 | **Duration:** 6s | **Frame đầu:** ảnh 2.jpg
-**Image Prompt (ảnh 2):**
-A magnifying glass hovering over a dense contract page filled with tiny blurred fine print, a single line of eight-point text faintly marked, aged white paper, extreme close-up, 100mm macro lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+**Scene:** 2 | **Time:** 00:00:12 → 00:00:18 | **Duration:** 6s | **Frame đầu:** ảnh 2.jpg
+**Image Prompt (ảnh 1):**
+Preston Vance steps out of a spotless clean pickup handing Garrett a pre-filled contract, gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 **Video Prompt:**
-Slow push-in on the magnifying glass hovering over the dense contract page, the circle of magnified fine print gradually sharpening into focus as the lens drifts a fraction lower across the aged white paper, hard shadow of the glass rim creeping slowly over the eight-point line, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient paper rustle
+Gentle pan following Preston Vance in the crisp charcoal-gray suit as he extends a pre-filled contract toward Garrett in the faded olive-green canvas work jacket, paper edges lifting slightly in the breeze between the two men, cold clinical light on the gravel farm road, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean frame free of watermarks, logos, or AI icons, Audio: papers shuffling, faint idling engine
 
 ---
 ## Clip 2.2
-**Scene:** 2 | **Time:** 00:00:16 → 00:00:22 | **Duration:** 6s | **Frame đầu:** ảnh 2-2.jpg
-**Image Prompt (ảnh phụ 2-2):**
-A towering four-hundred-page contract stack thudding down onto a bare wooden table, dense stacked paper edges, a small puff of dust rising, heavy shadow beneath, wide shot, 35mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+**Scene:** 2 | **Time:** 00:00:18 → 00:00:23 | **Duration:** 5s | **Frame đầu:** ảnh phụ 2-2.jpg (CÚ CẮT — insert đối lập giai cấp, tạo mới)
+**Image Prompt (ảnh phụ 2-2.jpg):**
+Polished black leather dress shoes planted on wet gravel beside scuffed brown leather work boots, fine mud flecks dulling the mirror shine, gravel farm road, wire fence line, extreme close-up, 100mm macro lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 **Video Prompt:**
-Static camera on the bare wooden table as the towering four-hundred-page contract stack settles heavily, a thin puff of dust drifting slowly upward and dispersing over the dense paper edges, the heavy shadow beneath gradually deepening as the pages compress, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient low thud and settling paper
+Slow push-in at ground level on polished black leather dress shoes planted on wet gravel beside scuffed brown leather work boots, weight shifting slightly, fine grit pressing under the mirror shine, cold clinical daylight, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean frame free of watermarks, logos, or AI icons, Audio: gravel crunch, low wind
 
 ---
 ## Clip 3.1
-**Scene:** 3 | **Time:** 00:00:22 → 00:00:27 | **Duration:** 5s | **Frame đầu:** ảnh 3.jpg
-**Image Prompt (ảnh 3):**
-A towering cold glass bank skyscraper reflecting a pale overcast sky, sleek steel and mirrored blue facade rising above an empty plaza, wide shot, 35mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+**Scene:** 3 | **Time:** 00:00:23 → 00:00:31 | **Duration:** 8s | **Frame đầu:** ảnh 3.jpg
+**Image Prompt (ảnh 1):**
+A polite smile on Preston Vance as he slides a printed appraisal figure toward Garrett, gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, medium close-up, 85mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 **Video Prompt:**
-Slow pull-back and gentle tilt up the cold glass bank skyscraper, the mirrored blue facade drifting past frame as pale overcast clouds glide slowly across the reflective steel surface, the empty plaza gradually widening into view below, cold office light, distant framing, clinical atmosphere, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient distant city hum
+Slow push-in as Preston Vance in the charcoal-gray suit slides a printed appraisal sheet across the truck bed cover toward Garrett in the olive-green work jacket, the faint tight-lipped smile holding steady, chin lifting a fraction, cold clinical light hardening across both faces, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean frame free of watermarks, logos, or AI icons, Audio: paper sliding on metal
 
 ---
 ## Clip 3.2
-**Scene:** 3 | **Time:** 00:00:27 → 00:00:32 | **Duration:** 5s | **Frame đầu:** ảnh 3-2.jpg
-**Image Prompt (ảnh phụ 3-2):**
-An industrial printing press spewing an endless cascade of identical dense contract pages into a growing pile, blurred rollers, streaming white paper, cold metal machinery, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+**Scene:** 3 | **Time:** 00:00:31 → 00:00:38 | **Duration:** 7s | **Frame đầu:** ảnh phụ 3-2.jpg (CÚ CẮT — insert vật thể đắt giá, tạo mới)
+**Image Prompt (ảnh phụ 3-2.jpg):**
+A printed appraisal sheet pinned flat on a truck bed cover by thick heavy fingers, a silver pen laid across the page, gravel farm road, wire fence line, extreme close-up, 100mm macro lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 **Video Prompt:**
-Static camera on the industrial printing press as a continuous cascade of identical contract pages streams steadily from the blurred rollers, the growing paper pile rising slowly at the base while the cold metal machinery churns in relentless motion, cold office light, distant framing, clinical atmosphere, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient mechanical whir
+Camera holds on the printed appraisal sheet pinned flat against the truck bed cover, thick heavy fingers tapping once beside a silver pen, the page corner fluttering in the breeze, hard glints running along the pen barrel, cold clinical light, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean frame free of watermarks, logos, or AI icons, Audio: faint page flutter
 
 ---
 ## Clip 4.1
-**Scene:** 4 | **Time:** 00:00:32 → 00:00:37 | **Duration:** 5s | **Frame đầu:** ảnh 4.jpg
-**Image Prompt (ảnh 4):**
-A weathered calloused hand pressing a pen to the signature line of a thick contract page, wrinkled knuckles, ink wet on aged paper, close-up, 85mm portrait lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+**Scene:** 4 | **Time:** 00:00:38 → 00:00:44 | **Duration:** 6s | **Frame đầu:** ảnh 4.jpg
+**Image Prompt (ảnh 1):**
+Garrett standing alone and tired among towering supply aisles, rural farm supply co-op, stacked feed sacks, metal shelving, concrete floor, fluorescent overhead lighting, wide loading dock doors, extreme wide shot, 24mm wide-angle lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 **Video Prompt:**
-Slow push-in on the weathered calloused hand as it presses the pen to the signature line, wrinkled knuckles gradually tightening while the pen tip drags slowly across the aged paper leaving a wet ink trail, the hand steady and heavy in frame throughout, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient pen scratch on paper
+Slow pull-back widening the fluorescent-lit aisles around Garrett in the faded olive-green canvas work jacket standing small between towering stacks of feed sacks, his shoulders slumped, dust hanging in the pale light, muted desaturated palette, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean frame free of watermarks, logos, or AI icons, Audio: distant machinery hum
 
 ---
 ## Clip 4.2
-**Scene:** 4 | **Time:** 00:00:37 → 00:00:41 | **Duration:** 4s | **Frame đầu:** ảnh 4-2.jpg
-**Image Prompt (ảnh phụ 4-2):**
-A tall growing stack of signed signature pages piling on a wooden desk, dark ink signatures crowding each sheet, curled corners, dim room behind, medium close-up, 85mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+**Scene:** 4 | **Time:** 00:00:44 → 00:00:49 | **Duration:** 5s | **Frame đầu:** ảnh phụ 4-2.jpg (CÚ CẮT — reaction cận gương mặt, tạo mới)
+**Image Prompt (ảnh phụ 4-2.jpg):**
+Garrett with tired deep-set eyes and three-day stubble gazing past the shelves, faded olive-green canvas work jacket over a gray flannel shirt, full head within frame, rural farm supply co-op, stacked feed sacks, close-up, 85mm portrait lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 **Video Prompt:**
-Static camera on the growing stack of signed signature pages as one more sheet drifts slowly down onto the pile, its curled corner settling gently against the dark ink signatures below, the tall stack gradually leaning under its own weight on the wooden desk, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient paper slide
+Subtle handheld sway close on Garrett with tired deep-set eyes and three-day stubble, his gaze fixed past the shelves, one slow blink, jaw tightening under the flat fluorescent light, the gray flannel collar rising with a long breath, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean frame free of watermarks, logos, or AI icons, Audio: soft ambient room tone
 
 ---
 ## Clip 5.1
-**Scene:** 5 | **Time:** 00:00:41 → 00:00:46 | **Duration:** 5s | **Frame đầu:** ảnh 5.jpg
-**Image Prompt (ảnh 5):**
-A family loading worn furniture and battered belongings into a rented moving trailer in a gravel driveway, a man in a sharp tailored suit standing apart with a polished smile, faded farmhouse behind, wide shot, 35mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+**Scene:** 5 | **Time:** 00:00:49 → 00:00:57 | **Duration:** 8s | **Frame đầu:** ảnh 5.jpg
+**Image Prompt (ảnh 1):**
+Garrett turning the old land deed face down, fingers tracing a faint pencil line, pen resting closed, the back of an old land deed with faint pencil handwriting, close-up, 85mm portrait lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 **Video Prompt:**
-Gentle pan left across the gravel driveway as the family carries worn furniture slowly toward the rented moving trailer, the man in the sharp tailored suit standing apart and motionless with his polished smile, faded farmhouse looming behind, dust drifting low over the gravel, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient gravel footsteps
-
----
-## Clip 5.2
-**Scene:** 5 | **Time:** 00:00:46 → 00:00:51 | **Duration:** 5s | **Frame đầu:** ảnh 5-2.jpg
-**Image Prompt (ảnh phụ 5-2):**
-A man in a sharp tailored dark suit with a cold polished smile, crisp lapel, smug composed expression, blurred gravel driveway behind, close-up, 85mm portrait lens, full head within frame, dismissive cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-**Video Prompt:**
-Slow push-in on the man in the sharp tailored suit, his cold polished smile gradually widening a fraction as his composed gaze drifts calmly across the driveway, crisp lapel catching the flat light, the smug face held steady in frame throughout, dismissive cold office light, distant framing, clinical atmosphere, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient distant murmur
+Slow push-in as Garrett in the gray flannel shirt turns the old land deed face down with weathered fingers, tracing slowly along a faint pencil line, the pen resting closed on the wood beside the page, strong directional light raking across the handwriting, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean frame free of watermarks, logos, or AI icons, Audio: paper turning softly
 
 ---
 ## Clip 6.1
-**Scene:** 6 | **Time:** 00:00:51 → 00:00:57 | **Duration:** 6s | **Frame đầu:** ảnh 6.jpg
-**Image Prompt (ảnh 6):**
-Asher standing as a small solitary figure across vast rolling farmland of green corn and soybean rows stretching to the horizon, weathered work clothes, extreme wide shot, 24mm wide-angle lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+**Scene:** 6 | **Time:** 00:00:57 → 00:01:03 | **Duration:** 6s | **Frame đầu:** ảnh 6.jpg
+**Image Prompt (ảnh 1):**
+Friendliness draining from Preston Vance as he quietly gathers the papers back near Garrett, gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, over-shoulder shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
 **Video Prompt:**
-Slow pull-back from Asher in the weathered work clothes standing small and solitary across the vast farmland, the green corn and soybean rows swaying gently in a low wind as the open horizon widens around the lone figure, Asher holding a firm steady posture in frame, strong directional light, firm posture, clear focus, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient rustling crops and open wind
+Slow push-in over the shoulder of Garrett in the olive-green work jacket as warmth drains from the face of Preston Vance, the practiced smile flattening into a hard line, his hands beginning to draw the papers back across the truck bed, cold clinical light, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean frame free of watermarks, logos, or AI icons, Audio: papers gathering
 
 ---
 ## Clip 6.2
-**Scene:** 6 | **Time:** 00:00:57 → 00:01:02 | **Duration:** 5s | **Frame đầu:** ảnh 6-2.jpg
-**Image Prompt (ảnh phụ 6-2):**
-The weathered face of Asher set in firm determined resolve, deep-set steady eyes fixed forward, sun-lined skin, jaw set tight, open farmland blurred behind, close-up, 85mm portrait lens, full head within frame, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+**Scene:** 6 | **Time:** 00:01:03 → 00:01:08 | **Duration:** 5s | **Frame đầu:** ảnh phụ 6-2.jpg (CÚ CẮT — insert bàn tay thu giấy, beat treo kết hook, tạo mới)
+**Image Prompt (ảnh phụ 6-2.jpg):**
+Thick heavy hands in a charcoal-gray suit sleeve sweeping contract papers into a dark leather folio on a truck bed cover, gravel farm road, wire fence line, extreme close-up, 100mm macro lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 **Video Prompt:**
-Slow push-in on the weathered face of Asher, the deep-set steady eyes gradually narrowing with resolve as the jaw tightens, a faint gust drifting through the sun-lined hair while the determined gaze holds fixed forward, the face anchored in frame throughout, strong directional light, firm posture, clear focus, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, Audio: soft ambient open wind
-
+Static camera at truck bed level as thick heavy hands in a charcoal-gray suit sleeve sweep the contract pages into a dark leather folio, pressing it shut and drawing it away, dust settling over the bare bed cover, cold flat light, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean frame free of watermarks, logos, or AI icons, Audio: papers gathering, a folio clasp clicking

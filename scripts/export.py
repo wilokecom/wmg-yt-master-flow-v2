@@ -363,7 +363,8 @@ def gate_step3():
 
     for stt in sorted(set(prompts) & scene_stts):
         text = prompts[stt]
-        n = len(text.split())
+        # KAIZEN 2026-07-09 — mệnh đề chống watermark trong style anchor không tính vào ngân sách từ
+        n = len(text.replace("clean frame free of watermarks, logos, or AI icons", "").split())
         if n < 20 or n > 75:
             (errs if n < 15 or n > 90 else warns).append(f"Prompt {stt}: {n} từ (chuẩn 20-75, rule 4.4)")
         if style and style not in text:
@@ -463,6 +464,9 @@ def check_video_hook(vh, scenes, prompts, config=None):
             warns.append(f"{cid}: video prompt chưa có camera motion (Rule 6.3)")
         if re.search(r'"[^"]{3,}"', text):
             errs.append(f"{cid}: video prompt chứa dialogue trong ngoặc kép (Rule 6.3 cấm)")
+        # KAIZEN 2026-07-09 — mệnh đề chống icon AI/watermark bắt buộc trong video prompt
+        if "free of watermarks" not in text.lower():
+            warns.append(f"{cid}: thiếu mệnh đề `clean frame free of watermarks, logos, or AI icons` (Rule 6.3, KAIZEN 2026-07-09)")
         # Rule 6.6 — subject persistence
         hits = sorted(set(re.findall(DISCONTINUITY_WORDS, text, re.I)))
         if hits:
@@ -798,6 +802,11 @@ def main():
         tw_errs, tw_warns, tw_n = ([], [], 0)
         if tw:
             tw_errs, tw_warns, tw_n = merge_typewriter(tw, meta_scenes)
+        else:
+            print("ⓘ LƯU Ý: không có input/typewriter.json → metadata KHÔNG có hiệu ứng đánh máy (typewriter overlay).")
+            print("  Video kể chuyện cho khán giả 65+ thường cần chữ lớn gõ chậm ở các mốc kịch tính: con số (giá tiền, số lượng),")
+            print("  time card ('2 năm sau'), câu thesis/moral. Nếu muốn: tạo input/typewriter.json (schema ở .claude/rules/metadata.md 5.7)")
+            print("  rồi chạy lại `python3 scripts/export.py`. Nếu chủ ý KHÔNG dùng typewriter cho video này thì bỏ qua ghi chú này.")
 
         meta = {
             "project": {
