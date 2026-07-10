@@ -1,1186 +1,1211 @@
-# Prompt Set: They Offered a Single Dad $3,800 for Dead Ponds — 2 Years Later, They Left With Nothing
-Style: photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field | Total prompts: 170
+# Prompt Set: The Bank Laughed at His Locker — Then He Pulled Out a 1971 Paper
+Style: photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons | Total prompts: 196
+
 ---
 ## 1
-**Beat:** establishing | **Mood:** sad | **Duration:** 12s
-**Characters:** -
+**Beat:** tension | **Mood:** dismissive | **Duration:** 14s
+**Characters:** Carter, Harold
 **Prompt:**
-Dead stagnant water beneath morning mist, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, wide shot, 35mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Carter pointing accusing finger across the teller counter, Harold standing calm opposite with weathered hands on counter, modern bank lobby with marble floors and large windows, wide shot from low angle, 24mm wide-angle lens, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 2
-**Beat:** dialogue | **Mood:** dismissive | **Duration:** 11s
-**Characters:** Garrett, Preston Vance
+**Beat:** tension | **Mood:** dismissive | **Duration:** 16s
+**Characters:** Carter, Harold
 **Prompt:**
-Preston Vance steps out of a spotless clean pickup handing Garrett a pre-filled contract, gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Carter leaning over teller counter gesturing dismissively, Harold standing still with quiet dignity, surrounding customers looking on in modern corporate bank lobby, medium two-shot over-shoulder from Harold's perspective, 50mm lens, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 3
-**Beat:** reflection | **Mood:** dismissive | **Duration:** 15s
-**Characters:** Garrett, Preston Vance
+**Beat:** dialogue | **Mood:** determined | **Duration:** 11s
+**Characters:** Harold
 **Prompt:**
-A polite smile on Preston Vance as he slides a printed appraisal figure toward Garrett, gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, medium close-up, 85mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Harold resting one weathered hand calmly on marble teller counter, standing with quiet steady posture in worn jacket, modern bank lobby background with teller counter, medium close-up from low angle, 85mm portrait lens full head within frame, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 4
-**Beat:** reflection | **Mood:** sad | **Duration:** 11s
-**Characters:** Garrett
+**Beat:** reflection | **Mood:** shock | **Duration:** 11s
+**Characters:** Carter
 **Prompt:**
-Garrett standing alone and tired among towering supply aisles, rural farm supply co-op, stacked feed sacks, metal shelving, concrete floor, fluorescent overhead lighting, wide loading dock doors, extreme wide shot, 24mm wide-angle lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Carter sitting alone at defendant table in federal courtroom, head down avoiding eye contact, hands clasped on table, wood-paneled courtroom walls with faded flag in corner, medium shot from high angle, 85mm portrait lens, dramatic side lighting shallow DOF extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 5
-**Beat:** tension | **Mood:** determined | **Duration:** 8s
-**Characters:** Garrett
+**Beat:** establishing | **Mood:** calm | **Duration:** 15s
+**Characters:** -
 **Prompt:**
-Garrett turning the old land deed face down, fingers tracing a faint pencil line, pen resting closed, the back of an old land deed with faint pencil handwriting, close-up, 85mm portrait lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Empty modern bank lobby with large teller counter and marble floors, floor-to-ceiling windows letting in natural light, corporate atmosphere with quiet ambience, wide establishing shot, 24mm wide-angle lens, even soft lighting neutral tones balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 6
 **Beat:** dialogue | **Mood:** dismissive | **Duration:** 11s
-**Characters:** Garrett, Preston Vance
+**Characters:** Carter
 **Prompt:**
-Friendliness draining from Preston Vance as he quietly gathers the papers back near Garrett, gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, over-shoulder shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Carter standing confidently behind modern bank desk with sharp arrogant posture, wearing tailored navy suit and tie, corporate office background with glass walls, medium shot from low angle, 50mm lens, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 7
-**Beat:** dialogue | **Mood:** dismissive | **Duration:** 12s
-**Characters:** Garrett, Preston Vance
+**Beat:** dialogue | **Mood:** determined | **Duration:** 10s
+**Characters:** Harold
 **Prompt:**
-Preston Vance leaning from a spotless car window casting a cold parting look toward Garrett, gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Harold buttoning his worn jacket with calm steady posture, standing in modern bank lobby near exit, weathered hands visible, medium shot from side angle, 50mm lens, even soft lighting neutral tones balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 8
-**Beat:** establishing | **Mood:** calm | **Duration:** 10s
-**Characters:** -
+**Beat:** establishing | **Mood:** nostalgic | **Duration:** 14s
+**Characters:** Harold
 **Prompt:**
-Local farmers gathered in clusters trading a spreading story over Sunday breakfast, small-town diner interior, long laminate counter with stools, coffee mugs, vinyl booths, window blinds, warm overhead lights, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Harold standing alone in rural Tennessee farmland with 160 acres of fields stretching to horizon, old wooden fencing lining the dirt road, wearing simple cotton shirt and jacket with weathered hands, wide establishing shot, 24mm wide-angle lens, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 9
-**Beat:** dialogue | **Mood:** sad | **Duration:** 11s
-**Characters:** -
+**Beat:** reflection | **Mood:** nostalgic | **Duration:** 14s
+**Characters:** Harold
 **Prompt:**
-Older men at the counter chuckling into their coffee cups dismissively, small-town diner interior, long laminate counter with stools, coffee mugs, vinyl booths, window blinds, warm overhead lights, medium close-up, 85mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Harold standing on wooden porch of weathered clapboard farmhouse, old key resting on nightstand through window, simple rural home exterior with farm background, medium shot from front, 50mm lens, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 10
-**Beat:** reflection | **Mood:** sad | **Duration:** 10s
-**Characters:** Garrett
+**Beat:** reflection | **Mood:** determined | **Duration:** 12s
+**Characters:** Harold
 **Prompt:**
-Garrett gazing across the dead water with a quiet, weathered understanding on his face, four earthen farm ponds, murky still green water, extreme close-up, 100mm macro lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Close-up of Harold's weathered hands resting on rough wooden table, old brass key visible in his palm, simple farmhouse kitchen background, medium close-up with focus on hands, 100mm macro lens, even soft lighting neutral tones balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 11
-**Beat:** establishing | **Mood:** determined | **Duration:** 11s
-**Characters:** Garrett
+**Beat:** establishing | **Mood:** nostalgic | **Duration:** 12s
+**Characters:** Harold
 **Prompt:**
-Garrett driving a weathered pickup steadily down the open route, jaw set firmly, gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, extreme wide shot, 24mm wide-angle lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Harold driving old pickup truck down gravel country road in rural Tennessee, truck aged with worn exterior through field view, wide establishing shot of truck on dirt road with farm fields on both sides, 24mm wide-angle lens, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 12
-**Beat:** reflection | **Mood:** tense | **Duration:** 17s
-**Characters:** -
+**Beat:** reflection | **Mood:** nostalgic | **Duration:** 13s
+**Characters:** Harold
 **Prompt:**
-An empty dirt lane stretching past a quiet farmstead under a wide grey sky, waiting, gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Harold placing forty dollars on modern bank teller counter, standing calmly in worn jacket with weathered hands, bank lobby with marble floors and teller counter, medium shot from side angle, 50mm lens, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 13
-**Beat:** reflection | **Mood:** determined | **Duration:** 11s
-**Characters:** -
+**Beat:** reflection | **Mood:** calm | **Duration:** 5s
+**Characters:** Harold
 **Prompt:**
-A lone fence post rising against a bright open sky above a quiet track, gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, low angle shot, 35mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Close-up of Harold holding old brass locker key between weathered fingers, key with tarnished surface showing age, simple dark background, extreme close-up with focus on key, 100mm macro lens, even soft lighting neutral tones balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 14
-**Beat:** establishing | **Mood:** nostalgic | **Duration:** 11s
+**Beat:** establishing | **Mood:** tense | **Duration:** 12s
 **Characters:** -
 **Prompt:**
-An old land deed lying face up on worn wood, showing a faint looping pencil line, the back of an old land deed with faint pencil handwriting, wide shot, 35mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Modern bank lobby with new branding signage and computers, corporate atmosphere showing recent ownership change, marble floors and glass walls, wide establishing shot, 24mm wide-angle lens, cool blue-gray tones hard shadows tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 15
-**Beat:** reflection | **Mood:** hopeful | **Duration:** 12s
-**Characters:** Garrett
+**Beat:** establishing | **Mood:** dismissive | **Duration:** 13s
+**Characters:** Carter
 **Prompt:**
-Garrett facing the pond at first light, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium close-up, 85mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Carter Blake standing behind bank desk with confident arrogant posture, wearing tailored navy suit and tie with perfect teeth showing in slight smile, sharp haircut and manicured hands, medium shot from front, 50mm lens, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 16
-**Beat:** reflection | **Mood:** hopeful | **Duration:** 13s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** tense | **Duration:** 11s
+**Characters:** Harold, Carter
 **Prompt:**
-Garrett looking up softly, full head within frame, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, close-up, 85mm portrait lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Harold standing at teller counter placing forty dollars down, Carter behind desk looking at computer screen with smirk, modern bank lobby with marble floors, medium two-shot over-shoulder from Carter's perspective, 50mm lens, cool blue-gray tones hard shadows tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 17
-**Beat:** establishing | **Mood:** sad | **Duration:** 11s
-**Characters:** -
+**Beat:** dialogue | **Mood:** dismissive | **Duration:** 11s
+**Characters:** Carter
 **Prompt:**
-A quiet farmhouse standing among frost-covered fields under a pale winter dawn, still and lonely, a weathered clapboard farmhouse under bare winter trees, extreme wide shot, 24mm wide-angle lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Carter tapping manicured finger on bank desk while speaking dismissively, wearing tailored navy suit, computer screen showing account information visible, modern bank lobby background, close-up from side angle, 85mm portrait lens full head within frame, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 18
-**Beat:** establishing | **Mood:** sad | **Duration:** 11s
-**Characters:** -
+**Beat:** dialogue | **Mood:** dismissive | **Duration:** 12s
+**Characters:** Carter
 **Prompt:**
-Four dug ponds, one cracked bone-dry, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, wide shot, 35mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Carter leaning back in chair with arrogant smirk, wearing tailored navy suit, modern bank office with glass walls visible, medium shot from low angle, 50mm lens, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 19
-**Beat:** reflection | **Mood:** nostalgic | **Duration:** 12s
-**Characters:** -
+**Beat:** tension | **Mood:** tense | **Duration:** 5s
+**Characters:** Harold, Carter
 **Prompt:**
-Hand tools resting on a workbench beside a land deed showing a faint pencil line, weathered wooden tool shed, hand tools on plank walls, sturdy workbench, extreme close-up, 100mm macro lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Modern bank lobby suddenly quiet with Harold standing still and Carter paused in speech, teller counter and marble floors in background, wide shot from above showing both men, 24mm wide-angle lens, cool blue-gray tones hard shadows tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 20
-**Beat:** reflection | **Mood:** nostalgic | **Duration:** 17s
-**Characters:** Walt
+**Beat:** dialogue | **Mood:** dismissive | **Duration:** 8s
+**Characters:** Carter
 **Prompt:**
-Walt standing calmly in a tired barren field, hands on his hips surveying the ground, a worn-out fallow farm field, medium shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
+Carter relaxing back in bank manager chair with dismissive expression, wearing tailored navy suit and tie, corporate office background, medium shot from side, 50mm lens, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 21
-**Beat:** reflection | **Mood:** nostalgic | **Duration:** 16s
-**Characters:** Walt
+**Beat:** dialogue | **Mood:** determined | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Walt crouching in the vast empty field, crumbling dry soil between his fingers, a worn-out fallow farm field, extreme wide shot, 24mm wide-angle lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
+Close-up of Harold's face showing calm quiet determination, gray thinning hair visible, weathered hands folded in front, modern bank lobby background blurred, close-up from front, 85mm portrait lens full head within frame, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 22
-**Beat:** emotional_peak | **Mood:** nostalgic | **Duration:** 16s
-**Characters:** Walt
+**Beat:** dialogue | **Mood:** dismissive | **Duration:** 10s
+**Characters:** Carter
 **Prompt:**
-Walt with a calm assured expression, eyes steady and patient, full head within frame, a worn-out fallow farm field, close-up, 85mm portrait lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
+Carter standing up and pointing toward vault door with dismissive gesture, wearing tailored navy suit, modern bank lobby with teller counter, medium shot from side angle, 50mm lens, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 23
-**Beat:** reflection | **Mood:** nostalgic | **Duration:** 14s
-**Characters:** Walt
+**Beat:** dialogue | **Mood:** determined | **Duration:** 8s
+**Characters:** Harold
 **Prompt:**
-Walt lingering at the pond edge at dusk, four earthen farm ponds, murky still green water, weedy grass edges, extreme close-up, 100mm macro lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
+Close-up of Harold adjusting suspenders over worn jacket with calm expression, weathered hands visible, modern bank lobby background, close-up from front, 85mm portrait lens full head within frame, even soft lighting neutral tones balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 24
-**Beat:** reflection | **Mood:** sad | **Duration:** 14s
-**Characters:** -
+**Beat:** establishing | **Mood:** tense | **Duration:** 11s
+**Characters:** Harold, Carter
 **Prompt:**
-Still murky pond water at dusk, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium close-up, 85mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Harold and Carter walking through narrow steel vault room entrance, rows of lockers from floor to ceiling visible inside, cold metallic atmosphere with steel walls, wide establishing shot from inside vault looking out, 24mm wide-angle lens, cool blue-gray tones hard shadows tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 25
-**Beat:** establishing | **Mood:** sad | **Duration:** 11s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** determined | **Duration:** 10s
+**Characters:** Harold
 **Prompt:**
-Garrett in worn work clothes among feed sacks, shoulders heavy, rural farm supply co-op, stacked feed sacks, metal shelving, concrete floor, fluorescent overhead lighting, wide loading dock doors, wide shot, 35mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Harold walking purposefully through steel vault room with rows of lockers lining both walls from floor to ceiling, cold metallic atmosphere, medium shot from side tracking Harold's movement, 50mm lens, cool blue-gray tones hard shadows tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 26
-**Beat:** dialogue | **Mood:** dismissive | **Duration:** 10s
-**Characters:** Garrett, Preston Vance
+**Beat:** dialogue | **Mood:** determined | **Duration:** 8s
+**Characters:** Harold
 **Prompt:**
-Preston Vance offering a small cash stack toward Garrett with an easy grin, gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, over-shoulder shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Close-up of Harold's weathered hand inserting brass key into old locker lock, key tarnished with age showing, steel wall background with locker row visible, extreme close-up with focus on hand and key, 100mm macro lens, cool blue-gray tones hard shadows tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 27
-**Beat:** dialogue | **Mood:** dismissive | **Duration:** 11s
-**Characters:** Garrett, Preston Vance
+**Beat:** reflection | **Mood:** calm | **Duration:** 7s
+**Characters:** -
 **Prompt:**
-Garrett beside the truck as Preston Vance holds out a printed contract, friendly and casual, gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Old narrow metal box sitting on steel table in vault room, box surface scratched and pitted with age, showing worn patina, steel walls and lockers in background, medium close-up of metal box, 85mm portrait lens, even soft lighting neutral tones balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 28
-**Beat:** tension | **Mood:** dismissive | **Duration:** 5s
-**Characters:** Preston Vance
+**Beat:** tension | **Mood:** tense | **Duration:** 6s
+**Characters:** Harold, Carter
 **Prompt:**
-Preston Vance laying a fully completed contract flat, faint printed figures visible, hand pressing the metal tailgate, a completed sale contract and pen on a truck tailgate, medium close-up, 85mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Carter reaching hand toward metal box on steel table, Harold standing opposite with arm extended to stop him, vault room with steel walls, medium two-shot from side, 50mm lens, cool blue-gray tones hard shadows tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 29
-**Beat:** emotional_peak | **Mood:** determined | **Duration:** 14s
-**Characters:** Garrett
+**Beat:** tension | **Mood:** tense | **Duration:** 7s
+**Characters:** Harold, Carter
 **Prompt:**
-Garrett holding the land deed turned over, eyes on a faint pencil line, full head within frame, the back of an old land deed with faint pencil handwriting, close-up, 85mm portrait lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Teller standing near vault door with expression changing from smile to concern, Harold and Carter visible in background at table, steel vault room with rows of lockers, medium shot from near door focusing on teller, 50mm lens, cool blue-gray tones hard shadows tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+
 ---
 ## 30
-**Beat:** reflection | **Mood:** hopeful | **Duration:** 18s
-**Characters:** Garrett
+**Beat:** reflection | **Mood:** tense | **Characters:** Harold
 **Prompt:**
-Garrett setting down a pen, returning a stack of pale documents with faint pencil handwriting, gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, low angle shot, 35mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Harold carrying old metal box to steel table in vault room, weathered hands gripping box sides, small steel vault room with rows of lockers visible, medium shot from side, 50mm lens, cool blue-gray tones hard shadows tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 31
-**Beat:** establishing | **Mood:** sad | **Duration:** 13s
-**Characters:** Garrett
+**Beat:** reflection | **Mood:** tense | **Characters:** -
 **Prompt:**
-Garrett surveying the sunken banks, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, extreme wide shot, 24mm wide-angle lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Old metal box open on steel table revealing three items inside: brass seal, folded paper document, yellowed land bond, steel vault background, medium close-up showing contents clearly, 85mm portrait lens, cool blue-gray tones hard shadows tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 32
-**Beat:** reflection | **Mood:** sad | **Duration:** 12s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** dismissive | **Duration:** 7s
+**Characters:** Carter
 **Prompt:**
-Garrett gripping a seized rusted aerator cage, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium shot, 50mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Carter picking up folded paper from metal box on steel table, wearing manicured hands, expression of dismissal as he unfolds document, vault room with steel walls, medium shot from side angle, 50mm lens, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 33
-**Beat:** reflection | **Mood:** sad | **Duration:** 12s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** dismissive | **Duration:** 8s
+**Characters:** Carter
 **Prompt:**
-Garrett peering at the flat unmoving green water surface, pale yellow sulfur film at the shallow edge, four earthen farm ponds, murky still green water, weedy grass edges, extreme close-up, 100mm macro lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Carter holding yellowed 1971 land bond document with dismissive laugh, wearing tailored navy suit, vault room with steel walls and lockers, close-up from front showing his expression, 85mm portrait lens full head within frame, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 34
-**Beat:** tension | **Mood:** sad | **Duration:** 8s
-**Characters:** Garrett
+**Beat:** tension | **Mood:** tense | **Characters:** Harold, Carter
 **Prompt:**
-Garrett staring down with a tired resigned face, flat lifeless green water below, full head within frame, four earthen farm ponds, murky still green water, weedy grass edges, close-up, 85mm portrait lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Teller standing near vault door with eyes wide open in shock, witnessing Carter dismiss old document, Harold visible at table in background, steel vault room, medium shot focusing on teller's reaction, 50mm lens, dramatic side lighting shallow DOF extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 35
-**Beat:** establishing | **Mood:** calm | **Duration:** 10s
-**Characters:** Vernon
+**Beat:** dialogue | **Mood:** dismissive | **Duration:** 8s
+**Characters:** Carter
 **Prompt:**
-Vernon walking steadily toward the pond edge, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Carter gesturing dismissively at old documents on steel table, wearing tailored navy suit with arrogant posture, vault room with steel walls, medium shot from side, 50mm lens, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 36
-**Beat:** dialogue | **Mood:** calm | **Duration:** 10s
-**Characters:** Garrett, Vernon
+**Beat:** tension | **Mood:** tense | **Characters:** Harold, Carter
 **Prompt:**
-Garrett and Vernon standing face to face, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, over-shoulder shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Teller who had looked away now staring intently at documents on steel table, expression changed to concern, Harold and Carter visible, steel vault room, medium shot from near door, 50mm lens, dramatic side lighting shallow DOF extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 37
-**Beat:** dialogue | **Mood:** determined | **Duration:** 11s
-**Characters:** Garrett, Vernon
+**Beat:** dialogue | **Mood:** dismissive | **Duration:** 7s
+**Characters:** Carter
 **Prompt:**
-Vernon crouching to crumble dark bottom mud between his fingers as Garrett watches closely, four earthen farm ponds, cracked slumping banks, weedy grass edges, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Carter speaking dismissively with hand resting on steel table, wearing tailored navy suit, vault room with rows of lockers, medium shot from front angle, 50mm lens, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 38
-**Beat:** dialogue | **Mood:** dismissive | **Duration:** 12s
-**Characters:** Garrett, Vernon
+**Beat:** dialogue | **Mood:** determined | **Characters:** Harold
 **Prompt:**
-Vernon speaking plainly while Garrett stands listening, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Close-up of Harold carefully folding yellowed 1971 land bond document with weathered hands, expression calm and determined, vault room background, close-up from above showing folding action, 85mm portrait lens, even soft lighting neutral tones balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 39
-**Beat:** reflection | **Mood:** determined | **Duration:** 13s
-**Characters:** Garrett, Vernon
+**Beat:** dialogue | **Mood:** determined | **Characters:** Harold
 **Prompt:**
-Garrett and Vernon gazing outward, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, extreme wide shot, 24mm wide-angle lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Harold slipping folded document into shirt pocket with calm steady posture, weathered hands visible, vault room with steel walls, medium close-up from side, 85mm portrait lens full head within frame, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 40
-**Beat:** reflection | **Mood:** determined | **Duration:** 10s
-**Characters:** Garrett, Vernon
+**Beat:** dialogue | **Mood:** dismissive | **Characters:** Carter
 **Prompt:**
-Vernon and Garrett studying the dry basin, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Carter standing at steel table with confused expression, wearing tailored navy suit, Harold visible nearby, vault room with rows of lockers, medium shot from side, 50mm lens, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 41
-**Beat:** establishing | **Mood:** calm | **Duration:** 10s
-**Characters:** Marlene
+**Beat:** dialogue | **Mood:** determined | **Characters:** Harold
 **Prompt:**
-Marlene Kirby standing among long concrete rearing tanks, overseeing the floor, fish hatchery building, long concrete rearing tanks, aeration pipes, wet tiled floor, corrugated metal walls, hanging work lights, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Close-up of Harold's face showing calm determination with quiet steady posture, weathered hands visible at sides, vault room background blurred, close-up from front, 85mm portrait lens full head within frame, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 42
-**Beat:** dialogue | **Mood:** calm | **Duration:** 9s
-**Characters:** Marlene
+**Beat:** dialogue | **Mood:** dismissive | **Characters:** Carter
 **Prompt:**
-Marlene gesturing at a tank of uneven catfish and hybrid bluegill, fish hatchery building, long concrete rearing tanks, aeration pipes, wet tiled floor, corrugated metal walls, hanging work lights, low angle shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Carter with confused expression looking at Harold across steel table, wearing tailored navy suit, vault room with steel walls, medium shot from side angle, 50mm lens, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 43
-**Beat:** reflection | **Mood:** dismissive | **Duration:** 13s
-**Characters:** Marlene
+**Beat:** dialogue | **Mood:** determined | **Characters:** Harold
 **Prompt:**
-Marlene standing alone among the long tanks of healthy fish, fish hatchery building, long concrete rearing tanks, aeration pipes, wet tiled floor, corrugated metal walls, hanging work lights, extreme wide shot, 24mm wide-angle lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Harold speaking calmly with firm posture across steel table, weathered hands resting on table, vault room with rows of lockers, medium shot from Carter's perspective, 50mm lens, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 44
-**Beat:** dialogue | **Mood:** determined | **Duration:** 12s
-**Characters:** Garrett, Marlene
+**Beat:** dialogue | **Mood:** determined | **Characters:** Harold
 **Prompt:**
-Garrett facing Marlene with an open earnest gesture beside a full tank, fish hatchery building, long concrete rearing tanks, aeration pipes, wet tiled floor, corrugated metal walls, hanging work lights, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Harold continuing to speak with calm determination, Carter listening with shifting expression, steel table between them, vault room with steel walls, medium two-shot from side, 50mm lens, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 45
-**Beat:** dialogue | **Mood:** calm | **Duration:** 10s
-**Characters:** Garrett, Marlene
+**Beat:** tension | **Mood:** tense | **Characters:** Carter
 **Prompt:**
-Marlene studying Garrett with a long surprised look across the tank, fish hatchery building, long concrete rearing tanks, aeration pipes, wet tiled floor, corrugated metal walls, hanging work lights, over-shoulder shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Close-up of Carter's face showing sudden concern and contemplation, wearing tailored navy suit, vault room background blurred, close-up from front, 85mm portrait lens full head within frame, dramatic side lighting shallow DOF extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 46
-**Beat:** reflection | **Mood:** dismissive | **Duration:** 11s
-**Characters:** Marlene
+**Beat:** dialogue | **Mood:** dismissive | **Characters:** Carter
 **Prompt:**
-Marlene resting a hand on a clipboard covered in faint pencil handwriting, thoughtful stillness, fish hatchery building, long concrete rearing tanks, aeration pipes, extreme close-up, 100mm macro lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Carter speaking with uncertain expression, adjusting collar of tailored navy suit, vault room with steel walls, medium shot from side, 50mm lens, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 47
-**Beat:** dialogue | **Mood:** hopeful | **Duration:** 8s
-**Characters:** Garrett, Marlene
+**Beat:** dialogue | **Mood:** determined | **Characters:** Harold
 **Prompt:**
-Marlene writing with a pencil on the back of a feed receipt as Garrett stands beside her, faint pencil handwriting, fish hatchery building, long concrete rearing tanks, aeration pipes, medium close-up, 85mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Harold with calm unwavering expression, buttoning worn jacket with steady posture, vault room with rows of lockers, medium shot from front, 50mm lens, even soft lighting neutral tones balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 48
-**Beat:** reflection | **Mood:** calm | **Duration:** 11s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** determined | **Characters:** Harold
 **Prompt:**
-Garrett watching silver shimmer under the water, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Harold standing up from steel table with calm determination, buttoning worn jacket, vault room with rows of lockers visible, medium shot from low angle, 50mm lens, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 49
-**Beat:** emotional_peak | **Mood:** shock | **Duration:** 10s
-**Characters:** Garrett
+**Beat:** emotional_peak | **Mood:** determined | **Characters:** Harold
 **Prompt:**
-Garrett looking at pale fish floating belly-up across the green water, nearly eighteen hundred dead, four earthen farm ponds, murky still green water, weedy grass edges, close-up, 85mm portrait lens, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Close-up of Harold speaking with firm determined posture, expression calm but resolute, vault room background, close-up from front, 85mm portrait lens full head within frame, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 50
-**Beat:** tension | **Mood:** shock | **Duration:** 6s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** dismissive | **Characters:** Carter
 **Prompt:**
-Garrett crouching over a pale ring of dead fish along the shallow edge, early sun warming the water, four earthen farm ponds, murky still green water, weedy grass edges, medium close-up, 85mm lens, dramatic side lighting, shallow DOF, extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Carter responding sharply with dismissive gesture, wearing tailored navy suit, vault room with steel walls, medium shot from side angle, 50mm lens, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 51
-**Beat:** reflection | **Mood:** sad | **Duration:** 18s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** determined | **Characters:** Harold
 **Prompt:**
-Garrett standing at the grey still pond, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, wide shot, 35mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Close-up of Harold responding with calm unwavering expression, gray thinning hair visible, vault room background, close-up from front, 85mm portrait lens full head within frame, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 52
-**Beat:** reflection | **Mood:** sad | **Duration:** 12s
-**Characters:** Garrett
+**Beat:** resolution | **Mood:** determined | **Characters:** Harold
 **Prompt:**
-Garrett standing before predawn ponds, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, extreme wide shot, 24mm wide-angle lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Harold walking away from steel table in vault room toward door entrance, back view showing worn jacket, vault room with rows of lockers, medium shot from behind, 50mm lens, even soft lighting neutral tones balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
 ---
 ## 53
-**Beat:** tension | **Mood:** sad | **Duration:** 7s
-**Characters:** Garrett
+**Beat:** reflection | **Mood:** nostalgic | **Characters:** -
 **Prompt:**
-Garrett cupping one small pale fish at the water edge, its body limp and dulled, four earthen farm ponds, murky still green water, weedy grass edges, extreme close-up, 100mm macro lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Two tellers standing at vault door entrance looking toward Harold walking away, expressions showing memory of recent events, modern bank lobby beyond door, medium shot from vault interior, 50mm lens, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons---
 ---
 ## 54
-**Beat:** dialogue | **Mood:** calm | **Duration:** 10s
-**Characters:** Garrett, Vernon
+**Beat:** establishing | **Mood:** nostalgic | **Duration:** 13s
+**Characters:** Young George
 **Prompt:**
-Vernon and Garrett facing the dead fish, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Young George standing in scene, rural Tennessee farmland, wide establishing shot, 24mm wide-angle lens, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons, soft warm vignette, slightly faded colors, dreamy atmosphere
 ---
 ## 55
-**Beat:** dialogue | **Mood:** determined | **Duration:** 10s
-**Characters:** Garrett, Vernon
+**Beat:** reflection | **Mood:** nostalgic | **Duration:** 7s
+**Characters:** Young George
 **Prompt:**
-Vernon showing Garrett a paddle-wheel aerator, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, low angle shot, 35mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Young George standing in scene, empty space, medium shot, 50mm lens, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons, soft warm vignette, slightly faded colors, dreamy atmosphere
 ---
 ## 56
-**Beat:** dialogue | **Mood:** determined | **Duration:** 11s
-**Characters:** Garrett, Vernon
+**Beat:** reflection | **Mood:** nostalgic | **Duration:** 5s
+**Characters:** Young George
 **Prompt:**
-Vernon pointing to a small mechanical timer box wired to the aerator as Garrett leans in close, four earthen farm ponds, rusted paddle-wheel aerator, weedy grass edges, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Young George reading paper document, empty space, close-up, 85mm portrait lens full head within frame, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons, soft warm vignette, slightly faded colors, dreamy atmosphere
 ---
 ## 57
-**Beat:** emotional_peak | **Mood:** determined | **Duration:** 11s
-**Characters:** Garrett
+**Beat:** reflection | **Mood:** nostalgic | **Duration:** 7s
+**Characters:** Young George
 **Prompt:**
-Garrett bolting the paddle-wheel aerator at the near pond, wiring the timer himself, hands steady and sure, four earthen farm ponds, rusted paddle-wheel aerator, weedy grass edges, close-up, 85mm portrait lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Young George reading paper document, empty space, medium shot, 50mm lens, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons, soft warm vignette, slightly faded colors, dreamy atmosphere
 ---
 ## 58
-**Beat:** reflection | **Mood:** sad | **Duration:** 10s
-**Characters:** Garrett
+**Beat:** establishing | **Mood:** nostalgic | **Duration:** 6s
+**Characters:** Young George, Harold
 **Prompt:**
-Garrett lying awake on a bed in the dark, eyes open, one hand resting on his chest, blanket rumpled, a dark farmhouse bedroom at night, medium shot, 50mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Y and o in scene, empty space, medium shot, 50mm lens, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons, soft warm vignette, slightly faded colors, dreamy atmosphere
 ---
 ## 59
-**Beat:** emotional_peak | **Mood:** hopeful | **Duration:** 10s
-**Characters:** Garrett
+**Beat:** reflection | **Mood:** nostalgic | **Duration:** 7s
+**Characters:** Young George
 **Prompt:**
-Garrett crouching low before dawn as the spinning paddle wheel flings bright silver water arcs upward, four earthen farm ponds, rusted paddle-wheel aerator, murky green water, extreme close-up, 100mm macro lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Young George speaking with serious expression, empty space, close-up, 85mm portrait lens full head within frame, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons, soft warm vignette, slightly faded colors, dreamy atmosphere
 ---
 ## 60
-**Beat:** emotional_peak | **Mood:** hopeful | **Duration:** 11s
-**Characters:** Garrett
+**Beat:** reflection | **Mood:** sad | **Duration:** 4s
+**Characters:** Young George
 **Prompt:**
-Thousands of tiny fish backs dimpling the sunrise pond surface as Garrett watches them feed, four earthen farm ponds, murky still green water, weedy grass edges, close-up, 85mm portrait lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Young George standing in scene, empty space, wide shot, 35mm lens, muted desaturated palette overcast lighting empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons, soft warm vignette, slightly faded colors, dreamy atmosphere
 ---
 ## 61
-**Beat:** reflection | **Mood:** hopeful | **Duration:** 11s
-**Characters:** Garrett
+**Beat:** reflection | **Mood:** nostalgic | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Garrett standing calm on the bank lifting a phone, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, over-shoulder shot, 50mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold standing in scene, modern bank lobby, medium shot, 50mm lens, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 62
-**Beat:** establishing | **Mood:** tense | **Duration:** 10s
-**Characters:** Garrett
+**Beat:** reflection | **Mood:** nostalgic | **Duration:** 7s
+**Characters:** Harold
 **Prompt:**
-Garrett bracing beneath a black storm sky lashing heavy rain, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, wide shot, 35mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold standing in scene, empty space, close-up, 85mm portrait lens full head within frame, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 63
-**Beat:** tension | **Mood:** tense | **Duration:** 8s
-**Characters:** Garrett
+**Beat:** reflection | **Mood:** nostalgic | **Duration:** 5s
+**Characters:** Harold
 **Prompt:**
-Garrett turning sharply toward the south bank splitting open as rainwater tears through, four earthen farm ponds, cracked slumping banks, murky still green water, medium close-up, 85mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold looking outward, empty space, close-up, 85mm portrait lens full head within frame, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 64
-**Beat:** tension | **Mood:** tense | **Duration:** 10s
-**Characters:** Garrett
+**Beat:** establishing | **Mood:** nostalgic | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Garrett kneeling at two in the morning in a soaked shirt, headlamp beam on a soft muddy gap, four earthen farm ponds, cracked slumping banks, murky still green water, extreme close-up, 100mm macro lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold standing in scene, rural Tennessee farmland, wide shot, 35mm lens, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 65
-**Beat:** tension | **Mood:** tense | **Duration:** 8s
-**Characters:** Garrett
+**Beat:** reflection | **Mood:** nostalgic | **Duration:** 7s
+**Characters:** Harold
 **Prompt:**
-Garrett watching brown water rope out through the breach carrying fingerlings, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold standing in scene, rural Tennessee farmland, medium shot, 50mm lens, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 66
-**Beat:** reflection | **Mood:** determined | **Duration:** 13s
-**Characters:** Garrett
+**Beat:** reflection | **Mood:** nostalgic | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Garrett hauling two heavy sandbags down the rain-soaked bank alone, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold standing in scene, empty space, close-up, 85mm portrait lens full head within frame, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 67
-**Beat:** emotional_peak | **Mood:** determined | **Duration:** 12s
-**Characters:** Garrett
+**Beat:** establishing | **Mood:** tense | **Duration:** 6s
+**Characters:** -
 **Prompt:**
-Garrett pressing wet gray clay into the bank gap with bare numb hands before dawn, four earthen farm ponds, cracked slumping banks, murky still green water, close-up, 85mm portrait lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Empty bank lobby with quiet atmosphere, modern bank lobby, wide shot, 35mm lens, cool blue-gray tones hard shadows tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 68
-**Beat:** reflection | **Mood:** nostalgic | **Duration:** 14s
-**Characters:** Garrett, Walt
+**Beat:** establishing | **Mood:** dismissive | **Duration:** 6s
+**Characters:** Carter
 **Prompt:**
-Garrett sitting on the wet bank, a faint translucent Walt standing beyond, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, extreme wide shot, 24mm wide-angle lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
-
+Carter standing in scene, empty space, medium shot, 50mm lens, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 69
-**Beat:** establishing | **Mood:** calm | **Duration:** 13s
-**Characters:** Garrett
+**Beat:** establishing | **Mood:** tense | **Duration:** 6s
+**Characters:** -
 **Prompt:**
-Garrett watching a tall gray heron wade at the pond edge, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Scene with quiet atmosphere, empty space, medium shot, 50mm lens, cool blue-gray tones hard shadows tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 70
-**Beat:** tension | **Mood:** tense | **Duration:** 8s
-**Characters:** Garrett
+**Beat:** reflection | **Mood:** determined | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-A tall gray heron plants one foot in the shallows as Garrett watches it ignore the fence, four earthen farm ponds, murky still green water, weedy grass edges, extreme close-up, 100mm macro lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold standing in scene, empty space, close-up, 85mm portrait lens full head within frame, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 71
-**Beat:** reflection | **Mood:** determined | **Duration:** 17s
-**Characters:** Garrett
+**Beat:** reflection | **Mood:** determined | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Garrett stretching a cheap flat net taut across the water on low stakes as a heron veers away, four earthen farm ponds, murky still green water, weedy grass edges, close-up, 85mm portrait lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold walking steadily, empty space, medium shot, 50mm lens, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 72
-**Beat:** reflection | **Mood:** hopeful | **Duration:** 17s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** determined | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Garrett walking alone down toward the ponds at first light, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, extreme wide shot, 24mm wide-angle lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold driving pickup truck, modern bank lobby, wide shot, 35mm lens, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 73
-**Beat:** reflection | **Mood:** hopeful | **Duration:** 15s
-**Characters:** Garrett
+**Beat:** reflection | **Mood:** nostalgic | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Garrett standing alone on the quiet dawn bank facing the water, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, wide shot, 35mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold looking outward, empty space, medium shot, 50mm lens, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 74
-**Beat:** tension | **Mood:** tense | **Duration:** 6s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** calm | **Duration:** 7s
+**Characters:** Harold
 **Prompt:**
-Garrett standing among stacked feed sacks studying a price board marked with rising printed figures, rural farm supply co-op, stacked feed sacks, metal shelving, concrete floor, fluorescent overhead lighting, wide loading dock doors, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold speaking with serious expression, empty space, medium shot, 50mm lens, even soft lighting neutral tones balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 75
-**Beat:** dialogue | **Mood:** tense | **Duration:** 10s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** calm | **Duration:** 6s
+**Characters:** David
 **Prompt:**
-Garrett standing with a heavy feed sack on one shoulder, jaw tight, rural farm supply co-op, stacked feed sacks, metal shelving, concrete floor, fluorescent overhead lighting, wide loading dock doors, low angle shot, 35mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+David walking steadily, empty space, medium shot, 50mm lens, even soft lighting neutral tones balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 76
-**Beat:** reflection | **Mood:** sad | **Duration:** 13s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** determined | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Garrett with slumped shoulders and downcast eyes lingering beside the stacked feed sacks, rural farm supply co-op, stacked feed sacks, metal shelving, concrete floor, fluorescent overhead lighting, wide loading dock doors, medium close-up, 85mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold speaking with serious expression, empty space, medium shot, 50mm lens, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 77
-**Beat:** dialogue | **Mood:** determined | **Duration:** 8s
-**Characters:** Garrett, Vernon
+**Beat:** dialogue | **Mood:** hopeful | **Duration:** 6s
+**Characters:** David
 **Prompt:**
-Garrett leaning across the counter as Vernon sets a coffee mug down, shaking his head, small-town diner interior, long laminate counter with stools, coffee mugs, vinyl booths, window blinds, warm overhead lights, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+David standing in scene, empty space, close-up, 85mm portrait lens full head within frame, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 78
-**Beat:** dialogue | **Mood:** determined | **Duration:** 12s
-**Characters:** Garrett, Vernon
+**Beat:** emotional_peak | **Mood:** shock | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Vernon speaking plainly across the booth while Garrett listens, both leaning over coffee mugs, small-town diner interior, long laminate counter with stools, coffee mugs, vinyl booths, window blinds, warm overhead lights, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold speaking with serious expression, empty space, close-up, 85mm portrait lens full head within frame, dramatic side lighting shallow DOF extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 79
-**Beat:** dialogue | **Mood:** determined | **Duration:** 8s
-**Characters:** Garrett, Vernon
+**Beat:** emotional_peak | **Mood:** shock | **Duration:** 6s
+**Characters:** David
 **Prompt:**
-Framed over the shoulder of Garrett, Vernon sits back letting a firm point settle, small-town diner interior, long laminate counter with stools, coffee mugs, vinyl booths, window blinds, warm overhead lights, over-shoulder shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+David standing in scene, empty space, close-up, 85mm portrait lens full head within frame, dramatic side lighting shallow DOF extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 80
-**Beat:** reflection | **Mood:** determined | **Duration:** 18s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** shock | **Duration:** 6s
+**Characters:** David
 **Prompt:**
-Garrett clasping a firm handshake to seal a full-year wholesale agreement, standing from a position of quiet strength, a regional feed supply warehouse, extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+David walking steadily, empty space, medium shot, 50mm lens, dramatic side lighting shallow DOF extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 81
-**Beat:** establishing | **Mood:** nostalgic | **Duration:** 13s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** hopeful | **Duration:** 6s
+**Characters:** David
 **Prompt:**
-Garrett bending down at the dawn bank to read the water, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, extreme wide shot, 24mm wide-angle lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+David smiling softly, empty space, close-up, 85mm portrait lens full head within frame, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 82
-**Beat:** reflection | **Mood:** nostalgic | **Duration:** 10s
-**Characters:** Garrett, Walt
+**Beat:** dialogue | **Mood:** hopeful | **Duration:** 6s
+**Characters:** David
 **Prompt:**
-A boyhood Garrett watching Walt stand square in the tired field, hands reading the earth, a worn-out fallow farm field, low angle shot, 35mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
-
+David standing in scene, empty space, medium shot, 50mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 83
-**Beat:** reflection | **Mood:** determined | **Duration:** 14s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** determined | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Garrett reading the water as fish gulp at the gray dawn surface, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold standing in scene, empty space, close-up, 85mm portrait lens full head within frame, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 84
-**Beat:** reflection | **Mood:** determined | **Duration:** 17s
-**Characters:** Garrett
+**Beat:** establishing | **Mood:** determined | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Garrett pressing a thermometer probe down into the pond water, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, wide shot, 35mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold standing in scene, modern bank lobby, wide shot, 35mm lens, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 85
-**Beat:** tension | **Mood:** tense | **Duration:** 10s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** dismissive | **Duration:** 6s
+**Characters:** Carter, Harold
 **Prompt:**
-Garrett frowning hard in thought, brow furrowed, jaw tight as doubt crosses his weathered face, four earthen farm ponds, murky still green water, weedy grass edges, close-up, 85mm portrait lens, full head within frame, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+C and a in scene, empty space, medium shot, 50mm lens, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 86
-**Beat:** establishing | **Mood:** dismissive | **Duration:** 16s
-**Characters:** -
+**Beat:** dialogue | **Mood:** determined | **Duration:** 5s
+**Characters:** Harold
 **Prompt:**
-A vast engineered aquaculture reservoir stretching flat and empty, vast industrial holding pond, wide graded earthen banks, sterile flat water surface, service road along the rim, bare graded earth, gray overcast sky, extreme wide shot, 24mm wide-angle lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold sitting at desk, empty space, medium shot, 50mm lens, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 87
-**Beat:** reflection | **Mood:** tense | **Duration:** 10s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** determined | **Duration:** 5s
+**Characters:** Harold
 **Prompt:**
-A tight macro view of Garrett, brow creased and eyes narrowed on the murky green water, four earthen farm ponds, murky still green water, weedy grass edges, extreme close-up, 100mm macro lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Harold standing in scene, empty space, close-up, 85mm portrait lens full head within frame, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 88
-**Beat:** tension | **Mood:** tense | **Duration:** 10s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** dismissive | **Duration:** 6s
+**Characters:** Carter
 **Prompt:**
-Garrett gazing over thousands of large catfish crowding the stocked pond, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium close-up, 85mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Carter standing in scene, empty space, medium shot, 50mm lens, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 89
-**Beat:** establishing | **Mood:** dismissive | **Duration:** 17s
-**Characters:** -
+**Beat:** dialogue | **Mood:** determined | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-The Deel property flattened into graded industrial ground, its old farm ponds long erased, vast industrial holding pond, wide graded earthen banks, sterile flat water surface, service road along the rim, bare graded earth, gray overcast sky, wide shot, 35mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold standing in scene, empty space, close-up, 85mm portrait lens full head within frame, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 90
-**Beat:** reflection | **Mood:** tense | **Duration:** 11s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** dismissive | **Duration:** 6s
+**Characters:** Carter
 **Prompt:**
-Garrett standing alone on the endless graded bank of the Meridian holding pond, vast industrial holding pond, wide graded earthen banks, sterile flat water surface, service road along the rim, bare graded earth, gray overcast sky, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Carter reading paper document, empty space, medium shot, 50mm lens, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 91
-**Beat:** emotional_peak | **Mood:** tense | **Duration:** 15s
-**Characters:** Garrett
+**Beat:** reflection | **Mood:** determined | **Duration:** 6s
+**Characters:** -
 **Prompt:**
-Garrett with a clenched jaw and pained downcast eyes, one weathered hand pressed to his chest, four earthen farm ponds, cracked slumping banks, murky still green water, close-up, 85mm portrait lens, full head within frame, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Paper documents on desk, empty space, close-up, 85mm portrait lens full head within frame, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 92
-**Beat:** dialogue | **Mood:** hopeful | **Duration:** 9s
-**Characters:** Garrett
+**Beat:** reflection | **Mood:** determined | **Duration:** 7s
+**Characters:** -
 **Prompt:**
-Garrett handing a fresh catfish to a neighbor beside the open pickup tailgate, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium close-up, 85mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Scene with quiet atmosphere, empty space, close-up, 85mm portrait lens full head within frame, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 93
-**Beat:** dialogue | **Mood:** hopeful | **Duration:** 11s
-**Characters:** Garrett
+**Beat:** tension | **Mood:** shock | **Duration:** 3s
+**Characters:** Carter
 **Prompt:**
-Garrett facing a neighbor at the pond edge, the man gesturing toward the catfish, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, over-shoulder shot, 50mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Carter reading paper document, empty space, close-up, 85mm portrait lens full head within frame, dramatic side lighting shallow DOF extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 94
-**Beat:** reflection | **Mood:** hopeful | **Duration:** 14s
-**Characters:** Garrett
+**Beat:** tension | **Mood:** shock | **Duration:** 2s
+**Characters:** Carter
 **Prompt:**
-Garrett opening the ice cooler while a neighbor counts worn dollar bills slowly, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, low angle shot, 35mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Carter standing in scene, empty space, medium shot, 50mm lens, dramatic side lighting shallow DOF extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 95
-**Beat:** reflection | **Mood:** nostalgic | **Duration:** 12s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** dismissive | **Duration:** 4s
+**Characters:** Carter
 **Prompt:**
-Garrett lingering beside the pond, brow furrowed, gazing across the still water, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Carter standing in scene, empty space, close-up, 85mm portrait lens full head within frame, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 96
-**Beat:** reflection | **Mood:** nostalgic | **Duration:** 14s
-**Characters:** Garrett, Walt
+**Beat:** dialogue | **Mood:** determined | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-An older weathered hand of Walt guiding the younger hand of Garrett over dry cracked soil, a worn-out fallow farm field, extreme close-up, 100mm macro lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
-
+Harold standing with steady posture, empty space, medium shot, 50mm lens, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 97
-**Beat:** establishing | **Mood:** calm | **Duration:** 11s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** determined | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Garrett arranging iced catfish across his folding table at a busy Saturday market, outdoor farmers market, folding table with ice trays, canvas canopy, neighboring vendor stalls, small-town street, extreme wide shot, 24mm wide-angle lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold standing in scene, empty space, close-up, 85mm portrait lens full head within frame, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 98
-**Beat:** dialogue | **Mood:** calm | **Duration:** 11s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** dismissive | **Duration:** 6s
+**Characters:** Carter
 **Prompt:**
-Garrett leaning across his market stall to pass an iced fillet to a waiting customer, outdoor farmers market, folding table with ice trays, canvas canopy, neighboring vendor stalls, small-town street, medium close-up, 85mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Carter standing in scene, empty space, medium shot, 50mm lens, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 99
-**Beat:** dialogue | **Mood:** determined | **Duration:** 9s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** determined | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Garrett filleting a catfish into clean pale strips, blade steady in one firm hand, weathered wooden tool shed, hand tools hung on nail-studded plank walls, sturdy workbench, single hanging bulb light, dirt-and-concrete floor, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold walking steadily, empty space, medium shot, 50mm lens, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 100
-**Beat:** establishing | **Mood:** calm | **Duration:** 12s
-**Characters:** Garrett, Hollis
+**Beat:** reflection | **Mood:** nostalgic | **Duration:** 6s
+**Characters:** -
 **Prompt:**
-Hollis stepping down from a parked sedan as Garrett approaches to greet him, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Scene with quiet atmosphere, empty space, medium shot, 50mm lens, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 101
-**Beat:** dialogue | **Mood:** calm | **Duration:** 11s
-**Characters:** Garrett, Hollis
+**Beat:** establishing | **Mood:** tense | **Duration:** 5s
+**Characters:** Carter
 **Prompt:**
-Hollis studying the water while Garrett lifts a dip net of live catfish, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, over-shoulder shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Carter walking steadily, empty space, medium shot, 50mm lens, cool blue-gray tones hard shadows tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 102
-**Beat:** dialogue | **Mood:** determined | **Duration:** 7s
-**Characters:** Garrett, Hollis
+**Beat:** establishing | **Mood:** tense | **Duration:** 5s
+**Characters:** -
 **Prompt:**
-Hollis inspecting a fresh catfish, its firm silvery flank, as Garrett watches, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Empty bank lobby with quiet atmosphere, modern bank lobby, medium shot, 50mm lens, cool blue-gray tones hard shadows tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 103
-**Beat:** dialogue | **Mood:** calm | **Duration:** 11s
-**Characters:** Garrett, Hollis
+**Beat:** tension | **Mood:** shock | **Duration:** 5s
+**Characters:** Carter
 **Prompt:**
-Hollis holding up the catfish, nodding approval, as Garrett stands beside him, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, low angle shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Carter standing in scene, empty space, medium shot, 50mm lens, dramatic side lighting shallow DOF extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 104
-**Beat:** reflection | **Mood:** determined | **Duration:** 11s
-**Characters:** Garrett, Hollis
+**Beat:** establishing | **Mood:** tense | **Duration:** 6s
+**Characters:** -
 **Prompt:**
-Hollis gesturing firmly toward the ponds as Garrett stands beside him, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, extreme wide shot, 24mm wide-angle lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Empty courtroom with quiet atmosphere, wood-paneled courtroom, wide establishing shot, 24mm wide-angle lens, cool blue-gray tones hard shadows tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 105
-**Beat:** dialogue | **Mood:** determined | **Duration:** 11s
-**Characters:** Garrett, Hollis
+**Beat:** establishing | **Mood:** tense | **Duration:** 6s
+**Characters:** -
 **Prompt:**
-Hollis holding a steady firm gaze on Garrett, one finger raised between them, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Empty courtroom with quiet atmosphere, wood-paneled courtroom, wide shot, 35mm lens, cool blue-gray tones hard shadows tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 106
-**Beat:** dialogue | **Mood:** determined | **Duration:** 10s
-**Characters:** Garrett, Hollis
+**Beat:** establishing | **Mood:** dismissive | **Duration:** 6s
+**Characters:** Carter
 **Prompt:**
-Hollis and Garrett clasping hands in a firm handshake at the pond edge, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Carter standing in scene, wood-paneled courtroom, medium shot, 50mm lens, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 107
-**Beat:** tension | **Mood:** tense | **Duration:** 6s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** dismissive | **Duration:** 6s
+**Characters:** Carter
 **Prompt:**
-Garrett frowning at the pond with a puzzled troubled expression, eyes narrowed and lips pressed thin, four earthen farm ponds, cracked slumping banks, murky still green water, close-up, 85mm portrait lens, full head within frame, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Carter looking outward, wood-paneled courtroom, medium shot, 50mm lens, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 108
-**Beat:** reflection | **Mood:** dismissive | **Duration:** 11s
-**Characters:** Garrett
+**Beat:** establishing | **Mood:** calm | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Garrett holding two catfish of mismatched sizes side by side above the tub, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold walking steadily, empty space, medium shot, 50mm lens, even soft lighting neutral tones balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 109
-**Beat:** reflection | **Mood:** tense | **Duration:** 12s
-**Characters:** Garrett
+**Beat:** establishing | **Mood:** calm | **Duration:** 6s
+**Characters:** Harold, Frank
 **Prompt:**
-Garrett hauling a dripping net of catfish in widely mismatched sizes ashore, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, wide shot, 35mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+H and a in scene, empty space, medium shot, 50mm lens, even soft lighting neutral tones balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 110
-**Beat:** reflection | **Mood:** determined | **Duration:** 11s
-**Characters:** Garrett
+**Beat:** establishing | **Mood:** calm | **Duration:** 6s
+**Characters:** Frank
 **Prompt:**
-Garrett gripping two catfish and holding them close together to compare their lengths against a notched sizing bar, four earthen farm ponds, cracked slumping banks, extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Frank standing in scene, empty space, medium shot, 50mm lens, even soft lighting neutral tones balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 111
-**Beat:** establishing | **Mood:** determined | **Duration:** 10s
-**Characters:** Garrett
+**Beat:** establishing | **Mood:** tense | **Duration:** 6s
+**Characters:** Judge Chan
 **Prompt:**
-Garrett building a wooden grading box with sizing bars, sorting catfish into separate chambers, weathered wooden tool shed, hand tools hung on nail-studded plank walls, sturdy workbench, single hanging bulb light, dirt-and-concrete floor, extreme wide shot, 24mm wide-angle lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Judge Chan standing in scene, wood-paneled courtroom, medium shot, 50mm lens, cool blue-gray tones hard shadows tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 112
-**Beat:** reflection | **Mood:** determined | **Duration:** 15s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** dismissive | **Duration:** 6s
+**Characters:** -
 **Prompt:**
-Garrett bent over the workbench sorting cleaned catfish into graded piles by size, weathered wooden tool shed, hand tools hung on nail-studded plank walls, sturdy workbench, single hanging bulb light, dirt-and-concrete floor, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Empty bank lobby with quiet atmosphere, wood-paneled courtroom, medium shot, 50mm lens, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 113
-**Beat:** tension | **Mood:** tense | **Duration:** 9s
-**Characters:** Garrett, Hollis
+**Beat:** dialogue | **Mood:** dismissive | **Duration:** 6s
+**Characters:** -
 **Prompt:**
-Garrett at the workbench pressing a phone to one ear over an uneven box of mismatched catfish, Hollis flagging the flaw, weathered wooden tool shed, hand tools hung on nail-studded plank walls, sturdy workbench, single hanging bulb light, dirt-and-concrete floor, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Scene with quiet atmosphere, wood-paneled courtroom, medium shot, 50mm lens, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 114
-**Beat:** tension | **Mood:** tense | **Duration:** 8s
-**Characters:** Garrett, Hollis
+**Beat:** dialogue | **Mood:** dismissive | **Duration:** 6s
+**Characters:** -
 **Prompt:**
-Hollis frowning sharply over an opened box of mismatched catfish on the steel counter, Garrett tense beside him, seafood restaurant kitchen, stainless steel prep counters, close-up, 85mm portrait lens, full head within frame, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Scene with quiet atmosphere, wood-paneled courtroom, medium shot, 50mm lens, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 115
-**Beat:** dialogue | **Mood:** determined | **Duration:** 12s
-**Characters:** Garrett, Hollis
+**Beat:** tension | **Mood:** tense | **Duration:** 3s
+**Characters:** -
 **Prompt:**
-Garrett standing squarely before Hollis across a stainless prep counter, speaking plainly with an open direct posture, seafood restaurant kitchen, stainless steel prep counters, hanging pans, white tiled walls, industrial range, crates of ice, over-shoulder shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Scene with quiet atmosphere, wood-paneled courtroom, medium shot, 50mm lens, cool blue-gray tones hard shadows tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 116
-**Beat:** reflection | **Mood:** determined | **Duration:** 11s
-**Characters:** Garrett, Hollis
+**Beat:** dialogue | **Mood:** calm | **Duration:** 4s
+**Characters:** Judge Chan
 **Prompt:**
-Hollis fixing Garrett with a long measuring stare across the steel counter, Garrett holding the look steadily, seafood restaurant kitchen, stainless steel prep counters, hanging pans, white tiled walls, industrial range, crates of ice, low angle shot, 35mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Judge Chan looking outward, wood-paneled courtroom, medium shot, 50mm lens, even soft lighting neutral tones balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 117
-**Beat:** reflection | **Mood:** nostalgic | **Duration:** 15s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** determined | **Duration:** 6s
+**Characters:** Frank
 **Prompt:**
-Garrett sorting fresh fish by hand, expression softening, weathered wooden tool shed, hand tools hung on nail-studded plank walls, sturdy workbench, single hanging bulb light, dirt-and-concrete floor, medium close-up, 85mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Frank standing with steady posture, empty space, medium shot, 50mm lens, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 118
-**Beat:** tension | **Mood:** tense | **Duration:** 6s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** determined | **Duration:** 6s
+**Characters:** Frank
 **Prompt:**
-Garrett gripping a yellowed paper, eyes fixed on a small printed figure marking the purchase amount, an old sale contract sheet with a printed number, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Frank speaking with serious expression, empty space, close-up, 85mm portrait lens full head within frame, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 119
-**Beat:** reflection | **Mood:** dismissive | **Duration:** 17s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** calm | **Duration:** 3s
+**Characters:** Frank
 **Prompt:**
-Garrett crouching low, weathered fingers skimming the still cold surface, vast industrial holding pond, sterile flat water surface, gray overcast sky, extreme close-up, 100mm macro lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Frank sitting at desk, empty space, medium shot, 50mm lens, even soft lighting neutral tones balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 120
-**Beat:** reflection | **Mood:** dismissive | **Duration:** 11s
-**Characters:** Garrett
+**Beat:** reflection | **Mood:** calm | **Duration:** 6s
+**Characters:** Judge Chan
 **Prompt:**
-Garrett dwarfed along the pond rim, vast industrial holding pond, wide graded earthen banks, sterile flat water surface, service road along the rim, bare graded earth, gray overcast sky, wide shot, 35mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Judge Chan reading paper document, wood-paneled courtroom, close-up, 85mm portrait lens full head within frame, even soft lighting neutral tones balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 121
-**Beat:** emotional_peak | **Mood:** tense | **Duration:** 11s
-**Characters:** Garrett
+**Beat:** reflection | **Mood:** calm | **Duration:** 6s
+**Characters:** Judge Chan
 **Prompt:**
-Garrett lowering the net, eyes hardening, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, close-up, 85mm portrait lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Judge Chan standing in scene, wood-paneled courtroom, medium shot, 50mm lens, even soft lighting neutral tones balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 122
-**Beat:** reflection | **Mood:** dismissive | **Duration:** 18s
-**Characters:** Garrett
+**Beat:** tension | **Mood:** tense | **Duration:** 6s
+**Characters:** -
 **Prompt:**
-Garrett standing alone at dawn, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, extreme wide shot, 24mm wide-angle lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Empty courtroom with quiet atmosphere, wood-paneled courtroom, wide shot, 35mm lens, cool blue-gray tones hard shadows tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 123
-**Beat:** reflection | **Mood:** nostalgic | **Duration:** 12s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** tense | **Duration:** 6s
+**Characters:** Judge Chan
 **Prompt:**
-Garrett turning the deed over in weathered hands, studying the faded graphite marks along its back, the back of an old land deed with faint pencil handwriting, wide shot, 35mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Judge Chan standing in scene, wood-paneled courtroom, medium shot, 50mm lens, cool blue-gray tones hard shadows tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 124
-**Beat:** emotional_peak | **Mood:** determined | **Duration:** 13s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** dismissive | **Duration:** 3s
+**Characters:** -
 **Prompt:**
-Garrett facing forward, jaw clenched and eyes burning with restrained anger, exhaustion replaced by fury, four earthen farm ponds, murky still green water, low rural horizon, extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Scene with quiet atmosphere, wood-paneled courtroom, close-up, 85mm portrait lens full head within frame, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 125
-**Beat:** tension | **Mood:** tense | **Duration:** 9s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** tense | **Duration:** 3s
+**Characters:** Judge Chan
 **Prompt:**
-Garrett clutching a single printed sheet, alarm tightening his features as columns of production figures cover it, a printed distributor order sheet, close-up, 85mm portrait lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Judge Chan standing in scene, wood-paneled courtroom, medium shot, 50mm lens, cool blue-gray tones hard shadows tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 126
-**Beat:** reflection | **Mood:** determined | **Duration:** 12s
-**Characters:** Garrett
+**Beat:** dialogue | **Mood:** dismissive | **Duration:** 3s
+**Characters:** -
 **Prompt:**
-Garrett driving north, hands on the wheel, the folded order resting on the seat, gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Scene with quiet atmosphere, wood-paneled courtroom, close-up, 85mm portrait lens full head within frame, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 127
-**Beat:** reflection | **Mood:** sad | **Duration:** 12s
-**Characters:** Garrett, Walt
+**Beat:** emotional_peak | **Mood:** determined | **Duration:** 6s
+**Characters:** Judge Chan
 **Prompt:**
-Garrett signing loan papers, a faint figure of Walt standing quietly behind him, a bank office desk with loan papers, medium shot, 50mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
-
+Judge Chan looking outward, wood-paneled courtroom, medium shot, 50mm lens, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 128
-**Beat:** reflection | **Mood:** determined | **Duration:** 12s
-**Characters:** Garrett
+**Beat:** emotional_peak | **Mood:** determined | **Duration:** 3s
+**Characters:** Judge Chan
 **Prompt:**
-Garrett from behind facing the dry basin, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, over-shoulder shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Judge Chan standing in scene, wood-paneled courtroom, close-up, 85mm portrait lens full head within frame, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 129
-**Beat:** emotional_peak | **Mood:** hopeful | **Duration:** 12s
-**Characters:** Garrett
+**Beat:** tension | **Mood:** tense | **Duration:** 3s
+**Characters:** Carter
 **Prompt:**
-Garrett kneeling to rebuild the earthen bank, fresh water trickling back across the cracked basin floor, four earthen farm ponds, murky still green water, low rural horizon, extreme close-up, 100mm macro lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Carter standing with steady posture, empty space, medium shot, 50mm lens, cool blue-gray tones hard shadows tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 130
-**Beat:** dialogue | **Mood:** calm | **Duration:** 11s
-**Characters:** Garrett, Reggie
+**Beat:** emotional_peak | **Mood:** determined | **Duration:** 6s
+**Characters:** Judge Chan
 **Prompt:**
-Garrett and Reggie talking beside the pond, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium close-up, 85mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Judge Chan speaking with serious expression, wood-paneled courtroom, medium shot, 50mm lens, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 131
-**Beat:** reflection | **Mood:** determined | **Duration:** 17s
-**Characters:** Garrett, Reggie
+**Beat:** tension | **Mood:** tense | **Duration:** 3s
+**Characters:** Carter
 **Prompt:**
-Garrett handing Reggie a ring of keys, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Carter looking down, empty space, close-up, 85mm portrait lens full head within frame, cool blue-gray tones hard shadows tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 132
-**Beat:** reflection | **Mood:** determined | **Duration:** 11s
-**Characters:** Garrett, Reggie
+**Beat:** emotional_peak | **Mood:** determined | **Duration:** 6s
+**Characters:** Judge Chan
 **Prompt:**
-Reggie pointing down, Garrett watching closely, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, close-up, 85mm portrait lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Judge Chan standing in scene, wood-paneled courtroom, medium shot, 50mm lens, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 133
-**Beat:** reflection | **Mood:** nostalgic | **Duration:** 10s
-**Characters:** Garrett, Reggie
+**Beat:** emotional_peak | **Mood:** shock | **Duration:** 3s
+**Characters:** Carter
 **Prompt:**
-Reggie and Garrett walking, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, extreme wide shot, 24mm wide-angle lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Carter standing in scene, empty space, close-up, 85mm portrait lens full head within frame, dramatic side lighting shallow DOF extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 134
-**Beat:** emotional_peak | **Mood:** nostalgic | **Duration:** 14s
-**Characters:** Garrett
+**Beat:** resolution | **Mood:** determined | **Duration:** 6s
+**Characters:** Judge Chan
 **Prompt:**
-Garrett gazing thoughtfully toward the water, quiet steadiness settling across his weathered features, four earthen farm ponds, murky still green water, low rural horizon, extreme close-up, 100mm macro lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Judge Chan standing in scene, wood-paneled courtroom, medium shot, 50mm lens, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 135
-**Beat:** establishing | **Mood:** tense | **Duration:** 11s
-**Characters:** Garrett
+**Beat:** resolution | **Mood:** determined | **Duration:** 6s
+**Characters:** Judge Chan
 **Prompt:**
-Garrett steering a loaded fish-transport truck along the sunbaked road under harsh midday heat, gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, wide shot, 35mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Judge Chan standing in scene, wood-paneled courtroom, medium shot, 50mm lens, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 136
-**Beat:** reflection | **Mood:** determined | **Duration:** 16s
-**Characters:** Garrett
+**Beat:** resolution | **Mood:** determined | **Duration:** 3s
+**Characters:** Judge Chan
 **Prompt:**
-Garrett measuring crushed ice into the transport tank, careful handfuls layered over the pale fish, his expression firm and focused, a fish transport tank on a truck bed, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Judge Chan standing in scene, wood-paneled courtroom, close-up, 85mm portrait lens full head within frame, strong directional light firm posture clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 137
-**Beat:** tension | **Mood:** tense | **Duration:** 10s
-**Characters:** Garrett
+**Beat:** tension | **Mood:** shock | **Duration:** 3s
+**Characters:** -
 **Prompt:**
-Garrett walking the frosted bank at dawn, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Empty courtroom with quiet atmosphere, wood-paneled courtroom, wide shot, 35mm lens, dramatic side lighting shallow DOF extreme close-up, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 138
-**Beat:** reflection | **Mood:** determined | **Duration:** 16s
-**Characters:** Garrett, Reggie
+**Beat:** resolution | **Mood:** calm | **Duration:** 6s
+**Characters:** Frank, Harold
 **Prompt:**
-Garrett and Reggie netting fish, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, extreme wide shot, 24mm wide-angle lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+F and r in scene, empty space, close-up, 85mm portrait lens full head within frame, even soft lighting neutral tones balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 139
-**Beat:** tension | **Mood:** tense | **Duration:** 5s
-**Characters:** Garrett
+**Beat:** establishing | **Mood:** dismissive | **Duration:** 6s
+**Characters:** Carter
 **Prompt:**
-Garrett poised at the water edge, tense, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, close-up, 85mm portrait lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Carter standing in scene, empty space, medium shot, 50mm lens, cold office light distant framing clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 140
-**Beat:** dialogue | **Mood:** dismissive | **Duration:** 11s
-**Characters:** Marlene
+**Beat:** resolution | **Mood:** hopeful | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Marlene standing among the rearing tanks, arms crossed under pressure, fish hatchery building, long concrete rearing tanks, aeration pipes, wet tiled floor, corrugated metal walls, hanging work lights, low angle shot, 35mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold standing in scene, modern bank lobby, medium shot, 50mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 141
-**Beat:** dialogue | **Mood:** dismissive | **Duration:** 8s
-**Characters:** Preston Vance
+**Beat:** resolution | **Mood:** hopeful | **Duration:** 7s
+**Characters:** Harold
 **Prompt:**
-Preston Vance seated at the desk, sliding a finger down a printed chart as he calculates figures with cold detachment, a corporate office desk with charts, medium close-up, 85mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold holding document, empty space, close-up, 85mm portrait lens full head within frame, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 142
-**Beat:** reflection | **Mood:** tense | **Duration:** 11s
-**Characters:** -
+**Beat:** reflection | **Mood:** hopeful | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-The resilient pond water holding steady, small ripples spreading across the murky green surface, four earthen farm ponds, murky still green water, low rural horizon, extreme close-up, 100mm macro lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold looking outward, empty space, medium shot, 50mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 143
-**Beat:** establishing | **Mood:** determined | **Duration:** 14s
-**Characters:** Marlene
+**Beat:** establishing | **Mood:** hopeful | **Duration:** 6s
+**Characters:** -
 **Prompt:**
-Marlene walking the hatchery floor, standing firm and resolute, fish hatchery building, long concrete rearing tanks, aeration pipes, wet tiled floor, corrugated metal walls, hanging work lights, wide shot, 35mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Scene with quiet atmosphere, federal office interior, wide shot, 35mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 144
-**Beat:** reflection | **Mood:** determined | **Duration:** 14s
-**Characters:** Marlene
+**Beat:** establishing | **Mood:** hopeful | **Duration:** 6s
+**Characters:** -
 **Prompt:**
-Marlene pouring a cup of coffee, weighing the request with steady eyes, fish hatchery building, long concrete rearing tanks, aeration pipes, wet tiled floor, corrugated metal walls, hanging work lights, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Paper documents on desk, empty space, medium shot, 50mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 145
-**Beat:** reflection | **Mood:** determined | **Duration:** 17s
-**Characters:** Marlene
+**Beat:** reflection | **Mood:** hopeful | **Duration:** 6s
+**Characters:** -
 **Prompt:**
-Marlene shaking her head firmly in refusal, jaw set with quiet resolve, fish hatchery building, long concrete rearing tanks, aeration pipes, wet tiled floor, corrugated metal walls, hanging work lights, over-shoulder shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Paper documents on desk, empty space, medium shot, 50mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 146
-**Beat:** dialogue | **Mood:** determined | **Duration:** 12s
-**Characters:** Garrett, Hollis
+**Beat:** reflection | **Mood:** hopeful | **Duration:** 6s
+**Characters:** -
 **Prompt:**
-Hollis stepping down from his dusty pickup by the pond bank, Garrett wiping his hands on a work rag walking over to greet him, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Empty bank lobby with quiet atmosphere, modern bank lobby, wide shot, 35mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 147
-**Beat:** reflection | **Mood:** determined | **Duration:** 13s
-**Characters:** Garrett, Hollis
+**Beat:** reflection | **Mood:** hopeful | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Hollis and Garrett clasping hands in a firm handshake beside the water, both men standing squarely facing each other, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold standing in scene, empty space, medium shot, 50mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 148
-**Beat:** reflection | **Mood:** dismissive | **Duration:** 11s
-**Characters:** -
+**Beat:** establishing | **Mood:** hopeful | **Duration:** 6s
+**Characters:** Frank
 **Prompt:**
-Two catfish shown in stark contrast, one pale mass-produced fish sagging soft and loose, the other firm and tight-fleshed with bright glistening scales, two fish laid side by side on crushed ice, close-up, 85mm portrait lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Frank walking steadily, empty space, medium shot, 50mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 149
-**Beat:** establishing | **Mood:** dismissive | **Duration:** 14s
-**Characters:** Garrett, Preston Vance
+**Beat:** establishing | **Mood:** nostalgic | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Preston Vance leaning against a spotless clean sedan, spreading a printed acquisition offer across the trunk lid while Garrett stands facing him, gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, extreme wide shot, 24mm wide-angle lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold driving pickup truck, empty space, wide shot, 35mm lens, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 150
-**Beat:** dialogue | **Mood:** dismissive | **Duration:** 9s
-**Characters:** Garrett, Preston Vance
+**Beat:** reflection | **Mood:** nostalgic | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Preston Vance gesturing mid-speech with an assured smug expression, Garrett standing calm and composed letting him talk on, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, low angle shot, 35mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold driving pickup truck, rural Tennessee farmland, medium shot, 50mm lens, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 151
-**Beat:** dialogue | **Mood:** determined | **Duration:** 8s
-**Characters:** Garrett, Preston Vance
+**Beat:** reflection | **Mood:** nostalgic | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Garrett wiping his hands on a rag, fixing Preston Vance with a level steady gaze as he asks one calm pointed question, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold looking outward, empty space, medium shot, 50mm lens, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 152
-**Beat:** reflection | **Mood:** determined | **Duration:** 12s
-**Characters:** Garrett, Preston Vance
+**Beat:** reflection | **Mood:** nostalgic | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Preston Vance standing speechless and slack-jawed at the pond edge, Garrett watching steadily a short distance away, both figures small in the wide landscape, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, wide shot, 35mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold standing in scene, empty space, close-up, 85mm portrait lens full head within frame, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 153
-**Beat:** reflection | **Mood:** nostalgic | **Duration:** 12s
-**Characters:** Marlene, Hollis, Reggie
+**Beat:** reflection | **Mood:** nostalgic | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Marlene, Hollis, and Reggie standing shoulder to shoulder in warm companionship, weathered working clothes and easy trusting expressions turned toward the camera, three rural working people standing together, medium shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold reading paper document, empty space, close-up, 85mm portrait lens full head within frame, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 154
-**Beat:** reflection | **Mood:** nostalgic | **Duration:** 12s
-**Characters:** Garrett
+**Beat:** establishing | **Mood:** nostalgic | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Garrett standing quiet and composed at the edge of his ponds, hands loose, a settled calm across his face, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, extreme wide shot, 24mm wide-angle lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold walking steadily, rural Tennessee farmland, wide shot, 35mm lens, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 155
-**Beat:** emotional_peak | **Mood:** determined | **Duration:** 11s
-**Characters:** Garrett
+**Beat:** establishing | **Mood:** nostalgic | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Tight on Garrett, a weathered face with jaw set firm and eyes steady with quiet certainty, full head within frame, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold walking steadily, empty space, medium shot, 50mm lens, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 156
-**Beat:** reflection | **Mood:** determined | **Duration:** 12s
-**Characters:** Garrett
+**Beat:** establishing | **Mood:** nostalgic | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Garrett facing the camera with a resolute grounded expression, the living ponds rippling behind him, full head within frame, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, close-up, 85mm portrait lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold standing with steady posture, open field near sunset, medium shot, 50mm lens, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 157
-**Beat:** resolution | **Mood:** determined | **Duration:** 20s
-**Characters:** Garrett, Preston Vance
+**Beat:** reflection | **Mood:** nostalgic | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Preston Vance tucking the folded offer into his coat, the spotless sedan rolling away down the gravel toward the horizon, Garrett standing steady by the fence line watching it go, gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, wide shot, 35mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold walking steadily, empty space, close-up, 85mm portrait lens full head within frame, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 158
-**Beat:** establishing | **Mood:** hopeful | **Duration:** 12s
-**Characters:** Garrett
+**Beat:** reflection | **Mood:** nostalgic | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Garrett arranging a rustic wooden processing table inside the shed, fresh-cut fillets laid out on the scrubbed surface before him, weathered wooden tool shed, hand tools hung on nail-studded plank walls, sturdy workbench, single hanging bulb light, dirt-and-concrete floor, extreme wide shot, 24mm wide-angle lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold looking outward, empty space, close-up, 85mm portrait lens full head within frame, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 159
-**Beat:** reflection | **Mood:** hopeful | **Duration:** 12s
-**Characters:** Garrett
+**Beat:** reflection | **Mood:** nostalgic | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Garrett standing beside a small white refrigerator in the shed, a plain homemade smoker rig set up nearby, old hand tools hanging above him, weathered wooden tool shed, hand tools hung on nail-studded plank walls, sturdy workbench, single hanging bulb light, dirt-and-concrete floor, medium close-up, 85mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold standing in scene, empty space, close-up, 85mm portrait lens full head within frame, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 160
-**Beat:** reflection | **Mood:** hopeful | **Duration:** 11s
-**Characters:** Garrett, Marlene
+**Beat:** emotional_peak | **Mood:** nostalgic | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Over the shoulder of Marlene, Garrett handing her a neat package of smoked catfish fillets across the workbench, both nodding in easy agreement, weathered wooden tool shed, hand tools hung on nail-studded plank walls, sturdy workbench, single hanging bulb light, dirt-and-concrete floor, over-shoulder shot, 50mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold standing in scene, empty space, medium shot, 50mm lens, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 161
-**Beat:** reflection | **Mood:** nostalgic | **Duration:** 12s
-**Characters:** Garrett
+**Beat:** emotional_peak | **Mood:** nostalgic | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Garrett seated at the farmhouse table late at night, one hand resting on the open ledger, tallying columns of printed figures under a warm lamp, a farmhouse table with an open ledger at night, medium shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold speaking with serious expression, open field near sunset, close-up, 85mm portrait lens full head within frame, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 162
-**Beat:** emotional_peak | **Mood:** hopeful | **Duration:** 15s
-**Characters:** Garrett
+**Beat:** emotional_peak | **Mood:** nostalgic | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Extreme close-up of a handwritten six-figure total in the open ledger, faint pencil handwriting under lamplight, Garrett fingertip resting beside the number as he reads it twice, calm, a farmhouse table with an open ledger at night, extreme close-up, 100mm macro lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold standing in scene, empty space, close-up, 85mm portrait lens full head within frame, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 163
-**Beat:** reflection | **Mood:** nostalgic | **Duration:** 15s
-**Characters:** Garrett
+**Beat:** emotional_peak | **Mood:** nostalgic | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Garrett turning over the old land deed in his hands, fingertips tracing a faint line of old pencil script on the worn reverse side, edges soft and yellowed, the back of an old land deed with faint pencil handwriting, medium close-up, 85mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold speaking with serious expression, empty space, medium shot, 50mm lens, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 164
-**Beat:** reflection | **Mood:** nostalgic | **Duration:** 17s
-**Characters:** Garrett
+**Beat:** emotional_peak | **Mood:** nostalgic | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Garrett standing at the water edge at dawn, the pond surface flushed pink and rippling with rising fish, his face lifting in quiet understanding, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, low angle shot, 35mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold standing in scene, empty space, close-up, 85mm portrait lens full head within frame, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 165
-**Beat:** emotional_peak | **Mood:** hopeful | **Duration:** 14s
-**Characters:** Garrett, Walt
+**Beat:** emotional_peak | **Mood:** nostalgic | **Duration:** 3s
+**Characters:** Harold
 **Prompt:**
-Younger Garrett crouched over an engine part with grease-stained hands, elderly Walt beside him in the fallow field studying the young man with warm approval, full head within frame, a worn-out fallow farm field, close-up, 85mm portrait lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
-
+Harold speaking with serious expression, empty space, medium shot, 50mm lens, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 166
-**Beat:** reflection | **Mood:** nostalgic | **Duration:** 13s
-**Characters:** Garrett
+**Beat:** reflection | **Mood:** nostalgic | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Garrett gazing thoughtfully across the four ponds, a quiet dawning comprehension settling over his weathered features as he stands at the bank, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold standing in scene, open field near sunset, wide shot, 35mm lens, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 167
-**Beat:** establishing | **Mood:** hopeful | **Duration:** 11s
-**Characters:** Garrett
+**Beat:** reflection | **Mood:** nostalgic | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-A pickup truck backing down the gravel toward the pond, water churning as a fresh batch of fish pours in, Garrett guiding it while the fence line stands calm and empty, gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, wide shot, 35mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold standing with steady posture, empty space, medium shot, 50mm lens, soft golden light warm palette slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 168
-**Beat:** reflection | **Mood:** nostalgic | **Duration:** 16s
-**Characters:** Garrett, Walt
+**Beat:** resolution | **Mood:** calm | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Garrett walking the pond bank, a faint overlaid image of aging Walt reading the barren field beyond, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium close-up, 85mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
-
+Harold walking steadily, empty space, medium shot, 50mm lens, even soft lighting neutral tones balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 169
-**Beat:** resolution | **Mood:** nostalgic | **Duration:** 23s
-**Characters:** -
+**Beat:** resolution | **Mood:** calm | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Four quiet ponds stretching wide at dawn, still surfaces catching the first pale gold light, banks calm and unhurried, the whole expanse patient, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, extreme wide shot, 24mm wide-angle lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
-
+Harold walking steadily, weathered clapboard farmhouse, wide shot, 35mm lens, even soft lighting neutral tones balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 ---
 ## 170
-**Beat:** resolution | **Mood:** hopeful | **Duration:** 17s
-**Characters:** Garrett
+**Beat:** resolution | **Mood:** calm | **Duration:** 6s
+**Characters:** Harold
 **Prompt:**
-Garrett standing at the pond edge in warm morning light, gazing over the calm water with an open steady expression, one hand resting easy, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, wide shot, 35mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Harold standing in scene, small steel vault room, close-up, 85mm portrait lens full head within frame, even soft lighting neutral tones balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+---
+## 171
+**Beat:** resolution | **Mood:** hopeful | **Duration:** 6s
+**Characters:** Harold
+**Prompt:**
+Harold standing in scene, empty space, close-up, 85mm portrait lens full head within frame, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+---
+## 172
+**Beat:** resolution | **Mood:** hopeful | **Duration:** 6s
+**Characters:** Harold
+**Prompt:**
+Harold looking outward, rural Tennessee farmland, medium shot, 50mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+---
+## 173
+**Beat:** resolution | **Mood:** hopeful | **Duration:** 6s
+**Characters:** Harold
+**Prompt:**
+Harold looking outward, rural Tennessee farmland, medium shot, 50mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+---
+## 174
+**Beat:** resolution | **Mood:** calm | **Duration:** 6s
+**Characters:** Harold
+**Prompt:**
+Harold standing in scene, weathered clapboard farmhouse, medium shot, 50mm lens, even soft lighting neutral tones balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+---
+## 175
+**Beat:** resolution | **Mood:** calm | **Duration:** 6s
+**Characters:** Harold
+**Prompt:**
+Harold standing in scene, weathered clapboard farmhouse, medium shot, 50mm lens, even soft lighting neutral tones balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+---
+## 176
+**Beat:** resolution | **Mood:** hopeful | **Duration:** 6s
+**Characters:** Harold
+**Prompt:**
+Harold standing in scene, empty space, close-up, 85mm portrait lens full head within frame, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+---
+## 177
+**Beat:** resolution | **Mood:** hopeful | **Duration:** 11s
+**Characters:** -
+**Prompt:**
+Empty farm landscape stretching to horizon, rural Tennessee farmland, wide shot, 35mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+---
+## 178
+**Beat:** resolution | **Mood:** hopeful | **Duration:** 6s
+**Characters:** -
+**Prompt:**
+Scene with quiet atmosphere, empty space, wide shot, 35mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+---
+## 179
+**Beat:** reflection | **Mood:** hopeful | **Duration:** 6s
+**Characters:** -
+**Prompt:**
+Scene with quiet atmosphere, empty space, medium shot, 50mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+---
+## 180
+**Beat:** reflection | **Mood:** hopeful | **Duration:** 6s
+**Characters:** -
+**Prompt:**
+Scene with quiet atmosphere, empty space, medium shot, 50mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+---
+## 181
+**Beat:** reflection | **Mood:** hopeful | **Duration:** 6s
+**Characters:** -
+**Prompt:**
+Computer screen displaying content, computer screen, medium shot, 50mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+---
+## 182
+**Beat:** reflection | **Mood:** hopeful | **Duration:** 6s
+**Characters:** -
+**Prompt:**
+Scene with quiet atmosphere, empty space, medium shot, 50mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+---
+## 183
+**Beat:** reflection | **Mood:** hopeful | **Duration:** 6s
+**Characters:** -
+**Prompt:**
+Scene with quiet atmosphere, empty space, close-up, 85mm portrait lens full head within frame, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+---
+## 184
+**Beat:** reflection | **Mood:** hopeful | **Duration:** 6s
+**Characters:** -
+**Prompt:**
+Computer screen displaying content, computer screen, medium shot, 50mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+---
+## 185
+**Beat:** reflection | **Mood:** hopeful | **Duration:** 6s
+**Characters:** -
+**Prompt:**
+Scene with quiet atmosphere, empty space, close-up, 85mm portrait lens full head within frame, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+---
+## 186
+**Beat:** resolution | **Mood:** hopeful | **Duration:** 6s
+**Characters:** -
+**Prompt:**
+Empty farm landscape stretching to horizon, rural Tennessee farmland, wide shot, 35mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+---
+## 187
+**Beat:** reflection | **Mood:** hopeful | **Duration:** 6s
+**Characters:** -
+**Prompt:**
+Scene with quiet atmosphere, wood-paneled courtroom, medium shot, 50mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+---
+## 188
+**Beat:** reflection | **Mood:** hopeful | **Duration:** 6s
+**Characters:** -
+**Prompt:**
+Old paper deed document, empty space, close-up, 85mm portrait lens full head within frame, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+---
+## 189
+**Beat:** reflection | **Mood:** hopeful | **Duration:** 6s
+**Characters:** -
+**Prompt:**
+Scene with quiet atmosphere, empty space, medium shot, 50mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+---
+## 190
+**Beat:** resolution | **Mood:** hopeful | **Duration:** 6s
+**Characters:** -
+**Prompt:**
+Scene with quiet atmosphere, open field near sunset, medium shot, 50mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+---
+## 191
+**Beat:** reflection | **Mood:** hopeful | **Duration:** 6s
+**Characters:** -
+**Prompt:**
+Empty courtroom with quiet atmosphere, wood-paneled courtroom, wide shot, 35mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+---
+## 192
+**Beat:** reflection | **Mood:** hopeful | **Duration:** 6s
+**Characters:** -
+**Prompt:**
+Old paper deed document, empty space, close-up, 85mm portrait lens full head within frame, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+---
+## 193
+**Beat:** resolution | **Mood:** hopeful | **Duration:** 5s
+**Characters:** -
+**Prompt:**
+Empty farm landscape stretching to horizon, rural Tennessee farmland, wide shot, 35mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+---
+## 194
+**Beat:** resolution | **Mood:** hopeful | **Duration:** 6s
+**Characters:** -
+**Prompt:**
+Empty farm landscape stretching to horizon, rural Tennessee farmland, wide shot, 35mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+---
+## 195
+**Beat:** resolution | **Mood:** hopeful | **Duration:** 6s
+**Characters:** -
+**Prompt:**
+Scene with quiet atmosphere, empty space, medium shot, 50mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+---
+## 196
+**Beat:** resolution | **Mood:** hopeful | **Duration:** 5s
+**Characters:** -
+**Prompt:**
+Empty farm landscape stretching to horizon, rural Tennessee farmland, medium shot, 50mm lens, morning light open composition warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons

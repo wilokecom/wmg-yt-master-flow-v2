@@ -7,3 +7,4 @@ __pycache__/
 
 # Claude Code local settings (không chia sẻ qua git)
 .claude/settings.local.json
+.env

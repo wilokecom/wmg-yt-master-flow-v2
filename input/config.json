@@ -1,116 +1,95 @@
 {
   "project": {
-    "title": "They Offered a Single Dad $3,800 for Dead Ponds — 2 Years Later, They Left With Nothing",
-    "description": "Garrett Ballard, gà trống nuôi con 44 tuổi, thừa kế 6 mẫu đất với 4 hồ cá 'chết' từ người cha quá cố. Anh từ chối lời ép mua giá bèo của tập đoàn thủy sản Meridian, thả đàn cá loại thải, và sau 2 năm kiên nhẫn gây dựng đã buộc kẻ định giá mình phải ra về tay trắng.",
-    "total_duration": 2020,
+    "title": "The Bank Laughed at His Locker — Then He Pulled Out a 1971 Paper",
+    "description": "A story about Harold Garrett, a 71-year-old Tennessee farmer who quietly paid for a safe deposit locker for 53 years, revealing a legacy of his father's wisdom that protected his family's land from bank acquisition.",
+    "total_duration": 1213,
     "target_audience": "65+",
     "language": "en"
   },
-
-  "style": "photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field",
-
+  "style": "photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons",
   "flashback_style": "soft warm vignette, slightly faded colors, dreamy atmosphere",
-
   "video_hook": {
     "enabled": true,
     "duration_s": 60,
     "max_clip_s": 8,
     "video_style": "photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean frame free of watermarks, logos, or AI icons"
   },
-
+  "era": {
+    "name": "1970s-2020s rural Tennessee",
+    "keywords": "rural Tennessee countryside, weathered clapboard farmhouses, gravel country roads, old pickup trucks, wooden fences, dirt roads, manual rotary telephones, paper ledgers",
+    "wardrobe": "worn workwear, plaid flannel shirts, faded denim jeans, work boots, canvas jackets, suspenders, simple cotton jackets, button-down shirts, suits and ties for bank staff",
+    "forbidden": ["smartphone", "laptop", "flat-screen", "tablet", "earbuds", "LED", "USB", "wifi", "electric car", "modern SUV", "computer monitor", "drone", "solar panel", "contactless payment"]
+  },
   "characters": [
     {
-      "id": "garrett",
-      "name": "Garrett Ballard",
-      "nano_name": "Garrett",
-      "description": "44-year-old man, lean weathered build, short dark brown hair flecked with gray, tired deep-set eyes, three-day stubble, faded olive-green canvas work jacket over a gray flannel shirt, worn blue jeans, scuffed brown leather work boots"
+      "id": "harold",
+      "name": "Harold Garrett",
+      "nano_name": "Harold",
+      "description": "71-year-old man, weathered Tennessee farmer with deep-set wise brown eyes showing decades of quiet strength and patience, weathered face with gentle smile lines around eyes and mouth, kind but firm jawline with subtle cleft chin, gray thinning hair receding at temples, suspenders over worn cotton jacket, weathered calloused hands"
     },
     {
-      "id": "walt",
-      "name": "Walt Ballard (cha, đã mất — hồi tưởng)",
-      "nano_name": "Walt",
-      "description": "68-year-old man, weathered lean farmer build, deeply lined sun-creased face, short thinning white hair, calm patient eyes, faded tan canvas work coat over a brown plaid shirt, dark navy denim overalls, cracked brown leather work boots"
+      "id": "carter",
+      "name": "Carter Blake",
+      "nano_name": "Carter",
+      "description": "34-year-old man, bank branch manager with cold calculating pale blue eyes showing arrogant entitlement and condescension, sharp arrogant jawline with subtle sneer, perfectly groomed with gel-styled dark hair, wearing tailored navy suit and crisp tie, manicured hands revealing privileged upbringing"
     },
     {
-      "id": "vance",
-      "name": "Preston Vance (người mua / phản diện Meridian)",
-      "nano_name": "Preston Vance",
-      "description": "52-year-old man, heavyset broad-shouldered build, full rounded clean-shaven face, thinning slicked-back gray hair, cool appraising eyes with a faint tight-lipped superior smile and chin lifted slightly, crisp charcoal-gray tailored business suit, pale blue dress shirt, polished black leather shoes"
+      "id": "george",
+      "name": "George Garrett (Flashback)",
+      "nano_name": "Young George",
+      "description": "middle-aged man in his 40s, 1970s Tennessee farmer with thoughtful concerned hazel eyes showing lines of worry around forehead, kind but firm expression, short graying brown hair, wearing simple plaid flannel shirt and worn denim overalls, weathered hands from farm work"
     },
     {
-      "id": "vernon",
-      "name": "Vernon Ordway (cán bộ khuyến nông)",
-      "nano_name": "Vernon",
-      "description": "60-year-old man, sturdy solid build, broad sun-weathered face, short gray hair under a faded olive-green cap, steady no-nonsense eyes, tan barn coat over a checked brown-and-cream shirt, dark work jeans, mud-caked brown boots"
+      "id": "david",
+      "name": "David Garrett",
+      "nano_name": "David",
+      "description": "44-year-old man, Harold's son, mechanic with quiet observant brown eyes like his father, kind youthful face with subtle resemblance to Harold, short dark hair, wearing mechanic blue work shirt and faded denim jeans, work-worn hands"
     },
     {
-      "id": "marlene",
-      "name": "Marlene Kirby (chủ trại giống)",
-      "nano_name": "Marlene",
-      "description": "55-year-old woman, practical stocky build, short curly graying auburn hair, alert direct eyes, weather-lined face, dark green rubber chest waders over a faded red flannel shirt, brown rubber boots"
+      "id": "frank",
+      "name": "Frank Solis",
+      "nano_name": "Frank",
+      "description": "60-year-old man, property lawyer with calm intelligent brown eyes behind wire-rimmed glasses showing decades of legal wisdom, reassuring face with white hair at temples, professional demeanor, wearing dark charcoal suit and tie"
     },
     {
-      "id": "hollis",
-      "name": "Hollis Grant (chủ nhà hàng hải sản)",
-      "nano_name": "Hollis",
-      "description": "58-year-old man, trim upright build, close-cropped salt-and-pepper hair and short gray beard, sharp discerning eyes, white chef's jacket over a black apron, dark charcoal trousers, clean black shoes"
-    },
-    {
-      "id": "reggie",
-      "name": "Reggie Alton (cựu nhân viên phân loại Meridian)",
-      "nano_name": "Reggie",
-      "description": "45-year-old man, wiry capable build, short black hair under a gray knit beanie, quiet watchful eyes, dark brown work fleece over a navy blue henley shirt, faded blue jeans, rubber-soled brown work boots"
+      "id": "judge_chan",
+      "name": "Judge Margaret Chan",
+      "nano_name": "Judge Chan",
+      "description": "middle-aged woman, federal judge with sharp intelligent dark eyes scanning everything with impartial authority, stern but fair expression showing decades on the bench, black hair pulled back in professional style, wearing black judicial robe"
     }
   ],
-
   "settings": [
     {
-      "id": "garrett_ponds",
-      "name": "Bốn hồ cá của Garrett (đất thừa kế)",
-      "keywords": "four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon"
+      "id": "bank_lobby",
+      "name": "First Valley Bank Lobby",
+      "keywords": "modern bank lobby, large teller counter, marble floors, floor-to-ceiling windows, corporate atmosphere"
     },
     {
-      "id": "gravel_road",
-      "name": "Con đường sỏi dẫn vào trang trại",
-      "keywords": "gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline"
+      "id": "vault_room",
+      "name": "Bank Vault Room",
+      "keywords": "small steel vault room, rows of lockers from floor to ceiling, cold metallic atmosphere, steel walls"
     },
     {
-      "id": "co_op",
-      "name": "Co-op nông nghiệp (nơi Garrett làm bảo trì)",
-      "keywords": "rural farm supply co-op, stacked feed sacks, metal shelving, concrete floor, fluorescent overhead lighting, wide loading dock doors"
+      "id": "harold_farm",
+      "name": "Harold's Farm",
+      "keywords": "rural Tennessee farmland, 160 acres of fields, old wooden fencing, dirt roads"
     },
     {
-      "id": "hatchery",
-      "name": "Trại giống cá của Marlene",
-      "keywords": "fish hatchery building, long concrete rearing tanks, aeration pipes, wet tiled floor, corrugated metal walls, hanging work lights"
+      "id": "farmhouse",
+      "name": "Harold's Farmhouse",
+      "keywords": "weathered clapboard farmhouse, simple rural home, wooden porch, kitchen window looking over fields"
     },
     {
-      "id": "restaurant_kitchen",
-      "name": "Bếp nhà hàng hải sản của Hollis",
-      "keywords": "seafood restaurant kitchen, stainless steel prep counters, hanging pans, white tiled walls, industrial range, crates of ice"
+      "id": "north_field",
+      "name": "North Field with Oak Tree",
+      "keywords": "open field near sunset, large old oak tree, simple stone grave marker, wooden fence line"
     },
     {
-      "id": "farmers_market",
-      "name": "Chợ nông sản cuối tuần",
-      "keywords": "outdoor farmers market, folding table with ice trays, canvas canopy, neighboring vendor stalls, small-town street"
-    },
-    {
-      "id": "shed",
-      "name": "Nhà kho đồ nghề của Walt (nơi chế biến cá)",
-      "keywords": "weathered wooden tool shed, hand tools hung on nail-studded plank walls, sturdy workbench, single hanging bulb light, dirt-and-concrete floor"
-    },
-    {
-      "id": "diner",
-      "name": "Quán ăn thị trấn (nơi tin đồn lan đi)",
-      "keywords": "small-town diner interior, long laminate counter with stools, coffee mugs, vinyl booths, window blinds, warm overhead lights"
-    },
-    {
-      "id": "meridian_pond",
-      "name": "Hồ chứa công nghiệp khổng lồ của Meridian",
-      "keywords": "vast industrial holding pond, wide graded earthen banks, sterile flat water surface, service road along the rim, bare graded earth, gray overcast sky"
+      "id": "courtroom",
+      "name": "Federal Courtroom",
+      "keywords": "wood-paneled courtroom walls, faded flag in corner, judge's bench, wooden pews"
     }
   ],
-
   "mood_map": {
     "nostalgic": "soft golden light, warm palette, slight gaussian blur",
     "tense": "cool blue-gray tones, hard shadows, tight framing",
