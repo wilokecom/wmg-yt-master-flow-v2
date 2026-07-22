@@ -1,25 +1,31 @@
 # Typewriter Cues — hiệu ứng đánh máy (overlay lúc dựng — SINH BỞI export.py, sửa nguồn input/typewriter.json)
 
-- **font**: clean bold monospace (typewriter feel)
-- **size**: large — dễ đọc cho khán giả 65+ (≥ 6-8% chiều cao khung)
-- **color**: off-white với viền/đổ bóng mềm để nổi trên nền
-- **position**: lower third hoặc giữa khung, tránh che mặt nhân vật
-- **typing_speed**: chậm (~8-12 ký tự/giây), có con trỏ nhấp nháy
-- **hold**: giữ trọn dòng 1.5-2s sau khi gõ xong rồi mờ dần
+**QUY TẮC ÂM THANH ĐÁNH CHỮ (BẮT BUỘC khi dựng):**
+1. Âm gõ phím CHỈ phát tại đúng cột `Time` của từng cue, chạy đồng bộ với chữ đang gõ, DỪNG sau đúng `Gõ (s)` giây (lúc chữ gõ xong).
+2. Scene KHÔNG có trong bảng này = KHÔNG có chữ và KHÔNG có âm đánh chữ.
+3. Âm đánh chữ KHÔNG lấy từ field `sfx` trong metadata.json — `sfx` là âm bối cảnh của cảnh (gió, cửa, bước chân...), trộn ở lớp riêng, không liên quan hiệu ứng chữ.
 
-| # | Time | Scene | Ảnh nền | Loại | Text gõ | Sync |
-|---|---|---|---|---|---|---|
-| 1 | 00:00:05 | 1 (00:00:00–00:00:12) | 1.jpg | number | `$3,800` | Gõ đúng lúc narration đọc con số, nổi trên nền bốn hồ chết — mồi hook. |
-| 2 | 00:02:14 | 12 (00:02:02–00:02:19) | 12.jpg | time_card | `TWO YEARS LATER` | Time card kiểu trailer, xuất hiện khi narration foreshadow 'Two years later'. |
-| 3 | 00:02:47 | 15 (00:02:41–00:02:53) | 15.jpg | cta | `Type 1 if you believe` | CTA bình luận — gõ khi narration mời 'type a one in the comments'. |
-| 4 | 00:05:40 | 29 (00:05:34–00:05:48) | 29.jpg | quote | `"Nothing worth keeping is ever truly finished." — Dad` | Câu thesis của cha, gõ chậm trên cận cảnh dòng bút chì trên deed. |
-| 5 | 00:09:26 | 49 (00:09:21–00:09:31) | 49.jpg | number | `~1,800 fish. Belly-up.` | Cú sốc die-off — gõ khi narration nói 'nearly eighteen hundred'. |
-| 6 | 00:11:22 | 60 (00:11:16–00:11:27) | 60.jpg | beat | `Lost a third. Saved the rest.` | Nhịp lật của cứu-đàn-cá lúc bình minh, sau đêm chạy guồng quạt. |
-| 7 | 00:23:01 | 121 (00:22:59–00:23:10) | 121.jpg | thesis | `It was a bid.` | Cú nhận ra giữa phim — gõ đúng câu 'It was a bid.', giữ nặng. |
-| 8 | 00:31:09 | 161 (00:31:07–00:31:19) | 161.jpg | reveal | `SIX FIGURES` | Payoff — con số sáu chữ số cuối năm hai, không phô trương, gõ chắc. |
-| 9 | 00:33:19 | 169 (00:33:00–00:33:23) | 169.jpg | moral | `A pair of hands patient enough to notice.` | Câu moral kết, gõ chậm trên hồ bình minh trước CTA cuối. |
+- **font**: chữ in hoa lớn, serif máy chữ, đổ bóng nhẹ cho dễ đọc trên nền ảnh
+- **size**: chiếm khoảng 1/8 chiều cao khung — khán giả 65+ xem trên điện thoại phải đọc được
+- **speed**: gõ chậm, đều; âm gõ phím chạy đúng theo thời lượng cột Gõ (s) rồi dừng
+- **hold**: giữ dòng 1-2s sau khi gõ xong rồi mờ dần
+- **position**: 1/3 dưới khung, tránh che mặt nhân vật
 
-> Dùng THƯA (9 cue / 33 phút) để mỗi dòng giữ được sức nặng — không rải khắp.
-> Text tiếng Anh khớp narration (video language = en).
-> Đây là overlay editor thêm lúc dựng, KHÔNG phải chữ trong ảnh AI — không đụng Rule 4.5.
-> Muốn thêm/sửa/bớt: chỉ sửa file này rồi chạy lại `python3 scripts/export.py` (1 nguồn → metadata + typewriter-cues.md).
+| # | Time | Gõ (s) | Scene | Ảnh nền | Loại | Text gõ | Sync |
+|---|---|---|---|---|---|---|---|
+| tw01 | 00:00:13 | 1.5 | 2 (00:00:10–00:00:19) | 2.jpg | stat | `$91,400` | gõ đúng lúc narration đọc con số đấu giá — cú móc đầu tiên của hook |
+| tw02 | 00:00:28 | 1.5 | 4 (00:00:24–00:00:37) | 4.jpg | stat | `22 YEARS` | đè lên hình đồi kudzu một màu — con số giải thích vì sao không ai trả giá |
+| tw03 | 00:02:58 | 1.6 | 18 (00:02:54–00:03:11) | 18.jpg | stat | `104 ACRES` | khi narration đọc mô tả thửa đất trong hồ sơ hạt |
+| tw04 | 00:04:23 | 3.8 | 26 (00:04:21–00:04:31) | 26.jpg | stat | `THREE GROWING SEASONS` | đồng hồ đếm ngược của cả phim — gõ chậm hơn các cue khác một nhịp |
+| tw05 | 00:07:00 | 1.5 | 41 (00:06:57–00:07:10) | 41.jpg | stat | `83 GOATS` | đúng lúc cổng mở và đàn dê tràn xuống |
+| tw06 | 00:10:00 | 1.8 | 58 (00:09:59–00:10:04) | 58.jpg | stat | `NINE TREES` | khoảnh khắc đếm xong — trả lời câu hỏi treo từ phút đầu của hook |
+| tw07 | 00:17:08 | 1.8 | 96 (00:17:06–00:17:17) | 96.jpg | time_card | `SUMMER TWO` | time card mở màn mùa hè thứ hai |
+| tw08 | 00:21:02 | 1.8 | 118 (00:21:00–00:21:12) | 118.jpg | time_card | `YEAR THREE` | time card mở màn năm thứ ba, lúc bắt đầu trồng cây |
+| tw09 | 00:24:27 | 3.1 | 137 (00:24:25–00:24:35) | 137.jpg | time_card | `SPRING, YEAR FOUR` | time card ngày hạt tới thẩm định — cao trào hành chính |
+| tw10 | 00:26:38 | 1.5 | 151 (00:26:36–00:26:47) | 151.jpg | stat | `$462,800` | định giá lại — đặt cạnh trí nhớ về $91,400 ở đầu phim |
+| tw11 | 00:27:32 | 2.2 | 156 (00:27:30–00:27:38) | 156.jpg | stat | `1,341 POUNDS` | vụ hồ đào đầu tiên sau 22 năm |
+| tw12 | 00:31:34 | 6.0 | 180 (00:31:32–00:31:45) | 180.jpg | moral | `NEVER DEAD GROUND — ONLY COVERED GROUND` | câu thesis của cả phim, gõ chậm nhất, giữ dòng lâu nhất trước khi mờ |
+
+> Chỉ 12 cue cho video 33 phút — dùng thưa để mỗi lần chữ hiện lên đều có sức nặng.
+> Âm gõ phím CHỈ phát tại cột Time của từng cue và dừng sau đúng cột Gõ (s); scene không có trong bảng thì không có chữ và không có âm đánh chữ.
+> Muốn thêm/sửa cue: chỉ sửa file này rồi chạy lại python3 scripts/export.py — KHÔNG sửa tay metadata.json hay typewriter-cues.md.

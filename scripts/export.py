@@ -1,24 +1,30 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Bước 4 — Export metadata.json (tự động, không cần AI viết tay).
+Bước 5 — Export metadata.json (tự động, không cần AI viết tay).
 
 Nguồn dữ liệu (ưu tiên JSON, fallback parse Markdown):
   1. output/scene-breakdown.json  (nếu có)  else parse output/scene-breakdown.md
   2. output/prompts.json          (nếu có)  else parse output/prompts.md
   3. input/config.json
+  4. output/sfx.json              (tùy chọn — Bước 3, merge field sfx theo stt)
 
 Output: output/metadata.json + báo cáo validate (rules 5.1 → 5.8) in ra stdout.
 
 Cách chạy (từ thư mục gốc project):
-    python3 scripts/export.py            # export + validate (bước 4)
+    python3 scripts/export.py            # export + validate (bước 5)
     python3 scripts/export.py --validate # chỉ validate metadata.json hiện có
+    python3 scripts/export.py --step1    # GATE bước 1: đếm asset (nhân vật/bối cảnh/tổng) + character-refs.md phủ đủ
+    python3 scripts/export.py --refs-list     # xuất output/character-refs-list.txt (prompt đánh số, copy vẽ ảnh ingredient hàng loạt) + character-refs-map.txt (ảnh thứ N → TAG.jpg để đổi tên)
     python3 scripts/export.py --step2    # GATE bước 2: scene-breakdown.md đạt chuẩn chưa
-    python3 scripts/export.py --step3    # GATE bước 3: prompts.md đạt chuẩn chưa
+    python3 scripts/export.py --step3    # GATE bước 3: output/sfx.json đạt chuẩn chưa (cần beat xong trước)
+    python3 scripts/export.py --sfx-export    # xuất output/sfx-timeline.json — MODULE SFX ĐỘC LẬP (timestamp+keywords), chỉ cần bước 1-3
+    python3 scripts/export.py --step4    # GATE bước 4: prompts.md đạt chuẩn chưa
     python3 scripts/export.py --prompts-list  # xuất output/prompts-list.txt (prompt đánh số, để copy chạy hàng loạt)
+    python3 scripts/export.py --video-list    # xuất output/video-prompts-list.txt (ảnh phụ cần vẽ + video prompt đánh số)
     python3 scripts/export.py --unix-export   # xuất output/unix-batch-NN.txt (cú pháp Uni-X Studio, nhóm 100 ảnh/file)
 
-QUY TẮC: bước 2/3 CHƯA XONG chừng nào gate tương ứng chưa PASS.
+QUY TẮC: bước 2/3/4 CHƯA XONG chừng nào gate tương ứng chưa PASS.
 """
 
 import json
@@ -76,8 +82,9 @@ def load_scenes():
             "mood": cells[5],
             "characters": norm_chars(cells[6]),
             "description": cells[7],
-            # cột 10 (SFX) tùy chọn — keyword hiệu ứng âm thanh cho editor
-            "sfx": cells[9].strip() if len(cells) > 9 else "",
+            "visual_notes": cells[8] if len(cells) > 8 else "",
+            # SFX KHÔNG còn nằm trong scene-breakdown — tách sang Bước 3 (output/sfx.json),
+            # merge vào metadata theo stt lúc export (xem load_sfx/merge_sfx).
         })
     return title, scenes
 
@@ -91,7 +98,7 @@ def load_prompts():
 
     src = OUTPUT / "prompts.md"
     if not src.exists():
-        sys.exit("CHƯA CÓ output/prompts.md — bước 3 chưa chạy.")
+        sys.exit("CHƯA CÓ output/prompts.md — bước 4 chưa chạy.")
     md = src.read_text(encoding="utf-8")
     prompts = {}
     blocks = re.split(r"^##\s+(\d+)\s*$", md, flags=re.M)
@@ -206,12 +213,24 @@ def merge_typewriter(tw, meta_scenes):
             continue
         sc = by_stt[stt]
         at = cue.get("at", "")
+        # KAIZEN 2026-07-22 (typewriter) — thời lượng gõ tính MÁY từ độ dài text
+        # (65+ gõ chậm ~0.18s/ký tự, kẹp 1.5–6.0s) để editor đặt âm gõ phím bắt đầu
+        # tại `at` và DỪNG đúng lúc chữ gõ xong — chữ và âm khớp nhau máy móc.
+        type_s = min(6.0, max(1.5, round(len(str(cue.get("text", ""))) * 0.18, 1)))
         if TS_RE.match(str(at)):
+            # at lệch scene = LỖI CỨNG (trước là cảnh báo): chữ sẽ hiện đè lên scene khác
+            # → đúng loại bug "chữ 1 nơi, âm đánh chữ 1 nơi".
             if not (ts_to_sec(sc["start"]) <= ts_to_sec(at) < ts_to_sec(sc["end"])):
-                warns.append(f"{cid}: at={at} ngoài khoảng scene {stt} [{sc['start']}–{sc['end']})")
+                errs.append(f"{cid}: at={at} NGOÀI khoảng scene {stt} [{sc['start']}–{sc['end']}) — "
+                            f"cue phải nằm trong scene của nó; sửa `at` hoặc `stt` trong input/typewriter.json")
+                continue
+            if ts_to_sec(at) + type_s > ts_to_sec(sc["end"]):
+                warns.append(f"{cid}: chữ gõ {type_s}s từ at={at} sẽ CHƯA XONG khi scene {stt} kết thúc ({sc['end']}) "
+                             f"— dời `at` sớm hơn hoặc rút ngắn text")
         else:
             warns.append(f"{cid}: at `{at}` sai format HH:MM:SS")
         sc["typewriter"] = {k: v for k, v in cue.items() if k != "stt"}
+        sc["typewriter"]["type_s"] = type_s
         n += 1
     return errs, warns, n
 
@@ -220,16 +239,26 @@ def write_typewriter_cues(tw, meta_scenes):
     """Sinh output/typewriter-cues.md cho editor từ cùng nguồn đã merge vào metadata."""
     by_stt = {sc["stt"]: sc for sc in meta_scenes}
     lines = ["# Typewriter Cues — hiệu ứng đánh máy (overlay lúc dựng — SINH BỞI export.py, sửa nguồn input/typewriter.json)", ""]
+    # KAIZEN 2026-07-22 — hợp đồng ÂM THANH tường minh cho editor: bug thực tế là âm gõ phím
+    # bị rải khắp video (cả đoạn không có chữ) và lệch thời gian với chữ.
+    lines += [
+        "**QUY TẮC ÂM THANH ĐÁNH CHỮ (BẮT BUỘC khi dựng):**",
+        "1. Âm gõ phím CHỈ phát tại đúng cột `Time` của từng cue, chạy đồng bộ với chữ đang gõ, DỪNG sau đúng `Gõ (s)` giây (lúc chữ gõ xong).",
+        "2. Scene KHÔNG có trong bảng này = KHÔNG có chữ và KHÔNG có âm đánh chữ.",
+        "3. Âm đánh chữ KHÔNG lấy từ field `sfx` trong metadata.json — `sfx` là âm bối cảnh của cảnh (gió, cửa, bước chân...), trộn ở lớp riêng, không liên quan hiệu ứng chữ.",
+        "",
+    ]
     for k, v in tw.get("style", {}).items():
         lines.append(f"- **{k}**: {v}")
-    lines += ["", "| # | Time | Scene | Ảnh nền | Loại | Text gõ | Sync |", "|---|---|---|---|---|---|---|"]
+    lines += ["", "| # | Time | Gõ (s) | Scene | Ảnh nền | Loại | Text gõ | Sync |", "|---|---|---|---|---|---|---|---|"]
     for cue in tw.get("cues", []):
         sc = by_stt.get(cue.get("stt"))
         if not sc:
             continue
         text = str(cue.get("text", "")).replace("|", "/").replace("\n", " ↵ ")
         sync = str(cue.get("sync", "")).replace("|", "/")
-        lines.append(f"| {cue.get('id', '')} | {cue.get('at', '')} | {cue['stt']} ({sc['start']}–{sc['end']}) | {sc['image_file']} | {cue.get('type', '')} | `{text}` | {sync} |")
+        type_s = (sc.get("typewriter") or {}).get("type_s", min(6.0, max(1.5, round(len(str(cue.get("text", ""))) * 0.18, 1))))
+        lines.append(f"| {cue.get('id', '')} | {cue.get('at', '')} | {type_s} | {cue['stt']} ({sc['start']}–{sc['end']}) | {sc['image_file']} | {cue.get('type', '')} | `{text}` | {sync} |")
     notes = tw.get("notes", [])
     if notes:
         lines.append("")
@@ -238,6 +267,44 @@ def write_typewriter_cues(tw, meta_scenes):
     out = OUTPUT / "typewriter-cues.md"
     out.write_text("\n".join(lines) + "\n", encoding="utf-8")
     return out
+
+
+# ---------------------------------------------------------------- SFX (Bước 3)
+
+def load_sfx():
+    """Đọc output/sfx.json (do Bước 3 sinh). None nếu chưa có."""
+    f = OUTPUT / "sfx.json"
+    if not f.exists():
+        return None
+    return json.loads(f.read_text(encoding="utf-8"))
+
+
+def merge_sfx(sfx, meta_scenes):
+    """Gắn field sfx (mảng keyword) vào scene khớp stt. Trả (errors, warnings, n_merged).
+
+    sfx.json schema:
+      {"sfx": [{"stt": 1, "keywords": ["rotary phone dialing", ...]}, {"stt": 2, "keywords": []}, ...]}
+    """
+    errs, warns = [], []
+    by_stt = {sc["stt"]: sc for sc in meta_scenes}
+    seen = set()
+    for e in sfx.get("sfx", []):
+        stt = e.get("stt")
+        if stt not in by_stt:
+            errs.append(f"SFX stt {stt} không tồn tại trong scenes")
+            continue
+        kws = e.get("keywords", [])
+        if not isinstance(kws, list):
+            errs.append(f"SFX stt {stt}: keywords phải là mảng")
+            continue
+        by_stt[stt]["sfx"] = [str(k).strip() for k in kws
+                              if str(k).strip() and str(k).strip() not in ("-", "—")]
+        seen.add(stt)
+    missing = sorted(set(by_stt) - seen)
+    if missing:
+        warns.append(f"{len(missing)} scene chưa có entry trong sfx.json (giữ sfx=[]): {missing[:15]}"
+                     f"{'...' if len(missing) > 15 else ''}")
+    return errs, warns, len(seen)
 
 
 # ---------------------------------------------------------------- gates
@@ -251,6 +318,64 @@ FORBIDDEN_TRANS = {
     ("tension", "resolution"), ("establishing", "emotional_peak"), ("resolution", "tension"),
 }
 REST_BEATS = {"establishing", "reflection"}  # rule 3.6 — beat "nghỉ mắt"
+
+
+def gate_step1():
+    """GATE bước 1 — đếm asset (nhân vật + bối cảnh + tổng) & kiểm character-refs.md phủ đủ.
+
+    Nguồn đếm = config.json (characters[] + settings[]) — chính xác, kể cả variant.
+    In dòng đếm ra stdout để user tick khi vẽ ingredient, dù PASS hay FAIL.
+    """
+    errs, warns = [], []
+    config = json.loads((INPUT / "config.json").read_text(encoding="utf-8"))
+    chars = config.get("characters", [])
+    setts = config.get("settings", [])
+    nchar, nset = len(chars), len(setts)
+    total = nchar + nset
+    print(f"── ĐẾM ASSET (từ config.json): Nhân vật: {nchar} | Bối cảnh: {nset} | TỔNG asset cần vẽ: {total}")
+
+    # sanity config
+    if nchar == 0:
+        errs.append("config.characters[] rỗng — chưa có nhân vật nào.")
+    for c in chars:
+        if not (c.get("nano_name") or "").strip():
+            errs.append(f"character id `{c.get('id', '?')}` thiếu nano_name.")
+    for s in setts:
+        if not (s.get("id") or "").strip():
+            errs.append("có setting thiếu `id`.")
+
+    # Rule 2.2/4.7 — mood_map CHỈ được chứa ánh sáng + màu + khung hình, KHÔNG chứa cụm
+    # SHOT SCALE. Mood được append vào MỌI prompt mang mood đó, nên một cụm scale lọt vào
+    # sẽ chọi với Phần 3 của những scene dùng shot khác (KAIZEN 2026-07-20).
+    SCALE_TERMS = r"(extreme close-up|close-up|extreme wide|wide shot|medium shot|over-shoulder|low angle|high angle|macro|\d+mm)"
+    for mood, kw in (config.get("mood_map") or {}).items():
+        hit = sorted(set(re.findall(SCALE_TERMS, kw, re.I)))
+        if hit:
+            errs.append(
+                f"mood_map[`{mood}`] chứa cụm shot scale: {', '.join(hit)} — mood chỉ được là "
+                f"ánh sáng/màu/khung hình (Rule 2.2, 4.7). Cụm này sẽ chọi với shot type của mọi scene dùng mood đó."
+            )
+
+    # character-refs.md phải phủ đủ mọi asset
+    ref = OUTPUT / "character-refs.md"
+    if not ref.exists():
+        errs.append("Chưa có output/character-refs.md — Bước 1 chưa sinh prompt ảnh tham chiếu asset.")
+        return errs, warns
+    txt = ref.read_text(encoding="utf-8")
+    low = txt.lower()
+    miss_char = [c["nano_name"] for c in chars
+                 if (c.get("nano_name") or "").strip() and c["nano_name"].lower() not in low]
+    miss_set = [s["id"] for s in setts
+                if (s.get("id") or "").strip()
+                and s["id"].lower() not in low and s["id"].upper() not in txt
+                and (s.get("name", "").lower() not in low if s.get("name") else True)]
+    if miss_char:
+        errs.append(f"character-refs.md THIẾU ref cho {len(miss_char)} nhân vật: {miss_char}")
+    if miss_set:
+        errs.append(f"character-refs.md THIẾU ref cho {len(miss_set)} bối cảnh: {miss_set}")
+    ok = total - len(miss_char) - len(miss_set)
+    print(f"── COVERAGE character-refs.md: {ok}/{total} asset có prompt tham chiếu")
+    return errs, warns
 
 
 def gate_step2():
@@ -282,6 +407,19 @@ def gate_step2():
                 f"— THIẾU {miss}s ({miss/60:.1f} phút). Bước 2 CHƯA XONG."
             )
 
+    # KAIZEN 2026-07-22 — GRANULARITY: chống cắt scene quá thô (bug: 32 phút → ~30 scene,
+    # có scene dài vài phút, gate cũ vẫn PASS). Max tuyệt đối của mọi beat = 25s (resolution)
+    # → số scene tối thiểu = ceil(SRT / 25). Nhịp slideshow chuẩn 65+ là 10-14s/ảnh.
+    abs_max = max(hi for _, hi in BEAT_BOUNDS.values())
+    if srt_end:
+        min_scenes = -(-srt_end // abs_max)  # ceil
+        if len(scenes) < min_scenes:
+            errs.append(
+                f"GRANULARITY FAIL: chỉ {len(scenes)} scene cho video {srt_end}s ({srt_end/60:.0f} phút) — "
+                f"tối thiểu {min_scenes} scene vì không scene nào được vượt {abs_max}s (rule 3.1). "
+                f"Nhịp chuẩn 10-14s/ảnh → kỳ vọng ~{srt_end // 12} scene. Cắt lại chi tiết hơn."
+            )
+
     prev = None
     streak, streak_beat = 0, None
     rest_run = 0  # rule 3.6 — số scene liên tiếp không có establishing/reflection
@@ -292,17 +430,34 @@ def gate_step2():
             errs.append(f"{p}: Dur={dur}s — phải gộp vào scene liền kề")
         if prev and prev["end"] != s["start"]:
             errs.append(f"{p}: gap/overlap với scene trước (end {prev['end']} vs start {s['start']})")
+        # Rule 4.8 — Visual Notes phải ghi shot type kèm ĐÚNG tên lens (KAIZEN 2026-07-21).
+        # Bước 4 copy nguyên văn cụm shot từ đây, nên ký pháp sai ở 1 scene sẽ lan ra prompt.
+        vn = s.get("visual_notes", "")
+        if re.search(r"\b(shot|close-up)\b", vn, re.I) and not re.search(r"\blens\b", vn, re.I):
+            errs.append(f"{p}: Visual Notes có shot type nhưng thiếu tên lens (rule 4.8) — dùng đúng bảng: "
+                        f"24mm wide-angle lens / 35mm lens / 50mm lens / 85mm lens / 85mm portrait lens / 100mm macro lens")
         if s["beat_type"] not in BEAT_TYPES:
             errs.append(f"{p}: beat_type `{s['beat_type']}` không hợp lệ")
         else:
             lo, hi = BEAT_BOUNDS[s["beat_type"]]
-            if dur > 0 and not (lo <= dur <= hi):
-                warns.append(f"{p}: {s['beat_type']} {dur}s ngoài khoảng {lo}-{hi}s (rule 3.1)")
+            # KAIZEN 2026-07-22 — vượt max là LỖI CỨNG: model yếu từng cắt scene dài vài phút
+            # mà gate chỉ cảnh báo nên vẫn PASS. Dưới min giữ mức cảnh báo (ít hại hơn).
+            if dur > hi:
+                errs.append(f"{p}: {s['beat_type']} {dur}s VƯỢT max {hi}s (rule 3.1) — PHẢI tách scene")
+            elif 0 < dur < lo:
+                warns.append(f"{p}: {s['beat_type']} {dur}s dưới min {lo}s (rule 3.1) — cân nhắc gộp vào scene liền kề")
         if s["mood"] not in moods:
             warns.append(f"{p}: mood `{s['mood']}` không có trong mood_map")
         for cid in s["characters"]:
             if cid not in char_ids:
                 errs.append(f"{p}: character `{cid}` chưa define trong config")
+        # KAIZEN 2026-07-22 — nhân vật chỉ hiện diện qua GIỌNG NÓI (điện thoại, lời kể) không được
+        # liệt kê ở cột Characters: QC1 sẽ ép gọi nano_name vào prompt → model vẽ thêm người không
+        # có trong khung. Chỉ liệt kê nhân vật NHÌN THẤY ĐƯỢC trong ảnh (Rule 4.6 visual state).
+        if len(s["characters"]) > 1 and re.search(
+                r"(qua|trên|bằng)\s+điện thoại|gọi điện|nhấc máy|đầu dây|on the phone", s.get("description", ""), re.I):
+            warns.append(f"{p}: mô tả có cuộc gọi điện thoại nhưng liệt kê {len(s['characters'])} nhân vật — "
+                         f"người ở đầu dây bên kia KHÔNG có trong khung, bỏ khỏi cột Characters (Rule 4.6)")
         # 4+ liên tiếp cùng beat
         if s["beat_type"] == streak_beat:
             streak += 1
@@ -334,7 +489,117 @@ AUDIO_WORDS = r"\b(sound|noise|music|loud|humming|droning|echoing|silence|whispe
 
 
 def gate_step3():
-    """GATE bước 3 — kiểm tra prompts.md khớp scene-breakdown + rules 4.x."""
+    """GATE bước 3 (Sound Extraction) — output/sfx.json phủ đủ scene + hợp lệ.
+
+    Điều kiện tiên quyết: Bước 2 (beat) phải xong — nếu scene-breakdown thiếu/FAIL,
+    gate báo THIẾU BEAT và dừng (không kiểm sfx vì chưa có scene để soi).
+    """
+    errs, warns = [], []
+
+    # 1. Beat phải có trước
+    if not (OUTPUT / "scene-breakdown.md").exists() and not (OUTPUT / "scene-breakdown.json").exists():
+        errs.append("THIẾU BEAT: chưa có output/scene-breakdown.md — chạy Bước 2 (--step2) trước khi tìm âm thanh.")
+        return errs, warns
+    beat_errs, _ = gate_step2()
+    if beat_errs:
+        errs.append(f"BEAT (Bước 2) chưa PASS ({len(beat_errs)} lỗi) — sửa xong Bước 2 rồi mới làm SFX. Chạy --step2 để xem chi tiết.")
+        return errs, warns
+
+    _, scenes = load_scenes()
+    scene_stts = {s["stt"] for s in scenes}
+
+    # 2. sfx.json phải tồn tại (Bước 3 đã chạy)
+    f = OUTPUT / "sfx.json"
+    if not f.exists():
+        errs.append("Chưa có output/sfx.json — Bước 3 chưa chạy. (Video chủ ý không sfx: vẫn tạo file với keywords=[] cho mọi scene.)")
+        return errs, warns
+    try:
+        data = json.loads(f.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as ex:
+        errs.append(f"output/sfx.json không phải JSON hợp lệ: {ex}")
+        return errs, warns
+
+    entries = data.get("sfx")
+    if not isinstance(entries, list):
+        errs.append("output/sfx.json thiếu mảng \"sfx\" (schema: {\"sfx\": [{\"stt\": .., \"keywords\": [..]}]})")
+        return errs, warns
+
+    seen = set()
+    for e in entries:
+        stt = e.get("stt")
+        if stt not in scene_stts:
+            errs.append(f"sfx entry stt {stt} không có scene tương ứng")
+            continue
+        if stt in seen:
+            errs.append(f"sfx entry trùng stt {stt}")
+        if not isinstance(e.get("keywords", []), list):
+            errs.append(f"sfx stt {stt}: keywords phải là mảng (scene tĩnh không âm thanh = [])")
+        seen.add(stt)
+
+    missing = sorted(scene_stts - seen)
+    if missing:
+        errs.append(f"THIẾU sfx cho {len(missing)} scene: {missing[:15]}{'...' if len(missing) > 15 else ''} "
+                    f"— mọi scene phải có entry (scene không âm thanh dùng keywords=[]).")
+
+    # KAIZEN 2026-07-22 (sfx) — Rule 8.7: âm đánh chữ/gõ phím thuộc hiệu ứng typewriter
+    # (đặt tại cue `at` trong typewriter-cues.md), CẤM nằm trong sfx — trừ khi trong CẢNH
+    # thật sự có máy chữ/bàn phím (đọc description). Bug thực tế: video dựng ra toàn tiếng
+    # gõ phím, vang cả ở đoạn không có chữ, lệch thời gian với chữ.
+    TW_SFX = re.compile(r"typewriter|typing|keyboard|keystroke|key\s?clack", re.I)
+    TW_DIEGETIC = re.compile(r"typewriter|keyboard|máy\s*(đánh\s*)?chữ|bàn phím|đánh máy|gõ phím", re.I)
+    desc_by_stt = {s["stt"]: (s.get("description", "") + " " + s.get("visual_notes", "")) for s in scenes}
+    kw_of = {}
+    for e in entries:
+        stt = e.get("stt")
+        kws = e.get("keywords", [])
+        if stt not in scene_stts or not isinstance(kws, list):
+            continue
+        kw_of[stt] = [str(k).strip().lower() for k in kws if str(k).strip()]
+        for k in kw_of[stt]:
+            if TW_SFX.search(k) and not TW_DIEGETIC.search(desc_by_stt.get(stt, "")):
+                errs.append(f"sfx stt {stt}: `{k}` — âm đánh chữ/gõ phím KHÔNG được nằm trong sfx (Rule 8.7): "
+                            f"âm này thuộc hiệu ứng typewriter, editor đặt tại `at` của cue trong typewriter-cues.md. "
+                            f"Chỉ hợp lệ khi description scene có máy chữ/bàn phím thật.")
+
+    # Rule 8.8 — đa dạng: 1 keyword phủ áp đảo toàn video = sfx đơn điệu
+    n_nonempty = sum(1 for v in kw_of.values() if v)
+    if n_nonempty >= 10:
+        freq = {}
+        for v in kw_of.values():
+            for k in set(v):
+                freq[k] = freq.get(k, 0) + 1
+        top_k, top_c = max(freq.items(), key=lambda x: x[1])
+        share = top_c / n_nonempty
+        if share > 0.5:
+            errs.append(f"SFX ĐƠN ĐIỆU: `{top_k}` xuất hiện ở {top_c}/{n_nonempty} scene có âm thanh ({share:.0%}) "
+                        f"— gần như toàn video 1 loại âm. Đa dạng theo bối cảnh/mood (Rule 8.8).")
+        elif share > 0.25:
+            warns.append(f"SFX lặp nhiều: `{top_k}` ở {top_c}/{n_nonempty} scene ({share:.0%}) — cân nhắc đa dạng hơn (Rule 8.8)")
+        prev_runs = {}
+        for stt in sorted(kw_of):
+            cur = {}
+            for k in set(kw_of[stt]):
+                cur[k] = prev_runs.get(k, 0) + 1
+                if cur[k] == 4:
+                    warns.append(f"sfx: `{k}` lặp 4+ scene liên tiếp (tới stt {stt}) — đổi chất liệu âm theo cảnh (Rule 8.8)")
+            prev_runs = cur
+
+    # KAIZEN 2026-07-22 (mật độ) — Rule 8.9: SFX là ĐIỂM NHẤN cảm xúc đặt đúng chỗ,
+    # KHÔNG phải lớp phủ toàn video (bug: model tạo keyword cho 186/186 scene).
+    if scene_stts:
+        share = n_nonempty / len(scene_stts)
+        if share > 0.75:
+            errs.append(f"SFX FULL-COVERAGE: {n_nonempty}/{len(scene_stts)} scene có keyword ({share:.0%}) — "
+                        f"sfx là điểm nhấn cảm xúc (~15-40% scene, Rule 8.9); scene không có sự kiện âm "
+                        f"thật trong narration để keywords=[]. Chọn lọc lại, đừng rải thảm.")
+        elif share > 0.5:
+            warns.append(f"SFX dày: {n_nonempty}/{len(scene_stts)} scene có keyword ({share:.0%}) — "
+                         f"kỳ vọng ~15-40% (Rule 8.9), cân nhắc bớt các scene chỉ có tiếng nền chung chung")
+    return errs, warns
+
+
+def gate_step4():
+    """GATE bước 4 — kiểm tra prompts.md khớp scene-breakdown + rules 4.x."""
     errs, warns = [], []
     config = json.loads((INPUT / "config.json").read_text(encoding="utf-8"))
     style = config.get("style", "").strip()
@@ -360,6 +625,11 @@ def gate_step3():
 
     # Rule 1.1a — nano_name KHÔNG được dính liền sở hữu cách ('s) — phá vỡ tham chiếu ảnh ingredient
     nano_names = [c["nano_name"] for c in config.get("characters", []) if c.get("nano_name")]
+    # KAIZEN 2026-07-17 — mood keywords phải verbatim NGAY từ Bước 4 (không đợi --qc):
+    # sub-agent batch hay bỏ dấu phẩy trong cụm mood (vd "firm posture clear focus"),
+    # --step4 cũ chỉ kiểm style anchor nên lỗi lọt tới QC. Kiểm luôn ở đây.
+    mood_map = config.get("mood_map", {})
+    scene_mood = {s["stt"]: s.get("mood", "") for s in scenes}
 
     for stt in sorted(set(prompts) & scene_stts):
         text = prompts[stt]
@@ -371,6 +641,10 @@ def gate_step3():
             errs.append(f"Prompt {stt}: thiếu style anchor nguyên văn (rule 2.1)")
         if style and text.count(style) > 1:
             errs.append(f"Prompt {stt}: style anchor bị lặp {text.count(style)} lần")
+        # Rule 2.2 / 4.1 Phần 4 — mood keywords verbatim (KAIZEN 2026-07-17)
+        mk = mood_map.get(scene_mood.get(stt, ""), "")
+        if mk and mk not in text:
+            errs.append(f"Prompt {stt}: thiếu mood keywords nguyên văn cho mood `{scene_mood[stt]}` (rule 2.2/4.1)")
         # Rule 4.6 — phần mô tả (bỏ style anchor) không chứa từ cấm
         body = text.replace(style, "").lower()
         for pat, label in ((NARRATIVE_WORDS, "từ hàm ý cốt truyện"),
@@ -464,9 +738,15 @@ def check_video_hook(vh, scenes, prompts, config=None):
             warns.append(f"{cid}: video prompt chưa có camera motion (Rule 6.3)")
         if re.search(r'"[^"]{3,}"', text):
             errs.append(f"{cid}: video prompt chứa dialogue trong ngoặc kép (Rule 6.3 cấm)")
-        # KAIZEN 2026-07-09 — mệnh đề chống icon AI/watermark bắt buộc trong video prompt
-        if "free of watermarks" not in text.lower():
-            warns.append(f"{cid}: thiếu mệnh đề `clean frame free of watermarks, logos, or AI icons` (Rule 6.3, KAIZEN 2026-07-09)")
+        # KAIZEN 2026-07-09 — cần mệnh đề chống icon AI do model tự vẽ.
+        # KAIZEN 2026-07-11 (ĐÈ LÊN, cho prompt VIDEO): từ "watermarks" khiến bộ lọc Flow/Gemini
+        # đọc thành yêu cầu GỠ watermark → CHẶN CỨNG prompt. Với video dùng `clean uncluttered frame`
+        # (watermark Veo đóng sau render, prompt không gỡ được nên mệnh đề kia vô dụng mà rủi ro cao).
+        low = text.lower()
+        if "clean uncluttered frame" not in low and "free of watermarks" not in low:
+            warns.append(f"{cid}: thiếu mệnh đề khung sạch (`clean uncluttered frame` — Rule 6.3, KAIZEN 2026-07-11)")
+        elif "free of watermarks" in low:
+            warns.append(f"{cid}: chứa `free of watermarks` — Flow/Gemini có thể CHẶN prompt video, đổi sang `clean uncluttered frame` (KAIZEN 2026-07-11)")
         # Rule 6.6 — subject persistence
         hits = sorted(set(re.findall(DISCONTINUITY_WORDS, text, re.I)))
         if hits:
@@ -503,6 +783,18 @@ def check_video_hook(vh, scenes, prompts, config=None):
                     errs.append(f"Clip {stt}.{k1} vs {stt}.{k2}: trùng lặp {sim:.0%} — mỗi clip phải có beat thị giác MỚI (Rule 6.7)")
                 elif sim >= 0.55:
                     warns.append(f"Clip {stt}.{k1} vs {stt}.{k2}: giống nhau {sim:.0%} — cân nhắc thêm thông tin thị giác mới (Rule 6.7)")
+
+    # Rule 6.7 — 2 clip LIỀN KỀ (kể cả khác scene) không được cùng primary camera motion (chống hook phẳng)
+    # (QC định tính 2026-07-11 bắt được 2.1/2.2 đều "push-in" mà similarity từ vựng vẫn thấp → lọt lưới sim-check)
+    MOTION = re.compile(r"push[- ]?in|pull[- ]?back|tracking|static camera|camera holds|dolly|crane|handheld|locked[- ]?off|\bpan\b|\bzoom\b|\btilt\b|\bsway\b", re.I)
+    seq = []
+    for m in re.finditer(r"^## Clip (\d+)\.(\d+)\s*\n(.*?)(?=\n## Clip|\Z)", md, re.M | re.S):
+        vp = re.search(r"\*\*Video Prompt:\*\*\s*\n(.*?)(?=\n---|\Z)", m.group(3), re.S)
+        mo = MOTION.search(" ".join(vp.group(1).split())) if vp else None
+        seq.append((f"{m.group(1)}.{m.group(2)}", mo.group(0).lower().replace(" ", "").replace("-", "") if mo else None))
+    for i in range(1, len(seq)):
+        if seq[i][1] and seq[i][1] == seq[i - 1][1]:
+            warns.append(f"Clip {seq[i][0]} và {seq[i-1][0]} liền kề cùng camera motion `{seq[i][1]}` — mỗi cú cắt nên đổi chuyển động máy (Rule 6.7)")
     return errs, warns
 
 
@@ -558,7 +850,7 @@ def shot_cat(body):
 
 
 def gate_qc():
-    """BƯỚC 6 QC — tầng máy: mọi thứ đo đếm được. Ghi report ra output/qc-report.md."""
+    """BƯỚC 7 QC — tầng máy: mọi thứ đo đếm được. Ghi report ra output/qc-report.md."""
     errs, warns = [], []
     config = json.loads((INPUT / "config.json").read_text(encoding="utf-8"))
     style = config.get("style", "").strip()
@@ -574,9 +866,10 @@ def gate_qc():
     _, scenes = load_scenes()
     prompts = load_prompts()
 
-    # chạy lại 2 gate nền
+    # chạy lại 3 gate nền (beat, sfx, prompt)
     e, w = gate_step2(); errs += [f"[step2] {x}" for x in e]; warns += [f"[step2] {x}" for x in w]
-    e, w = gate_step3(); errs += [f"[step3] {x}" for x in e]; warns += [f"[step3] {x}" for x in w]
+    e, w = gate_step3(); errs += [f"[step3-sfx] {x}" for x in e]; warns += [f"[step3-sfx] {x}" for x in w]
+    e, w = gate_step4(); errs += [f"[step4] {x}" for x in e]; warns += [f"[step4] {x}" for x in w]
 
     cats, streak_cat, streak = [], None, 0
     seen = {}
@@ -648,6 +941,7 @@ def gate_qc():
 - [ ] SUBJECT PERSISTENCE (Rule 6.6): từng video prompt neo subject bằng nano_name + đặc điểm nhận diện, 1 chuyển động chính liên tục, camera bám subject, clip Extend giữ nguyên mô tả — chống nhân vật biến mất giữa clip
 - [ ] MOOD ARC: bảng cảm xúc leo thang đúng cấu trúc — emotional_peak nổi bật hơn scene liền trước (shot gần hơn hoặc lighting tương phản)
 - [ ] KHỚP NARRATION: sample ≥10 scene ngẫu nhiên giữa bài — prompt không mâu thuẫn description (trang phục, vật thể, thời tiết, trạng thái vật lý)
+- [ ] SFX (Rule 8.7/8.8): trong các scene đã sample — keyword âm khớp bối cảnh VÀ hợp mood (tense=âm gọn sắc, sad=âm mềm thưa, calm=ambience mềm), đa dạng theo location; KHÔNG âm đánh chữ/gõ phím nào ngoài cue typewriter; scene có cue typewriter không bị ghi thêm âm gõ phím vào sfx
 - [ ] VISUAL STATE: không từ trừu tượng/cốt truyện sót lại, vật thể chính có chất liệu, trạng thái đóng/mở/cũ/mới tường minh
 - [ ] ERA: sample close-up vật thể — đúng niên đại, không anachronism ngoài danh sách forbidden
 - [ ] KẾT LUẬN: PASS / FAIL + danh sách scene cần sửa
@@ -662,12 +956,173 @@ def export_prompts_list():
     """Xuất output/prompts-list.txt từ metadata.json — prompt đánh số thứ tự, cách nhau 1 dòng trống, để copy chạy hàng loạt."""
     meta_file = OUTPUT / "metadata.json"
     if not meta_file.exists():
-        sys.exit("LỖI: chưa có output/metadata.json — chạy Bước 4 (python3 scripts/export.py) trước.")
+        sys.exit("LỖI: chưa có output/metadata.json — chạy Bước 5 (python3 scripts/export.py) trước.")
     meta = json.loads(meta_file.read_text(encoding="utf-8"))
     entries = [f"{sc['stt']}. {sc['prompt']}" for sc in meta["scenes"]]
     out_file = OUTPUT / "prompts-list.txt"
     out_file.write_text("\n\n".join(entries) + "\n", encoding="utf-8")
     print(f"✓ Đã ghi {out_file.name} — {len(entries)} prompt.")
+    sys.exit(0)
+
+
+def export_refs_list():
+    """Xuất 2 file từ output/character-refs.md (Bước 1):
+    - character-refs-list.txt: prompt đánh số phẳng — copy-paste tạo ảnh ingredient hàng loạt.
+    - character-refs-map.txt: `N -> TAG.jpg` — ảnh thứ N (theo đúng thứ tự list) đổi tên thành gì.
+    THỨ TỰ list = đúng thứ tự asset xuất hiện trong character-refs.md — nhờ đó sau khi vẽ
+    hàng loạt, chỉ cần đổi tên ảnh theo map là khớp asset tag khi upload Flow/Uni-X.
+    Format nguồn (Rule 1.4): mỗi asset = heading `### TAG — ...` + prompt trong code block."""
+    src = OUTPUT / "character-refs.md"
+    if not src.exists():
+        sys.exit("LỖI: chưa có output/character-refs.md — chạy Bước 1 trước.")
+    md = src.read_text(encoding="utf-8")
+    pat = re.compile(r"^###\s+([^\n]+?)\s*$\n+```[^\n]*\n(.*?)\n```", re.M | re.S)
+    assets = []
+    for m in pat.finditer(md):
+        tag = m.group(1).split("—")[0].strip()
+        prompt = " ".join(m.group(2).split())
+        if prompt:
+            assets.append((tag, prompt))
+    if not assets:
+        sys.exit("LỖI: không parse được asset nào từ character-refs.md — mỗi asset phải là heading "
+                 "`### TAG — Tên` kèm prompt trong code block ``` ngay dưới (Rule 1.4).")
+
+    lst = OUTPUT / "character-refs-list.txt"
+    lst.write_text("\n\n".join(f"{i}. {p}" for i, (_, p) in enumerate(assets, 1)) + "\n", encoding="utf-8")
+    mp = OUTPUT / "character-refs-map.txt"
+    mp.write_text("\n".join(f"{i} -> {_tagify(t)}.jpg" for i, (t, _) in enumerate(assets, 1)) + "\n", encoding="utf-8")
+    print(f"✓ Đã ghi {lst.name} — {len(assets)} prompt (thứ tự = thứ tự asset trong character-refs.md)")
+    print(f"✓ Đã ghi {mp.name} — map đổi tên: ảnh thứ N → TAG.jpg")
+
+    # đối chiếu số lượng với config — thiếu/thừa là dấu hiệu character-refs.md sai format hoặc sót asset
+    config = json.loads((INPUT / "config.json").read_text(encoding="utf-8"))
+    expect = len(config.get("characters", [])) + len(config.get("settings", []))
+    if expect and len(assets) != expect:
+        print(f"✗ Số prompt parse được ({len(assets)}) ≠ tổng asset trong config ({expect}) — "
+              f"asset thiếu heading `###` hoặc thiếu code block; chạy `--step1` để soi asset nào thiếu ref.")
+        sys.exit(1)
+    sys.exit(0)
+
+
+def _tag_by_text(text, config):
+    """Gắn asset tag cho 1 prompt CHỈ dựa vào nội dung chữ (dùng cho ảnh phụ video hook —
+    ảnh phụ không nằm trong metadata nên không có sẵn danh sách character id).
+    Cùng quy ước với export_unix: nhân vật = nano_name, bối cảnh = cụm định danh đầu tiên
+    của settings[].keywords, khớp KHÔNG phân biệt hoa-thường. Trả (tags, text đã chèn [TAG])."""
+    tags = []
+    for c in config.get("characters", []):
+        nn = (c.get("nano_name") or "").strip()
+        if not nn:
+            continue
+        m = re.search(r"\b" + re.escape(nn) + r"\b", text)
+        if m:
+            tag = _tagify(nn)
+            tags.append(tag)
+            text = text[:m.start()] + f"[{tag}]" + text[m.end():]
+    for s in config.get("settings", []):
+        probe = s["keywords"].split(", ")[0]
+        m = re.search(re.escape(probe), text, re.IGNORECASE)
+        if probe and m:
+            tag = _tagify(s["id"])
+            tags.append(tag)
+            text = text[:m.start()] + f"[{tag}] " + text[m.start():]
+            break  # 1 bối cảnh / ảnh
+    return list(dict.fromkeys(tags)), text
+
+
+def export_video_list():
+    """Xuất output/video-prompts-list.txt từ output/video-prompts.md (Bước 4).
+
+    Hai khối để chạy hàng loạt:
+      A. IMAGE PROMPT của các ẢNH PHỤ `[stt]-[k].jpg` (clip .k hard-cut) — phải vẽ TRƯỚC.
+         (ảnh chính của scene đã nằm trong prompts-list.txt/unix-batch, không lặp lại ở đây)
+      B. VIDEO PROMPT đánh số theo thứ tự clip, kèm tên ảnh dùng làm frame đầu.
+    """
+    src = OUTPUT / "video-prompts.md"
+    if not src.exists():
+        sys.exit("LỖI: chưa có output/video-prompts.md — chạy Bước 4 (video hook) trước.")
+    md = src.read_text(encoding="utf-8")
+    clips = []
+    for m in re.finditer(r"^## Clip (\d+)\.(\d+)\s*\n\*\*Scene:\*\*[^\n]*?\*\*Duration:\*\* (\d+)s[^\n]*\n(.*?)(?=\n## Clip|\Z)",
+                         md, re.M | re.S):
+        stt, k, dur, body = int(m.group(1)), int(m.group(2)), int(m.group(3)), m.group(4)
+        im = re.search(r"\*\*Image Prompt[^\n]*\n(.*?)(?=\n\*\*Video Prompt)", body, re.S)
+        vp = re.search(r"\*\*Video Prompt:\*\*\s*\n(.*?)(?=\n---|\n## |\Z)", body, re.S)
+        clips.append({"stt": stt, "k": k, "dur": dur,
+                      "img": " ".join(im.group(1).split()) if im else None,
+                      "vid": " ".join(vp.group(1).split()) if vp else None})
+    if not clips:
+        sys.exit("LỖI: không parse được clip nào từ video-prompts.md (sai format Rule 6.4).")
+
+    config = json.loads((INPUT / "config.json").read_text(encoding="utf-8"))
+
+    # CHỈ video prompt. Asset gắn y như khi tạo ảnh: nhân vật/bối cảnh nào có ingredient và
+    # được nhắc trong prompt thì gắn [TAG] tại chỗ + liệt kê ở dòng Assets (rỗng nếu không có).
+    # Ảnh làm frame đầu ghi ở dòng `Frame:` (image prompt của ảnh phụ nằm trong video-prompts.md).
+    lines = [f"# VIDEO PROMPT — HOOK — {len(clips)} clip, tổng {sum(c['dur'] for c in clips)}s",
+             "# Chạy image-to-video: upload ảnh ở dòng `Frame:` rồi dán dòng `Prompt:`.",
+             "# Assets = ingredient được nhắc trong prompt (quy ước tag giống unix-batch).", ""]
+    n_tagged = 0
+    for i, c in enumerate(clips, 1):
+        frame = f"{c['stt']}.jpg" if c["k"] == 1 else f"{c['stt']}-{c['k']}.jpg"
+        tags, text = _tag_by_text(c["vid"] or "", config)
+        n_tagged += 1 if tags else 0
+        lines += [f"(Video Prompt {i}/{len(clips)})",
+                  f"Assets: {', '.join(tags)}",
+                  f"Frame: {frame} | Clip {c['stt']}.{c['k']} | {c['dur']}s",
+                  f"Prompt: {text or '(THIẾU video prompt)'}", ""]
+    out = OUTPUT / "video-prompts-list.txt"
+    out.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
+    print(f"✓ Đã ghi {out.name} — {len(clips)} video prompt ({n_tagged} clip có asset tag)")
+    sys.exit(0)
+
+
+def export_sfx_timeline():
+    """Xuất output/sfx-timeline.json — MODULE SFX ĐỘC LẬP: timestamp + keywords theo scene.
+
+    Mục đích: chỉ cần chạy Bước 1→3 là cầm file này sang folder dựng video khác dùng ngay
+    (kèm subtitle + voiceover — timestamp cùng timeline SRT nên tự khớp), KHÔNG cần
+    prompts/metadata (Bước 4/5). Điều kiện: gate step3 (bao gồm beat PASS) sạch lỗi.
+    """
+    errs, warns = gate_step3()
+    if warns:
+        print(f"CẢNH BÁO ({len(warns)}):")
+        for w in warns[:20]:
+            print(f"  ⚠ {w}")
+    if errs:
+        print(f"LỖI ({len(errs)}):")
+        for e in errs[:40]:
+            print(f"  ✗ {e}")
+        sys.exit("✗ FAIL — sửa Bước 2/3 cho PASS rồi chạy lại --sfx-export.")
+    title, scenes = load_scenes()
+    by_stt = {e.get("stt"): e.get("keywords", []) for e in (load_sfx() or {}).get("sfx", [])}
+    rows = []
+    for s in scenes:
+        kws = [str(k).strip() for k in (by_stt.get(s["stt"]) or [])
+               if str(k).strip() and str(k).strip() not in ("-", "—")]
+        rows.append({
+            "stt": s["stt"],
+            "start": s["start"],
+            "end": s["end"],
+            "duration_s": ts_to_sec(s["end"]) - ts_to_sec(s["start"]),
+            "mood": s.get("mood", ""),
+            "description": s.get("description", ""),
+            "keywords": kws,
+        })
+    out = {
+        "project": title,
+        "total_scenes": len(rows),
+        "total_duration_s": ts_to_sec(scenes[-1]["end"]) if scenes else 0,
+        "note": "Module SFX độc lập — timestamp cùng timeline với SRT/voiceover nên tự khớp. "
+                "Chỉ âm diegetic theo phân cảnh (Rule 8.2); KHÔNG gồm nhạc nền và KHÔNG gồm âm đánh chữ "
+                "(âm đánh chữ thuộc typewriter-cues, Rule 8.7). keywords=[] = scene chủ ý im lặng, không phải thiếu.",
+        "scenes": rows,
+    }
+    f = OUTPUT / "sfx-timeline.json"
+    f.write_text(json.dumps(out, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    n_kw = sum(1 for r in rows if r["keywords"])
+    print(f"✓ Đã ghi {f.name} — {len(rows)} scene ({n_kw} có keyword, {len(rows) - n_kw} im lặng), "
+          f"timeline 00:00:00 → {rows[-1]['end'] if rows else '—'}")
     sys.exit(0)
 
 
@@ -687,7 +1142,7 @@ def export_unix():
     Chia nhóm tối đa 100 ảnh/file (giới hạn 1 lượt vẽ của Uni-X)."""
     meta_file = OUTPUT / "metadata.json"
     if not meta_file.exists():
-        sys.exit("LỖI: chưa có output/metadata.json — chạy Bước 4 (python3 scripts/export.py) trước.")
+        sys.exit("LỖI: chưa có output/metadata.json — chạy Bước 5 (python3 scripts/export.py) trước.")
     meta = json.loads(meta_file.read_text(encoding="utf-8"))
     config = json.loads((INPUT / "config.json").read_text(encoding="utf-8"))
 
@@ -732,15 +1187,17 @@ def export_unix():
             unmatched.append(sc["stt"])
         rows.append((sc["stt"], list(dict.fromkeys(tags)), text))
 
-    n_batches = (len(rows) + UNIX_BATCH_SIZE - 1) // UNIX_BATCH_SIZE
+    total = len(rows)  # đánh số LIÊN TỤC toàn cục + mẫu số là TỔNG THỰC (vd 101/170 ở file 2)
+    n_batches = (total + UNIX_BATCH_SIZE - 1) // UNIX_BATCH_SIZE
     written = []
     for b in range(n_batches):
         chunk = rows[b * UNIX_BATCH_SIZE:(b + 1) * UNIX_BATCH_SIZE]
         out_file = OUTPUT / f"unix-batch-{b + 1:02d}.txt"
         n = len(chunk)
         body = []
-        for i, (stt, tags, text) in enumerate(chunk, start=1):
-            body.append(f"(Image Prompt {i}/{n})")
+        for j, (stt, tags, text) in enumerate(chunk):
+            gidx = b * UNIX_BATCH_SIZE + j + 1
+            body.append(f"(Image Prompt {gidx}/{total})")
             body.append(f"Assets: {', '.join(tags)}")
             body.append(f"Prompt: {text}")
             body.append("")
@@ -755,14 +1212,24 @@ def export_unix():
 
 
 def main():
+    if "--refs-list" in sys.argv:
+        export_refs_list()
+    if "--sfx-export" in sys.argv:
+        export_sfx_timeline()
+    if "--video-list" in sys.argv:
+        export_video_list()
     if "--prompts-list" in sys.argv:
         export_prompts_list()
     if "--unix-export" in sys.argv:
         export_unix()
+    if "--step1" in sys.argv:
+        run_gate("BƯỚC 1 (đếm asset + character-refs)", gate_step1)
     if "--step2" in sys.argv:
         run_gate("BƯỚC 2 (scene-breakdown)", gate_step2)
     if "--step3" in sys.argv:
-        run_gate("BƯỚC 3 (prompts)", gate_step3)
+        run_gate("BƯỚC 3 (sfx — âm thanh)", gate_step3)
+    if "--step4" in sys.argv:
+        run_gate("BƯỚC 4 (prompts)", gate_step4)
     if "--qc" in sys.argv:
         run_gate("QC (tầng máy) — report: output/qc-report.md", gate_qc)
     validate_only = "--validate" in sys.argv
@@ -793,9 +1260,17 @@ def main():
                 "characters": s["characters"],
                 "prompt": prompts[s["stt"]],
                 "image_file": f"{s['stt']}.jpg",
-                "sfx": [k.strip() for k in s.get("sfx", "").split(",")
-                        if k.strip() and k.strip() not in ("-", "—")],
+                "sfx": [],  # điền từ output/sfx.json (Bước 3) qua merge_sfx bên dưới
             })
+
+        # SFX (Bước 3, tùy chọn) — merge từ output/sfx.json vào scene khớp stt
+        sfx = load_sfx()
+        sfx_errs, sfx_warns, sfx_n = ([], [], 0)
+        if sfx:
+            sfx_errs, sfx_warns, sfx_n = merge_sfx(sfx, meta_scenes)
+        else:
+            print("ⓘ LƯU Ý: không có output/sfx.json → metadata KHÔNG có hiệu ứng âm thanh (field sfx rỗng).")
+            print("  Chạy Bước 3 (Sound Extraction) để sinh output/sfx.json rồi export lại. Nếu video này chủ ý bỏ sfx thì bỏ qua.")
 
         # Typewriter cues (tùy chọn) — merge từ input/typewriter.json vào scene khớp
         tw = load_typewriter()
@@ -820,12 +1295,18 @@ def main():
         }
 
     errs, warns = validate(meta, srt_total_seconds())
-    if not validate_only and tw:
-        errs += tw_errs
-        warns += tw_warns
+    if not validate_only:
+        if sfx:
+            errs += sfx_errs
+            warns += sfx_warns
+        if tw:
+            errs += tw_errs
+            warns += tw_warns
 
     if not validate_only:
         out_file.write_text(json.dumps(meta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        if sfx and not sfx_errs:
+            print(f"✓ SFX: merge keyword âm thanh vào {sfx_n} scene từ output/sfx.json")
         if tw and not tw_errs:
             cues_file = write_typewriter_cues(tw, meta_scenes)
             print(f"✓ Typewriter: merge {tw_n} cue vào metadata + đã ghi {cues_file.name}")

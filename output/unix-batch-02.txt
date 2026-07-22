@@ -1,279 +1,343 @@
-(Image Prompt 1/70)
-Assets: 
-Prompt: Hollis studying the water while Garrett lifts a dip net of live catfish, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, over-shoulder shot, 50mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 101/186)
+Assets: BURL, CORINNE, PADDOCK_SLOPE
+Prompt: [BURL] and [CORINNE] standing side by side on a [PADDOCK_SLOPE] cleared red-dirt slope with electric netting paddocks, both looking down at the opened bare ground at their feet, medium shot, 50mm lens, strong directional light, firm posture, clear focus, measured deliberation, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 2/70)
+(Image Prompt 102/186)
 Assets: 
-Prompt: Hollis inspecting a fresh catfish, its firm silvery flank, as Garrett watches, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Prompt: A steep power line corridor buried under matted kudzu vines and thorny brambles, twin steel transmission towers carrying high lines above the choked strip, wooded ridges either side, wide shot, 35mm lens, morning light, open composition, warm highlights, belief in posture, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 3/70)
+(Image Prompt 103/186)
 Assets: 
-Prompt: Hollis holding up the catfish, nodding approval, as Garrett stands beside him, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, low angle shot, 35mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Prompt: A herd of goats stepping down a livestock trailer ramp onto rough grass at the foot of a steel transmission tower, tan and black animals crowding the ramp edge, medium close-up, 85mm lens, bright clear light, expansive framing, tangible proof visible in numbers or soil or growth, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 4/70)
+(Image Prompt 104/186)
 Assets: 
-Prompt: Hollis gesturing firmly toward the ponds as Garrett stands beside him, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, extreme wide shot, 24mm wide-angle lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Prompt: Goats grazing between rows of old stone grave markers worn smooth by weather, low iron fence and mown grass strips of a small country burial ground, wide shot, 35mm lens, morning light, open composition, warm highlights, belief in posture, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 5/70)
-Assets: 
-Prompt: Hollis holding a steady firm gaze on Garrett, one finger raised between them, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 105/186)
+Assets: MERLE
+Prompt: [MERLE] driving a pickup truck slowly along a road beside a chain-link fence, a line of third-grade children standing at the fence watching goats graze a steep bank behind an elementary school ball field, medium shot, 50mm lens, morning light, open composition, warm highlights, belief in posture, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 6/70)
-Assets: 
-Prompt: Hollis and Garrett clasping hands in a firm handshake at the pond edge, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 106/186)
+Assets: MERLE, CORINNE
+Prompt: [MERLE] stepping down from a pickup truck parked on a gravel roadside, cap in one hand, seen past the shoulder of [CORINNE] standing in the foreground, over-shoulder shot, 50mm lens, flat overcast light, distant framing, cold detachment, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 7/70)
-Assets: 
-Prompt: Garrett frowning at the pond with a puzzled troubled expression, eyes narrowed and lips pressed thin, four earthen farm ponds, cracked slumping banks, murky still green water, close-up, 85mm portrait lens, full head within frame, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 107/186)
+Assets: MERLE
+Prompt: [MERLE] holding a removed cap against his chest, weathered face lined and eyes lowered as he speaks, wire fence and pasture blurred behind, close-up, 85mm portrait lens, full head within frame, muted desaturated palette, overcast lighting, empty space, weight of waiting, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 8/70)
-Assets: 
-Prompt: Garrett holding two catfish of mismatched sizes side by side above the tub, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium shot, 50mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 108/186)
+Assets: MERLE
+Prompt: [MERLE] standing at a wire fence line with one forearm resting on the top strand, head turned toward the pasture, goats grazing a green bank behind him, medium shot, 50mm lens, muted desaturated palette, overcast lighting, empty space, weight of waiting, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 9/70)
-Assets: 
-Prompt: Garrett hauling a dripping net of catfish in widely mismatched sizes ashore, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, wide shot, 35mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 109/186)
+Assets: MERLE, CORINNE
+Prompt: [MERLE] pressing a pencil tip to the blank back of a creased paper receipt braced on a fence rail, [CORINNE], one hand steadying the paper edge, extreme close-up, 100mm macro lens, bright clear light, expansive framing, tangible proof visible in numbers or soil or growth, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 10/70)
-Assets: 
-Prompt: Garrett gripping two catfish and holding them close together to compare their lengths against a notched sizing bar, four earthen farm ponds, cracked slumping banks, extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 110/186)
+Assets: CORINNE, PADDOCK_SLOPE
+Prompt: [CORINNE] standing alone at the crest of a [PADDOCK_SLOPE] cleared red-dirt slope with electric netting paddocks, an electric netting gate pushed wide open onto empty trampled ground, thick white fog closing every direction, extreme wide shot, 24mm wide-angle lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 11/70)
-Assets: 
-Prompt: Garrett building a wooden grading box with sizing bars, sorting catfish into separate chambers, weathered wooden tool shed, hand tools hung on nail-studded plank walls, sturdy workbench, single hanging bulb light, dirt-and-concrete floor, extreme wide shot, 24mm wide-angle lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 111/186)
+Assets: CORINNE
+Prompt: [CORINNE] standing motionless in dense white fog, head tilted to one side, damp hair and jacket collar beaded with moisture, pale shapes of brush dissolving behind her, medium close-up, 85mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 12/70)
-Assets: 
-Prompt: Garrett bent over the workbench sorting cleaned catfish into graded piles by size, weathered wooden tool shed, hand tools hung on nail-studded plank walls, sturdy workbench, single hanging bulb light, dirt-and-concrete floor, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 112/186)
+Assets: CORINNE, PEPPER
+Prompt: [CORINNE] walking into a dogwood thicket toward [PEPPER], a goat wearing a small brass bell on a worn collar, lying at the center of the herd settled in a ring around it, fog drifting between pale slender trunks, medium shot, 50mm lens, morning light, open composition, warm highlights, belief in posture, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 13/70)
-Assets: 
-Prompt: Garrett at the workbench pressing a phone to one ear over an uneven box of mismatched catfish, Hollis flagging the flaw, weathered wooden tool shed, hand tools hung on nail-studded plank walls, sturdy workbench, single hanging bulb light, dirt-and-concrete floor, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 113/186)
+Assets: CORINNE, OTIS
+Prompt: [OTIS] riding in a pickup cab beside [CORINNE] at the wheel, seen past the shoulder of Otis through the windshield onto a narrow country road running between pastures, over-shoulder shot, 50mm lens, even soft lighting, neutral tones, balanced composition, stillness, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 14/70)
-Assets: 
-Prompt: Hollis frowning sharply over an opened box of mismatched catfish on the steel counter, Garrett tense beside him, seafood restaurant kitchen, stainless steel prep counters, close-up, 85mm portrait lens, full head within frame, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 114/186)
+Assets: OTIS
+Prompt: [OTIS], a ten-year-old boy, turned toward the passenger window with daylight on his face, one hand resting on the door frame, close-up, 85mm portrait lens, full head within frame, morning light, open composition, warm highlights, belief in posture, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 15/70)
-Assets: 
-Prompt: Garrett standing squarely before Hollis across a stainless prep counter, speaking plainly with an open direct posture, seafood restaurant kitchen, stainless steel prep counters, hanging pans, white tiled walls, industrial range, crates of ice, over-shoulder shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 115/186)
+Assets: CORINNE, FARM_KITCHEN
+Prompt: [CORINNE] seated at a table under a low desk lamp, hands laid flat on the open pages of a ledger ruled with faint ink columns, [FARM_KITCHEN] modest farmhouse kitchen dark beyond the lamp pool, medium close-up, 85mm lens, bright clear light, expansive framing, tangible proof visible in numbers or soil or growth, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 16/70)
-Assets: 
-Prompt: Hollis fixing Garrett with a long measuring stare across the steel counter, Garrett holding the look steadily, seafood restaurant kitchen, stainless steel prep counters, hanging pans, white tiled walls, industrial range, crates of ice, low angle shot, 35mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 116/186)
+Assets: PADDOCK_SLOPE
+Prompt: A long [PADDOCK_SLOPE] cleared red-dirt slope with electric netting paddocks seen from across the valley, green stubble regrowth in bands, a dark tree line above and late afternoon shadows stretching down, wide shot, 35mm lens, warm but muted interior light, meditative space, inward gaze, contemplation, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 17/70)
+(Image Prompt 117/186)
 Assets: 
-Prompt: Garrett sorting fresh fish by hand, expression softening, weathered wooden tool shed, hand tools hung on nail-studded plank walls, sturdy workbench, single hanging bulb light, dirt-and-concrete floor, medium close-up, 85mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Prompt: An empty gravel road curving up a hill between grass shoulders and a wire fence, warm low sunset light along the ruts and long shadows lying across the gravel, medium shot, 50mm lens, morning light, open composition, warm highlights, belief in posture, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 18/70)
-Assets: 
-Prompt: Garrett gripping a yellowed paper, eyes fixed on a small printed figure marking the purchase amount, an old sale contract sheet with a printed number, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 118/186)
+Assets: CORINNE, ORCHARD_ROWS
+Prompt: [CORINNE] standing at the head of a [ORCHARD_ROWS] young pecan orchard in contour strips, a single freshly planted band of staked saplings running down the cleared slope, bare worked red soil either side, wide shot, 35mm lens, strong directional light, firm posture, clear focus, measured deliberation, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 19/70)
-Assets: 
-Prompt: Garrett crouching low, weathered fingers skimming the still cold surface, vast industrial holding pond, sterile flat water surface, gray overcast sky, extreme close-up, 100mm macro lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 119/186)
+Assets: CORINNE, OTIS, PECAN_GROVE
+Prompt: [OTIS] pushing a small marker flag into the soil beside a sapling stake while [CORINNE] kneels planting further back, young pecan orchard in contour strips with [PECAN_GROVE] nine towering old pecan trees on an open slope beyond the fence, medium shot, 50mm lens, morning light, open composition, warm highlights, belief in posture, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 20/70)
-Assets: 
-Prompt: Garrett dwarfed along the pond rim, vast industrial holding pond, wide graded earthen banks, sterile flat water surface, service road along the rim, bare graded earth, gray overcast sky, wide shot, 35mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 120/186)
+Assets: NADINE, CORINNE, HAY_BARN
+Prompt: [NADINE] guiding the hands of [CORINNE] through a cleft graft on a pecan scion, a sharp grafting knife splitting the pale cut stock while the scion wedge waits beside it, [HAY_BARN] weathered gray wooden hay barn bench beneath, extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, measured deliberation, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 21/70)
-Assets: 
-Prompt: Garrett lowering the net, eyes hardening, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, close-up, 85mm portrait lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 121/186)
+Assets: CORINNE, ORCHARD_ROWS
+Prompt: [CORINNE] pressing a tightly wrapped graft union on the slender trunk of a young pecan tree, [ORCHARD_ROWS] young pecan orchard in contour strips with damp cool red soil mounded at the base, medium close-up, 85mm lens, morning light, open composition, warm highlights, belief in posture, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 22/70)
-Assets: 
-Prompt: Garrett standing alone at dawn, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, extreme wide shot, 24mm wide-angle lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 122/186)
+Assets: PECAN_GROVE
+Prompt: [PECAN_GROVE] Nine towering old pecan trees on an open slope crowning the ridge line, young pecan orchard in contour strips spreading in banded rows down the hillside directly below them, extreme wide shot, 24mm wide-angle lens, bright clear light, expansive framing, tangible proof visible in numbers or soil or growth, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 23/70)
-Assets: 
-Prompt: Garrett turning the deed over in weathered hands, studying the faded graphite marks along its back, the back of an old land deed with faint pencil handwriting, wide shot, 35mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 123/186)
+Assets: OTIS, ORCHARD_ROWS
+Prompt: [OTIS] standing beside a grafted pecan sapling that rises only to his shoulder, [ORCHARD_ROWS] young pecan orchard in contour strips along the east cut road with wide open sky behind him, low angle shot, 50mm lens, warm but muted interior light, meditative space, inward gaze, contemplation, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 24/70)
-Assets: 
-Prompt: Garrett facing forward, jaw clenched and eyes burning with restrained anger, exhaustion replaced by fury, four earthen farm ponds, murky still green water, low rural horizon, extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 124/186)
+Assets: CORINNE, ORCHARD_ROWS
+Prompt: [CORINNE] driving a farm pickup carrying a large galvanized water tank along a cracked dry ridge strip, [ORCHARD_ROWS] young pecan orchard in contour strips with pale dust lifting behind the wheels, wide shot, 35mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 25/70)
+(Image Prompt 125/186)
 Assets: 
-Prompt: Garrett clutching a single printed sheet, alarm tightening his features as columns of production figures cover it, a printed distributor order sheet, close-up, 85mm portrait lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Prompt: A dead brown pecan sapling with a split cracked graft union standing in parched fissured red soil, curled dry leaves still clinging to the thin stem, extreme close-up, 100mm macro lens, muted desaturated palette, overcast lighting, empty space, weight of waiting, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 26/70)
-Assets: 
-Prompt: Garrett driving north, hands on the wheel, the folded order resting on the seat, gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 126/186)
+Assets: DEAN, PADDOCK_SLOPE
+Prompt: [DEAN] driving a white county sedan creeping slowly along the gravel road above the farm gate, [PADDOCK_SLOPE] cleared red-dirt slope with electric netting paddocks stretching away below the fence line, wide shot, 35mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 27/70)
-Assets: 
-Prompt: Garrett signing loan papers, a faint figure of Walt standing quietly behind him, a bank office desk with loan papers, medium shot, 50mm lens, muted desaturated palette, overcast lighting, empty space, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
+(Image Prompt 127/186)
+Assets: DEAN
+Prompt: [DEAN] seated behind the wheel of a white county sedan, writing on a metal clipboard braced against the steering wheel, gravel road and wire fence line framed through the windshield glass, medium close-up, 85mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 28/70)
-Assets: 
-Prompt: Garrett from behind facing the dry basin, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, over-shoulder shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 128/186)
+Assets: DEAN
+Prompt: [DEAN], face held forward behind a tightly closed car window, the glass mirroring a wire fence line and the cleared slope beyond it, close-up, 85mm portrait lens, flat overcast light, distant framing, cold detachment, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 29/70)
-Assets: 
-Prompt: Garrett kneeling to rebuild the earthen bank, fresh water trickling back across the cracked basin floor, four earthen farm ponds, murky still green water, low rural horizon, extreme close-up, 100mm macro lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 129/186)
+Assets: PADDOCK_SLOPE
+Prompt: A herd of goats grazing across the north slope in autumn, [PADDOCK_SLOPE] cleared red-dirt slope with electric netting paddocks and swept fence lines carrying thin late kudzu regrowth along the wire, medium shot, 50mm lens, strong directional light, firm posture, clear focus, measured deliberation, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 30/70)
-Assets: 
-Prompt: Garrett and Reggie talking beside the pond, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium close-up, 85mm lens, even soft lighting, neutral tones, balanced composition, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 130/186)
+Assets: BURL, CORINNE, PADDOCK_SLOPE
+Prompt: [BURL] sitting on a lowered truck tailgate with hands folded over his hip while [CORINNE] walks the far paddock line, [PADDOCK_SLOPE] cleared red-dirt slope with electric netting paddocks under bare winter grass, medium shot, 50mm lens, muted desaturated palette, overcast lighting, empty space, weight of waiting, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 31/70)
-Assets: 
-Prompt: Garrett handing Reggie a ring of keys, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 131/186)
+Assets: BURL, CORINNE
+Prompt: [BURL] holding out a quarter-folded sheet of paper covered in faint gray pencil marks, a knotted weathered hand extended toward [CORINNE] who reaches to take it above a truck tailgate, extreme close-up, 100mm macro lens, muted desaturated palette, overcast lighting, empty space, weight of waiting, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 32/70)
-Assets: 
-Prompt: Reggie pointing down, Garrett watching closely, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, close-up, 85mm portrait lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 132/186)
+Assets: BURL, CORINNE, PADDOCK_SLOPE
+Prompt: Framed over the shoulder of [BURL] toward [CORINNE], who stands holding the folded pencil-marked paper in both hands, [PADDOCK_SLOPE] cleared red-dirt slope with electric netting paddocks bare behind her, over-shoulder shot, 50mm lens, strong directional light, firm posture, clear focus, measured deliberation, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 33/70)
-Assets: 
-Prompt: Reggie and Garrett walking, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, extreme wide shot, 24mm wide-angle lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 133/186)
+Assets: BURL, CORINNE, HAY_BARN
+Prompt: [BURL] standing at a wooden pen rail studying two young buck goats for a long moment while [CORINNE] waits beside him, [HAY_BARN] weathered gray wooden hay barn behind the pen with loose straw scattered underfoot, medium shot, 50mm lens, morning light, open composition, warm highlights, belief in posture, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 34/70)
-Assets: 
-Prompt: Garrett gazing thoughtfully toward the water, quiet steadiness settling across his weathered features, four earthen farm ponds, murky still green water, low rural horizon, extreme close-up, 100mm macro lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 134/186)
+Assets: CORINNE, ORCHARD_ROWS
+Prompt: [CORINNE] walking a newly opened south slope lined with fresh planting stakes set along the contour, [ORCHARD_ROWS] young pecan orchard in contour strips already established on the adjoining hillside, extreme wide shot, 24mm wide-angle lens, strong directional light, firm posture, clear focus, measured deliberation, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 35/70)
-Assets: 
-Prompt: Garrett steering a loaded fish-transport truck along the sunbaked road under harsh midday heat, gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, wide shot, 35mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 135/186)
+Assets: CORINNE, ORCHARD_ROWS
+Prompt: [CORINNE], weathered face turned down toward the slope with eyes steady and jaw set, [ORCHARD_ROWS] young pecan orchard in contour strips softened behind her shoulder, close-up, 85mm portrait lens, full head within frame, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 36/70)
-Assets: 
-Prompt: Garrett measuring crushed ice into the transport tank, careful handfuls layered over the pale fish, his expression firm and focused, a fish transport tank on a truck bed, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 136/186)
+Assets: CORINNE, ORCHARD_ROWS
+Prompt: [CORINNE] standing at the upper gate looking down over straight ordered rows of young trees, [ORCHARD_ROWS] young pecan orchard in contour strips covering the whole spring slope below her, high angle shot, 50mm lens, bright clear light, expansive framing, tangible proof visible in numbers or soil or growth, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 37/70)
-Assets: 
-Prompt: Garrett walking the frosted bank at dawn, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 137/186)
+Assets: CORINNE, PADDOCK_SLOPE
+Prompt: [CORINNE] standing near the fence as a county pickup truck turns in at the gate and rolls across a steel cattle guard, [PADDOCK_SLOPE] cleared red-dirt slope with electric netting paddocks beyond the gate on an April morning, wide shot, 35mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 38/70)
-Assets: 
-Prompt: Garrett and Reggie netting fish, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, extreme wide shot, 24mm wide-angle lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 138/186)
+Assets: DEAN, OLDER_OTIS, PADDOCK_SLOPE
+Prompt: [DEAN] pulling rubber boots onto his feet while seated on a lowered truck tailgate, [OLDER_OTIS] standing beside him in an olive-drab field jacket carrying a canvas camera bag, [PADDOCK_SLOPE] cleared red-dirt slope with electric netting paddocks past the truck, medium shot, 50mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 39/70)
-Assets: 
-Prompt: Garrett poised at the water edge, tense, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, close-up, 85mm portrait lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 139/186)
+Assets: DEAN, CORINNE, PADDOCK_SLOPE
+Prompt: Framed over the shoulder of [DEAN] pushing a measuring wheel along a dirt road bank with a clipboard under one arm, [CORINNE] walking a step behind beside [PADDOCK_SLOPE] cleared red-dirt slope with electric netting paddocks, over-shoulder shot, 50mm lens, even soft lighting, neutral tones, balanced composition, stillness, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 40/70)
-Assets: 
-Prompt: Marlene standing among the rearing tanks, arms crossed under pressure, fish hatchery building, long concrete rearing tanks, aeration pipes, wet tiled floor, corrugated metal walls, hanging work lights, low angle shot, 35mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 140/186)
+Assets: DEAN, CORINNE, PADDOCK_SLOPE
+Prompt: [CORINNE] gesturing across an open paddock while [DEAN] writes on a clipboard form beside her, [PADDOCK_SLOPE] cleared red-dirt slope with electric netting paddocks and grazing goats spread behind them, medium shot, 50mm lens, strong directional light, firm posture, clear focus, measured deliberation, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 41/70)
-Assets: 
-Prompt: Preston Vance seated at the desk, sliding a finger down a printed chart as he calculates figures with cold detachment, a corporate office desk with charts, medium close-up, 85mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 141/186)
+Assets: CORINNE
+Prompt: [CORINNE] setting a thick swollen ring binder down onto a dust-covered truck tailgate, bowed cardboard covers and tabbed dividers packed between crammed paper pages, extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, measured deliberation, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 42/70)
+(Image Prompt 142/186)
 Assets: 
-Prompt: The resilient pond water holding steady, small ripples spreading across the murky green surface, four earthen farm ponds, murky still green water, low rural horizon, extreme close-up, 100mm macro lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Prompt: Open ledger pages covered in dense faint ink marks and ruled columns lying flat in bright sun on a dusty truck tailgate, a folded contract sheet tucked under the binder rings, medium close-up, 85mm lens, bright clear light, expansive framing, tangible proof visible in numbers or soil or growth, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 43/70)
-Assets: 
-Prompt: Marlene walking the hatchery floor, standing firm and resolute, fish hatchery building, long concrete rearing tanks, aeration pipes, wet tiled floor, corrugated metal walls, hanging work lights, wide shot, 35mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 143/186)
+Assets: DEAN, CORINNE, PECAN_GROVE
+Prompt: [DEAN] and [CORINNE] walking uphill toward [PECAN_GROVE] nine towering old pecan trees on an open slope, broad canopies spread wide across the east shoulder of the hill in April sun, wide shot, 35mm lens, morning light, open composition, warm highlights, belief in posture, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 44/70)
-Assets: 
-Prompt: Marlene pouring a cup of coffee, weighing the request with steady eyes, fish hatchery building, long concrete rearing tanks, aeration pipes, wet tiled floor, corrugated metal walls, hanging work lights, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 144/186)
+Assets: ORCHARD_ROWS
+Prompt: Woven wire mesh cages still fastened around old pecan trunks on the hill shoulder, [ORCHARD_ROWS] young pecan orchard in contour strips running in banded rows down the full slope below them, extreme wide shot, 24mm wide-angle lens, morning light, open composition, warm highlights, belief in posture, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 45/70)
-Assets: 
-Prompt: Marlene shaking her head firmly in refusal, jaw set with quiet resolve, fish hatchery building, long concrete rearing tanks, aeration pipes, wet tiled floor, corrugated metal walls, hanging work lights, over-shoulder shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 145/186)
+Assets: CORINNE, DEAN, KUDZU_HILLSIDE
+Prompt: [CORINNE] pointing down toward two steep draws while [DEAN] follows the line of her arm, [KUDZU_HILLSIDE] hillside smothered in dense kudzu vines holding on in the narrow draws along the north boundary, high angle shot, 50mm lens, strong directional light, firm posture, clear focus, measured deliberation, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 46/70)
-Assets: 
-Prompt: Hollis stepping down from his dusty pickup by the pond bank, Garrett wiping his hands on a work rag walking over to greet him, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 146/186)
+Assets: DEAN
+Prompt: [DEAN], clipboard lowered to his side, turning his head to ask a question on a windswept hilltop, open sky and bare ridge crest behind him, close-up, 85mm portrait lens, full head within frame, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 47/70)
-Assets: 
-Prompt: Hollis and Garrett clasping hands in a firm handshake beside the water, both men standing squarely facing each other, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium shot, 50mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 147/186)
+Assets: CORINNE, DEAN, ORCHARD_ROWS
+Prompt: [CORINNE] answering with three fingers raised while [DEAN] writes the reply on a clipboard form beside her, hilltop above [ORCHARD_ROWS] young pecan orchard in contour strips with open sky behind them, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, measured deliberation, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 48/70)
-Assets: 
-Prompt: Two catfish shown in stark contrast, one pale mass-produced fish sagging soft and loose, the other firm and tight-fleshed with bright glistening scales, two fish laid side by side on crushed ice, close-up, 85mm portrait lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 148/186)
+Assets: CORINNE, FARM_KITCHEN
+Prompt: [CORINNE], fingertips resting at the table edge beside a slit official envelope lying open on scrubbed wood, a single unfolded sheet with faint typed marks flattened next to it, [FARM_KITCHEN] modest farmhouse kitchen table, extreme close-up, 100mm macro lens, bright clear light, expansive framing, tangible proof visible in numbers or soil or growth, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 49/70)
-Assets: 
-Prompt: Preston Vance leaning against a spotless clean sedan, spreading a printed acquisition offer across the trunk lid while Garrett stands facing him, gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, extreme wide shot, 24mm wide-angle lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 149/186)
+Assets: CORINNE, FARM_KITCHEN
+Prompt: [CORINNE] stepping out through a screen door into the yard carrying a coiled roll of fence wire, [FARM_KITCHEN] modest farmhouse kitchen behind her with a single sheet of paper left flat on the table, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, stillness, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 50/70)
-Assets: 
-Prompt: Preston Vance gesturing mid-speech with an assured smug expression, Garrett standing calm and composed letting him talk on, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, low angle shot, 35mm lens, cold office light, distant framing, clinical atmosphere, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 150/186)
+Assets: ORCHARD_ROWS
+Prompt: A cleared farm spread open in late summer sun with fenced pasture, a full working water trough and clean road frontage, [ORCHARD_ROWS] young pecan orchard in contour strips banding the slope above the paddocks, wide shot, 35mm lens, bright clear light, expansive framing, tangible proof visible in numbers or soil or growth, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 51/70)
-Assets: 
-Prompt: Garrett wiping his hands on a rag, fixing Preston Vance with a level steady gaze as he asks one calm pointed question, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 151/186)
+Assets: CORINNE, FARM_KITCHEN
+Prompt: [CORINNE] holding a single printed appraisal notice up at eye level, lips parted and eyes fixed on the page, [FARM_KITCHEN] modest farmhouse kitchen, worn wooden table under a single warm light, close-up, 85mm portrait lens, full head within frame, dramatic side lighting, shallow DOF, stark tonal contrast, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 52/70)
-Assets: 
-Prompt: Preston Vance standing speechless and slack-jawed at the pond edge, Garrett watching steadily a short distance away, both figures small in the wide landscape, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, wide shot, 35mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 152/186)
+Assets: FARM_KITCHEN
+Prompt: A crisp printed appraisal notice lying flat beside a thick old leather ledger opened to pages of faint ink marks, [FARM_KITCHEN] modest farmhouse kitchen, worn wooden table under a single warm light, plain curtained window behind, medium close-up, 85mm lens, even soft lighting, neutral tones, balanced composition, stillness, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 53/70)
-Assets: 
-Prompt: Marlene, Hollis, and Reggie standing shoulder to shoulder in warm companionship, weathered working clothes and easy trusting expressions turned toward the camera, three rural working people standing together, medium shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 153/186)
+Assets: PADDOCK_SLOPE
+Prompt: An entire cleared farm seen from high above, [PADDOCK_SLOPE] cleared red-dirt slope with electric netting paddocks, browse-line stubble, contour strips of staked young trees running down to a gravel road, extreme wide shot, 24mm wide-angle lens, bright clear light, expansive framing, tangible proof visible in numbers or soil or growth, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 54/70)
-Assets: 
-Prompt: Garrett standing quiet and composed at the edge of his ponds, hands loose, a settled calm across his face, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, extreme wide shot, 24mm wide-angle lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 154/186)
+Assets: BURL, OLDER_OTIS, PECAN_GROVE
+Prompt: [OLDER_OTIS] swinging a long fiberglass pole up into a heavy limb while [BURL] sits nearby on a folding canvas chair with one hand raised in correction, broad canvas tarps spread over the ground, [PECAN_GROVE] nine towering old pecan trees on an open slope, medium shot, 50mm lens, morning light, open composition, warm highlights, belief in posture, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 55/70)
+(Image Prompt 155/186)
 Assets: 
-Prompt: Tight on Garrett, a weathered face with jaw set firm and eyes steady with quiet certainty, full head within frame, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, extreme close-up, 100mm macro lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Prompt: Thick heaps of hard-shelled pecans piled deep across a spread canvas tarp, dry split husks and bits of leaf litter scattered through the nuts, extreme close-up, 100mm macro lens, bright clear light, expansive framing, tangible proof visible in numbers or soil or growth, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 56/70)
+(Image Prompt 156/186)
 Assets: 
-Prompt: Garrett facing the camera with a resolute grounded expression, the living ponds rippling behind him, full head within frame, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, close-up, 85mm portrait lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Prompt: Bulging burlap sacks of pecans stacked on a worn metal floor scale inside a rural buying station, bare concrete floor and an open loading door beyond, medium close-up, 85mm lens, warm but muted interior light, meditative space, inward gaze, contemplation, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 57/70)
-Assets: 
-Prompt: Preston Vance tucking the folded offer into his coat, the spotless sedan rolling away down the gravel toward the horizon, Garrett standing steady by the fence line watching it go, gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, wide shot, 35mm lens, strong directional light, firm posture, clear focus, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 157/186)
+Assets: CORINNE, FARM_KITCHEN
+Prompt: [CORINNE], both hands resting at the table edge, looking down at a printed appraisal notice set beside a thick old leather ledger, [FARM_KITCHEN] modest farmhouse kitchen, worn wooden table under a single warm light pooling on the two pages, high angle shot, 50mm lens, warm but muted interior light, meditative space, inward gaze, contemplation, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 58/70)
-Assets: 
-Prompt: Garrett arranging a rustic wooden processing table inside the shed, fresh-cut fillets laid out on the scrubbed surface before him, weathered wooden tool shed, hand tools hung on nail-studded plank walls, sturdy workbench, single hanging bulb light, dirt-and-concrete floor, extreme wide shot, 24mm wide-angle lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 158/186)
+Assets: CORINNE, FARM_KITCHEN
+Prompt: [CORINNE] looking down at two papers laid side by side, face composed and still beneath the kitchen lamp, [FARM_KITCHEN] modest farmhouse kitchen, worn wooden table under a single warm light, close-up, 85mm portrait lens, full head within frame, even soft lighting, neutral tones, balanced composition, stillness, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 59/70)
+(Image Prompt 159/186)
 Assets: 
-Prompt: Garrett standing beside a small white refrigerator in the shed, a plain homemade smoker rig set up nearby, old hand tools hanging above him, weathered wooden tool shed, hand tools hung on nail-studded plank walls, sturdy workbench, single hanging bulb light, dirt-and-concrete floor, medium close-up, 85mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Prompt: A worn steel floor scale standing in the middle of a rural feed store aisle stacked with heavy grain sacks, background figures gathered in conversation near the counter, medium shot, 50mm lens, even soft lighting, neutral tones, balanced composition, stillness, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 60/70)
+(Image Prompt 160/186)
 Assets: 
-Prompt: Over the shoulder of Marlene, Garrett handing her a neat package of smoked catfish fillets across the workbench, both nodding in easy agreement, weathered wooden tool shed, hand tools hung on nail-studded plank walls, sturdy workbench, single hanging bulb light, dirt-and-concrete floor, over-shoulder shot, 50mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Prompt: Long folding tables lined with covered casserole dishes in a low-ceilinged church basement, background figures seated shoulder to shoulder over supper plates, wide shot, 35mm lens, bright clear light, expansive framing, tangible proof visible in numbers or soil or growth, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 61/70)
-Assets: 
-Prompt: Garrett seated at the farmhouse table late at night, one hand resting on the open ledger, tallying columns of printed figures under a warm lamp, a farmhouse table with an open ledger at night, medium shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 161/186)
+Assets: MERLE
+Prompt: [MERLE] standing motionless in a farm cooperative warehouse with jaw set and eyes lowered beneath a green seed cap, pallets of stacked feed sacks softened behind him, close-up, 85mm portrait lens, full head within frame, warm but muted interior light, meditative space, inward gaze, contemplation, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 62/70)
-Assets: 
-Prompt: Extreme close-up of a handwritten six-figure total in the open ledger, faint pencil handwriting under lamplight, Garrett fingertip resting beside the number as he reads it twice, calm, a farmhouse table with an open ledger at night, extreme close-up, 100mm macro lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 162/186)
+Assets: CORINNE, FARM_KITCHEN
+Prompt: [CORINNE] bent over an open ledger working a stub pencil down a page of faint ink marks, [FARM_KITCHEN] modest farmhouse kitchen, worn wooden table under a single warm light, dark winter glass in the curtained window behind, medium close-up, 85mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 63/70)
-Assets: 
-Prompt: Garrett turning over the old land deed in his hands, fingertips tracing a faint line of old pencil script on the worn reverse side, edges soft and yellowed, the back of an old land deed with faint pencil handwriting, medium close-up, 85mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 163/186)
+Assets: ORCHARD_ROWS
+Prompt: A herd of goats crowded into a narrow strip of grazed-down winter pasture behind a taut wire fence, [ORCHARD_ROWS] young pecan orchard in contour strips of staked saplings rising beyond the fence line, wide shot, 35mm lens, cool blue-gray tones, hard shadows, tight framing, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 64/70)
-Assets: 
-Prompt: Garrett standing at the water edge at dawn, the pond surface flushed pink and rippling with rising fish, his face lifting in quiet understanding, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, low angle shot, 35mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 164/186)
+Assets: HAY_BARN
+Prompt: Square hay bales stacked high toward the rafters, [HAY_BARN] weathered gray wooden hay barn, sagging roof line, dim cluttered interior with wooden shelves and tarps, goats waiting at the open doorway in cold gray daylight, medium shot, 50mm lens, muted desaturated palette, overcast lighting, empty space, weight of waiting, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 65/70)
-Assets: 
-Prompt: Younger Garrett crouched over an engine part with grease-stained hands, elderly Walt beside him in the fallow field studying the young man with warm approval, full head within frame, a worn-out fallow farm field, close-up, 85mm portrait lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
+(Image Prompt 165/186)
+Assets: CORINNE, PADDOCK_SLOPE
+Prompt: [CORINNE] standing at a rail above a wooden holding pen where the goat herd stands parted into two distinct groups, [PADDOCK_SLOPE] cleared red-dirt slope with electric netting paddocks beyond the pen, high angle shot, 50mm lens, strong directional light, firm posture, clear focus, measured deliberation, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 66/70)
-Assets: 
-Prompt: Garrett gazing thoughtfully across the four ponds, a quiet dawning comprehension settling over his weathered features as he stands at the bank, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 166/186)
+Assets: CORINNE, PEPPER, PADDOCK_SLOPE
+Prompt: [PEPPER], gray-muzzled with a brass bell on a worn dark leather strap, standing among several young does inside a wooden pen while [CORINNE] rests one hand on the top rail, [PADDOCK_SLOPE] cleared red-dirt slope with electric netting paddocks behind, medium close-up, 85mm lens, even soft lighting, neutral tones, balanced composition, stillness, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 67/70)
-Assets: 
-Prompt: A pickup truck backing down the gravel toward the pond, water churning as a fresh batch of fish pours in, Garrett guiding it while the fence line stands calm and empty, gravel farm road, wire fence line, dry roadside grass, flat open farmland, distant treeline, wide shot, 35mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 167/186)
+Assets: MERLE, PADDOCK_SLOPE
+Prompt: [MERLE] standing still at a wire fence with both hands on the top rail, gaze held on the goat pen in front of him, [PADDOCK_SLOPE] cleared red-dirt slope with electric netting paddocks rising behind, bare December ground, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, stillness, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 68/70)
-Assets: 
-Prompt: Garrett walking the pond bank, a faint overlaid image of aging Walt reading the barren field beyond, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, medium close-up, 85mm lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, soft warm vignette, slightly faded colors, dreamy atmosphere
+(Image Prompt 168/186)
+Assets: MERLE, CORINNE, PADDOCK_SLOPE
+Prompt: Framed over the shoulder of [CORINNE] as she faces [MERLE] standing quiet at the fence with one hand flat on a post, [PADDOCK_SLOPE] cleared red-dirt slope with electric netting paddocks stretching behind them, over-shoulder shot, 50mm lens, warm but muted interior light, meditative space, inward gaze, contemplation, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 69/70)
-Assets: 
-Prompt: Four quiet ponds stretching wide at dawn, still surfaces catching the first pale gold light, banks calm and unhurried, the whole expanse patient, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, extreme wide shot, 24mm wide-angle lens, soft golden light, warm palette, slight gaussian blur, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+(Image Prompt 169/186)
+Assets: MERLE, CORINNE, PADDOCK_SLOPE
+Prompt: [MERLE] holding a green seed cap down in both hands with chin lifted toward the paddock lines above, [CORINNE] standing at the frame edge in soft focus, [PADDOCK_SLOPE] cleared red-dirt slope with electric netting paddocks blurred behind, close-up, 85mm portrait lens, full head within frame, morning light, open composition, warm highlights, belief in posture, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+
+(Image Prompt 170/186)
+Assets: CORINNE, MERLE, PADDOCK_SLOPE
+Prompt: [CORINNE] pointing toward the hillside with one arm extended while [MERLE] listens beside her at the fence, [PADDOCK_SLOPE] cleared red-dirt slope with electric netting paddocks running up behind them, dry gray vine ropes on fence wire, medium shot, 50mm lens, strong directional light, firm posture, clear focus, measured deliberation, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+
+(Image Prompt 171/186)
+Assets: CORINNE, PADDOCK_SLOPE
+Prompt: [CORINNE] talking with one hand raised in a flat measuring gesture, late afternoon sun across a steady face, [PADDOCK_SLOPE] cleared red-dirt slope with electric netting paddocks softened behind her, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, measured deliberation, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+
+(Image Prompt 172/186)
+Assets: MERLE
+Prompt: [MERLE] listening closely with a green seed cap gripped in both hands at chest height, eyes fixed forward and mouth closed, open field light spilling across a ruddy face, close-up, 85mm portrait lens, full head within frame, morning light, open composition, warm highlights, belief in posture, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+
+(Image Prompt 173/186)
+Assets: CORINNE
+Prompt: Goats stepping down a ribbed metal trailer ramp onto packed dirt at another farm while [CORINNE] stands at the trailer gate holding it wide, plain wire fencing and a distant tractor shed beyond, medium shot, 50mm lens, soft golden light, warm palette, slight gaussian blur, memory haze, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+
+(Image Prompt 174/186)
+Assets: PEPPER, PADDOCK_SLOPE
+Prompt: [PEPPER], gray to the shoulders with a brass bell on a worn dark leather strap, standing squarely in an open gateway with the rest of the herd bunched behind, [PADDOCK_SLOPE] cleared red-dirt slope with electric netting paddocks beyond the gate, medium close-up, 85mm lens, soft golden light, warm palette, slight gaussian blur, memory haze, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+
+(Image Prompt 175/186)
+Assets: CORINNE, PEPPER
+Prompt: [CORINNE], weathered hands unbuckling a thin worn leather strap and lifting a tarnished brass bell away from the neck of [PEPPER], coarse brown-and-white goat hair filling the frame, extreme close-up, 100mm macro lens, soft golden light, warm palette, slight gaussian blur, memory haze, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
 
-(Image Prompt 70/70)
+(Image Prompt 176/186)
+Assets: CORINNE, PECAN_GROVE
+Prompt: [CORINNE] walking up a mowed grass lane with a tarnished brass bell carried in one hand, [PECAN_GROVE] nine towering old pecan trees on an open slope ahead, the largest tree reaching a low limb out over clipped grass at shoulder height, wide shot, 35mm lens, morning light, open composition, warm highlights, belief in posture, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+
+(Image Prompt 177/186)
+Assets: PECAN_GROVE
+Prompt: A tarnished brass bell hanging from a low limb on a short leather strap, tipped mid-swing against bare canopy branches and open winter sky, [PECAN_GROVE] nine towering old pecan trees on an open slope, low angle shot, 50mm lens, morning light, open composition, warm highlights, belief in posture, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+
+(Image Prompt 178/186)
+Assets: OLDER_OTIS, PECAN_GROVE
+Prompt: [OLDER_OTIS] standing with both hands pushed deep into the pockets of an olive-drab field jacket, head tilted up toward a low limb overhead, [PECAN_GROVE] nine towering old pecan trees on an open slope behind him, close-up, 85mm portrait lens, full head within frame, morning light, open composition, warm highlights, belief in posture, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+
+(Image Prompt 179/186)
+Assets: KUDZU_HILLSIDE
+Prompt: A [KUDZU_HILLSIDE] hillside smothered in dense kudzu vines, one unbroken green wave over fence lines and barn shapes, viewed from the gravel road below with vine ropes draping the roadside wire, extreme wide shot, 24mm wide-angle lens, warm but muted interior light, meditative space, inward gaze, contemplation, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+
+(Image Prompt 180/186)
+Assets: ORCHARD_ROWS
+Prompt: That same hillside opened to bare red dirt and standing grass, [ORCHARD_ROWS] young pecan orchard in contour strips of slender staked saplings with flags marching down to the foot of the slope, mowed grass lanes between the rows, wide shot, 35mm lens, bright clear light, expansive framing, tangible proof visible in numbers or soil or growth, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+
+(Image Prompt 181/186)
+Assets: CORINNE, PADDOCK_SLOPE
+Prompt: [CORINNE] standing alone at a wire fence with both forearms on the top rail, gaze carried out across the slope as daylight fades, [PADDOCK_SLOPE] cleared red-dirt slope with electric netting paddocks stretching away below, medium shot, 50mm lens, warm but muted interior light, meditative space, inward gaze, contemplation, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+
+(Image Prompt 182/186)
+Assets: CORINNE, PADDOCK_SLOPE
+Prompt: [CORINNE] bending to lift an electric netting post out of the ground with gloved hands, [PADDOCK_SLOPE] cleared red-dirt slope with electric netting paddocks under low early morning mist, browse-line stubble underfoot, medium close-up, 85mm lens, strong directional light, firm posture, clear focus, measured deliberation, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+
+(Image Prompt 183/186)
+Assets: CORINNE, ORCHARD_ROWS
+Prompt: A dusty sedan parked at an open farm gate while [CORINNE] walks a mowed lane beside a visitor, [ORCHARD_ROWS] young pecan orchard in contour strips of slender staked saplings with flags spreading across the open hillside, wide shot, 35mm lens, even soft lighting, neutral tones, balanced composition, stillness, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+
+(Image Prompt 184/186)
+Assets: ORCHARD_ROWS
+Prompt: Hundreds of slender staked saplings stepping across a hillside in even bands, [ORCHARD_ROWS] young pecan orchard in contour strips, mowed grass lanes running between the rows down the open slope, high angle shot, 50mm lens, morning light, open composition, warm highlights, belief in posture, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+
+(Image Prompt 185/186)
 Assets: 
-Prompt: Garrett standing at the pond edge in warm morning light, gazing over the calm water with an open steady expression, one hand resting easy, four earthen farm ponds, cracked slumping banks, rusted paddle-wheel aerator, murky still green water, weedy grass edges, scattered bare trees, low rural horizon, wide shot, 35mm lens, morning light, open composition, warm highlights, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field
+Prompt: A tarnished brass bell swinging on a short leather strap tied to a rough pecan limb, early sunlight catching the worn metal lip and the deep grain of the bark, extreme close-up, 100mm macro lens, soft golden light, warm palette, slight gaussian blur, memory haze, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons
+
+(Image Prompt 186/186)
+Assets: PECAN_GROVE
+Prompt: The whole farm seen from a ridge road, a small white farmhouse and weathered barn below a cleared hillside, young pecan orchard in contour strips running down the slope and [PECAN_GROVE] nine towering old pecan trees on an open slope at the crest, extreme wide shot, 24mm wide-angle lens, morning light, open composition, warm highlights, belief in posture, photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons

@@ -1,6 +1,6 @@
-# Rule: QC (Bước 6 — kiểm định chất lượng)
+# Rule: QC (Bước 7 — kiểm định chất lượng)
 
-Bước QC chạy SAU khi bước 4 PASS (bước 5 xuất Uni-X có thể chạy trước hoặc sau), TRƯỚC khi giao prompt sang Flow/Uni-X để vẽ hàng loạt. Gồm 2 tầng bắt buộc theo thứ tự.
+Bước QC chạy SAU khi bước 5 PASS (bước 6 xuất Uni-X có thể chạy trước hoặc sau), TRƯỚC khi giao prompt sang Flow/Uni-X để vẽ hàng loạt. Gồm 2 tầng bắt buộc theo thứ tự.
 
 ## 7.1 — Tầng máy (bắt buộc PASS trước)
 
@@ -9,7 +9,7 @@ python3 scripts/export.py --qc
 ```
 
 Tự kiểm và ghi report vào `output/qc-report.md`:
-- Toàn bộ gate bước 2 + 3 (coverage, style anchor, era, negative framing, video hook...)
+- Toàn bộ gate bước 2 + 3 + 4 (coverage beat, sfx phủ đủ scene, style anchor, era, negative framing, video hook...)
 - **QC1 Character lock**: scene có nhân vật → prompt phải chứa đúng nano_name
 - **QC2 Mood verbatim**: prompt phải chứa nguyên văn mood keywords từ mood_map
 - **QC3 Flashback**: scene có variant quá khứ phải kèm flashback_style

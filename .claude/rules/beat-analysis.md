@@ -56,6 +56,15 @@ Một đoạn narration NÊN được tách thành scene mới khi xảy ra ≥1
 5. **Dialogue turn** — lượt nói chuyển người (mỗi lượt nói dài có thể là 1 scene).
 6. **Vượt max duration** — đoạn text quá dài cho 1 beat type → bắt buộc tách.
 
+## 3.5a — Visual Notes phải ghi shot type kèm ĐÚNG tên lens
+
+Cột `Visual Notes` là nguồn mà Bước 4 (kể cả sub-agent batch) **copy nguyên văn** cụm shot type sang Phần 3 của prompt — nên ký pháp sai ở đây sẽ nhân bản ra toàn bộ prompt.
+
+- Viết shot type kèm đúng tên lens trong bảng Rule 4.8: `24mm wide-angle lens`, `35mm lens`, `50mm lens`, `85mm lens`, `85mm portrait lens`, `100mm macro lens`.
+  - Sai: `extreme wide shot 24mm`, `close-up 85mm portrait` (tự đặt ký pháp `<số>mm` rời, thiếu chữ `lens`)
+  - Đúng: `extreme wide shot, 24mm wide-angle lens`, `close-up, 85mm portrait lens`
+- Gate `--step2` báo LỖI cứng nếu ô Visual Notes có cụm shot mà thiếu chữ `lens` (KAIZEN 2026-07-21).
+
 ## 3.6 — Audience-Specific Adjustments
 
 Vì đối tượng khán giả là người 65+:

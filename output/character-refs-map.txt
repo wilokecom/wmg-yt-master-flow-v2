@@ -1,0 +1,16 @@
+1 -> CORINNE.jpg
+2 -> OTIS.jpg
+3 -> OLDER_OTIS.jpg
+4 -> BURL.jpg
+5 -> MERLE.jpg
+6 -> NADINE.jpg
+7 -> DEAN.jpg
+8 -> PEPPER.jpg
+9 -> COURTHOUSE_STEPS.jpg
+10 -> KUDZU_HILLSIDE.jpg
+11 -> UNDER_CANOPY.jpg
+12 -> PECAN_GROVE.jpg
+13 -> FARM_KITCHEN.jpg
+14 -> HAY_BARN.jpg
+15 -> PADDOCK_SLOPE.jpg
+16 -> ORCHARD_ROWS.jpg

@@ -1,0 +1,1876 @@
+{
+  "project": "The Kudzu Place — Corinne Ashbury's Four Growing Seasons",
+  "total_scenes": 186,
+  "total_duration_s": 1974,
+  "note": "Module SFX độc lập — timestamp cùng timeline với SRT/voiceover nên tự khớp. Chỉ âm diegetic theo phân cảnh (Rule 8.2); KHÔNG gồm nhạc nền và KHÔNG gồm âm đánh chữ (âm đánh chữ thuộc typewriter-cues, Rule 8.7). keywords=[] = scene chủ ý im lặng, không phải thiếu.",
+  "scenes": [
+    {
+      "stt": 1,
+      "start": "00:00:00",
+      "end": "00:00:10",
+      "duration_s": 10,
+      "mood": "dismissive",
+      "description": "Hạt rao bán cùng một thửa 104 mẫu ba lần; ba lần bậc thềm tòa án lặng đi khi người điều phối hỏi giá mở đầu",
+      "keywords": [
+        "cold march wind down empty street",
+        "small crowd shuffling on stone steps"
+      ]
+    },
+    {
+      "stt": 2,
+      "start": "00:00:10",
+      "end": "00:00:19",
+      "duration_s": 9,
+      "mood": "determined",
+      "description": "Đến phiên thứ tư vào tháng Ba, một góa phụ ba mươi tám tuổi tên Corinne Ashbury giơ thẻ và nói chín mươi mốt nghìn bốn trăm đô",
+      "keywords": [
+        "auctioneer calling for bids outdoors",
+        "paper bid card lifted"
+      ]
+    },
+    {
+      "stt": 3,
+      "start": "00:00:19",
+      "end": "00:00:24",
+      "duration_s": 5,
+      "mood": "sad",
+      "description": "Con số đó gần bằng từng xu tiền bảo hiểm nhân thọ của chồng bà từng trả cho bà",
+      "keywords": []
+    },
+    {
+      "stt": 4,
+      "start": "00:00:24",
+      "end": "00:00:37",
+      "duration_s": 13,
+      "mood": "sad",
+      "description": "Suốt hai mươi hai năm kudzu đã nuốt dần mảnh đất theo cách nước tù nuốt một cánh đồng trũng - đầu tiên là hàng rào, rồi nhà kho cỏ, rồi cả hình dáng những ngọn đồi",
+      "keywords": [
+        "wind moving through dense kudzu leaves"
+      ]
+    },
+    {
+      "stt": 5,
+      "start": "00:00:37",
+      "end": "00:00:48",
+      "duration_s": 11,
+      "mood": "sad",
+      "description": "Cho tới khi cả thửa đất nhìn từ đường cao tốc chỉ còn là một làn sóng xanh dài đổi màu theo mùa mà không bao giờ đổi hình",
+      "keywords": []
+    },
+    {
+      "stt": 6,
+      "start": "00:00:48",
+      "end": "00:01:03",
+      "duration_s": 15,
+      "mood": "dismissive",
+      "description": "Ai đó phía sau bật cười, rồi thêm hai người nữa; mọi người đàn ông trên bậc thềm đều từng đánh nhau với dây leo trên đất mình và biết câu chuyện đó kết thúc ra sao - thứ ngoài kia đã thôi là chuyện cỏ dại từ lâu, nó đã thành một vùng địa hình",
+      "keywords": [
+        "men laughing in a small crowd",
+        "boots scuffing stone steps"
+      ]
+    },
+    {
+      "stt": 7,
+      "start": "00:01:03",
+      "end": "00:01:15",
+      "duration_s": 12,
+      "mood": "shock",
+      "description": "Không một ai trong phòng biết rằng dưới lớp dây leo còn chín cái cây đang sống, kể cả người phụ nữ vừa trả tiền mua chúng; ba tuần sau bà lùa tám mươi ba con dê xuống sườn đồi",
+      "keywords": []
+    },
+    {
+      "stt": 8,
+      "start": "00:01:15",
+      "end": "00:01:27",
+      "duration_s": 12,
+      "mood": "hopeful",
+      "description": "Trong sách Luca chương mười ba, chính Chúa kể về một cái cây ba năm không ra trái, và về người đã xin thêm một mùa nữa trước khi nó bị đốn hạ",
+      "keywords": []
+    },
+    {
+      "stt": 9,
+      "start": "00:01:27",
+      "end": "00:01:34",
+      "duration_s": 7,
+      "mood": "hopeful",
+      "description": "Hãy để yên nó năm nay nữa, cho tới khi tôi xới quanh gốc và bón cho nó",
+      "keywords": []
+    },
+    {
+      "stt": 10,
+      "start": "00:01:34",
+      "end": "00:01:43",
+      "duration_s": 9,
+      "mood": "tense",
+      "description": "Corinne Ashbury có ba mùa sinh trưởng - liệu chừng đó có đủ không; các phiên bán đất siết thuế ở Georgia vẫn diễn ra vào thứ Ba đầu tháng ngay trên bậc thềm tòa án",
+      "keywords": []
+    },
+    {
+      "stt": 11,
+      "start": "00:01:43",
+      "end": "00:01:53",
+      "duration_s": 10,
+      "mood": "calm",
+      "description": "Thứ Ba tháng Ba năm đó gió thổi dọc con phố trước tòa án hạt Gilmer lạnh tới mức người điều phối phải dựng cổ áo lên mà đọc mô tả thửa đất",
+      "keywords": [
+        "cold wind gusting between buildings",
+        "courthouse door closing"
+      ]
+    },
+    {
+      "stt": 12,
+      "start": "00:01:53",
+      "end": "00:02:05",
+      "duration_s": 12,
+      "mood": "dismissive",
+      "description": "Những người đàn ông đứng đó cứ đút tay trong túi, mà đó cũng là một kiểu ra giá; tất cả đều biết thửa đất ấy và họ gọi nó là mảnh đất kudzu",
+      "keywords": []
+    },
+    {
+      "stt": 13,
+      "start": "00:02:05",
+      "end": "00:02:19",
+      "duration_s": 14,
+      "mood": "sad",
+      "description": "Corinne Ashbury đã có mười hai năm làm nhân viên định giá bồi thường ở Atlanta; công việc của bà là đứng trên lối vào nhà người khác sau tuần tệ nhất đời họ và viết xuống một con số cho những gì họ đã mất",
+      "keywords": []
+    },
+    {
+      "stt": 14,
+      "start": "00:02:19",
+      "end": "00:02:25",
+      "duration_s": 6,
+      "mood": "sad",
+      "description": "Ba năm góa bụa; bà ghi lại mọi thứ và ít nói, còn người ta thường nhầm điều thứ hai thành điều thứ nhất",
+      "keywords": []
+    },
+    {
+      "stt": 15,
+      "start": "00:02:25",
+      "end": "00:02:35",
+      "duration_s": 10,
+      "mood": "sad",
+      "description": "Nolan Ashbury làm chồng bà mười một năm; ông mất vào một sáng tháng Giêng vì tim, trước khi xe cứu thương kịp lên tới đầu phố nhà họ",
+      "keywords": [
+        "distant ambulance siren approaching"
+      ]
+    },
+    {
+      "stt": 16,
+      "start": "00:02:35",
+      "end": "00:02:43",
+      "duration_s": 8,
+      "mood": "sad",
+      "description": "Và đó là tất cả, bởi bà chưa bao giờ kể câu chuyện ấy dài hơn thế với bất kỳ ai; thứ ông để lại là một đứa con trai và một tấm séc",
+      "keywords": []
+    },
+    {
+      "stt": 17,
+      "start": "00:02:43",
+      "end": "00:02:54",
+      "duration_s": 11,
+      "mood": "calm",
+      "description": "Đứa bé là Otis, tám tuổi, ngồi tránh gió ngoài hành lang tòa án với hộp bút chì đặt phẳng trên đầu gối, đang đếm ô trần nhà; cậu đếm mọi thứ theo cách những đứa trẻ khác ngân nga",
+      "keywords": []
+    },
+    {
+      "stt": 18,
+      "start": "00:02:54",
+      "end": "00:03:11",
+      "duration_s": 17,
+      "mood": "calm",
+      "description": "Thửa đất là một trăm lẻ bốn mẫu phía đông ranh giới hạt, hồ sơ ghi không có công năng sản xuất; một thế hệ trước ai đó đã trồng kudzu trên bờ đường để giữ đất, việc mà người ta từng được khuyên phải làm",
+      "keywords": []
+    },
+    {
+      "stt": 19,
+      "start": "00:03:11",
+      "end": "00:03:16",
+      "duration_s": 5,
+      "mood": "shock",
+      "description": "Còn dây leo thì làm đúng điều người ta nhờ nó làm rồi cứ thế đi tiếp - hai mươi hai năm",
+      "keywords": []
+    },
+    {
+      "stt": 20,
+      "start": "00:03:16",
+      "end": "00:03:27",
+      "duration_s": 11,
+      "mood": "determined",
+      "description": "Khi người điều phối hỏi giá mở đầu lần thứ tư, bà nói con số đó mà không cao giọng, và búa gõ xuống ở chín mươi mốt nghìn bốn trăm đô",
+      "keywords": [
+        "auction gavel strike on wood",
+        "crowd falling silent"
+      ]
+    },
+    {
+      "stt": 21,
+      "start": "00:03:27",
+      "end": "00:03:38",
+      "duration_s": 11,
+      "mood": "reflection",
+      "description": "Bà không mua nó để canh tác; suốt hai năm tháng nào bà cũng lái xe ngang bức tường dây leo ấy trên đường tới văn phòng bồi thường ở Ellijay",
+      "keywords": []
+    },
+    {
+      "stt": 22,
+      "start": "00:03:38",
+      "end": "00:03:52",
+      "duration_s": 14,
+      "mood": "determined",
+      "description": "Rồi một thứ bị định giá bằng không bắt đầu trông giống một thứ chưa ai từng thật sự nhìn; đó không phải là nông nghiệp mà là một người đàn bà cả đời định giá mất mát, đi mua lấy mất mát lớn nhất hạt",
+      "keywords": []
+    },
+    {
+      "stt": 23,
+      "start": "00:03:52",
+      "end": "00:04:05",
+      "duration_s": 13,
+      "mood": "determined",
+      "description": "Thứ bà có ngoài tờ chủ quyền là một tập giấy vàng lấy từ văn phòng bồi thường, một cột con số chạy dọc mép và chữ dê viết ngang đầu trang, gạch chân hai lần",
+      "keywords": []
+    },
+    {
+      "stt": 24,
+      "start": "00:04:05",
+      "end": "00:04:10",
+      "duration_s": 5,
+      "mood": "determined",
+      "description": "Dê ăn kudzu; dê còn thích ăn nó hơn thứ khác",
+      "keywords": [
+        "goat tearing leaves from vine"
+      ]
+    },
+    {
+      "stt": 25,
+      "start": "00:04:10",
+      "end": "00:04:21",
+      "duration_s": 11,
+      "mood": "tense",
+      "description": "Có một điều kiện, và bà hiểu rõ nó trước khi đặt bút ký: mảnh đất nằm dưới một giao ước sử dụng bảo tồn, thứ cho phép đất đang canh tác được đánh thuế như đất canh tác",
+      "keywords": []
+    },
+    {
+      "stt": 26,
+      "start": "00:04:21",
+      "end": "00:04:31",
+      "duration_s": 10,
+      "mood": "tense",
+      "description": "Để giữ được nó bà phải chứng minh có canh tác nông nghiệp thật, và một thẩm định viên của hạt sẽ tự mình đi bộ khắp đám kudzu vào mùa xuân năm thứ tư - ba mùa sinh trưởng",
+      "keywords": []
+    },
+    {
+      "stt": 27,
+      "start": "00:04:31",
+      "end": "00:04:40",
+      "duration_s": 9,
+      "mood": "tense",
+      "description": "Nếu giao ước đứt, thuế truy thu và tiền phạt sẽ đến cùng một lúc, và không phiên bản nào trong phép tính của bà sống nổi qua chuyện đó",
+      "keywords": []
+    },
+    {
+      "stt": 28,
+      "start": "00:04:40",
+      "end": "00:04:53",
+      "duration_s": 13,
+      "mood": "sad",
+      "description": "Sau chín mươi mốt nghìn bốn trăm đô, sau các khoản phí và sang tên, phần còn lại chỉ đủ mua một rơ moóc chở gia súc cũ, một đôi giày đi học vào tháng Chín, và chưa tới một nửa số dê ghi trên tập giấy vàng",
+      "keywords": []
+    },
+    {
+      "stt": 29,
+      "start": "00:04:53",
+      "end": "00:05:05",
+      "duration_s": 12,
+      "mood": "determined",
+      "description": "Bà ký tên mình, nhận chìa khóa một cánh cổng không ai mở suốt hai mươi hai năm, rồi lái xe về phía thứ duy nhất mà đường cao tốc cho bà thấy, đó là một màu duy nhất",
+      "keywords": [
+        "rusted padlock chain unlocked",
+        "farm gate hinge groaning open"
+      ]
+    },
+    {
+      "stt": 30,
+      "start": "00:05:05",
+      "end": "00:05:14",
+      "duration_s": 9,
+      "mood": "sad",
+      "description": "Nếu bạn từng bị người ta nói rằng thứ bạn muốn cứu không đáng để cứu, thì bạn đã biết chính xác bà cảm thấy thế nào khi ngồi trong chiếc xe tải đã tắt máy",
+      "keywords": [
+        "truck engine switched off",
+        "cab settling in silence"
+      ]
+    },
+    {
+      "stt": 31,
+      "start": "00:05:14",
+      "end": "00:05:26",
+      "duration_s": 12,
+      "mood": "determined",
+      "description": "Lần đi vào đầu tiên chỉ được bốn trăm thước trong cả một buổi chiều; dây leo đã trùm qua hàng rào và biến hàng rào thành một bức tường, nên bà chui vào đúng chỗ một con nai vẫn chui",
+      "keywords": [
+        "heavy vine curtain pushed aside",
+        "dry leaves crunching underfoot"
+      ]
+    },
+    {
+      "stt": 32,
+      "start": "00:05:26",
+      "end": "00:05:38",
+      "duration_s": 12,
+      "mood": "calm",
+      "description": "Bà bò bằng tay và đầu gối, Otis theo sau; dưới lớp lá trời mát và tối, một trần xanh cao sáu mét ở nhiều chỗ giữ hết ánh sáng lại bên ngoài",
+      "keywords": []
+    },
+    {
+      "stt": 33,
+      "start": "00:05:38",
+      "end": "00:05:45",
+      "duration_s": 7,
+      "mood": "nostalgic",
+      "description": "Không khí có mùi lá ướt và mùi mục, và một lần, mùi khô ngọt như vỏ hạt hồ đào sau cơn mưa",
+      "keywords": []
+    },
+    {
+      "stt": 34,
+      "start": "00:05:45",
+      "end": "00:05:52",
+      "duration_s": 7,
+      "mood": "calm",
+      "description": "Bà tìm ra nhà kho cỏ bằng cách đi thẳng vào nó; Otis tìm được mười một cọc rào và báo lại con số",
+      "keywords": [
+        "hand slapping hollow wooden post",
+        "child voice counting outdoors"
+      ]
+    },
+    {
+      "stt": 35,
+      "start": "00:05:52",
+      "end": "00:06:05",
+      "duration_s": 13,
+      "mood": "sad",
+      "description": "Từ đỉnh dốc cả mảnh đất hiện ra cùng một lúc, và chính đó là vấn đề: một trăm lẻ bốn mẫu kudzu đọc ra như một vật thể duy nhất, mà trên một vật thể duy nhất thì không có chỗ nào để bắt đầu",
+      "keywords": []
+    },
+    {
+      "stt": 36,
+      "start": "00:06:05",
+      "end": "00:06:15",
+      "duration_s": 10,
+      "mood": "calm",
+      "description": "Burl Tannehill bảy mươi mốt tuổi, đã nuôi dê trên dải đồi đó từ đời ông nội ông, và là người duy nhất trong hạt không cười",
+      "keywords": []
+    },
+    {
+      "stt": 37,
+      "start": "00:06:15",
+      "end": "00:06:24",
+      "duration_s": 9,
+      "mood": "calm",
+      "description": "Ông kể cho bà nghe dê làm gì, là gặm ngước lên và ra ngoài, ăn lá ăn dây ăn cả vỏ, và dê không làm gì, là bất cứ điều gì mà người ta trông cậy vào",
+      "keywords": []
+    },
+    {
+      "stt": 38,
+      "start": "00:06:24",
+      "end": "00:06:34",
+      "duration_s": 10,
+      "mood": "determined",
+      "description": "Ông bán cho bà tám mươi ba con với cái giá công bằng cho cả hai và hào phóng với không bên nào; ông cũng đưa bà một chiếc chuông đồng buộc trên dây da đã mòn",
+      "keywords": [
+        "goat herd milling in a pen",
+        "brass bell shaken in hand"
+      ]
+    },
+    {
+      "stt": 39,
+      "start": "00:06:34",
+      "end": "00:06:46",
+      "duration_s": 12,
+      "mood": "hopeful",
+      "description": "Con dê đầu đàn là Pepper, mõm đã xám, bước xuống khỏi rơ moóc như thể nó sở hữu chỗ đó và cả đàn đi theo; trong sương mù, Burl nói, mắt chẳng giúp được ai, nhưng tai thì vẫn còn dùng được",
+      "keywords": [
+        "livestock trailer ramp lowered",
+        "hooves clattering down metal ramp"
+      ]
+    },
+    {
+      "stt": 40,
+      "start": "00:06:46",
+      "end": "00:06:57",
+      "duration_s": 11,
+      "mood": "determined",
+      "description": "Họ căng lưới điện và chia sườn đồi gần thành các paddock bốn mẫu; tám tới mười con dê một mẫu, ông nói, và chuyển chúng đi trước khi chúng thấy chán",
+      "keywords": []
+    },
+    {
+      "stt": 41,
+      "start": "00:06:57",
+      "end": "00:07:10",
+      "duration_s": 13,
+      "mood": "hopeful",
+      "description": "Tuần cuối tháng Ba bà mở cổng và tám mươi ba con dê tràn xuống đám dây leo; âm thanh không giống thứ bà tưởng tượng, nó đều, khô và khổng lồ",
+      "keywords": [
+        "farm gate swinging wide open",
+        "large goat herd rushing downhill"
+      ]
+    },
+    {
+      "stt": 42,
+      "start": "00:07:10",
+      "end": "00:07:17",
+      "duration_s": 7,
+      "mood": "calm",
+      "description": "Hàng trăm chiếc lá cùng lúc, và đâu đó bên trong tiếng động ấy, đang di chuyển, là tiếng chuông",
+      "keywords": [
+        "hundreds of leaves being stripped at once",
+        "goat bell moving through brush"
+      ]
+    },
+    {
+      "stt": 43,
+      "start": "00:07:17",
+      "end": "00:07:28",
+      "duration_s": 11,
+      "mood": "dismissive",
+      "description": "Merle Yates canh tác hai trăm mẫu dọc ranh phía tây đất bà, năm mươi sáu tuổi, ồn ào, không phải người ác; ông tin vào những gì chính mắt mình đã thấy",
+      "keywords": []
+    },
+    {
+      "stt": 44,
+      "start": "00:07:28",
+      "end": "00:07:34",
+      "duration_s": 6,
+      "mood": "dismissive",
+      "description": "Và thứ ông đã thấy là kudzu sống dai hơn một máy phát cỏ, một máy ủi và hai công ty hóa chất",
+      "keywords": []
+    },
+    {
+      "stt": 45,
+      "start": "00:07:34",
+      "end": "00:07:42",
+      "duration_s": 8,
+      "mood": "dismissive",
+      "description": "Ông dừng xe ở cổng nhà bà và nhìn đàn dê một lúc lâu rồi hỏi con nào hết trước, đám kudzu đó hay tiền của cô",
+      "keywords": []
+    },
+    {
+      "stt": 46,
+      "start": "00:07:42",
+      "end": "00:07:53",
+      "duration_s": 11,
+      "mood": "calm",
+      "description": "Giữa tháng Tư bà đi vào một paddock mà đàn dê đã gặm trụi mười một ngày trước đó; mặt đất khi ấy đã lộ ra, chính bà đã nhìn thấy lớp đất trần",
+      "keywords": []
+    },
+    {
+      "stt": 47,
+      "start": "00:07:53",
+      "end": "00:07:58",
+      "duration_s": 5,
+      "mood": "shock",
+      "description": "Giờ đây mọc xuyên lên qua lớp đất ấy, thành những hàng đều tăm tắp chạy xuống mặt dốc, là những chồi non cao tới mắt cá chân",
+      "keywords": []
+    },
+    {
+      "stt": 48,
+      "start": "00:07:58",
+      "end": "00:08:14",
+      "duration_s": 16,
+      "mood": "shock",
+      "description": "Kudzu chưa hề bị giết, nó chỉ bị cắt ngọn; dưới mỗi thân cây, bầu rễ nằm trong đất như một nắm tay siết chặt, hai mươi hai năm đường tích trữ",
+      "keywords": [
+        "spade cutting into packed soil",
+        "root ball pulled from earth"
+      ]
+    },
+    {
+      "stt": 49,
+      "start": "00:08:14",
+      "end": "00:08:31",
+      "duration_s": 17,
+      "mood": "determined",
+      "description": "Còn đàn dê thì mới chỉ lấy phần ngọn; hai mùa, Burl nói qua điện thoại, có thể là ba - gặm nó, để nó mọc lại, rồi gặm nữa, cho tới khi bộ rễ tiêu hết thứ nó đã dành dụm",
+      "keywords": [
+        "rotary desk phone handset lifted",
+        "quiet farmhouse room tone"
+      ]
+    },
+    {
+      "stt": 50,
+      "start": "00:08:31",
+      "end": "00:08:48",
+      "duration_s": 17,
+      "mood": "shock",
+      "description": "Chuyện kia xảy ra ngay trong tuần đó: có một cái giếng đào tay cũ dưới nhà kho, không nằm trên bản đồ thửa nào, và dây leo đã mọc thành một cái nắp ngang miệng giếng trông y hệt mặt đất - một con dê tơ lọt xuống",
+      "keywords": [
+        "loose stones falling into a deep well",
+        "goat bleating in distress"
+      ]
+    },
+    {
+      "stt": 51,
+      "start": "00:08:48",
+      "end": "00:08:59",
+      "duration_s": 11,
+      "mood": "sad",
+      "description": "Họ làm việc tới quá tối với dây thừng và một chiếc đèn, Burl cũng tới, và vẫn không đủ, và gần nửa đêm ông đặt bàn tay lên chiếc tời rồi gọi tên bà một lần, rất khẽ",
+      "keywords": [
+        "rope creaking under strain",
+        "hand winch ratcheting in the dark"
+      ]
+    },
+    {
+      "stt": 52,
+      "start": "00:08:59",
+      "end": "00:09:11",
+      "duration_s": 12,
+      "mood": "sad",
+      "description": "Sáng hôm sau họ lấp cái giếng bằng đá và đất sét; đêm đó bà ngồi ở bàn bếp với cuốn sổ cái từ công việc cũ, thứ sinh ra để ghi lại một mất mát đáng giá bao nhiêu, và lần này bà không biết viết gì vào cột bên phải",
+      "keywords": [
+        "rocks and clay shoveled into a hole"
+      ]
+    },
+    {
+      "stt": 53,
+      "start": "00:09:11",
+      "end": "00:09:17",
+      "duration_s": 6,
+      "mood": "hopeful",
+      "description": "Tới tuần cuối tháng Mười, sườn phía đông đã bị ăn xuống tới đúng hình dáng của mặt đất bên dưới nó",
+      "keywords": []
+    },
+    {
+      "stt": 54,
+      "start": "00:09:17",
+      "end": "00:09:28",
+      "duration_s": 11,
+      "mood": "calm",
+      "description": "Đàn dê đã làm sườn đồi đó theo vòng quay từ tháng Tám, bốn paddock, chuyển mỗi chín ngày, và thứ chúng để lại trông ít giống một đồng cỏ hơn là một căn phòng vừa bị bóc hết giấy dán tường",
+      "keywords": []
+    },
+    {
+      "stt": 55,
+      "start": "00:09:28",
+      "end": "00:09:39",
+      "duration_s": 11,
+      "mood": "calm",
+      "description": "Corinne đi trên đó vào một sáng thứ Ba khi sương giá còn đọng lại ở các chỗ trũng; dây leo chết treo trên dây rào thành những sợi thừng xám khô",
+      "keywords": []
+    },
+    {
+      "stt": 56,
+      "start": "00:09:39",
+      "end": "00:09:51",
+      "duration_s": 12,
+      "mood": "shock",
+      "description": "Và mọc thẳng lên từ mặt đất bị gặm nát, nhợt màu, to hơn cả vòng tay bà ôm, là những thân cây; bà đã đi ngang chúng suốt cả mùa hè",
+      "keywords": []
+    },
+    {
+      "stt": 57,
+      "start": "00:09:51",
+      "end": "00:09:59",
+      "duration_s": 8,
+      "mood": "reflection",
+      "description": "Dưới trần lá xanh chúng chỉ là những hình khối trong một bức tường lá, không khác gì chiếc máng lùa bò cũ, không khác gì cái giếng mà dây leo đã che kín cho tới khi một con dê tìm ra nó",
+      "keywords": []
+    },
+    {
+      "stt": 58,
+      "start": "00:09:59",
+      "end": "00:10:04",
+      "duration_s": 5,
+      "mood": "shock",
+      "description": "Bà đếm chúng hai lần, lần thứ hai vừa đếm vừa đặt bàn tay lên từng thân cây - chín cây",
+      "keywords": []
+    },
+    {
+      "stt": 59,
+      "start": "00:10:04",
+      "end": "00:10:20",
+      "duration_s": 16,
+      "mood": "vindication",
+      "description": "Burl lên dốc chiều hôm đó, áp lòng bàn tay lên vỏ cây và nói ra cái tên trước khi bà kịp hỏi - hồ đào, mà không phải cây non; ông bước đo khoảng cách giữa hai cây đầu, bốn mươi bộ, rồi hai cây tiếp, lại bốn mươi bộ",
+      "keywords": []
+    },
+    {
+      "stt": 60,
+      "start": "00:10:20",
+      "end": "00:10:36",
+      "duration_s": 16,
+      "mood": "nostalgic",
+      "description": "Và cái lưới ô vuông ấy chạy tiếp vào trong đám dây leo nơi khoảng quang dừng lại; ai đó đã trồng một vườn cây trên ngọn đồi này rồi bỏ đi, còn những cái cây thì cứ đứng trong bóng tối suốt hai mươi hai năm",
+      "keywords": []
+    },
+    {
+      "stt": 61,
+      "start": "00:10:36",
+      "end": "00:10:49",
+      "duration_s": 13,
+      "mood": "nostalgic",
+      "description": "Bởi một cây hồ đào có thể sống quá trăm tuổi và chẳng bận tâm gì tới kế hoạch của kẻ đã đặt nó xuống đó; gió lên dốc mang theo mùi vỏ hạt",
+      "keywords": []
+    },
+    {
+      "stt": 62,
+      "start": "00:10:49",
+      "end": "00:11:00",
+      "duration_s": 11,
+      "mood": "tense",
+      "description": "Cái mùi vỏ xanh gắt ấy - đàn dê đã để lại những mảnh vỏ hồ đào nứt đúng chỗ chúng rơi; rồi Burl ngồi thụp xuống",
+      "keywords": [
+        "dry husks crushed underfoot",
+        "gusty autumn wind through orchard"
+      ]
+    },
+    {
+      "stt": 63,
+      "start": "00:11:00",
+      "end": "00:11:13",
+      "duration_s": 13,
+      "mood": "shock",
+      "description": "Quanh gốc cây gần nhất, ở khoảng chiều cao vai một con dê, lớp vỏ đã biến mất - không phải bị cào, mà bị lấy đi thành một vành sạch chạy trọn vòng quanh thân, xuống tới lớp gỗ ướt nhợt",
+      "keywords": []
+    },
+    {
+      "stt": 64,
+      "start": "00:11:13",
+      "end": "00:11:27",
+      "duration_s": 14,
+      "mood": "tense",
+      "description": "Một cái cây tự nuôi mình qua một lớp sống mỏng ngay dưới vỏ; cắt đứt vành đó trọn vòng thì không còn gì đi lại được giữa lá và rễ nữa, và cây vẫn đứng suốt mùa đông trông y như một cái cây",
+      "keywords": []
+    },
+    {
+      "stt": 65,
+      "start": "00:11:27",
+      "end": "00:11:34",
+      "duration_s": 7,
+      "mood": "sad",
+      "description": "Nó thậm chí còn ra lá thêm một mùa xuân nữa bằng thứ đã tích trữ, rồi chết với cành đầy lá; ba trong chín cây bị khoanh gần trọn vòng, một cây bị khoanh trọn",
+      "keywords": []
+    },
+    {
+      "stt": 66,
+      "start": "00:11:34",
+      "end": "00:11:44",
+      "duration_s": 10,
+      "mood": "sad",
+      "description": "Chúng không phân biệt được, Burl nói; một con dê không biết đâu là thứ người ta thả nó ra để ăn và đâu là thứ người ta đánh đổi mọi giá để giữ - với nó tất cả đều là vỏ cây",
+      "keywords": []
+    },
+    {
+      "stt": 67,
+      "start": "00:11:44",
+      "end": "00:11:55",
+      "duration_s": 11,
+      "mood": "determined",
+      "description": "Sửa chuyện đó khiến bà tốn kém gấp đôi: những ống lưới thép hàn quây quanh cả chín thân cây, đóng cọc thật sâu, cao tới mức một con dê cái đứng bằng hai chân sau cũng không với qua nổi",
+      "keywords": [
+        "welded wire mesh unrolled",
+        "steel stake driven with a mallet"
+      ]
+    },
+    {
+      "stt": 68,
+      "start": "00:11:55",
+      "end": "00:12:05",
+      "duration_s": 10,
+      "mood": "tense",
+      "description": "Và đó là khoản tiền đã hứa cho cỏ khô mùa đông; hàng rào cách ly quanh vườn cây kéo bốn mẫu ra khỏi vòng quay, mà đó đúng là bốn mẫu đàn dê đang dọn nhanh nhất",
+      "keywords": []
+    },
+    {
+      "stt": 69,
+      "start": "00:12:05",
+      "end": "00:12:14",
+      "duration_s": 9,
+      "mood": "tense",
+      "description": "Mỗi ngày đàn dê ở một chỗ khác là một ngày kudzu trên sườn đồi đó đứng dậy lại được",
+      "keywords": []
+    },
+    {
+      "stt": 70,
+      "start": "00:12:14",
+      "end": "00:12:24",
+      "duration_s": 10,
+      "mood": "determined",
+      "description": "Bà vẫn dựng nó, suốt tháng Mười Một, phần lớn là dưới mưa, với Otis đưa lên từng cái đinh bấm một",
+      "keywords": [
+        "rain drumming on jacket hood",
+        "fence staples hammered into post"
+      ]
+    },
+    {
+      "stt": 71,
+      "start": "00:12:24",
+      "end": "00:12:37",
+      "duration_s": 13,
+      "mood": "hopeful",
+      "description": "Cậu đặt tên cho cây to nhất là Big Tuesday, vì thứ Ba là ngày họ tìm ra nó; mùa thu ấy cậu chín tuổi, và chừng đó là đủ lý do",
+      "keywords": [
+        "child voice calling under trees",
+        "boots running through wet grass"
+      ]
+    },
+    {
+      "stt": 72,
+      "start": "00:12:37",
+      "end": "00:12:46",
+      "duration_s": 9,
+      "mood": "hopeful",
+      "description": "Chín cái cây đó chưa cho bà một hạt nào; thứ chúng cho bà là một lý do để không bán mảnh đất vào mùa đông ấy",
+      "keywords": []
+    },
+    {
+      "stt": 73,
+      "start": "00:12:46",
+      "end": "00:13:02",
+      "duration_s": 16,
+      "mood": "reflection",
+      "description": "Mảnh đất như thế - bị xóa sổ, bị phủ kín, ba lần rao bán mà không ai mua - nằm ở gần như mọi hạt trên đất nước này, và bất cứ thứ gì đang đứng dưới nó thì đã đứng đó một thời gian rồi",
+      "keywords": []
+    },
+    {
+      "stt": 74,
+      "start": "00:13:02",
+      "end": "00:13:15",
+      "duration_s": 13,
+      "mood": "calm",
+      "description": "Tiến sĩ Nadine Croft lái xe ra vào thứ Năm thứ hai của tháng Giêng với một cây khoan lấy mẫu đất lạch cạch trong thùng xe; bà là cán bộ khuyến nông của hạt, ngoài bốn mươi",
+      "keywords": [
+        "pickup truck arriving on gravel drive",
+        "metal probe rattling in truck bed"
+      ]
+    },
+    {
+      "stt": 75,
+      "start": "00:13:15",
+      "end": "00:13:30",
+      "duration_s": 15,
+      "mood": "determined",
+      "description": "Lớn lên ở một trang trại bò sữa cách một hạt về phía đông, công việc của bà là nói cho nông dân sự thật về lớp đất của họ dù họ có muốn nghe hay không; Corinne đã gọi hồi tháng Mười rồi tháng Mười Một mà không đi tới đâu, cho tới khi bà thôi xin một ý kiến và đặt mua một kết quả xét nghiệm",
+      "keywords": []
+    },
+    {
+      "stt": 76,
+      "start": "00:13:30",
+      "end": "00:13:42",
+      "duration_s": 12,
+      "mood": "determined",
+      "description": "Giấy có tiêu đề là thứ ngôn ngữ duy nhất mà tòa án hạt từng biết nói; họ lấy mẫu lõi đất suốt cả buổi sáng",
+      "keywords": [
+        "soil probe pushed into wet ground",
+        "core of earth tapped out"
+      ]
+    },
+    {
+      "stt": 77,
+      "start": "00:13:42",
+      "end": "00:13:51",
+      "duration_s": 9,
+      "mood": "calm",
+      "description": "Mười lăm mẫu lấy từ các paddock đàn dê đã gặm hai lượt, mười lăm mẫu từ một dải đất dọc hàng rào phía bắc vẫn còn bị nhốt dưới trần lá xanh; báo cáo đất về vào tuần đầu tháng Hai",
+      "keywords": []
+    },
+    {
+      "stt": 78,
+      "start": "00:13:51",
+      "end": "00:14:08",
+      "duration_s": 17,
+      "mood": "vindication",
+      "description": "Chất hữu cơ trong paddock đã gặm đạt ba phẩy một phần trăm, còn ở dải đất chưa động tới là hai phẩy bốn; đạm nitrat trở về ở mức hai mươi sáu phần triệu so với mười tám",
+      "keywords": []
+    },
+    {
+      "stt": 79,
+      "start": "00:14:08",
+      "end": "00:14:19",
+      "duration_s": 11,
+      "mood": "vindication",
+      "description": "Tám mươi hai con dê đi qua một sườn đồi suốt cả mùa hè đã trả lại cho lớp đất đó nhiều hơn thứ bà có thể chở tới bằng xe tải; phần đó thì bà đã hy vọng từ trước",
+      "keywords": []
+    },
+    {
+      "stt": 80,
+      "start": "00:14:19",
+      "end": "00:14:30",
+      "duration_s": 11,
+      "mood": "shock",
+      "description": "Nadine lật mặt sau tờ giấy, đặt ngón tay lên cột đối chứng và nói đó mới là con số đáng nhìn - với lớp đất chưa hề có cày, có bò hay có phân bón từ trước khi Corinne lấy chồng, hàm lượng đạm không có lý do gì cao đến thế",
+      "keywords": [
+        "report page turned over on a hood",
+        "finger tapping on paper"
+      ]
+    },
+    {
+      "stt": 81,
+      "start": "00:14:30",
+      "end": "00:14:43",
+      "duration_s": 13,
+      "mood": "vindication",
+      "description": "Kudzu là cây họ đậu, cùng họ với đậu và đậu Hà Lan đồng; dưới rễ nó mang những nốt sần vi khuẩn kéo đạm từ không khí xuống và cố định vào trong đất",
+      "keywords": []
+    },
+    {
+      "stt": 82,
+      "start": "00:14:43",
+      "end": "00:14:53",
+      "duration_s": 10,
+      "mood": "vindication",
+      "description": "Và kudzu đã làm đúng việc đó trên khắp một trăm lẻ bốn mẫu, mỗi mùa, không ngừng nghỉ - hai mươi hai năm",
+      "keywords": []
+    },
+    {
+      "stt": 83,
+      "start": "00:14:53",
+      "end": "00:15:02",
+      "duration_s": 9,
+      "mood": "shock",
+      "description": "Thứ đã làm cho mảnh đất trở nên vô giá trị hóa ra đã nuôi chính mảnh đất ấy suốt từng ấy thời gian",
+      "keywords": []
+    },
+    {
+      "stt": 84,
+      "start": "00:15:02",
+      "end": "00:15:12",
+      "duration_s": 10,
+      "mood": "determined",
+      "description": "Corinne bắt đầu một cuốn sổ cái đúng nghĩa vào mùa đông ấy - ngày tháng, số hiệu paddock, số ngày gặm, thứ đàn dê không chịu ăn; mười hai năm định giá mất mát của người khác đã khiến bà giỏi đúng một việc, và giờ thứ được đo đếm là của chính bà",
+      "keywords": [
+        "ledger page turning",
+        "pen scratching entries in a notebook"
+      ]
+    },
+    {
+      "stt": 85,
+      "start": "00:15:12",
+      "end": "00:15:26",
+      "duration_s": 14,
+      "mood": "sad",
+      "description": "Tiền cứ chảy ra mà không có gì chảy vào: sáu trăm đô tiền cỏ khô tháng Chạp, một cuộc gọi thú y lúc hai giờ sáng cho con dê cái bị viêm phổi",
+      "keywords": [
+        "barn interior at night ambience",
+        "sick goat breathing heavily"
+      ]
+    },
+    {
+      "stt": 86,
+      "start": "00:15:26",
+      "end": "00:15:38",
+      "duration_s": 12,
+      "mood": "sad",
+      "description": "Khoáng, dầu diesel, dây thép, một bộ kích điện hàng rào mới sau khi sét đánh hỏng cái cũ; Otis thì đã học đếm được tới tám mươi hai",
+      "keywords": []
+    },
+    {
+      "stt": 87,
+      "start": "00:15:38",
+      "end": "00:15:47",
+      "duration_s": 9,
+      "mood": "sad",
+      "description": "Cậu đếm tới tám mươi hai rồi đếm ngược lại, đọc to ở cổng vào mỗi tối; cậu học con số ấy đúng vào tuần họ lấp cái giếng, và chưa một lần nào cậu đếm tới con số kia",
+      "keywords": [
+        "child counting out loud at dusk",
+        "goats settling for the night"
+      ]
+    },
+    {
+      "stt": 88,
+      "start": "00:15:47",
+      "end": "00:15:59",
+      "duration_s": 12,
+      "mood": "sad",
+      "description": "Một buổi chiều trong nhà kho, khi đi tìm cái kìm rào, bà kéo tấm bạt ra và thấy hộp đồ nghề của Nolan - màu xanh, móp, một mảnh băng dính dán ngang nắp",
+      "keywords": [
+        "heavy tarp dragged aside",
+        "metal toolbox latch opened"
+      ]
+    },
+    {
+      "stt": 89,
+      "start": "00:15:59",
+      "end": "00:16:10",
+      "duration_s": 11,
+      "mood": "sad",
+      "description": "Những đầu khẩu vẫn nằm đúng thứ tự ông để lại; bà đóng nắp hộp, đặt nó trở lại lên kệ, rồi làm nốt hàng rào bằng cái kìm bà đang có",
+      "keywords": [
+        "socket wrench set down in tray",
+        "toolbox lid closed"
+      ]
+    },
+    {
+      "stt": 90,
+      "start": "00:16:10",
+      "end": "00:16:21",
+      "duration_s": 11,
+      "mood": "calm",
+      "description": "Cuối tháng Burl ghé qua với một bao khoáng mà ông bảo là mua nhầm; kẹp dưới nách ông là một cuốn Kinh Thánh đen, bìa đã mềm như vải",
+      "keywords": []
+    },
+    {
+      "stt": 91,
+      "start": "00:16:21",
+      "end": "00:16:32",
+      "duration_s": 11,
+      "mood": "nostalgic",
+      "description": "Nó từng là của vợ ông; ông đặt nó lên bàn bếp, mở tới một trang bà ấy đã đánh dấu bằng bút chì nhiều năm trước, rồi cứ để nó mở ra như thế trong lúc nói chuyện giá cỏ khô",
+      "keywords": [
+        "soft bible cover opened on table",
+        "coffee poured into mugs"
+      ]
+    },
+    {
+      "stt": 92,
+      "start": "00:16:32",
+      "end": "00:16:38",
+      "duration_s": 6,
+      "mood": "hopeful",
+      "description": "Ta sẽ đền bù cho các ngươi những năm mà cào cào đã ăn mất",
+      "keywords": []
+    },
+    {
+      "stt": 93,
+      "start": "00:16:38",
+      "end": "00:16:51",
+      "duration_s": 13,
+      "mood": "tense",
+      "description": "Ông cầm cái bao rỗng theo khi ra về; hạt sẽ tới đi bộ trên mảnh đất này vào mùa xuân năm sau nữa và ghi nó xuống là một nông trại đang hoạt động hoặc là không gì cả",
+      "keywords": []
+    },
+    {
+      "stt": 94,
+      "start": "00:16:51",
+      "end": "00:16:57",
+      "duration_s": 6,
+      "mood": "tense",
+      "description": "Hai mùa sinh trưởng - đó là tất cả những gì bà đã mua; tới tháng Hai, thứ duy nhất trên mảnh đất chưa cạn kiệt là đám dây leo",
+      "keywords": [
+        "bleak february wind over stubble"
+      ]
+    },
+    {
+      "stt": 95,
+      "start": "00:16:57",
+      "end": "00:17:06",
+      "duration_s": 9,
+      "mood": "tense",
+      "description": "Và thứ đang cạn nhanh hơn cả tiền của bà là các mùa; âm thanh lên tới sống đồi trước cả ánh sáng",
+      "keywords": []
+    },
+    {
+      "stt": 96,
+      "start": "00:17:06",
+      "end": "00:17:17",
+      "duration_s": 11,
+      "mood": "hopeful",
+      "description": "Tuần cuối tháng Sáu của mùa hè thứ hai, Corinne đứng trên đỉnh đường cắt phía đông và nghe cả đàn ăn; một đàn dê làm việc trên sườn kudzu tạo ra thứ gần giống tiếng mưa trên mái nhà cách đó hai cánh đồng",
+      "keywords": [
+        "large herd browsing at sunrise",
+        "distant goat bell"
+      ]
+    },
+    {
+      "stt": 97,
+      "start": "00:17:17",
+      "end": "00:17:29",
+      "duration_s": 12,
+      "mood": "calm",
+      "description": "Chỗ lá còn dày thì tiếng xé chạy liền vào nhau, chỗ dốc đang mở ra thì tiếng rời rạc; mùa hè đó là lượt gặm thứ ba trên đường cắt phía đông",
+      "keywords": []
+    },
+    {
+      "stt": 98,
+      "start": "00:17:29",
+      "end": "00:17:42",
+      "duration_s": 13,
+      "mood": "determined",
+      "description": "Và là lượt thứ tư trên sườn nhà kho; lượt gặm đầu lấy lá, lượt thứ hai lấy thứ cây đẩy lên để thay phần lá đã mất",
+      "keywords": []
+    },
+    {
+      "stt": 99,
+      "start": "00:17:42",
+      "end": "00:17:54",
+      "duration_s": 12,
+      "mood": "determined",
+      "description": "Lượt thứ ba và thứ tư lấy đi thứ cây không thể để mất, bởi mỗi tán lá mới đều được trả bằng đường tích dưới lòng đất, mà cái túi đó chỉ sâu đến thế thôi",
+      "keywords": []
+    },
+    {
+      "stt": 100,
+      "start": "00:17:54",
+      "end": "00:18:06",
+      "duration_s": 12,
+      "mood": "vindication",
+      "description": "Tới tháng Tám kudzu mọc lại muộn, thưa và thấp, còn trên sườn nhà kho nó không bao giờ khép kín được qua hàng rào nữa; Burl đặt ủng lên nền đất đỏ chưa từng thấy ánh sáng ban ngày suốt hai mươi hai năm",
+      "keywords": [
+        "boot pressing into soft red dirt"
+      ]
+    },
+    {
+      "stt": 101,
+      "start": "00:18:06",
+      "end": "00:18:14",
+      "duration_s": 8,
+      "mood": "determined",
+      "description": "Ông gọi đó là cuộc rút lui, và dặn bà đừng gọi nó bằng từ nào mạnh hơn thế",
+      "keywords": []
+    },
+    {
+      "stt": 102,
+      "start": "00:18:14",
+      "end": "00:18:25",
+      "duration_s": 11,
+      "mood": "hopeful",
+      "description": "Hợp tác xã điện có mười một mẫu hành lang tuyến bị kudzu và gai phủ kín, quá dốc cho máy phát cỏ và quá gần dây điện sống cho tổ phun thuốc; sáu trăm đô một mẫu",
+      "keywords": [
+        "power line humming overhead",
+        "brush crackling on a steep slope"
+      ]
+    },
+    {
+      "stt": 103,
+      "start": "00:18:25",
+      "end": "00:18:33",
+      "duration_s": 8,
+      "mood": "vindication",
+      "description": "Dê được chở tới và cho uống nước bằng chi phí của bà - sáu nghìn sáu trăm đô, và lũ vật nuôi đã ăn hết cái hóa đơn đó",
+      "keywords": []
+    },
+    {
+      "stt": 104,
+      "start": "00:18:33",
+      "end": "00:18:43",
+      "duration_s": 10,
+      "mood": "hopeful",
+      "description": "Tháng Chín một hội mai táng phía nam Ellijay trả bảy trăm năm mươi đô một mẫu cho bốn mẫu đất bia mộ; tháng Mười hội đồng trường trả hai nghìn hai trăm cho bờ dốc sau sân bóng trường tiểu học",
+      "keywords": []
+    },
+    {
+      "stt": 105,
+      "start": "00:18:43",
+      "end": "00:18:51",
+      "duration_s": 8,
+      "mood": "hopeful",
+      "description": "Và cho lớp ba ra ngoài xem đàn dê làm việc; Merle Yates đã lái xe ngang hàng rào đó suốt hai mùa mà không dừng lại",
+      "keywords": [
+        "schoolchildren chattering outdoors",
+        "chain link fence rattling"
+      ]
+    },
+    {
+      "stt": 106,
+      "start": "00:18:51",
+      "end": "00:19:00",
+      "duration_s": 9,
+      "mood": "dismissive",
+      "description": "Tháng Chín đó ông tấp xe vào lề đường và bước xuống - tôi đã cười cô, ông nói",
+      "keywords": [
+        "truck pulling onto gravel shoulder",
+        "truck door opening"
+      ]
+    },
+    {
+      "stt": 107,
+      "start": "00:19:00",
+      "end": "00:19:10",
+      "duration_s": 10,
+      "mood": "sad",
+      "description": "Mọi người đàn ông ở cửa hàng thức ăn gia súc đều cười, và tôi cười to nhất, mà đó không phải ác ý; tôi đã thấy hai người đàn ông nhận mảnh đất đó",
+      "keywords": []
+    },
+    {
+      "stt": 108,
+      "start": "00:19:10",
+      "end": "00:19:20",
+      "duration_s": 10,
+      "mood": "sad",
+      "description": "Một người phát cỏ một mùa rồi bỏ; một người thế chấp cả nhà mình, phun thuốc hai mùa rồi nhìn nó mọc lại dày hơn vào mùa xuân thứ ba - một người từng thấy hai người chìm thì không vỗ tay cho người thứ ba lội xuống",
+      "keywords": []
+    },
+    {
+      "stt": 109,
+      "start": "00:19:20",
+      "end": "00:19:31",
+      "duration_s": 11,
+      "mood": "vindication",
+      "description": "Rồi ông hỏi bà tính bao nhiêu một mẫu cho đàn dê, và ghi con số đó lên mặt sau một tờ biên lai thức ăn gia súc",
+      "keywords": [
+        "pencil writing on a paper receipt"
+      ]
+    },
+    {
+      "stt": 110,
+      "start": "00:19:31",
+      "end": "00:19:42",
+      "duration_s": 11,
+      "mood": "tense",
+      "description": "Sương mù tới vào tuần thứ hai của tháng Chín; bà lên đồi lúc rạng đông để chuyển lưới và thấy paddock trống trơn, cánh cổng bị húc mở, trắng xóa mọi hướng",
+      "keywords": [
+        "heavy fog ambience with dripping",
+        "gate latch swinging loose"
+      ]
+    },
+    {
+      "stt": 111,
+      "start": "00:19:42",
+      "end": "00:19:54",
+      "duration_s": 12,
+      "mood": "tense",
+      "description": "Bà gọi, và sương mù trả lại tiếng bà một cách phẳng lì; nên bà thôi gọi và đứng yên - phía dưới bà chếch về bên trái, xa hơn bà đoán nhiều, là tiếng chuông",
+      "keywords": [
+        "voice calling out swallowed by fog",
+        "muffled stillness"
+      ]
+    },
+    {
+      "stt": 112,
+      "start": "00:19:54",
+      "end": "00:20:05",
+      "duration_s": 11,
+      "mood": "hopeful",
+      "description": "Bà đi về phía tiếng chuông theo cách người ta đi về phía một ngọn đèn hiên, và tìm thấy Pepper trong lùm cây thù du với cả đàn dê nằm quây quanh nó",
+      "keywords": [
+        "single goat bell in the distance",
+        "footsteps through wet grass"
+      ]
+    },
+    {
+      "stt": 113,
+      "start": "00:20:05",
+      "end": "00:20:13",
+      "duration_s": 8,
+      "mood": "calm",
+      "description": "Trên đường từ chỗ làm ở trường về nhà, Otis, mười tuổi mùa thu đó, hỏi bà ghi gì lên hóa đơn - dọn bụi rậm, bà nói",
+      "keywords": []
+    },
+    {
+      "stt": 114,
+      "start": "00:20:13",
+      "end": "00:20:22",
+      "duration_s": 9,
+      "mood": "hopeful",
+      "description": "Cậu nghĩ về điều đó gần hết một dặm đường rồi nói không đúng đâu mẹ, mình có lấy gì đi khỏi nó đâu, mình chỉ đang trả nó lại thôi",
+      "keywords": []
+    },
+    {
+      "stt": 115,
+      "start": "00:20:22",
+      "end": "00:20:36",
+      "duration_s": 14,
+      "mood": "vindication",
+      "description": "Đêm đó bà mở cuốn sổ cái từ công việc cũ, cuốn bà đã điền suốt mười hai năm bằng mất mát của người khác; lần đầu tiên kể từ phiên đấu giá, con số ở cột bên phải không còn dấu trừ đằng trước",
+      "keywords": [
+        "ledger page turning under a lamp",
+        "quiet night kitchen tone"
+      ]
+    },
+    {
+      "stt": 116,
+      "start": "00:20:36",
+      "end": "00:20:48",
+      "duration_s": 12,
+      "mood": "reflection",
+      "description": "Phần lớn thứ được bán ra dưới danh nghĩa tiến bộ chỉ là một kẻ đang vội; ngọn đồi đó hạ xuống được vì một người đàn bà từ chối vội vàng, mỗi lần một lượt gặm, trong khi cả hạt ngồi chờ bà bỏ cuộc",
+      "keywords": []
+    },
+    {
+      "stt": 117,
+      "start": "00:20:48",
+      "end": "00:21:00",
+      "duration_s": 12,
+      "mood": "hopeful",
+      "description": "Có một kiểu người nghe câu đi nhanh lên thì lại cố tình đi chậm lại - kênh này dựng cho họ, hãy đăng ký và ở lại với câu chuyện này",
+      "keywords": []
+    },
+    {
+      "stt": 118,
+      "start": "00:21:00",
+      "end": "00:21:12",
+      "duration_s": 12,
+      "mood": "determined",
+      "description": "Tới tháng Tư năm thứ ba, đường cắt phía đông đã mở đủ để trồng, và bà trồng một dải rộng bốn mươi bộ dài một phần tư dặm - đúng bằng thứ bà có thể tưới và trả tiền nổi",
+      "keywords": [
+        "auger boring planting holes",
+        "soil shoveled beside a stake"
+      ]
+    },
+    {
+      "stt": 119,
+      "start": "00:21:12",
+      "end": "00:21:25",
+      "duration_s": 13,
+      "mood": "hopeful",
+      "description": "Ba mươi tám cây hồ đào non được trồng bằng tay, Otis thả một lá cờ nhỏ ở mỗi cọc; bà không mua một vườn cây mà mua một dải, đặt nó áp vào hàng rào của chín cây già, và tự nhủ sườn tiếp theo sẽ tới vào mùa xuân sang năm nếu đàn dê kiếm đủ",
+      "keywords": []
+    },
+    {
+      "stt": 120,
+      "start": "00:21:25",
+      "end": "00:21:36",
+      "duration_s": 11,
+      "mood": "determined",
+      "description": "Nadine Croft đã chỉ bà cách ghép nêm trên một chiếc ghế dài trong nhà kho cho tới khi tay bà thôi run; tháng Ba, trước khi chồi cựa mình, bà lấy cành ghép từ chín cây già",
+      "keywords": [
+        "grafting knife slicing green wood",
+        "barn workbench ambience"
+      ]
+    },
+    {
+      "stt": 121,
+      "start": "00:21:36",
+      "end": "00:21:47",
+      "duration_s": 11,
+      "mood": "hopeful",
+      "description": "Và giữ nó ẩm và lạnh cho tới tháng Năm khi vỏ cây tuột ra; mọi cái cây bà đặt xuống mùa xuân đó đều mang gỗ của một trong chín cây kia",
+      "keywords": []
+    },
+    {
+      "stt": 122,
+      "start": "00:21:47",
+      "end": "00:21:59",
+      "duration_s": 12,
+      "mood": "vindication",
+      "description": "Hai mươi hai năm những cây già đứng phủ kín mà không có gì để trưng ra; giờ chúng có con cái trên sườn đồi ngay phía dưới",
+      "keywords": []
+    },
+    {
+      "stt": 123,
+      "start": "00:21:59",
+      "end": "00:22:08",
+      "duration_s": 9,
+      "mood": "reflection",
+      "description": "Không thứ nào trong đó sẽ nuôi được ai sớm cả - một cây hồ đào ghép cần sáu tới mười năm mới cho một vụ đáng chở tới trạm thu mua; vườn cây trên đường cắt phía đông thuộc về Otis năm hai mươi tuổi, không phải Otis mười tuổi",
+      "keywords": []
+    },
+    {
+      "stt": 124,
+      "start": "00:22:08",
+      "end": "00:22:23",
+      "duration_s": 15,
+      "mood": "tense",
+      "description": "Tuần cuối tháng Năm khô hạn và cứ thế khô mãi - ba mươi mốt ngày không mưa, và đầu dải phía sống đồi lại nằm trên lớp đất mỏng nhất mảnh đất; bà chở nước bằng bồn hai trăm ga lông, hai chuyến một ngày, rồi ba",
+      "keywords": [
+        "water tank sloshing in a truck bed",
+        "dry cracked ground underfoot"
+      ]
+    },
+    {
+      "stt": 125,
+      "start": "00:22:23",
+      "end": "00:22:33",
+      "duration_s": 10,
+      "mood": "sad",
+      "description": "Tới tháng Bảy, mười một trong ba mươi tám cây đã nâu tới tận mối ghép, và không ai cãi được với một cây hồ đào đã chết; bà trồng lại vào tháng Mười Một và nói rất ít về chuyện đó",
+      "keywords": [
+        "brittle dead sapling snapped off"
+      ]
+    },
+    {
+      "stt": 126,
+      "start": "00:22:33",
+      "end": "00:22:44",
+      "duration_s": 11,
+      "mood": "tense",
+      "description": "Tháng Mười một chiếc sedan trắng của hạt chạy chậm dọc con đường phía trên cổng, rồi chậm hơn nữa, rồi không dừng lại; Dean Whitcomb bốn mươi bốn tuổi, thẩm định viên của hạt Gilmer",
+      "keywords": []
+    },
+    {
+      "stt": 127,
+      "start": "00:22:44",
+      "end": "00:22:55",
+      "duration_s": 11,
+      "mood": "tense",
+      "description": "Người mà chữ ký của ông quyết định một trăm lẻ bốn mẫu là một nông trại hay chỉ là đất, và quyết định Corinne giữ được mức thuế nông nghiệp bà đã ký hay nợ hạt phần chênh lệch",
+      "keywords": []
+    },
+    {
+      "stt": 128,
+      "start": "00:22:55",
+      "end": "00:23:04",
+      "duration_s": 9,
+      "mood": "dismissive",
+      "description": "Ông viết lên tấm kẹp hồ sơ tì vào vô lăng rồi lái đi mà không hạ cửa kính xuống",
+      "keywords": [
+        "power window staying shut",
+        "sedan pulling away on gravel"
+      ]
+    },
+    {
+      "stt": 129,
+      "start": "00:23:04",
+      "end": "00:23:16",
+      "duration_s": 12,
+      "mood": "determined",
+      "description": "Đàn dê làm sườn phía bắc mùa thu đó và đi hợp đồng thêm hai lần nữa; dọc các hàng rào đã dọn, kudzu vẫn mọc lại mỗi tháng Sáu, mỏng hơn và muộn hơn qua từng năm",
+      "keywords": []
+    },
+    {
+      "stt": 130,
+      "start": "00:23:16",
+      "end": "00:23:32",
+      "duration_s": 16,
+      "mood": "sad",
+      "description": "Mùa đông đó Burl ít tới hơn - ông bảy mươi tư tuổi, cái lạnh đã ngấm vào hông, và ông ngồi trên thùng xe trong khi bà đi các paddock; tháng Ba ông lẽ ra đi cùng bà tới phiên bán dê đực ở Ball Ground",
+      "keywords": []
+    },
+    {
+      "stt": 131,
+      "start": "00:23:32",
+      "end": "00:23:41",
+      "duration_s": 9,
+      "mood": "sad",
+      "description": "Ông đưa bà tờ giấy gấp thay vì đi cùng - ghi chép của ông về bề ngang, về thăn và hình dáng bàn chân, ba đời phán đoán về dê viết bằng bút chì",
+      "keywords": [
+        "folded paper unfolded in hands"
+      ]
+    },
+    {
+      "stt": 132,
+      "start": "00:23:41",
+      "end": "00:23:47",
+      "duration_s": 6,
+      "mood": "determined",
+      "description": "Cô biết mình đang nhìn cái gì, ông nói; tôi đã nói cho cô thứ tôi thấy, giờ đi và nói lại cho tôi thứ cô thấy",
+      "keywords": []
+    },
+    {
+      "stt": 133,
+      "start": "00:23:47",
+      "end": "00:23:55",
+      "duration_s": 8,
+      "mood": "hopeful",
+      "description": "Bà trở về với hai con dê đực; ông ngắm chúng thật lâu và không bao giờ nói bà chọn đúng hay sai, mà với Burl thì chính đó là câu trả lời",
+      "keywords": []
+    },
+    {
+      "stt": 134,
+      "start": "00:23:55",
+      "end": "00:24:05",
+      "duration_s": 10,
+      "mood": "determined",
+      "description": "Mùa xuân đó bà mở sườn phía nam, trồng thêm sáu mươi cây hồ đào, và đặt những cây thay thế vào đúng chỗ hạn hán đã lấy đi lứa đầu",
+      "keywords": []
+    },
+    {
+      "stt": 135,
+      "start": "00:24:05",
+      "end": "00:24:16",
+      "duration_s": 11,
+      "mood": "tense",
+      "description": "Đó là mùa cuối cùng bà còn; hạt sẽ ra đi bộ trên mảnh đất và quyết định xem có phần nào trong đó từng là canh tác hay không",
+      "keywords": []
+    },
+    {
+      "stt": 136,
+      "start": "00:24:16",
+      "end": "00:24:25",
+      "duration_s": 9,
+      "mood": "vindication",
+      "description": "Ba mùa trước, thứ duy nhất trên mảnh đất đó đáng đếm là đám dây leo; mùa xuân này bà đứng ở cổng phía trên vườn cây và đếm các hàng",
+      "keywords": []
+    },
+    {
+      "stt": 137,
+      "start": "00:24:25",
+      "end": "00:24:35",
+      "duration_s": 10,
+      "mood": "tense",
+      "description": "Chiếc xe của hạt rẽ vào cổng vào một buổi sáng tháng Tư, và Corinne nghe thấy nó trước khi nhìn thấy, bởi tấm lưới chắn gia súc ngoài đường kêu lên như một cái thang bị đánh rơi",
+      "keywords": [
+        "cattle guard rattling under tires",
+        "truck turning onto a farm drive"
+      ]
+    },
+    {
+      "stt": 138,
+      "start": "00:24:35",
+      "end": "00:24:43",
+      "duration_s": 8,
+      "mood": "tense",
+      "description": "Dean Whitcomb thay ủng cao su ngay trên thùng xe và nói ông định đi bộ hết cả mảnh đất; Otis, giờ mười một tuổi và đã cao hơn sợi dây rào trên cùng, xách túi máy ảnh mà không cần ai nhờ",
+      "keywords": []
+    },
+    {
+      "stt": 139,
+      "start": "00:24:43",
+      "end": "00:24:54",
+      "duration_s": 11,
+      "mood": "calm",
+      "description": "Họ bắt đầu từ bờ đường và đi dần về phía đông; Whitcomb có một biểu mẫu trên tấm kẹp và một bánh xe đo, và cứ một lúc ông lại dừng, ghi một con số rồi chụp một tấm ảnh",
+      "keywords": [
+        "measuring wheel clicking along ground",
+        "shutter of a camera"
+      ]
+    },
+    {
+      "stt": 140,
+      "start": "00:24:54",
+      "end": "00:25:04",
+      "duration_s": 10,
+      "mood": "determined",
+      "description": "Ông hỏi mật độ thả và bà trả lời theo từng mùa, rồi hỏi về vòng quay: bốn mẫu một lần, chuyển đàn khi tới ngưỡng gặm",
+      "keywords": []
+    },
+    {
+      "stt": 141,
+      "start": "00:25:04",
+      "end": "00:25:10",
+      "duration_s": 6,
+      "mood": "determined",
+      "description": "Khi ông hỏi có thứ gì được ghi chép lại không, bà quay ra xe và mang về một cuốn bìa còng dày bằng bốn mùa",
+      "keywords": [
+        "truck door shut",
+        "heavy binder set on a tailgate"
+      ]
+    },
+    {
+      "stt": 142,
+      "start": "00:25:10",
+      "end": "00:25:21",
+      "duration_s": 11,
+      "mood": "vindication",
+      "description": "Đó chính là công việc cũ vẫn còn đang làm việc cho bà - ngày tháng, số đầu con, lượng mưa, giá cỏ khô, và một hợp đồng cho mỗi nơi đàn dê từng được thuê tới",
+      "keywords": []
+    },
+    {
+      "stt": 143,
+      "start": "00:25:21",
+      "end": "00:25:30",
+      "duration_s": 9,
+      "mood": "hopeful",
+      "description": "Ông đọc trên thùng xe một lúc lâu rồi xin được xem những cái cây; chín cây nằm trên vai đồi phía đông, tán đã xòe rộng ra vì giờ chúng có ánh sáng",
+      "keywords": []
+    },
+    {
+      "stt": 144,
+      "start": "00:25:30",
+      "end": "00:25:41",
+      "duration_s": 11,
+      "mood": "hopeful",
+      "description": "Những rọ lưới thép vẫn còn nguyên trên thân cây; phía dưới chúng các hàng cây non chạy theo đường đồng mức thành từng dải, ba trăm bốn mươi cây hồ đào, không cây nào còn cách dưới sáu năm nữa mới cho một hạt đáng đếm",
+      "keywords": []
+    },
+    {
+      "stt": 145,
+      "start": "00:25:41",
+      "end": "00:25:52",
+      "duration_s": 11,
+      "mood": "determined",
+      "description": "Trên ranh phía bắc, ở hai khe quá dốc để rào, phần kudzu còn lại vẫn bám trụ, và bà chỉ nó ra trước khi ông kịp tự tìm thấy",
+      "keywords": []
+    },
+    {
+      "stt": 146,
+      "start": "00:25:52",
+      "end": "00:25:59",
+      "duration_s": 7,
+      "mood": "tense",
+      "description": "Trên đỉnh dốc ông đặt tấm kẹp hồ sơ xuống - hai mươi hai năm, ông nói, thế bộ rễ mất bao lâu",
+      "keywords": []
+    },
+    {
+      "stt": 147,
+      "start": "00:25:59",
+      "end": "00:26:05",
+      "duration_s": 6,
+      "mood": "determined",
+      "description": "Ba mùa, bà đáp, bốn mùa cho phần còn lại; ông ghi câu đó lại và nói lá thư sẽ được gửi từ văn phòng",
+      "keywords": []
+    },
+    {
+      "stt": 148,
+      "start": "00:26:05",
+      "end": "00:26:17",
+      "duration_s": 12,
+      "mood": "vindication",
+      "description": "Thư về vào tháng Năm và chỉ dài ba dòng: toàn bộ một trăm lẻ bốn mẫu được xác định là đang sử dụng nông nghiệp thực chất, và giao ước vẫn còn hiệu lực",
+      "keywords": [
+        "envelope torn open",
+        "letter unfolded on a table"
+      ]
+    },
+    {
+      "stt": 149,
+      "start": "00:26:17",
+      "end": "00:26:24",
+      "duration_s": 7,
+      "mood": "calm",
+      "description": "Đó là điểm kết của một cái đồng hồ bà đã nghe tích tắc suốt bốn năm; bà đọc nó hai lần rồi đi ra chuyển hàng rào",
+      "keywords": [
+        "kitchen chair pushed back",
+        "screen door swinging shut"
+      ]
+    },
+    {
+      "stt": 150,
+      "start": "00:26:24",
+      "end": "00:26:36",
+      "duration_s": 12,
+      "mood": "vindication",
+      "description": "Chiếc phong bì kia tới vào cuối mùa hè đó: hạt đã định giá lại một trăm lẻ bốn mẫu - đồng cỏ đã dọn, vườn cây đã lập, nguồn nước hoạt động, mặt tiền đường",
+      "keywords": [
+        "mailbox lid opened on a post",
+        "late summer cicadas"
+      ]
+    },
+    {
+      "stt": 151,
+      "start": "00:26:36",
+      "end": "00:26:47",
+      "duration_s": 11,
+      "mood": "shock",
+      "description": "Giá trị thị trường hợp lý: bốn trăm sáu mươi hai nghìn tám trăm đô - chưa ai từng trả bà con số đó",
+      "keywords": []
+    },
+    {
+      "stt": 152,
+      "start": "00:26:47",
+      "end": "00:26:57",
+      "duration_s": 10,
+      "mood": "calm",
+      "description": "Đó không phải một giá bán, và hơn ai hết bà biết một cuộc định giá là gì và không là gì; dưới giao ước, thuế của bà vẫn sẽ được tính theo mức sử dụng nông nghiệp",
+      "keywords": []
+    },
+    {
+      "stt": 153,
+      "start": "00:26:57",
+      "end": "00:27:08",
+      "duration_s": 11,
+      "mood": "vindication",
+      "description": "Đó là ý kiến của hạt về thứ mà mảnh đất đã trở thành - chính mảnh đất từng đứng trên bậc thềm tòa án ba lần mà không nhận được một lời trả giá nào",
+      "keywords": []
+    },
+    {
+      "stt": 154,
+      "start": "00:27:08",
+      "end": "00:27:19",
+      "duration_s": 11,
+      "mood": "hopeful",
+      "description": "Họ rung hạt chín cây vào tuần cuối tháng Mười, với bạt trải và sào sợi thủy tinh, còn Burl Tannehill ngồi ở mép chỗ đó trên một chiếc ghế xếp và bảo Otis rằng cậu đang làm sai",
+      "keywords": [
+        "fiberglass pole striking branches",
+        "pecans raining onto a tarp"
+      ]
+    },
+    {
+      "stt": 155,
+      "start": "00:27:19",
+      "end": "00:27:30",
+      "duration_s": 11,
+      "mood": "vindication",
+      "description": "Những cây hồ đào già đã hai mươi hai năm không bị đòi hỏi thứ gì; cây lớn nhất cho hai trăm ba mươi mốt pound, cây nhỏ nhất sáu mươi tám",
+      "keywords": []
+    },
+    {
+      "stt": 156,
+      "start": "00:27:30",
+      "end": "00:27:38",
+      "duration_s": 8,
+      "mood": "reflection",
+      "description": "Tổng cộng một nghìn ba trăm bốn mươi mốt pound, mà ở trạm thu mua thì đó không phải một kế sinh nhai - nó là một tờ biên nhận mang tên bà, với chữ hồ đào nằm phía trên con số cân",
+      "keywords": [
+        "sacks dropped onto a platform scale",
+        "buying station room tone"
+      ]
+    },
+    {
+      "stt": 157,
+      "start": "00:27:38",
+      "end": "00:27:48",
+      "duration_s": 10,
+      "mood": "reflection",
+      "description": "Đêm đó bà đặt tờ thông báo định giá lên bàn bếp, bên cạnh cuốn sổ cái cũ từ Atlanta, cuốn bà đã mang ra khỏi một công việc chuyên định giá đổ vỡ của người khác",
+      "keywords": []
+    },
+    {
+      "stt": 158,
+      "start": "00:27:48",
+      "end": "00:27:57",
+      "duration_s": 9,
+      "mood": "calm",
+      "description": "Hai cách định giá cùng một mảnh đất, đặt cạnh nhau dưới cùng một thứ ánh sáng; bà nhìn chúng một lúc, rồi đi làm bữa tối",
+      "keywords": []
+    },
+    {
+      "stt": 159,
+      "start": "00:27:57",
+      "end": "00:28:07",
+      "duration_s": 10,
+      "mood": "calm",
+      "description": "Bà không gọi cho ai cả; nhưng các bản định giá là công khai, và hạt Gilmer là một nơi nhỏ - người đứng cân ở cửa hàng thức ăn gia súc đã nhìn thấy con số cân",
+      "keywords": []
+    },
+    {
+      "stt": 160,
+      "start": "00:28:07",
+      "end": "00:28:18",
+      "duration_s": 11,
+      "mood": "vindication",
+      "description": "Và vợ của ai đó đã nói gì đó dưới tầng hầm nhà thờ sau bữa tối thứ Tư; tới lễ Tạ ơn, mọi người đàn ông từng cười trên bậc thềm tòa án đều đã nghe con số ấy",
+      "keywords": [
+        "church basement chatter after supper",
+        "chairs scraping on tile floor"
+      ]
+    },
+    {
+      "stt": 161,
+      "start": "00:28:18",
+      "end": "00:28:27",
+      "duration_s": 9,
+      "mood": "reflection",
+      "description": "Merle Yates nghe được ở hợp tác xã, và ông không nói gì cả; tháng Chạp bà ngồi xuống với một cây bút chì",
+      "keywords": []
+    },
+    {
+      "stt": 162,
+      "start": "00:28:27",
+      "end": "00:28:35",
+      "duration_s": 8,
+      "mood": "tense",
+      "description": "Và tính ra sẽ tốn bao nhiêu để nuôi cả đàn qua một mùa đông trên mảnh đất không còn gì để ăn; thứ để gặm đã hết sạch",
+      "keywords": []
+    },
+    {
+      "stt": 163,
+      "start": "00:28:35",
+      "end": "00:28:46",
+      "duration_s": 11,
+      "mood": "tense",
+      "description": "Đó vốn là toàn bộ mục đích của đàn dê, và giờ chính nó lại là rắc rối với chúng; bị giữ ngoài các hàng cây và tránh xa những cây non, cả đàn chỉ còn mười một mẫu đồng cỏ đứng",
+      "keywords": []
+    },
+    {
+      "stt": 164,
+      "start": "00:28:46",
+      "end": "00:28:56",
+      "duration_s": 10,
+      "mood": "sad",
+      "description": "Và một hóa đơn cỏ khô vượt quá thứ việc cho thuê mang về; Burl đã nói với bà bốn mùa xuân trước rằng một con dê không phải cái máy cắt cỏ mà người ta đỗ lại được",
+      "keywords": []
+    },
+    {
+      "stt": 165,
+      "start": "00:28:56",
+      "end": "00:29:06",
+      "duration_s": 10,
+      "mood": "determined",
+      "description": "Bà không bán tống chúng đi vội - bà chưa từng làm việc gì theo cách đó; bà giữ lại hai mươi sáu con, những con cái tốt nhất và hai con đực",
+      "keywords": []
+    },
+    {
+      "stt": 166,
+      "start": "00:29:06",
+      "end": "00:29:17",
+      "duration_s": 11,
+      "mood": "calm",
+      "description": "Trên giấy tờ thì đó là một dòng giống, mà thật ra là vì những đứa con gái của Pepper nằm trong số đó; bà giữ lại việc cho thuê, thứ tới lúc ấy mới thật sự sinh lời, còn lại bà bán từng một hai con cho những người hỏi han trước khi hỏi giá",
+      "keywords": []
+    },
+    {
+      "stt": 167,
+      "start": "00:29:17",
+      "end": "00:29:26",
+      "duration_s": 9,
+      "mood": "calm",
+      "description": "Merle Yates tới vào tuần thứ hai của tháng Chạp và mua mười chín con; ông đứng ở hàng rào một lúc lâu trước khi nói điều gì",
+      "keywords": [
+        "truck parked at a farm gate",
+        "december wind across a yard"
+      ]
+    },
+    {
+      "stt": 168,
+      "start": "00:29:26",
+      "end": "00:29:36",
+      "duration_s": 10,
+      "mood": "reflection",
+      "description": "Đúng theo cách ông từng ngồi ở cổng nhà bà mùa xuân đầu tiên với cửa kính hạ xuống; ông không xin lỗi - đàn ông như thế thì không xin lỗi, và bà cũng chẳng biết đặt lời xin lỗi ấy vào đâu",
+      "keywords": []
+    },
+    {
+      "stt": 169,
+      "start": "00:29:36",
+      "end": "00:29:49",
+      "duration_s": 13,
+      "mood": "hopeful",
+      "description": "Ông bỏ mũ xuống, ngước nhìn các đường paddock, rồi hỏi câu mà một người đàn ông chỉ hỏi sau khi đã quyết trong lòng: nếu tôi muốn làm sườn sau nhà mình thì một người nên bắt đầu từ đâu",
+      "keywords": []
+    },
+    {
+      "stt": 170,
+      "start": "00:29:49",
+      "end": "00:30:00",
+      "duration_s": 11,
+      "mood": "determined",
+      "description": "Thế là bà nói cho ông nghe: mười chín con không đủ cho tám mẫu dây leo và ông nên tính chuyện mượn thêm trước tháng Bảy; lưới điện, bốn mẫu một lần",
+      "keywords": []
+    },
+    {
+      "stt": 171,
+      "start": "00:30:00",
+      "end": "00:30:12",
+      "duration_s": 12,
+      "mood": "determined",
+      "description": "Chuyển chúng trước khi chúng thấy chán; và mùa thứ hai mới là mùa quật ngã ông, bà nói, bởi nó mọc lại trông y hệt một năm mà ông đã phí hoài",
+      "keywords": []
+    },
+    {
+      "stt": 172,
+      "start": "00:30:12",
+      "end": "00:30:20",
+      "duration_s": 8,
+      "mood": "hopeful",
+      "description": "Ông không ghi lại chữ nào; ông chỉ nhờ bà nói lại đoạn về mùa thứ hai một lần nữa",
+      "keywords": []
+    },
+    {
+      "stt": 173,
+      "start": "00:30:20",
+      "end": "00:30:28",
+      "duration_s": 8,
+      "mood": "nostalgic",
+      "description": "Đàn dê rời khỏi rơ moóc của bà đúng theo cách chúng từng bước xuống khỏi rơ moóc của Burl; bà nghĩ về điều đó trên đường lái xe về và không nhắc lại với ai",
+      "keywords": [
+        "goats loaded down a trailer ramp",
+        "trailer gate latched"
+      ]
+    },
+    {
+      "stt": 174,
+      "start": "00:30:28",
+      "end": "00:30:39",
+      "duration_s": 11,
+      "mood": "nostalgic",
+      "description": "Pepper khi đó đã mười một tuổi, xám tới tận vai, chậm chạp trên dốc mà vẫn là con đầu tiên qua bất cứ cánh cổng nào mở ra; nó không bị bán đi",
+      "keywords": [
+        "old goat walking slowly on gravel",
+        "brass bell swinging softly"
+      ]
+    },
+    {
+      "stt": 175,
+      "start": "00:30:39",
+      "end": "00:30:50",
+      "duration_s": 11,
+      "mood": "nostalgic",
+      "description": "Ngày Chủ nhật cuối cùng của năm, Corinne bắt nó lại trong bãi, tháo sợi dây da đã mòn và nhấc chiếc chuông đồng khỏi cổ nó lần đầu tiên kể từ khi Burl trao nó cho bà hồi tháng Ba năm ấy",
+      "keywords": [
+        "leather strap unbuckled",
+        "bell lifted free of a collar"
+      ]
+    },
+    {
+      "stt": 176,
+      "start": "00:30:50",
+      "end": "00:31:01",
+      "duration_s": 11,
+      "mood": "hopeful",
+      "description": "Bà mang nó lên vườn cây; cây to nhất trong chín cây, cái cây Otis đặt tên Big Tuesday hồi cậu chín tuổi, có một cành thấp vươn ra trên bãi cỏ đã xén ở khoảng ngang vai",
+      "keywords": []
+    },
+    {
+      "stt": 177,
+      "start": "00:31:01",
+      "end": "00:31:14",
+      "duration_s": 13,
+      "mood": "hopeful",
+      "description": "Bà treo chiếc chuông ở đó rồi buông tay; chiều hôm đó gió làm nó đung đưa, và sau đó nó tự đung đưa lấy, theo cách bất cứ thứ gì treo ngoài trời cũng sẽ đung đưa",
+      "keywords": [
+        "brass bell hung on a branch",
+        "light wind moving a bell"
+      ]
+    },
+    {
+      "stt": 178,
+      "start": "00:31:14",
+      "end": "00:31:23",
+      "duration_s": 9,
+      "mood": "hopeful",
+      "description": "Otis đã mười hai tuổi; cậu đứng với hai tay đút túi áo khoác và lắng nghe một lúc lâu - giờ mẹ có thể tìm ra giữa vườn ngay trong bóng tối, cậu nói",
+      "keywords": [
+        "boy standing still in an orchard",
+        "bell ringing faintly"
+      ]
+    },
+    {
+      "stt": 179,
+      "start": "00:31:23",
+      "end": "00:31:32",
+      "duration_s": 9,
+      "mood": "reflection",
+      "description": "Bốn mùa xuân trước, hạt đã rao một trăm lẻ bốn mẫu ba lần mà không nhận được lời trả giá nào, bởi mọi người nhìn vào đều thấy một sườn đồi đã thôi làm đất và biến thành thời tiết",
+      "keywords": []
+    },
+    {
+      "stt": 180,
+      "start": "00:31:32",
+      "end": "00:31:45",
+      "duration_s": 13,
+      "mood": "vindication",
+      "description": "Nó chưa bao giờ là đất chết, nó là đất bị phủ - đó là một từ khác hẳn, và phải mất một người đàn bà với cuốn sổ cái, tám mươi ba con dê và bốn mùa sinh trưởng mới nói được sự khác biệt ấy ra thành lời",
+      "keywords": []
+    },
+    {
+      "stt": 181,
+      "start": "00:31:45",
+      "end": "00:31:56",
+      "duration_s": 11,
+      "mood": "reflection",
+      "description": "Chín mươi mốt nghìn bốn trăm đô không phải là phần đắt đỏ; phần đắt đỏ là đứng ở một hàng rào suốt bốn mùa",
+      "keywords": []
+    },
+    {
+      "stt": 182,
+      "start": "00:31:56",
+      "end": "00:32:09",
+      "duration_s": 13,
+      "mood": "determined",
+      "description": "Trong khi những người đàn ông bà phải gặp ở cửa hàng thức ăn mỗi tuần biến bà thành một câu chuyện cười, rồi sáng hôm sau vẫn đi ra chuyển lưới như thường",
+      "keywords": []
+    },
+    {
+      "stt": 183,
+      "start": "00:32:09",
+      "end": "00:32:20",
+      "duration_s": 11,
+      "mood": "calm",
+      "description": "Giờ người ta lái xe lên tận cổng và hỏi bà lấy bao nhiêu cho mảnh đất; bà nói nó không bán, mời họ cà phê, và phần lớn ở lại đủ lâu để đi hết các hàng cây",
+      "keywords": []
+    },
+    {
+      "stt": 184,
+      "start": "00:32:20",
+      "end": "00:32:30",
+      "duration_s": 10,
+      "mood": "hopeful",
+      "description": "Những cây non chưa đáng giá gì cả - ba trăm bốn mươi cây, trồng thành dải xuống một sườn đồi từng chỉ có một màu, và không cây nào cho một vụ thật trước khi Otis đủ tuổi đi bầu; bà đã biết điều đó ngay khi trồng chúng",
+      "keywords": []
+    },
+    {
+      "stt": 185,
+      "start": "00:32:30",
+      "end": "00:32:40",
+      "duration_s": 10,
+      "mood": "nostalgic",
+      "description": "Chiếc chuông vẫn còn trên cành; vào một buổi sáng lặng gió nó không vang tới tận nhà, còn vào một ngày gió thì nó vang ra tới tận đường",
+      "keywords": [
+        "brass bell ringing across a still morning"
+      ]
+    },
+    {
+      "stt": 186,
+      "start": "00:32:40",
+      "end": "00:32:54",
+      "duration_s": 14,
+      "mood": "hopeful",
+      "description": "Hãy gửi câu chuyện này cho một người đang cố giữ lấy thứ mà tất cả mọi người bảo họ buông tay; và dưới phần bình luận, kể cho chúng tôi nghe về nơi bạn chỉ nhìn thấy cỏ dại, và người đã nhìn ra thứ đáng để giữ lại",
+      "keywords": [
+        "evening breeze over a farm",
+        "distant bell fading"
+      ]
+    }
+  ]
+}

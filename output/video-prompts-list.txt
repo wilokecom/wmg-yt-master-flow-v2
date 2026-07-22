@@ -1,0 +1,58 @@
+# VIDEO PROMPT — HOOK — 11 clip, tổng 63s
+# Chạy image-to-video: upload ảnh ở dòng `Frame:` rồi dán dòng `Prompt:`.
+# Assets = ingredient được nhắc trong prompt (quy ước tag giống unix-batch).
+
+(Video Prompt 1/11)
+Assets: COURTHOUSE_STEPS
+Frame: 1.jpg | Clip 1.1 | 5s
+Prompt: Slow pull-back from the empty stone steps, the small group of men standing motionless with hands in their coat pockets while a cold wind moves their collars, thin winter light flattening the courthouse facade, [COURTHOUSE_STEPS] gray stone county courthouse steps in a small-town square, flat overcast light holding every figure at a distance, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean uncluttered frame, Audio: cold wind down an empty street
+
+(Video Prompt 2/11)
+Assets: 
+Frame: 1-2.jpg | Clip 1.2 | 5s
+Prompt: Static locked-off camera on the resting gavel, the folded paper lifting and settling at one corner in the wind while nothing else in the frame moves, cold flat daylight on worn wood, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean uncluttered frame, Audio: wind fluttering a single sheet of paper
+
+(Video Prompt 3/11)
+Assets: CORINNE
+Frame: 2.jpg | Clip 2.1 | 5s
+Prompt: Slow push-in on [CORINNE] in the olive-green canvas barn coat as she lifts the auction card chest-high and holds it there, the men around her staying still, strong directional winter light across her face, camera holds her centered through the move, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean uncluttered frame, Audio: a single voice calling a number outdoors
+
+(Video Prompt 4/11)
+Assets: 
+Frame: 2-2.jpg | Clip 2.2 | 4s
+Prompt: Gentle pan right across the row of turning faces, each man moving his head at a slightly different moment, breath showing faintly in the cold air, overcast light flattening their expressions, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean uncluttered frame, Audio: shuffling boots on stone
+
+(Video Prompt 5/11)
+Assets: 
+Frame: 3.jpg | Clip 3.1 | 5s
+Prompt: Slow tilt down onto the creased insurance check lying on the dark wooden table, the paper edge curling slightly as the light shifts across it, muted desaturated tones holding the frame still, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean uncluttered frame, Audio: a room tone so quiet it presses
+
+(Video Prompt 6/11)
+Assets: 
+Frame: 4.jpg | Clip 4.1 | 7s
+Prompt: Slow lateral tracking move across the smothered hillside, the kudzu surface rippling in one long wave as wind crosses it, buried fence posts and a barn ridge holding their shapes under the leaves, muted overcast light, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean uncluttered frame, Audio: wind moving through a wall of leaves
+
+(Video Prompt 7/11)
+Assets: 
+Frame: 4-2.jpg | Clip 4.2 | 6s
+Prompt: Static camera framing the buried barn ridge while the leaf surface breathes in a slow gust, one vine tip swinging free at the edge of frame, flat gray daylight, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean uncluttered frame, Audio: dry leaves brushing corrugated metal
+
+(Video Prompt 8/11)
+Assets: 
+Frame: 5.jpg | Clip 5.1 | 6s
+Prompt: Slow dolly along the roadside guardrail, the green wave sliding past at a steady pace with the same unbroken shape from end to end, late-winter light muted across the surface, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean uncluttered frame, Audio: tires on asphalt with wind
+
+(Video Prompt 9/11)
+Assets: 
+Frame: 5-2.jpg | Clip 5.2 | 5s
+Prompt: Slow push-in through the hanging vines toward the pale trunk, the leaf curtain parting slightly with the movement of air, filtered green light sliding up the bark, camera holds on the trunk, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean uncluttered frame, Audio: damp leaves and slow dripping
+
+(Video Prompt 10/11)
+Assets: 
+Frame: 6.jpg | Clip 6.1 | 8s
+Prompt: Subtle handheld sway behind the foreground shoulder, the group of men on the steps breaking into laughter one after another, shoulders lifting, caps tilting back, flat overcast light keeping the frame cold, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean uncluttered frame, Audio: men laughing in a small crowd
+
+(Video Prompt 11/11)
+Assets: CORINNE
+Frame: 6-2.jpg | Clip 6.2 | 7s
+Prompt: Locked-off camera holding on [CORINNE] in the olive-green canvas barn coat, her face steady while the laughter moves the coats behind her out of focus, one slow blink, cold flat daylight, photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean uncluttered frame, Audio: laughter falling away under wind

@@ -1,104 +1,32 @@
 {
   "project": {
-    "title": "Single Dad Applied as a Janitor",
-    "description": "Câu chuyện Jonas Reed xin làm lao công, CEO Marin Vale nhận ra anh là người đã cứu sự nghiệp cô 8 năm trước",
-    "total_duration": 3214,
-    "target_audience": "65+",
-    "language": "en"
+    "title": "",
+    "file_name": "DLS_31",
+    "description": "",
+    "total_duration": 0,
+    "target_audience": "65+"
   },
-  "style": "photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons",
-  "flashback_style": "soft warm vignette, slightly faded colors, dreamy atmosphere",
+  "style": "",
+  "flashback_style": "",
   "video_hook": {
     "enabled": true,
     "duration_s": 60,
     "max_clip_s": 8,
-    "video_style": "photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean frame free of watermarks, logos, or AI icons"
+    "video_style": "photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean uncluttered frame"
   },
   "characters": [
-    {
-      "id": "marin",
-      "name": "Marin Vale",
-      "nano_name": "Marin",
-      "description": "34-year-old woman, shoulder-length black hair, gray blazer, confident posture, CEO appearance"
-    },
-    {
-      "id": "jonas",
-      "name": "Jonas Reed",
-      "nano_name": "Jonas",
-      "description": "36-year-old man, short brown hair, blue button-down shirt, sturdy build, calm steady eyes"
-    },
-    {
-      "id": "jonas_young",
-      "name": "Jonas Reed (28 tuổi)",
-      "nano_name": "Young Jonas",
-      "description": "28-year-old man, short brown hair, wet gray hoodie, worn sneakers, soaked from rain"
-    },
-    {
-      "id": "marin_young",
-      "name": "Marin Vale (26 tuổi)",
-      "nano_name": "Young Marin",
-      "description": "26-year-old woman, long black hair in ponytail, oversized sweater, tired but hopeful eyes"
-    },
-    {
-      "id": "lydia",
-      "name": "Lydia",
-      "nano_name": "Lydia",
-      "description": "40-year-old woman, neat bun hairstyle, white blouse, tablet in hand, professional assistant"
-    },
-    {
-      "id": "tessa",
-      "name": "Tessa Reed",
-      "nano_name": "Tessa",
-      "description": "9-year-old girl, brown hair in braids, school backpack, curious bright eyes"
-    },
-    {
-      "id": "griffin",
-      "name": "Griffin",
-      "nano_name": "Griffin",
-      "description": "45-year-old man, receding hairline, wire-rimmed glasses, dress shirt with rolled sleeves, lead engineer"
-    },
-    {
-      "id": "derek",
-      "name": "Derek",
-      "nano_name": "Derek",
-      "description": "stocky man, hard hat, high-vis vest, weathered face, crew lead"
-    }
   ],
   "settings": [
-    {
-      "id": "marin_office",
-      "name": "Văn phòng CEO",
-      "keywords": "modern corporate office, large mahogany desk, floor-to-ceiling windows, city skyline view, warm afternoon light"
-    },
-    {
-      "id": "flashback_hallway",
-      "name": "Hành lang ngập nước (8 năm trước)",
-      "keywords": "dimly lit apartment hallway at night, wet floor, flickering fluorescent light, rain outside, worn walls"
-    },
-    {
-      "id": "riverside_exterior",
-      "name": "Khu Riverside District bên ngoài",
-      "keywords": "four aging residential tower buildings, cracked concrete courtyard, laundry lines between windows, chain-link fence playground, urban waterfront"
-    },
-    {
-      "id": "riverside_basement",
-      "name": "Tầng hầm tòa nhà Riverside",
-      "keywords": "old concrete basement, exposed conduit pipes, low ceiling, junction boxes on walls, utility closet, dim fluorescent lighting"
-    },
-    {
-      "id": "site_office",
-      "name": "Văn phòng công trường",
-      "keywords": "temporary site office, folding tables, blueprints spread out, hard hats on hooks, whiteboard with project timeline"
-    }
   ],
   "mood_map": {
-    "nostalgic": "soft golden light, warm palette, slight gaussian blur",
-    "tense": "cool blue-gray tones, hard shadows, tight framing",
-    "hopeful": "morning light, open composition, warm highlights",
-    "shock": "dramatic side lighting, shallow DOF, extreme close-up",
-    "calm": "even soft lighting, neutral tones, balanced composition",
-    "sad": "muted desaturated palette, overcast lighting, empty space",
-    "determined": "strong directional light, firm posture, clear focus",
-    "dismissive": "cold office light, distant framing, clinical atmosphere"
+    "nostalgic": "soft golden light, warm palette, slight gaussian blur, memory haze",
+    "determined": "strong directional light, firm posture, clear focus, measured deliberation",
+    "hopeful": "morning light, open composition, warm highlights, belief in posture",
+    "sad": "muted desaturated palette, overcast lighting, empty space, weight of waiting",
+    "calm": "even soft lighting, neutral tones, balanced composition, stillness",
+    "vindication": "bright clear light, expansive framing, tangible proof visible in numbers or soil or growth",
+    "reflection": "warm but muted interior light, meditative space, inward gaze, contemplation",
+    "shock": "dramatic side lighting, shallow DOF, stark tonal contrast",
+    "dismissive": "flat overcast light, distant framing, cold detachment"
   }
 }

@@ -73,8 +73,8 @@ Field tùy chọn (có thể là mảng rỗng, không bắt buộc):
 
 | Field | Type | Mô tả |
 |---|---|---|
-| `sfx` | array | Keyword hiệu ứng âm thanh (tiếng Anh) cho editor tìm sfx theo phân cảnh — sinh từ cột SFX của scene-breakdown.md, chỉ gồm âm thanh có thật trong narration/bối cảnh |
-| `typewriter` | object | Cue hiệu ứng đánh máy (editor overlay lúc dựng): `{id, at, type, text, sync}` — merge từ `input/typewriter.json` khi chạy Bước 4; chỉ scene có cue mới mang field này. KHÔNG sửa tay trong metadata — sửa file nguồn rồi chạy lại export. Script validate: `stt` tồn tại (lỗi), `text` không rỗng (lỗi), `at` nằm trong khoảng scene (cảnh báo) |
+| `sfx` | array | Keyword hiệu ứng âm thanh (tiếng Anh) cho editor tìm sfx theo phân cảnh — sinh ở **Bước 3** (`output/sfx.json`), Bước 5 merge vào metadata theo stt (Rule sound.md). Chỉ gồm âm thanh diegetic có thật trong narration/bối cảnh; scene im lặng = `[]`. KHÔNG sửa tay trong metadata — sửa `output/sfx.json` rồi chạy lại export |
+| `typewriter` | object | Cue hiệu ứng đánh máy (editor overlay lúc dựng): `{id, at, type, text, sync, type_s}` — merge từ `input/typewriter.json` khi chạy Bước 5; chỉ scene có cue mới mang field này. `type_s` do script TÍNH từ độ dài text (~0.18s/ký tự, kẹp 1.5–6.0s): âm gõ phím bắt đầu tại `at`, dừng sau `type_s` giây — 1 nguồn thời gian duy nhất để chữ và âm khớp nhau (Rule 8.7). KHÔNG sửa tay trong metadata — sửa file nguồn rồi chạy lại export. Script validate: `stt` tồn tại (lỗi), `text` không rỗng (lỗi), `at` nằm trong khoảng scene (LỖI — chữ hiện đè scene khác), `at + type_s` vượt end scene (cảnh báo) |
 
 ## 5.8 — JSON Validity
 

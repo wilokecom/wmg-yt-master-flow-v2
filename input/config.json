@@ -1,103 +1,122 @@
 {
   "project": {
-    "title": "The Bank Laughed at His Locker — Then He Pulled Out a 1971 Paper",
-    "description": "A story about Harold Garrett, a 71-year-old Tennessee farmer who quietly paid for a safe deposit locker for 53 years, revealing a legacy of his father's wisdom that protected his family's land from bank acquisition.",
-    "total_duration": 1213,
-    "target_audience": "65+",
-    "language": "en"
+    "title": "The Kudzu Place — Corinne Ashbury's Four Growing Seasons",
+    "file_name": "DLS_31",
+    "description": "Góa phụ 38 tuổi Corinne Ashbury mua 104 mẫu đất bị kudzu nuốt trọn 22 năm tại Gilmer County, Georgia bằng gần hết tiền bảo hiểm của chồng. Bằng 83 con dê, một cuốn sổ cái và 4 mùa sinh trưởng, cô dọn sạch dây leo, cứu 9 cây hồ đào cổ ẩn dưới tán, vượt kỳ thẩm định covenant của hạt — mảnh đất từng 3 lần đấu giá không ai trả giá được định giá lại 462.800 đô.",
+    "total_duration": 1974,
+    "target_audience": "65+"
   },
   "style": "photorealistic cinematic film still, 35mm film look, natural skin texture, soft depth of field, clean frame free of watermarks, logos, or AI icons",
-  "flashback_style": "soft warm vignette, slightly faded colors, dreamy atmosphere",
+  "flashback_style": "",
+  "flashback_variants": [],
   "video_hook": {
     "enabled": true,
     "duration_s": 60,
     "max_clip_s": 8,
-    "video_style": "photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean frame free of watermarks, logos, or AI icons"
-  },
-  "era": {
-    "name": "1970s-2020s rural Tennessee",
-    "keywords": "rural Tennessee countryside, weathered clapboard farmhouses, gravel country roads, old pickup trucks, wooden fences, dirt roads, manual rotary telephones, paper ledgers",
-    "wardrobe": "worn workwear, plaid flannel shirts, faded denim jeans, work boots, canvas jackets, suspenders, simple cotton jackets, button-down shirts, suits and ties for bank staff",
-    "forbidden": ["smartphone", "laptop", "flat-screen", "tablet", "earbuds", "LED", "USB", "wifi", "electric car", "modern SUV", "computer monitor", "drone", "solar panel", "contactless payment"]
+    "video_style": "photorealistic cinematic footage, 35mm film look, natural motion, smooth stabilized camera, clean uncluttered frame"
   },
   "characters": [
     {
-      "id": "harold",
-      "name": "Harold Garrett",
-      "nano_name": "Harold",
-      "description": "71-year-old man, weathered Tennessee farmer with deep-set wise brown eyes showing decades of quiet strength and patience, weathered face with gentle smile lines around eyes and mouth, kind but firm jawline with subtle cleft chin, gray thinning hair receding at temples, suspenders over worn cotton jacket, weathered calloused hands"
+      "id": "corinne",
+      "name": "Corinne Ashbury",
+      "nano_name": "Corinne",
+      "description": "38-year-old woman, quiet widowed claims adjuster turned goat farmer, shoulder-length ash-brown hair tied back, composed reserved face with steady gray-green eyes, olive-green canvas barn coat over a cream work shirt, faded blue jeans, small silver wedding band"
     },
     {
-      "id": "carter",
-      "name": "Carter Blake",
-      "nano_name": "Carter",
-      "description": "34-year-old man, bank branch manager with cold calculating pale blue eyes showing arrogant entitlement and condescension, sharp arrogant jawline with subtle sneer, perfectly groomed with gel-styled dark hair, wearing tailored navy suit and crisp tie, manicured hands revealing privileged upbringing"
+      "id": "otis",
+      "name": "Otis Ashbury (8-10 tuổi, mùa 1-2)",
+      "nano_name": "Otis",
+      "description": "8-year-old boy, small watchful frame, neatly cut short brown hair, curious counting gaze, red plaid flannel shirt under a navy blue zip jacket, scuffed brown school shoes"
     },
     {
-      "id": "george",
-      "name": "George Garrett (Flashback)",
-      "nano_name": "Young George",
-      "description": "middle-aged man in his 40s, 1970s Tennessee farmer with thoughtful concerned hazel eyes showing lines of worry around forehead, kind but firm expression, short graying brown hair, wearing simple plaid flannel shirt and worn denim overalls, weathered hands from farm work"
+      "id": "otis_12",
+      "name": "Otis Ashbury (11-12 tuổi, mùa 3-4)",
+      "nano_name": "Older Otis",
+      "description": "12-year-old boy, tall lanky preteen frame, short brown hair, thoughtful steady gaze, olive-drab field jacket over a gray t-shirt, blue jeans, worn leather work gloves"
     },
     {
-      "id": "david",
-      "name": "David Garrett",
-      "nano_name": "David",
-      "description": "44-year-old man, Harold's son, mechanic with quiet observant brown eyes like his father, kind youthful face with subtle resemblance to Harold, short dark hair, wearing mechanic blue work shirt and faded denim jeans, work-worn hands"
+      "id": "burl",
+      "name": "Burl Tannehill",
+      "nano_name": "Burl",
+      "description": "71-year-old man, weathered goat rancher, white close-cropped hair under a faded tan feed cap, deep-lined patient face, tan duck-canvas chore coat over a red and black plaid flannel shirt, worn brown leather boots"
     },
     {
-      "id": "frank",
-      "name": "Frank Solis",
-      "nano_name": "Frank",
-      "description": "60-year-old man, property lawyer with calm intelligent brown eyes behind wire-rimmed glasses showing decades of legal wisdom, reassuring face with white hair at temples, professional demeanor, wearing dark charcoal suit and tie"
+      "id": "merle",
+      "name": "Merle Yates",
+      "nano_name": "Merle",
+      "description": "56-year-old man, broad heavyset row-crop farmer, ruddy open face, gray-streaked short hair under a green seed cap, dark brown canvas work jacket over a light blue chambray shirt"
     },
     {
-      "id": "judge_chan",
-      "name": "Judge Margaret Chan",
-      "nano_name": "Judge Chan",
-      "description": "middle-aged woman, federal judge with sharp intelligent dark eyes scanning everything with impartial authority, stern but fair expression showing decades on the bench, black hair pulled back in professional style, wearing black judicial robe"
+      "id": "nadine",
+      "name": "Dr. Nadine Croft (county extension agent)",
+      "nano_name": "Nadine",
+      "description": "45-year-old woman, practical county extension agent, short dark brown hair, direct level gaze, khaki field shirt with sleeves rolled up, dark olive utility vest, denim jeans"
+    },
+    {
+      "id": "dean",
+      "name": "Dean Whitcomb (county appraiser)",
+      "nano_name": "Dean",
+      "description": "44-year-old man, reserved county tax appraiser, neat side-parted light brown hair, mild official expression, light gray button-down shirt under a navy windbreaker, khaki trousers, metal clipboard in hand"
+    },
+    {
+      "id": "pepper",
+      "name": "Pepper (dê cái đầu đàn)",
+      "nano_name": "Pepper",
+      "description": "elderly female lead goat, gray muzzle on a brown-and-white short-haired doe, calm amber eyes, brass bell on a worn dark leather neck strap"
     }
   ],
   "settings": [
     {
-      "id": "bank_lobby",
-      "name": "First Valley Bank Lobby",
-      "keywords": "modern bank lobby, large teller counter, marble floors, floor-to-ceiling windows, corporate atmosphere"
+      "id": "courthouse_steps",
+      "name": "Bậc thềm tòa án hạt Gilmer",
+      "keywords": "gray stone county courthouse steps, tall columned entrance, small-town square, bare late-winter trees"
     },
     {
-      "id": "vault_room",
-      "name": "Bank Vault Room",
-      "keywords": "small steel vault room, rows of lockers from floor to ceiling, cold metallic atmosphere, steel walls"
+      "id": "kudzu_hillside",
+      "name": "Đồi kudzu 104 mẫu",
+      "keywords": "hillside smothered in dense kudzu vines, one unbroken green wave over fence lines and barn shapes, gravel road below"
     },
     {
-      "id": "harold_farm",
-      "name": "Harold's Farm",
-      "keywords": "rural Tennessee farmland, 160 acres of fields, old wooden fencing, dirt roads"
+      "id": "under_canopy",
+      "name": "Dưới tán dây kudzu",
+      "keywords": "dim green cavern beneath kudzu canopy, hanging vine curtains, shafts of filtered light, leaf-littered ground"
     },
     {
-      "id": "farmhouse",
-      "name": "Harold's Farmhouse",
-      "keywords": "weathered clapboard farmhouse, simple rural home, wooden porch, kitchen window looking over fields"
+      "id": "pecan_grove",
+      "name": "Cụm 9 cây hồ đào cổ",
+      "keywords": "nine towering old pecan trees on an open slope, pale wide trunks in a forty-foot grid, chewed cleared ground"
     },
     {
-      "id": "north_field",
-      "name": "North Field with Oak Tree",
-      "keywords": "open field near sunset, large old oak tree, simple stone grave marker, wooden fence line"
+      "id": "farm_kitchen",
+      "name": "Bếp nhà Corinne",
+      "keywords": "modest farmhouse kitchen, worn wooden table under a single warm light, open ledger and papers, plain curtained window"
     },
     {
-      "id": "courtroom",
-      "name": "Federal Courtroom",
-      "keywords": "wood-paneled courtroom walls, faded flag in corner, judge's bench, wooden pews"
+      "id": "hay_barn",
+      "name": "Nhà kho / chuồng cỏ cũ",
+      "keywords": "weathered gray wooden hay barn, sagging roof line, dim cluttered interior with wooden shelves and tarps"
+    },
+    {
+      "id": "paddock_slope",
+      "name": "Sườn đồi đã dọn - paddock lưới điện",
+      "keywords": "cleared red-dirt slope with electric netting paddocks, browse-line stubble, dry gray vine ropes on fence wire"
+    },
+    {
+      "id": "orchard_rows",
+      "name": "Vườn hồ đào non trồng theo luống",
+      "keywords": "young pecan orchard in contour strips, slender staked saplings with flags, mowed grass lanes down an open hillside"
     }
   ],
   "mood_map": {
-    "nostalgic": "soft golden light, warm palette, slight gaussian blur",
-    "tense": "cool blue-gray tones, hard shadows, tight framing",
-    "hopeful": "morning light, open composition, warm highlights",
-    "shock": "dramatic side lighting, shallow DOF, extreme close-up",
-    "calm": "even soft lighting, neutral tones, balanced composition",
-    "sad": "muted desaturated palette, overcast lighting, empty space",
-    "determined": "strong directional light, firm posture, clear focus",
-    "dismissive": "cold office light, distant framing, clinical atmosphere"
+    "nostalgic": "soft golden light, warm palette, slight gaussian blur, memory haze",
+    "determined": "strong directional light, firm posture, clear focus, measured deliberation",
+    "hopeful": "morning light, open composition, warm highlights, belief in posture",
+    "sad": "muted desaturated palette, overcast lighting, empty space, weight of waiting",
+    "calm": "even soft lighting, neutral tones, balanced composition, stillness",
+    "vindication": "bright clear light, expansive framing, tangible proof visible in numbers or soil or growth",
+    "reflection": "warm but muted interior light, meditative space, inward gaze, contemplation",
+    "shock": "dramatic side lighting, shallow DOF, stark tonal contrast",
+    "dismissive": "flat overcast light, distant framing, cold detachment",
+    "tense": "cool blue-gray tones, hard shadows, tight framing"
   }
 }

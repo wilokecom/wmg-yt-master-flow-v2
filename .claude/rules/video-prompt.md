@@ -59,7 +59,7 @@ Hook window: 0 → [HH:MM:SS] | Clips: [N] | Max clip: 8s
 
 ## 6.5 — Gate
 
-`python3 scripts/export.py --step3` tự kiểm khi `video_hook.enabled = true`: file tồn tại, clip phủ liên tục từ 00:00:00 đến hết scene hook cuối, mỗi clip 2-8s, clip .1 có image prompt khớp nguyên văn prompts.md, video prompt có camera motion, không chứa dialogue trong ngoặc kép.
+`python3 scripts/export.py --step4` tự kiểm khi `video_hook.enabled = true`: file tồn tại, clip phủ liên tục từ 00:00:00 đến hết scene hook cuối, mỗi clip 2-8s, clip .1 có image prompt khớp nguyên văn prompts.md, video prompt có camera motion, không chứa dialogue trong ngoặc kép.
 
 ## 6.6 — Subject Persistence (chống nhân vật biến mất giữa clip)
 
@@ -82,4 +82,5 @@ Lỗi đã gặp: 3 clip cùng scene đều là "nhân vật ngồi trong phòng
 2. **Escalation toàn hook (không chỉ trong 1 scene)**: cả chuỗi ~1 phút phải leo thang như trailer — hình sau mạnh/gần/sốc hơn hình trước. Điển hình 1 cụm: wide thiết lập nghịch cảnh → cắt cận vật thể gây sốc → cắt reaction nhân vật → cắt insert chi tiết đắt. Kết hook nên là 1 beat treo (câu hỏi/tương phản) để giữ người xem.
 3. **Khai thác beat từ narration**: mỗi clip lột tả đúng diễn biến tại giây đó (đọc SRT), chọn hình MẠNH NHẤT — không mô tả chung chung bối cảnh. Narration "14 năm rác chất cao 6 feet" → clip là bức tường rác đen sốc, không phải "người đàn ông ngồi" lần nữa.
 4. **Reaction & insert là vũ khí cảm xúc**: ưu tiên xen clip reaction (gương mặt, bàn tay siết) và clip insert (vật thể đắt giá: tập hồ sơ, tấm ảnh cũ) — dùng ảnh phụ cho mỗi cú cắt.
-5. **Gate + QC**: gate chặn 2 clip cùng scene trùng lặp từ vựng cao (similarity ≥75%); vì giờ mỗi clip là cú cắt sang hình khác, độ trùng tự nhiên thấp. QC định tính kiểm "mỗi clip 1 cảnh khác + escalation cảm xúc" trên toàn hook ~1 phút.
+5. **Đổi cả CAMERA MOTION giữa các cú cắt**: 2 clip liền kề (kể cả khác scene) không chỉ khác hình mà nên khác luôn chuyển động máy — tránh cả chuỗi toàn "push-in". Hai ảnh khác hẳn nhau nhưng cùng push-in vẫn làm hook đơn điệu (KAIZEN 2026-07-11).
+6. **Gate + QC**: gate `--step4` chặn 2 clip cùng scene trùng lặp từ vựng cao (similarity ≥75%, cảnh báo ≥55%) VÀ cảnh báo 2 clip liền kề cùng primary camera motion. QC định tính kiểm "mỗi clip 1 cảnh khác + đổi camera motion + escalation cảm xúc" trên toàn hook ~1 phút.

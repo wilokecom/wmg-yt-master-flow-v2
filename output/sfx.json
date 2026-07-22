@@ -1,0 +1,942 @@
+{
+ "sfx": [
+  {
+   "stt": 1,
+   "keywords": [
+    "cold march wind down empty street",
+    "small crowd shuffling on stone steps"
+   ]
+  },
+  {
+   "stt": 2,
+   "keywords": [
+    "auctioneer calling for bids outdoors",
+    "paper bid card lifted"
+   ]
+  },
+  {
+   "stt": 3,
+   "keywords": []
+  },
+  {
+   "stt": 4,
+   "keywords": [
+    "wind moving through dense kudzu leaves"
+   ]
+  },
+  {
+   "stt": 5,
+   "keywords": []
+  },
+  {
+   "stt": 6,
+   "keywords": [
+    "men laughing in a small crowd",
+    "boots scuffing stone steps"
+   ]
+  },
+  {
+   "stt": 7,
+   "keywords": []
+  },
+  {
+   "stt": 8,
+   "keywords": []
+  },
+  {
+   "stt": 9,
+   "keywords": []
+  },
+  {
+   "stt": 10,
+   "keywords": []
+  },
+  {
+   "stt": 11,
+   "keywords": [
+    "cold wind gusting between buildings",
+    "courthouse door closing"
+   ]
+  },
+  {
+   "stt": 12,
+   "keywords": []
+  },
+  {
+   "stt": 13,
+   "keywords": []
+  },
+  {
+   "stt": 14,
+   "keywords": []
+  },
+  {
+   "stt": 15,
+   "keywords": [
+    "distant ambulance siren approaching"
+   ]
+  },
+  {
+   "stt": 16,
+   "keywords": []
+  },
+  {
+   "stt": 17,
+   "keywords": []
+  },
+  {
+   "stt": 18,
+   "keywords": []
+  },
+  {
+   "stt": 19,
+   "keywords": []
+  },
+  {
+   "stt": 20,
+   "keywords": [
+    "auction gavel strike on wood",
+    "crowd falling silent"
+   ]
+  },
+  {
+   "stt": 21,
+   "keywords": []
+  },
+  {
+   "stt": 22,
+   "keywords": []
+  },
+  {
+   "stt": 23,
+   "keywords": []
+  },
+  {
+   "stt": 24,
+   "keywords": [
+    "goat tearing leaves from vine"
+   ]
+  },
+  {
+   "stt": 25,
+   "keywords": []
+  },
+  {
+   "stt": 26,
+   "keywords": []
+  },
+  {
+   "stt": 27,
+   "keywords": []
+  },
+  {
+   "stt": 28,
+   "keywords": []
+  },
+  {
+   "stt": 29,
+   "keywords": [
+    "rusted padlock chain unlocked",
+    "farm gate hinge groaning open"
+   ]
+  },
+  {
+   "stt": 30,
+   "keywords": [
+    "truck engine switched off",
+    "cab settling in silence"
+   ]
+  },
+  {
+   "stt": 31,
+   "keywords": [
+    "heavy vine curtain pushed aside",
+    "dry leaves crunching underfoot"
+   ]
+  },
+  {
+   "stt": 32,
+   "keywords": []
+  },
+  {
+   "stt": 33,
+   "keywords": []
+  },
+  {
+   "stt": 34,
+   "keywords": [
+    "hand slapping hollow wooden post",
+    "child voice counting outdoors"
+   ]
+  },
+  {
+   "stt": 35,
+   "keywords": []
+  },
+  {
+   "stt": 36,
+   "keywords": []
+  },
+  {
+   "stt": 37,
+   "keywords": []
+  },
+  {
+   "stt": 38,
+   "keywords": [
+    "goat herd milling in a pen",
+    "brass bell shaken in hand"
+   ]
+  },
+  {
+   "stt": 39,
+   "keywords": [
+    "livestock trailer ramp lowered",
+    "hooves clattering down metal ramp"
+   ]
+  },
+  {
+   "stt": 40,
+   "keywords": []
+  },
+  {
+   "stt": 41,
+   "keywords": [
+    "farm gate swinging wide open",
+    "large goat herd rushing downhill"
+   ]
+  },
+  {
+   "stt": 42,
+   "keywords": [
+    "hundreds of leaves being stripped at once",
+    "goat bell moving through brush"
+   ]
+  },
+  {
+   "stt": 43,
+   "keywords": []
+  },
+  {
+   "stt": 44,
+   "keywords": []
+  },
+  {
+   "stt": 45,
+   "keywords": []
+  },
+  {
+   "stt": 46,
+   "keywords": []
+  },
+  {
+   "stt": 47,
+   "keywords": []
+  },
+  {
+   "stt": 48,
+   "keywords": [
+    "spade cutting into packed soil",
+    "root ball pulled from earth"
+   ]
+  },
+  {
+   "stt": 49,
+   "keywords": [
+    "rotary desk phone handset lifted",
+    "quiet farmhouse room tone"
+   ]
+  },
+  {
+   "stt": 50,
+   "keywords": [
+    "loose stones falling into a deep well",
+    "goat bleating in distress"
+   ]
+  },
+  {
+   "stt": 51,
+   "keywords": [
+    "rope creaking under strain",
+    "hand winch ratcheting in the dark"
+   ]
+  },
+  {
+   "stt": 52,
+   "keywords": [
+    "rocks and clay shoveled into a hole"
+   ]
+  },
+  {
+   "stt": 53,
+   "keywords": []
+  },
+  {
+   "stt": 54,
+   "keywords": []
+  },
+  {
+   "stt": 55,
+   "keywords": []
+  },
+  {
+   "stt": 56,
+   "keywords": []
+  },
+  {
+   "stt": 57,
+   "keywords": []
+  },
+  {
+   "stt": 58,
+   "keywords": []
+  },
+  {
+   "stt": 59,
+   "keywords": []
+  },
+  {
+   "stt": 60,
+   "keywords": []
+  },
+  {
+   "stt": 61,
+   "keywords": []
+  },
+  {
+   "stt": 62,
+   "keywords": [
+    "dry husks crushed underfoot",
+    "gusty autumn wind through orchard"
+   ]
+  },
+  {
+   "stt": 63,
+   "keywords": []
+  },
+  {
+   "stt": 64,
+   "keywords": []
+  },
+  {
+   "stt": 65,
+   "keywords": []
+  },
+  {
+   "stt": 66,
+   "keywords": []
+  },
+  {
+   "stt": 67,
+   "keywords": [
+    "welded wire mesh unrolled",
+    "steel stake driven with a mallet"
+   ]
+  },
+  {
+   "stt": 68,
+   "keywords": []
+  },
+  {
+   "stt": 69,
+   "keywords": []
+  },
+  {
+   "stt": 70,
+   "keywords": [
+    "rain drumming on jacket hood",
+    "fence staples hammered into post"
+   ]
+  },
+  {
+   "stt": 71,
+   "keywords": [
+    "child voice calling under trees",
+    "boots running through wet grass"
+   ]
+  },
+  {
+   "stt": 72,
+   "keywords": []
+  },
+  {
+   "stt": 73,
+   "keywords": []
+  },
+  {
+   "stt": 74,
+   "keywords": [
+    "pickup truck arriving on gravel drive",
+    "metal probe rattling in truck bed"
+   ]
+  },
+  {
+   "stt": 75,
+   "keywords": []
+  },
+  {
+   "stt": 76,
+   "keywords": [
+    "soil probe pushed into wet ground",
+    "core of earth tapped out"
+   ]
+  },
+  {
+   "stt": 77,
+   "keywords": []
+  },
+  {
+   "stt": 78,
+   "keywords": []
+  },
+  {
+   "stt": 79,
+   "keywords": []
+  },
+  {
+   "stt": 80,
+   "keywords": [
+    "report page turned over on a hood",
+    "finger tapping on paper"
+   ]
+  },
+  {
+   "stt": 81,
+   "keywords": []
+  },
+  {
+   "stt": 82,
+   "keywords": []
+  },
+  {
+   "stt": 83,
+   "keywords": []
+  },
+  {
+   "stt": 84,
+   "keywords": [
+    "ledger page turning",
+    "pen scratching entries in a notebook"
+   ]
+  },
+  {
+   "stt": 85,
+   "keywords": [
+    "barn interior at night ambience",
+    "sick goat breathing heavily"
+   ]
+  },
+  {
+   "stt": 86,
+   "keywords": []
+  },
+  {
+   "stt": 87,
+   "keywords": [
+    "child counting out loud at dusk",
+    "goats settling for the night"
+   ]
+  },
+  {
+   "stt": 88,
+   "keywords": [
+    "heavy tarp dragged aside",
+    "metal toolbox latch opened"
+   ]
+  },
+  {
+   "stt": 89,
+   "keywords": [
+    "socket wrench set down in tray",
+    "toolbox lid closed"
+   ]
+  },
+  {
+   "stt": 90,
+   "keywords": []
+  },
+  {
+   "stt": 91,
+   "keywords": [
+    "soft bible cover opened on table",
+    "coffee poured into mugs"
+   ]
+  },
+  {
+   "stt": 92,
+   "keywords": []
+  },
+  {
+   "stt": 93,
+   "keywords": []
+  },
+  {
+   "stt": 94,
+   "keywords": [
+    "bleak february wind over stubble"
+   ]
+  },
+  {
+   "stt": 95,
+   "keywords": []
+  },
+  {
+   "stt": 96,
+   "keywords": [
+    "large herd browsing at sunrise",
+    "distant goat bell"
+   ]
+  },
+  {
+   "stt": 97,
+   "keywords": []
+  },
+  {
+   "stt": 98,
+   "keywords": []
+  },
+  {
+   "stt": 99,
+   "keywords": []
+  },
+  {
+   "stt": 100,
+   "keywords": [
+    "boot pressing into soft red dirt"
+   ]
+  },
+  {
+   "stt": 101,
+   "keywords": []
+  },
+  {
+   "stt": 102,
+   "keywords": [
+    "power line humming overhead",
+    "brush crackling on a steep slope"
+   ]
+  },
+  {
+   "stt": 103,
+   "keywords": []
+  },
+  {
+   "stt": 104,
+   "keywords": []
+  },
+  {
+   "stt": 105,
+   "keywords": [
+    "schoolchildren chattering outdoors",
+    "chain link fence rattling"
+   ]
+  },
+  {
+   "stt": 106,
+   "keywords": [
+    "truck pulling onto gravel shoulder",
+    "truck door opening"
+   ]
+  },
+  {
+   "stt": 107,
+   "keywords": []
+  },
+  {
+   "stt": 108,
+   "keywords": []
+  },
+  {
+   "stt": 109,
+   "keywords": [
+    "pencil writing on a paper receipt"
+   ]
+  },
+  {
+   "stt": 110,
+   "keywords": [
+    "heavy fog ambience with dripping",
+    "gate latch swinging loose"
+   ]
+  },
+  {
+   "stt": 111,
+   "keywords": [
+    "voice calling out swallowed by fog",
+    "muffled stillness"
+   ]
+  },
+  {
+   "stt": 112,
+   "keywords": [
+    "single goat bell in the distance",
+    "footsteps through wet grass"
+   ]
+  },
+  {
+   "stt": 113,
+   "keywords": []
+  },
+  {
+   "stt": 114,
+   "keywords": []
+  },
+  {
+   "stt": 115,
+   "keywords": [
+    "ledger page turning under a lamp",
+    "quiet night kitchen tone"
+   ]
+  },
+  {
+   "stt": 116,
+   "keywords": []
+  },
+  {
+   "stt": 117,
+   "keywords": []
+  },
+  {
+   "stt": 118,
+   "keywords": [
+    "auger boring planting holes",
+    "soil shoveled beside a stake"
+   ]
+  },
+  {
+   "stt": 119,
+   "keywords": []
+  },
+  {
+   "stt": 120,
+   "keywords": [
+    "grafting knife slicing green wood",
+    "barn workbench ambience"
+   ]
+  },
+  {
+   "stt": 121,
+   "keywords": []
+  },
+  {
+   "stt": 122,
+   "keywords": []
+  },
+  {
+   "stt": 123,
+   "keywords": []
+  },
+  {
+   "stt": 124,
+   "keywords": [
+    "water tank sloshing in a truck bed",
+    "dry cracked ground underfoot"
+   ]
+  },
+  {
+   "stt": 125,
+   "keywords": [
+    "brittle dead sapling snapped off"
+   ]
+  },
+  {
+   "stt": 126,
+   "keywords": []
+  },
+  {
+   "stt": 127,
+   "keywords": []
+  },
+  {
+   "stt": 128,
+   "keywords": [
+    "power window staying shut",
+    "sedan pulling away on gravel"
+   ]
+  },
+  {
+   "stt": 129,
+   "keywords": []
+  },
+  {
+   "stt": 130,
+   "keywords": []
+  },
+  {
+   "stt": 131,
+   "keywords": [
+    "folded paper unfolded in hands"
+   ]
+  },
+  {
+   "stt": 132,
+   "keywords": []
+  },
+  {
+   "stt": 133,
+   "keywords": []
+  },
+  {
+   "stt": 134,
+   "keywords": []
+  },
+  {
+   "stt": 135,
+   "keywords": []
+  },
+  {
+   "stt": 136,
+   "keywords": []
+  },
+  {
+   "stt": 137,
+   "keywords": [
+    "cattle guard rattling under tires",
+    "truck turning onto a farm drive"
+   ]
+  },
+  {
+   "stt": 138,
+   "keywords": []
+  },
+  {
+   "stt": 139,
+   "keywords": [
+    "measuring wheel clicking along ground",
+    "shutter of a camera"
+   ]
+  },
+  {
+   "stt": 140,
+   "keywords": []
+  },
+  {
+   "stt": 141,
+   "keywords": [
+    "truck door shut",
+    "heavy binder set on a tailgate"
+   ]
+  },
+  {
+   "stt": 142,
+   "keywords": []
+  },
+  {
+   "stt": 143,
+   "keywords": []
+  },
+  {
+   "stt": 144,
+   "keywords": []
+  },
+  {
+   "stt": 145,
+   "keywords": []
+  },
+  {
+   "stt": 146,
+   "keywords": []
+  },
+  {
+   "stt": 147,
+   "keywords": []
+  },
+  {
+   "stt": 148,
+   "keywords": [
+    "envelope torn open",
+    "letter unfolded on a table"
+   ]
+  },
+  {
+   "stt": 149,
+   "keywords": [
+    "kitchen chair pushed back",
+    "screen door swinging shut"
+   ]
+  },
+  {
+   "stt": 150,
+   "keywords": [
+    "mailbox lid opened on a post",
+    "late summer cicadas"
+   ]
+  },
+  {
+   "stt": 151,
+   "keywords": []
+  },
+  {
+   "stt": 152,
+   "keywords": []
+  },
+  {
+   "stt": 153,
+   "keywords": []
+  },
+  {
+   "stt": 154,
+   "keywords": [
+    "fiberglass pole striking branches",
+    "pecans raining onto a tarp"
+   ]
+  },
+  {
+   "stt": 155,
+   "keywords": []
+  },
+  {
+   "stt": 156,
+   "keywords": [
+    "sacks dropped onto a platform scale",
+    "buying station room tone"
+   ]
+  },
+  {
+   "stt": 157,
+   "keywords": []
+  },
+  {
+   "stt": 158,
+   "keywords": []
+  },
+  {
+   "stt": 159,
+   "keywords": []
+  },
+  {
+   "stt": 160,
+   "keywords": [
+    "church basement chatter after supper",
+    "chairs scraping on tile floor"
+   ]
+  },
+  {
+   "stt": 161,
+   "keywords": []
+  },
+  {
+   "stt": 162,
+   "keywords": []
+  },
+  {
+   "stt": 163,
+   "keywords": []
+  },
+  {
+   "stt": 164,
+   "keywords": []
+  },
+  {
+   "stt": 165,
+   "keywords": []
+  },
+  {
+   "stt": 166,
+   "keywords": []
+  },
+  {
+   "stt": 167,
+   "keywords": [
+    "truck parked at a farm gate",
+    "december wind across a yard"
+   ]
+  },
+  {
+   "stt": 168,
+   "keywords": []
+  },
+  {
+   "stt": 169,
+   "keywords": []
+  },
+  {
+   "stt": 170,
+   "keywords": []
+  },
+  {
+   "stt": 171,
+   "keywords": []
+  },
+  {
+   "stt": 172,
+   "keywords": []
+  },
+  {
+   "stt": 173,
+   "keywords": [
+    "goats loaded down a trailer ramp",
+    "trailer gate latched"
+   ]
+  },
+  {
+   "stt": 174,
+   "keywords": [
+    "old goat walking slowly on gravel",
+    "brass bell swinging softly"
+   ]
+  },
+  {
+   "stt": 175,
+   "keywords": [
+    "leather strap unbuckled",
+    "bell lifted free of a collar"
+   ]
+  },
+  {
+   "stt": 176,
+   "keywords": []
+  },
+  {
+   "stt": 177,
+   "keywords": [
+    "brass bell hung on a branch",
+    "light wind moving a bell"
+   ]
+  },
+  {
+   "stt": 178,
+   "keywords": [
+    "boy standing still in an orchard",
+    "bell ringing faintly"
+   ]
+  },
+  {
+   "stt": 179,
+   "keywords": []
+  },
+  {
+   "stt": 180,
+   "keywords": []
+  },
+  {
+   "stt": 181,
+   "keywords": []
+  },
+  {
+   "stt": 182,
+   "keywords": []
+  },
+  {
+   "stt": 183,
+   "keywords": []
+  },
+  {
+   "stt": 184,
+   "keywords": []
+  },
+  {
+   "stt": 185,
+   "keywords": [
+    "brass bell ringing across a still morning"
+   ]
+  },
+  {
+   "stt": 186,
+   "keywords": [
+    "evening breeze over a farm",
+    "distant bell fading"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "index": 1,
+    "from": "1.png",
+    "to": "CORINNE.png"
+  },
+  {
+    "index": 2,
+    "from": "2.png",
+    "to": "OTIS.png"
+  },
+  {
+    "index": 3,
+    "from": "3.png",
+    "to": "OLDER_OTIS.png"
+  },
+  {
+    "index": 4,
+    "from": "4.png",
+    "to": "BURL.png"
+  },
+  {
+    "index": 5,
+    "from": "5.png",
+    "to": "MERLE.png"
+  },
+  {
+    "index": 6,
+    "from": "6.png",
+    "to": "NADINE.png"
+  },
+  {
+    "index": 7,
+    "from": "7.png",
+    "to": "DEAN.png"
+  },
+  {
+    "index": 8,
+    "from": "8.png",
+    "to": "PEPPER.png"
+  },
+  {
+    "index": 9,
+    "from": "9.png",
+    "to": "COURTHOUSE_STEPS.png"
+  },
+  {
+    "index": 10,
+    "from": "10.png",
+    "to": "KUDZU_HILLSIDE.png"
+  },
+  {
+    "index": 11,
+    "from": "11.png",
+    "to": "UNDER_CANOPY.png"
+  },
+  {
+    "index": 12,
+    "from": "12.png",
+    "to": "PECAN_GROVE.png"
+  },
+  {
+    "index": 13,
+    "from": "13.png",
+    "to": "FARM_KITCHEN.png"
+  },
+  {
+    "index": 14,
+    "from": "14.png",
+    "to": "HAY_BARN.png"
+  },
+  {
+    "index": 15,
+    "from": "15.png",
+    "to": "PADDOCK_SLOPE.png"
+  },
+  {
+    "index": 16,
+    "from": "16.png",
+    "to": "ORCHARD_ROWS.png"
+  }
+]
